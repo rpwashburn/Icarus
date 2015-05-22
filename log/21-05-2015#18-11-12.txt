@@ -1,0 +1,21 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           191 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
