@@ -1,0 +1,1431 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           245 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You have received 5 lessons thanks to your Iron Membership.
+You feel your mind enhanced by the megalith tattoo.
+The vitality of the black boar begins to flow through you.
+Your moss tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> Hordes of undead sailors assault the coastlines of Sapience - READNEWS
+   EVENTS 503 for further details!
+-> BATTLERAGE has been released, adding a whole new dimension to combat with
+   denizens - READNEWS ANNOUNCE 4344!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 5927m, 24060e, 16931w  exdb---s00:17:19.46--
+5786h, 5927m, 24060e, 16931w  exdb---s00:17:19.71--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 5927m, 24060e, 16931w  exdb---s00:17:19.74--
+You remove 1 quartz, bringing the total in the Rift to 121.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:19.78--
+You have recovered equilibrium.
+5786h, 5927m, 24060e, 16931w  exckdb---s00:17:20.63--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:20.70--
+You have recovered equilibrium.
+5786h, 5927m, 24060e, 16931w  exckdb---s00:17:21.03--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:21.14--
+There is no next message to read.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:21.22--
+There is currently a House credit sale in progress.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:21.37--
+It is late night, approaching dawn.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/05/26 00:17:21 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:21.54--
+-=[ Need more friends to raid with? Recruit some by voting at TopMudSites! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 5927m, 24060e, 16931w  xckdb---s00:17:21.90--
+ANNOUNCE NEWS #4350                                     (05/25/2015 at 12:56)  
+From   : Mortori
+To     : Everyone
+Subject: More Battlerage Fixes!
+-------------------------------------------------------------------------------
+ - The total of your battlerage displayed when a member of your group generates rage will now contain a decimal place.
+
+ - The notification of rage gained from the attacks of members of your group will now respect your CONFIG COLOUR RAGE_MESSAGES setting.
+
+ - The damage-over-time component of Windlash has been substantially increased.
+
+ - Seafaring Etch should now be able to find the token in your inventory that you're trying to etch.
+
+ - The notifications for the completion of Battlerage cooldowns should now respect your CONFIG RAGEMSG setting.
+
+ - Battlerage Recovery should no longer generate infamy.
+
+ - Pets should no longer have triple maximum health.
+
+ - You should no longer see critical hit messages when you are not in the room with a denizen when your damage-over-time effect does damage.
+
+Penned by My hand on the 16th of Phaestian, in the year 684 AF.
+5786h, 5927m, 24060e, 16949w  xckdb---s00:17:22.36--
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Maleficent Jubilee is approaching! See Mhaldor news 3309 for more information, and remember to make your submissions for the recipe competition. Credit prizes will be rewarded!
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 5927m, 24060e, 16949w  xckdb---s00:17:22.42--
+You have recovered equilibrium.
+5786h, 5927m, 24060e, 16949w  exckdb---s00:17:23.58--
+You have no further news to read.
+5786h, 5927m, 24060e, 16949w  exckdb---s00:17:25.69--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. There are 3 slippery elms in a group here. Wings flaring, a pegasus tosses his regal head impatiently.  The Red Dragon Cooper's imposing form looms. Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 17009w  exckdb---s00:17:38.04--
+Alias "multicmd" will now execute: "apply mass to body/sip frost/outr bisemutum/eat bisemutum/insomnia/outr quicksilver/apply quicksilver/thirdeye/activate magic resistance/activate electric resistance/activate cold resistance/activate fire resistance/deathsight"
+5786h, 6019m, 24060e, 17051w  exckdb---s00:17:43.67--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You take a drink from an elegant diamond vial.
+A chill runs over your icy skin.
+You remove 1 bisemutum, bringing the total in the Rift to 173.
+You eat a bisemutum chip.
+As you swallow the bisemutum, you feel your mind begin to race. New avenues of mental exploration open up to you and you can feel your mind processing information as never before.
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+You remove 1 quicksilver, bringing the total in the Rift to 419.
+You apply a quicksilver droplet to yourself.
+You now possess the gift of the third eye.
+You turn a prismatic ring about your finger. A swirling stream of heliotrope light emanates from its band, surrounding you with a shimmering aura.
+You turn a prismatic ring about your finger. A crackling stream of argentine light emanates from its band, surrounding you with a flickering aura.
+You turn a prismatic ring about your finger. A frigid stream of cerulean light emanates from its band, surrounding you with a frosty aura.
+You turn a prismatic ring about your finger. A coruscating stream of sanguine light emanates from its band, surrounding you with a scintillating aura.
+You shut your eyes and concentrate on Thoth, the God of Death. A moment later, you feel inextricably linked with Death itself.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:43.70--
+You take a drink from a stygian vial.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:43.81--
+You take a drink from a chestnut vial.
+You feel a momentary dizziness as your resistance to damage by poison increases.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:43.87--
+You take a drink from a stygian vial.
+Your body begins to feel lighter and you feel that you are floating slightly.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:43.94--
+You may apply another salve or balm to yourself.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:44.66--
+You take out some salve and quickly rub it on your body.
+A feeling of comfortable warmth spreads over you.
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:44.74--
+(Market): Jinsun says, "Seeking to buy Clay figurine legs."
+5786h, 5900m, 24060e, 17041w  xckdb---s00:17:45.21--
+You have recovered equilibrium.
+5786h, 5900m, 24060e, 17041w  exckdb---s00:17:45.32--
+You prick up your ears.
+5786h, 5900m, 24060e, 16991w  xckdb---s00:17:45.44--
+You may apply another salve or balm to yourself.
+5786h, 5900m, 24060e, 16991w  xckdb---s00:17:45.62--
+You have recovered equilibrium.
+5786h, 5890m, 24060e, 17009w  exckdb---s00:17:47.57--
+You bring a curseward into being to protect you from harm.
+5786h, 5724m, 24060e, 16959w  xckdb---s00:17:47.65--
+Tiny tremours spread through your body as the world seems to slow down.
+5786h, 5844m, 24060e, 16959w  xckdb---s00:17:48.82--
+(Mhaldor): Zii says, "Hail, Mhaldor."
+5786h, 5844m, 24060e, 16965w  xckdb---s00:17:49.97--
+You have recovered equilibrium.
+5786h, 5844m, 24060e, 16983w  exckdb---s00:17:51.28--
+The quicksilver hardens into a supple metallic shell.
+5786h, 5844m, 24060e, 16983w  exckdb---s00:17:52.17--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. There are 3 slippery elms in a group here. Wings flaring, a pegasus tosses his regal head impatiently.  The Red Dragon Cooper's imposing form looms. Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand.
+You see a single exit leading west.
+5786h, 5834m, 24060e, 17001w  exckdb---s00:17:56.45--
+A feeling of generosity spreads throughout you.
+5786h, 5834m, 24060e, 17001w  xckdb---s00:17:56.55--
+You have recovered equilibrium.
+5786h, 5834m, 24060e, 17001w  exckdb---s00:17:56.86--
+You concentrate and slowly your body is covered by protective, serpentine scales.
+5786h, 5944m, 24060e, 17019w  eckdb---s00:17:59.48--
+You toss a sparkling cloud of dust over yourself and as it settles you shimmer into invisibility.
+5786h, 5898m, 24060e, 17011w  ckdb---s00:18:01.23--
+You have recovered balance on all limbs.
+5786h, 5898m, 24060e, 17011w  xckdb---s00:18:02.22--
+Your enhanced senses inform you that Watchman has entered The gates of Mhaldor nearby.
+5786h, 5888m, 24060e, 17029w  xckdb---s00:18:02.97--
+You must regain equilibrium first.
+5786h, 5888m, 24060e, 17029w  xckdb---s00:18:02.99--
+You have recovered equilibrium.
+5786h, 5888m, 24060e, 17029w  exckdb---s00:18:04.20--
+You project a net of light about yourself until your image becomes faded and ghostly.
+5786h, 5855m, 24060e, 17019w  xckdb---s00:18:04.76--
+You have recovered equilibrium.
+5786h, 5845m, 24060e, 17037w  exckdb---s00:18:07.68--
+You picture a cobra in your mind, and slowly begin to weave back and forth agilely.
+5786h, 5965m, 24060e, 17061w  eckdb---s00:18:12.03--
+(Market): Bulvai says, "Selling clay figurine body and various esteem items."
+5786h, 5955m, 24060e, 17061w  eckdb---s00:18:14.13--
+You have recovered balance on all limbs.
+5786h, 5955m, 24060e, 17079w  exckdb---s00:18:14.86--
+You close your eyes, bow your head, and empty your mind of all thought.
+5786h, 5955m, 24060e, 17079w  exckdb---s00:18:14.92--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17178w  exckdb---s00:18:22.96--
+(The Midnight Crew): Daslin says, "2 esteem? Fuck dat."
+5786h, 6019m, 24060e, 17210w  exckdb---s00:18:29.60--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17279w  exckdb---s00:18:30.98--
+(Market): Kayeil says, "Buying a cyclopian seafoam nytrow with credits. Price negotiable!"
+5786h, 5971m, 24060e, 17268w  exckdb---s00:18:33.37--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17374w  exckdb---s00:18:38.99--
+(The Midnight Crew): Daslin says, "I shot a citadel, c'mon now."
+5786h, 5980m, 24060e, 17369w  exckdb---s00:18:40.48--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17474w  exckdb---s00:18:47.01--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17571w  exckdb---s00:18:55.00--
+(The Midnight Crew): Leviticus says, "What game you playing."
+5786h, 5973m, 24060e, 17558w  exckdb---s00:18:56.39--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17669w  exckdb---s00:19:03.02--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17769w  exckdb---s00:19:11.01--
+You snap your head up as you break your meditation.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Lord Marshal Hasar Lichlord                                   6  On  Dragon
+Ainly Sar'vet, Magna Araneae                                  4  On  Monk
+Legate Atalkez al'Dejan                                       3  On  Blademaster
+Dread Duelist Cooper                                          2  On  Dragon
+Terrance Nithilar, Advocate of Strength                       2  On  Serpent
+Jarrod Lucoster                                               2  On  Dragon
+Lord Watchman Dracrotalus, Fiend                              6  On  Runewarden
+Jaybles Xanatov, Pure Disciple                                3  On  Infernal
+Sir Titonus Lichlord                                          3  On  Infernal
+Abbathor                                                      1  On  Apostate
+Krux Lichlord, Fiend of the Inferno                           2  On  Infernal
+Revelator Kitiara Lichlord                                    3  On  Serpent
+Tyrannus Xinna, Dread Legate                                  6  On  Bard
+Taraus Bravi'os                                               4  On  Dragon
+Subjugator Herose Lichlord, Shadow of Suffering               6  On  Dragon
+Zarla, Fiend of the Inferno                                   1  On  Blademaster
+Thrall Wolfen                                                 1  On  Runewarden
+Augustor, Insidium Disciple                                   1  On  Apostate
+Legate Medi                                                   2  On  Apostate
+Duelist Leviticus                                             4  On  Dragon
+Deserve                                                       1  On  Runewarden
+Tael, Apprentice of Manipulation                              1  On  Shaman
+Sarik Xanatov, Pure Disciple                                  2  On  Dragon
+Chaplain Zii Amseli, Dread Legionnaire                        6  On  Magi
+Faiga, of Mhaldor                                             1  On  Monk
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 5964m, 24060e, 17811w  exckdb---s00:19:15.07--
+You close your eyes, bow your head, and empty your mind of all thought.
+5786h, 5964m, 24060e, 17811w  exckdb---s00:19:15.46--
+(Market): Bluef says, "Shop at the Orchid in Delos for all your Dream-related wares! AD 427."
+5786h, 6019m, 24060e, 17854w  exckdb---s00:19:21.52--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 17910w  exckdb---s00:19:23.49--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18003w  exckdb---s00:19:31.47--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18102w  exckdb---s00:19:39.48--
+(Market): Jinsun says, "Sorry, seeking clay figurine arms."
+5786h, 6019m, 24060e, 18102w  exckdb---s00:19:40.45--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18214w  exckdb---s00:19:47.48--
+(Mhaldor): Zii says, "Who is capable of teaching thermology to transcendent?"
+5786h, 6009m, 24060e, 18252w  exckdb---s00:19:54.51--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18260w  exckdb---s00:19:55.50--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18360w  exckdb---s00:20:03.52--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18452w  exckdb---s00:20:11.57--
+Your enhanced senses inform you that Leviticus has entered The gates of Mhaldor nearby.
+5786h, 5969m, 24060e, 18544w  exckdb---s00:20:17.03--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18552w  exckdb---s00:20:19.62--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18652w  exckdb---s00:20:27.62--
+You feel your density return to normal.
+5786h, 5974m, 24060e, 18694w  exckdb---s00:20:29.14--
+You snap your head up as you break your meditation.
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5974m, 24060e, 18694w  exckdb---s00:20:29.30--
+You close your eyes, bow your head, and empty your mind of all thought.
+5786h, 5974m, 24060e, 18694w  exckdb---s00:20:29.36--
+You may apply another salve or balm to yourself.
+5786h, 5964m, 24060e, 18694w  exckdb---s00:20:30.22--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18795w  exckdb---s00:20:37.36--
+Your enhanced senses inform you that Leviticus has entered The gates of Mhaldor nearby.
+5786h, 6019m, 24060e, 18795w  exckdb---s00:20:38.38--
+Your enhanced senses inform you that Leviticus has entered A massive gatehouse nearby.
+5786h, 6019m, 24060e, 18795w  exckdb---s00:20:38.81--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18894w  exckdb---s00:20:45.40--
+(The Midnight Crew): Leviticus says, "Ohh a new Tyrannus."
+5786h, 5973m, 24060e, 18936w  exckdb---s00:20:49.65--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 18987w  exckdb---s00:20:53.41--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19085w  exckdb---s00:21:01.40--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19196w  exckdb---s00:21:09.41--
+Leviticus ponders the situation.
+5786h, 5971m, 24060e, 19185w  exckdb---s00:21:10.89--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19297w  exckdb---s00:21:17.41--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19395w  exckdb---s00:21:25.43--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19488w  exckdb---s00:21:33.42--
+Your enhanced senses inform you that Melodie has entered The gates of Mhaldor nearby.
+5786h, 6019m, 24060e, 19536w  exckdb---s00:21:38.48--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19587w  exckdb---s00:21:41.42--
+(The Midnight Crew): Amranu says, "Yup."
+5786h, 5974m, 24060e, 19574w  exckdb---s00:21:43.34--
+(The Midnight Crew): Amranu says, "Mis."
+5786h, 6019m, 24060e, 19635w  exckdb---s00:21:45.36--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19687w  exckdb---s00:21:49.46--
+(Market): Jinsun says, "Cfs."
+5786h, 5965m, 24060e, 19674w  exckdb---s00:21:51.79--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19785w  exckdb---s00:21:57.46--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19884w  exckdb---s00:22:05.56--
+Your enhanced senses inform you that Proficy has entered The gates of Mhaldor nearby.
+5786h, 5967m, 24060e, 19927w  exckdb---s00:22:10.29--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 19979w  exckdb---s00:22:13.55--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20078w  exckdb---s00:22:21.55--
+Your enhanced senses inform you that Wolfen has entered The gates of Mhaldor nearby.
+5786h, 6019m, 24060e, 20078w  exckdb---s00:22:22.47--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20176w  exckdb---s00:22:29.55--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20275w  exckdb---s00:22:37.56--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20370w  exckdb---s00:22:45.55--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20469w  exckdb---s00:22:53.55--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20569w  exckdb---s00:23:01.57--
+Your mental reserves grow stronger and your willpower increases.
+5786h, 6019m, 24060e, 20667w  exckdb---s00:23:09.59--
+You snap your head up as you break your meditation.
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. There are 3 slippery elms in a group here. Wings flaring, a pegasus tosses his regal head impatiently.  The Green Dragon Leviticus' imposing form looms. The Red Dragon Cooper's imposing form looms. Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand.
+You see a single exit leading west.
+5786h, 5963m, 24060e, 20708w  exckdb---s00:23:14.55--
+(Colloquium Iniquus): Kaerius says, "Greetings."
+5786h, 5915m, 24060e, 20730w  exckdb---s00:23:25.80--
+You feel your density return to normal.
+5786h, 5915m, 24060e, 20730w  exckdb---s00:23:25.90--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5915m, 24060e, 20730w  exckdb---s00:23:26.07--
+You may apply another salve or balm to yourself.
+5786h, 5915m, 24060e, 20730w  exckdb---s00:23:27.07--
+(Market): Daslin says, "Cfs."
+5786h, 5901m, 24060e, 20774w  exckdb---s00:23:47.63--
+Xinna leaves to the west.
+Your enhanced senses inform you that Xinna has entered The gates of Mhaldor nearby.
+5786h, 5912m, 24060e, 20976w  exckdb---s00:25:25.00--
+Legate Kisharo Aristata has battered Zulah to death in The Matsuhama Arena.
+5786h, 5861m, 24060e, 21106w  exckdb---s00:26:21.28--
+(Market): Proficy says, "Selling Sulphur? Willing to trade primes/metals 2:1, or purchase with gold or credits.. looking for abundant supplies."
+5786h, 5823m, 24060e, 21129w  exckdb---s00:26:31.58--
+Your enhanced senses inform you that Faiga has entered The gates of Mhaldor nearby.
+5786h, 5889m, 24060e, 21174w  exckdb---s00:26:56.05--
+You feel your density return to normal.
+5786h, 5830m, 24060e, 21221w  exckdb---s00:27:21.21--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5830m, 24060e, 21227w  exckdb---s00:27:21.34--
+You may apply another salve or balm to yourself.
+5786h, 5820m, 24060e, 21227w  exckdb---s00:27:22.28--
+Your enhanced senses inform you that Faiga has entered The gates of Mhaldor nearby.
+5786h, 5843m, 24060e, 21367w  exckdb---s00:28:29.77--
+Your enhanced senses inform you that Watchman has entered The gates of Mhaldor nearby.
+5786h, 5843m, 24060e, 21385w  exckdb---s00:28:31.41--
+Your enhanced senses inform you that Kisharo has entered The gates of Mhaldor nearby.
+5786h, 5860m, 24060e, 21403w  exckdb---s00:28:40.30--
+Wolfen has been slain by the might of a creamy white goat.
+5786h, 5798m, 24060e, 21499w  exckdb---s00:29:25.74--
+You feel your density return to normal.
+5786h, 5749m, 24060e, 21506w  exckdb---s00:29:28.98--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5749m, 24060e, 21506w  exckdb---s00:29:29.12--
+You may apply another salve or balm to yourself.
+5786h, 5749m, 24060e, 21506w  exckdb---s00:29:30.03--
+(Market): Aaseth says, "Crimson Arsenal - 2S from the Cyrenian News. Best pricing on the finest Cyrenian forged goods!"
+5786h, 5796m, 24060e, 21543w  exckdb---s00:29:44.52--
+(Market): Aeryllin says, "Seeking a windowjamb talisman piece."
+5786h, 5742m, 24060e, 21548w  exckdb---s00:29:50.83--
+(Market): Melodie says, "Selling clay figurine legs talisman piece."
+5786h, 5758m, 24060e, 21817w  exckdb---s00:31:57.95--
+You feel your density return to normal.
+5786h, 5758m, 24060e, 21861w  exckdb---s00:32:18.65--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5758m, 24060e, 21867w  exckdb---s00:32:18.79--
+You may apply another salve or balm to yourself.
+5786h, 5748m, 24060e, 21867w  exckdb---s00:32:19.77--
+(Market): Zulah says, "Seeking combat spars."
+5786h, 5748m, 24060e, 21867w  exckdb---s00:32:21.28--
+(The Midnight Crew): Aegoth says, "Who gives the best hickeys?"
+5786h, 5769m, 24060e, 21877w  exckdb---s00:32:27.01--
+(The Midnight Crew): Aegoth says, "Neck romancers."
+5786h, 5679m, 24060e, 21878w  exckdb---s00:32:33.92--
+(The Midnight Crew): Aegoth says, ":D."
+5786h, 5789m, 24060e, 21896w  exckdb---s00:32:37.41--
+(The Midnight Crew): Aegoth says, ":D."
+5786h, 5749m, 24060e, 21902w  exckdb---s00:32:38.48--
+(The Midnight Crew): Daslin says, "Wrong. Porn stars."
+5786h, 5739m, 24060e, 21908w  exckdb---s00:32:40.18--
+(Thralls): Kaerius says, "Greetings."
+5786h, 5739m, 24060e, 21908w  exckdb---s00:32:40.76--
+(Market): Shirszae says, "Selling clay figurine head talisman piece."
+5786h, 5739m, 24060e, 21908w  exckdb---s00:32:41.45--
+(Market): Kavor says, "Selling Good plot of land by the Southern Vashnars. Send Tells."
+5786h, 5739m, 24060e, 21908w  exckdb---s00:32:41.55--
+(The Midnight Crew): Cooper says, "Ugh."
+5786h, 5693m, 24060e, 21912w  exckdb---s00:32:43.33--
+(Thralls): Zarla says, "Greetings Thrall Kaerius."
+5786h, 5725m, 24060e, 21923w  exckdb---s00:32:59.11--
+(Thralls): Xinna says, "Greetings, Thrall."
+5786h, 5681m, 24060e, 21934w  exckdb---s00:33:02.65--
+Leviticus departs to the west, leaving behind a trail of sickly green vapours in his wake.
+Your enhanced senses inform you that Leviticus has entered The gates of Mhaldor nearby.
+5786h, 5752m, 24060e, 22017w  exckdb---s00:33:39.36--
+Your enhanced senses inform you that Leviticus has entered The gates of Mhaldor nearby.
+5786h, 5711m, 24060e, 22023w  exckdb---s00:33:41.00--
+(Thralls): Kaerius says, "I fall asleep for a bit, and hunting seems to have changed."
+5786h, 5671m, 24060e, 22035w  exckdb---s00:33:43.91--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Ainly Sar'vet, Magna Araneae                                  4  On  Monk
+Lord Marshal Hasar Lichlord                                   6  On  Dragon
+Terrance Nithilar, Advocate of Strength                       2  On  Serpent
+Jarrod Lucoster                                               2  On  Dragon
+Legate Atalkez al'Dejan                                       3  On  Blademaster
+Dread Duelist Cooper                                          2  On  Dragon
+Jaybles Xanatov, Pure Disciple                                3  On  Infernal
+Legate Kisharo Aristata                                       3  On  Monk
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Revelator Kitiara Lichlord                                    3  On  Serpent
+Thrall Kaerius                                                1  On  Monk
+Faiga, Insidium Disciple                                      1  On  Monk
+Duelist Leviticus                                             4  On  Dragon
+Chaplain Zii Amseli                                           6  On  Magi
+Augustor, Insidium Disciple                                   1  On  Apostate
+Thrall Wolfen                                                 1  On  Runewarden
+Zarla, Fiend of the Inferno                                   1  On  Blademaster
+Legate Medi                                                   2  On  Apostate
+Sarik Xanatov, Pure Disciple                                  2  On  Dragon
+Krux Lichlord, Fiend of the Inferno                           2  On  Infernal
+Tyrannus Xinna, Dread Legate                                  6  On  Bard
+Sir Titonus Lichlord                                          3  On  Infernal
+Taraus Bravi'os                                               4  On  Dragon
+Deserve                                                       1  On  Runewarden
+Subjugator Herose Lichlord, Shadow of Suffering               6  On  Dragon
+Lord Watchman Dracrotalus, Fiend                              6  On  Runewarden
+Abbathor                                                      1  On  Apostate
+Tael, Apprentice of Manipulation                              1  On  Shaman
+Scourge Proficy, the Merciful                                 6  On  Alchemist
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 5685m, 24060e, 22052w  exckdb---s00:33:53.30--
+(Market): Eril says, "Buying dragon talisman pieces! Please send tells!"
+5786h, 5675m, 24060e, 22052w  exckdb---s00:33:54.64--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Hasar                 06         On      On         No      Dragon
+Jarrod                07         On      On         No      Dragon
+Atalkez               07         On      On         No      Blademaster
+Cooper                04         On      On         No      Dragon
+Kaerius               01        Off      On         No      Monk
+Leviticus             04         On      On         No      Dragon
+Krux                  05         On      On         No      Infernal
+Titonus               07         On      On         No      Infernal
+Taraus                10         On      On         No      Dragon
+Proficy               08         On      On         No      Alchemist
+Zarla                 05         On      On         No      Blademaster
+Herose                14         On      On         No      Dragon
+Zii                   07         On      On         No      Magi
+Wolfen                01        Off      On         No      Runewarden
+Watchman              05         On      On         No      Runewarden
+Medi                  09         On      On         No      Apostate
+Kisharo               07         On      On         No      Monk
+Xinna                 10         On      On         No      Bard
+Dartega               04         On      On         No      Serpent
+5786h, 5675m, 24060e, 22070w  exckdb---s00:33:55.90--
+Aaseth, Abbathor, Adaele, Aelyn, Aeryllin, Ahmet, Ainly, Alaer, Allene, Alyric, Amaranda, Aminah, Amranu, Amunet, Aoghinius, Ariettie, Aroshog, Atalkez, Augustor, Aurielle, Bronislav, Bulvai, Byakko, Calimus, Choryn, Ciaphas, Cinandra, Claira, Cooper, Dario, Dedalus, Deserve, Edena, Elawien, Ellowyne, Enialis, Eril, Ethros, Everley, Faiga, Fehrin, Galos, Garis, Gawi, Ginovianna, Hasar, Helewys, Hera, Inuchiyo, Iofielle, Jaybles, Jcarte, Jei, Jhui, Jinsun, Juliet, Juskra, Kaerius, Kaie, Kaiu, Kandra, Kavor, Kei, Kellonius, Kerria, Kerwin, Kiah, Kisharo, Kitiara, Kohilo, Krux, Lace, Laera, Legatius, Leki, Lilian, Lis, Medi, Mekare, Melissia, Melodie, Minxie, Mirandar, Miriew, Mizik, Monev, Mosr, Nalitia, Nevarius, Nyghura, Nymarie, Paxton, Philitian, Plite, Prysala, Raem, Raynor, Ridlyn, Rien, Sabetha, Samaira, Saramy, Sarik, Scrim, Seifur, Sellina, Seraya, Shandora, Shirszae, Shunsui, Sidasu, Soles, Sturm, Sunny, Svara, Sybilla, Taraus, Terrana, Terrance, Tesha, Theodosius, Torben, Traelor, Trefen, Trilliana, Tysori, Valkyn, Vanceroth, Vix, Watchman, Wolfen, Woulfen, Wymer, Xax, Xinna, Zarla, and Zii.
+Plus another 39 whose presence you cannot fully sense (180 total).
+5786h, 5629m, 24060e, 22056w  exckdb---s00:33:58.70--
+You take a drink from a stygian vial.
+Your mind feels stronger and more alert.
+5786h, 6019m, 24060e, 22056w  exckdb---s00:33:59.21--
+You may drink another health or mana elixir or tonic.
+5786h, 5973m, 24060e, 22084w  exckdb---s00:34:03.79--
+(Market): Teldrim says, "Buying black dragon pieces."
+5786h, 5876m, 24060e, 22154w  exckdb---s00:34:40.50--
+You feel your density return to normal.
+5786h, 5858m, 24060e, 22162w  exckdb---s00:34:50.47--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5858m, 24060e, 22162w  exckdb---s00:34:50.63--
+You may apply another salve or balm to yourself.
+5786h, 5858m, 24060e, 22162w  exckdb---s00:34:51.55--
+Hakaido dies, his defences no match for the relentless might of Zulah in The Matsuhama Arena.
+5786h, 5844m, 24060e, 22221w  exckdb---s00:35:12.31--
+Your enhanced senses inform you that Krux has entered The gates of Mhaldor nearby.
+5786h, 5912m, 24060e, 22276w  exckdb---s00:35:37.01--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. There are 3 slippery elms in a group here. Wings flaring, a pegasus tosses his regal head impatiently.  The Red Dragon Cooper's imposing form looms.
+You see a single exit leading west.
+5786h, 5800m, 24060e, 22428w  exckdb---s00:36:54.03--
+Zulah's life has been frozen and shattered by Ithmian Squire Hakaido Devenith in The Matsuhama Arena.
+5786h, 5819m, 24060e, 22522w  exckdb---s00:37:34.19--
+A ghostly apparition glides into view from the west.
+Your enhanced senses inform you that Alcinae has entered A massive gatehouse nearby.
+5786h, 5769m, 24060e, 22516w  exckdb---s00:37:36.65--
+A ghostly apparition vanishes from sight to the west.
+Your enhanced senses inform you that Alcinae has entered The gates of Mhaldor nearby.
+5786h, 5889m, 24060e, 22534w  exckdb---s00:37:38.41--
+Wolfen has been slain by the might of a creamy white goat.
+5786h, 5809m, 24060e, 22561w  exckdb---s00:37:54.38--
+You feel your density return to normal.
+5786h, 5811m, 24060e, 22661w  exckdb---s00:38:43.25--
+Your enhanced senses inform you that Xinna has entered The gates of Mhaldor nearby.
+5786h, 5811m, 24060e, 22661w  exckdb---s00:38:43.38--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+5786h, 5811m, 24060e, 22661w  exckdb---s00:38:43.43--
+You may apply another salve or balm to yourself.
+5786h, 5811m, 24060e, 22661w  exckdb---s00:38:44.40--
+Your enhanced senses inform you that Krux has entered The gates of Mhaldor nearby.
+5786h, 5845m, 24060e, 22688w  exckdb---s00:39:41.16--
+Your enhanced senses inform you that Alcinae has entered The gates of Mhaldor nearby.
+5786h, 5727m, 24060e, 22683w  exckdb---s00:40:08.81--
+5786h, 5752m, 24060e, 22682w  exckdb---s00:40:15.88--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 5752m, 24060e, 22682w  exckdb---s00:40:15.94--
+You inhale deeply and begin holding your breath.
+5786h, 5752m, 24060e, 22682w  exckdb---s00:40:15.94--
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           233 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You feel your mind enhanced by the megalith tattoo.
+The vitality of the black boar begins to flow through you.
+Your moss tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> Hordes of undead sailors assault the coastlines of Sapience - READNEWS
+   EVENTS 503 for further details!
+-> BATTLERAGE has been released, adding a whole new dimension to combat with
+   denizens - READNEWS ANNOUNCE 4344!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 5755m, 24060e, 22695w  exdb---s03:21:45.89--
+5786h, 5755m, 24060e, 22695w  exdb---s03:21:46.09--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 5755m, 24060e, 22695w  exdb---s03:21:46.10--
+You remove 1 quartz, bringing the total in the Rift to 120.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:46.15--
+You have recovered equilibrium.
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:47.02--
+There is no next message to read.
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:47.03--
+You rub your hands together greedily.
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:47.08--
+You have recovered equilibrium.
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:47.38--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:47.45--
+You have no further news to read.
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:47.72--
+There is currently a House credit sale in progress.
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:47.83--
+-=[ Help us grow by voting for us at TopMudSites! http://www.achaea.com/vote ]=-
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:48.09--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Titonus               07         On      On         No      Infernal
+Taraus                10         On      On         No      Serpent
+Jarrod                07         On      On         No      Serpent
+Ruth                  15         On      On         No      Dragon
+Blaster               01        Off      On         No      Blademaster
+Watchman              05         On      On         No      Runewarden
+Wolfen                01        Off      On         No      Runewarden
+Medi                  09         On      On         No      Apostate
+Atalkez               07         On      On         No      Blademaster
+Krux                  05         On      On         No      Infernal
+Drodak                03         On      On         No      Infernal
+Dartega               04         On      On         No      Serpent
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:48.70--
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Maleficent Jubilee is approaching! See Mhaldor news 3309 for more information, and remember to make your submissions for the recipe competition. Credit prizes will be rewarded!
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 5755m, 24060e, 22695w  xckdb---s03:21:48.81--
+You have recovered equilibrium.
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:49.86--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Sir Titonus Lichlord                                          3  On  Infernal
+Taraus Bravi'os                                               4  On  Serpent
+Jarrod Lucoster                                               2  On  Serpent
+Navarch Ruth I'llur, Dreadlord Iniquitous                     6  On  Dragon
+Revelator Kitiara Lichlord                                    3  On  Serpent
+Thrall Blaster                                                1  On  Blademaster
+Lord Watchman Dracrotalus, Fiend                              6  On  Runewarden
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Thrall Wolfen                                                 1  On  Runewarden
+Alcinae Nithilar, Herald of Iniquity                          3  On  Serpent
+Tasuu Nithilar, Initiate of the West                          2  On  Runewarden
+Nikke                                                         1  On  Monk
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Legate Atalkez al'Dejan                                       3  On  Blademaster
+Legate Medi                                                   2  On  Apostate
+Arinbjorn                                                     1  On  Bard
+Krux Lichlord, Fiend of the Inferno                           2  On  Infernal
+Jurixe S. Nithilar                                            6  On  Serpent
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:50.03--
+It is early morning in Achaea.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/05/26 03:21:51 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:51.98--
+Dread Duelist Dartega (male Dwarf Crafter)
+You are level 91 (5th Order of the Hyperphysical) and 75.2% of the way to the next level.
+Health:       5786 / 5786     Mana:         5755 / 6019
+Endurance:   24060 /24060     Willpower:   22695 /22695
+Strength: 15  Dexterity: 15  Constitution: 16  Intelligence: 15
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:52.73--
++-Dread Duelist Dartega-------------------------------------------------------+
+| Level  : 91 (75.2%)  "5th Order of the Hyperphysical"                       |
+| Age    : 224         Birthdate: 12th Daedalan, 460AF    Class: Serpent      |
+| Gender : Male        Race     : Dwarf Crafter                  Full member  |
+|                                                                             |
+| XP Rank: 395         Explorer Rank: 691     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 5786/5786   Willpower: 22695/22695 Strength : 15 Intelligence: 15 |
+| Mana    : 5755/6019   Endurance: 24060/24060 Dexterity: 15 Constitution: 16 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : reasonably full                    Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Zambuk.                                                      |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 0       Room: 0        Unbound: 0         |
+|   Packs  : 1140616       Bound  : 226                    Bound  : 0         |
+|   Banks  : 0             Lessons: 261                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Mhaldor           : Rank 2 - Troni                                        |
+|   Soldier           : Yes                                                   |
+| House                                                                       |
+|   The Dread Legates                                                         |
+|   (Rank 4 - a Duelist of the Seven)                                         |
+| Clans                                                                       |
+|   The Umbra                            Colloquium Iniquus                   |
+|   Whiners Anonymous                    Ar'kena Keep                         |
+|   The Midnight Crew *                  The Rant Garden                      |
+|   League of Legends                    The Bathhouse Strikes Back           |
+|   Mudlet Clan                          The Interdimensional Rift            |
+|                                                                             |
+| Enemied to: Ashtan, Aurora, Blacklotus, Cij, Cyrene, Deucalion, Eleusis,    |
+|             Hashan, Heartwood, Merchants, Neraeos, Phaestus,                |
+|             Spiritwalkers, Targossas, The Forests, Twilight, and Vastar     |
++-----------------------------------------------------------------------------+
+5786h, 5755m, 24060e, 22695w  exckdb---s03:21:53.49--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Wings flaring, a pegasus tosses his regal head impatiently. Looking ready for anything, a hulking war elephant stands here.
+You see a single exit leading west.
+5786h, 5875m, 24060e, 22695w  exckdb---s03:21:55.18--
+totem297554         a runic totem
+sigil59073          a monolith sigil
+burro42284          a small burro
+wraith176532        an infernal wraith
+wraith33628         an infernal wraith
+wraith124482        an infernal wraith
+pegasus63249        an alabaster pegasus
+elephant329892      a war elephant
+Number of objects: 8
+5786h, 5875m, 24060e, 22695w  exckdb---s03:21:55.63--
+You see the following people here:
+Dartega
+5786h, 5875m, 24060e, 22695w  exckdb---s03:21:55.65--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Wings flaring, a pegasus tosses his regal head impatiently. Looking ready for anything, a hulking war elephant stands here.
+You see a single exit leading west.
+5786h, 5875m, 24060e, 22695w  exckdb---s03:22:04.65--
+(Mhaldor): Arinbjorn says, "Do I have permission to speak here?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:16.87--
+(Mhaldor): Atalkez says, "No, you do not."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:30.89--
+(Mhaldor): Arinbjorn says, "Yes, sir."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:36.63--
+(Colloquium Iniquus): Atalkez says, "You make speak here, Slave."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:48.69--
+(Colloquium Iniquus): Arinbjorn says, "Yes sir."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:55.42--
+(Colloquium Iniquus): Atalkez says, "Please read over CLHELP WELCOME."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:28:56.45--
+(Colloquium Iniquus): Arinbjorn says, "I will, sir."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:29:08.17--
+(Market): Qwindor says, "Buying ivory spyglass lens. Send tells please."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:29:37.47--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:30:20.98--
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           234 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You feel your mind enhanced by the megalith tattoo.
+The vitality of the black boar begins to flow through you.
+Your moss tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> Hordes of undead sailors assault the coastlines of Sapience - READNEWS
+   EVENTS 503 for further details!
+-> BATTLERAGE has been released, adding a whole new dimension to combat with
+   denizens - READNEWS ANNOUNCE 4344!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 6019m, 24060e, 22695w  exdb---s03:33:29.35--
+5786h, 6019m, 24060e, 22695w  exdb---s03:33:29.61--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 6019m, 24060e, 22695w  exdb---s03:33:29.62--
+You remove 1 quartz, bringing the total in the Rift to 119.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:29.70--
+You are blind and can see nothing but darkness.
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:30.39--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:30.42--
+You rub your hands together greedily.
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:30.52--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:30.87--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:31.01--
+-=[ Tired of bashing the Underworld alone? Vote for Achaea at TopMudSites and help bring in new players! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:31.11--
+There is currently a House credit sale in progress.
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:31.25--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Taraus                10         On      On         No      Serpent
+Ruth                  15         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Krux                  05         On      On         No      Infernal
+Titonus               07         On      On         No      Infernal
+Nercyllis             03         On      On         No      Serpent
+Atalkez               07         On      On         No      Blademaster
+Zarla                 05         On      On         No      Blademaster
+Blaster               01        Off      On         No      Blademaster
+Wolfen                01        Off      On         No      Runewarden
+Watchman              05         On      On         No      Runewarden
+Drodak                03         On      On         No      Infernal
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:31.59--
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Maleficent Jubilee is approaching! See Mhaldor news 3309 for more information, and remember to make your submissions for the recipe competition. Credit prizes will be rewarded!
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:32.27--
+The following members of the clan of The Midnight Crew are in the realms:
+Taraus Bravi'os
+Mizik Corten, Keeper of the Crumbling Throne
+Lilian Xanatov-Nomathi, Guardian of Nature
+Lady Skye B. Anchors, Tempest of Neraeos
+Assistant Daitya Aristata
+Miss Kiah S. Corso, of the Fiery Rose
+Admiral Sanaki Ashaela, Winter's Remnant
+Legate Atalkez al'Dejan
+Crown Spiritualist Amranu, the Sanguine Invoker
+Aspirant Jadys Lucoster
+Bronislav Zviera, Shield Navarch (off channel)
+Lord Watchman Dracrotalus, Fiend
+5786h, 6019m, 24060e, 22695w  xckdb---s03:33:33.12--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:33.65--
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/05/26 03:33:34 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:34.48--
+(The Midnight Crew): You say, "Anyone know anything about buying motherboards."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:42.74--
+(The Midnight Crew): Arditi says, "Look up the skirt, make sure it's not a fatherboard first."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:33:57.15--
+(The Midnight Crew): Zulah says, "It better match your cpu."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:34:07.18--
+(The Midnight Crew): You say, "Arditi with the jokes."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:34:19.04--
+(The Midnight Crew): You say, "I think this is the one that crapped out in my computer."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:34:27.65--
+(The Midnight Crew): You say, "Http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=8045913."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:34:29.25--
+(The Midnight Crew): Sanaki says, "Depends on what you're asking. What is it you want to know?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:34:41.86--
+(The Midnight Crew): You say, "If there's somewhere cheaper that has that one, or if someone is knowledgeable enough to offer a similar one."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:35:09.19--
+(The Midnight Crew): You say, "Cant seem to find the same one on amazon or newegg."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:35:20.58--
+(The Midnight Crew): Sanaki says, "While I could, that's not a "here, gimme a sec" sort of thing. Just comes down to research, and unless someone's been doing it with that particular one in the mix lately, you're probably sol."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:36:07.70--
+(The Midnight Crew): Mycen says, "Nite nites."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:36:37.79--
+(Market): Ginovianna says, "Crown Chymist in Hashan. Your butler slipped something in your tea, be prepared. E, SE, E and S from Crossroads."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:37:20.62--
+(The Midnight Crew): You say, "Yeah."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:38:09.58--
+(The Midnight Crew): You say, "Https://ada-young.appspot.com/pastebin/c790b633 is the pc specs."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:38:14.52--
+(The Midnight Crew): You say, "I suck at this pc shopping thing."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:38:23.64--
+(Market): Ginovianna says, "Put the undead where they belong, six feet under! Buy a plot, build your dream cemetery. Ithmian Gardens of Hashan."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:39:47.69--
+(Market): Kayeil says, "Buying a cyclopian seafoam nytrow. Paying lots of credits!"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:40:31.80--
+The body of Carbine Sar'vet, Initiate of the West appears in a flash and his soul descends to fill it, causing the previously expressionless face to fill with emotion.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:27.14--
+Carbine takes some salve from a vial and rubs it on his body.
+Carbine takes a drink from a stygian vial.
+Carbine eats a quartz grain.
+Carbine clenches his fists and grits his teeth.
+Carbine applies a quicksilver droplet to himself.
+Carbine touches a cloak tattoo.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:27.63--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:28.09--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:28.32--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:28.77--
+Carbine touches a mindseye tattoo.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:28.99--
+Carbine easily vaults onto the back of an alabaster pegasus.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:34.11--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:35.20--
+(The Midnight Crew): Sanaki says, "The hell is a nytrow anyway?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:35.23--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:35.44--
+A supple metallic shell of quicksilver has formed around Carbine.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:36.14--
+Singing a powerful tune of safety and protection, Carbine weaves musical defences around himself.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:39.14--
+Carbine's knuckles grow momentarily white as he strengthens his grip.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:47.58--
+Singing a powerful tune of safety and protection, Carbine weaves musical defences around himself.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:47.58--
+A shimmering curseward appears around Carbine.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:49.24--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:49.34--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:49.57--
+(The Midnight Crew): Proficy says, "Ask the oracle."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:41:52.45--
+(The Midnight Crew): Seragorn says, "One of the esteem prizes you can buy for 500 pts in this event."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:03.63--
+(The Midnight Crew): Sanaki says, "I know that part."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:08.68--
+(The Midnight Crew): Sanaki says, "I meant what it actually is."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:12.76--
+(The Midnight Crew): Seragorn says, "A mount."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:17.03--
+(The Midnight Crew): Sanaki says, "Other than something not worth it."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:17.91--
+(The Midnight Crew): Proficy says, "Ask google."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:17.98--
+(The Midnight Crew): Proficy says, "I sold my first one for 435 creds."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:27.14--
+(The Midnight Crew): Proficy says, "Was surprised."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:31.48--
+(The Midnight Crew): Sanaki says, "That's just ridiculous."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:34.71--
+(The Midnight Crew): Proficy says, "All i said was make me an offer."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:42.58--
+(The Midnight Crew): Sanaki says, "Nice offer."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:46.97--
+(The Midnight Crew): Proficy says, "And they threw that number out."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:47.41--
+(The Midnight Crew): Proficy says, "Yeah.."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:42:51.17--
+(The Midnight Crew): Sanaki says, "Makes me wish I nabbed one just to hoard for a month or so."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:21.09--
+Medi arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:36.99--
+Medi closes his eyes and bows his head.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:38.67--
+Medi snaps his head up suddenly.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:42.62--
+Medi exhales loudly.
+Medi's eyes close and his lips move silently as a Baalzadeen appears.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:43.41--
+Medi closes his eyes and bows his head.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:43:46.32--
+(The Midnight Crew): Proficy says, "Ok those figureheads."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:17.48--
+Carbine puts his fingers in his mouth and lets out a high-pitched whistle.
+An alabaster pegasus looks up curiously.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:23.89--
+(The Midnight Crew): Proficy says, "That were 100 creds each.. what do they do."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:24.17--
+(The Midnight Crew): Proficy says, "I mean 100 points each."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:28.94--
+Carbine steps down off of an alabaster pegasus.
+An alabaster pegasus begins to follow Carbine obediently.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:30.33--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:35.75--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:36.20--
+(The Midnight Crew): Penwize says, "They're just fancy figureheads."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:37.68--
+(The Midnight Crew): Sanaki says, "I assume just a special design."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:38.14--
+(The Midnight Crew): Taraus says, "Doubt they 'do' anything beyond usual fancy figurehead."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:40.58--
+Lightning-quick, Carbine jabs an alabaster pegasus with a Soulpiercer.
+The songblessing upon the rapier sings out with a piercing high note.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:47.64--
+(The Midnight Crew): Proficy says, "Mine are gone."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:51.06--
+(The Midnight Crew): Proficy says, "Got 2 put them in my pack."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:44:55.95--
+(The Midnight Crew): Proficy says, "And they are now gone."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:00.98--
+(The Midnight Crew): Penwize says, "Should issue yourself about it then."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:07.06--
+(The Midnight Crew): Taraus says, "Any idea where you qq'd?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:19.57--
+(The Midnight Crew): Zulah says, "You drop them on death of course."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:23.68--
+(Market): Qwindor says, "Now looking for the lens of the quisalis looking glass. Send tells please."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:44.98--
+Carbine leaves to the west.
+An alabaster pegasus soars out to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:45:55.55--
+Medi snaps his head up suddenly.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:46:04.68--
+(The Midnight Crew): Sanaki says, "Far as I've heard, nothing in this event has been "special", rather just purely aesthetic crap or what in other games would be termed "reskins"."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:46:06.20--
+Medi closes his eyes and bows his head.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:46:21.47--
+(Market): Ginovianna says, "Buying lights, send tells with offers."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:46:53.69--
+(Colloquium Iniquus): Arinbjorn says, "I have finished reading the scrolls mentioned in CLHELP WELCOME. What shall I do next?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:46:53.74--
+Medi snaps his head up suddenly.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:47:11.37--
+(Thralls): Zarla says, "I suggest you reaAd HHELP THRALLlS and begsnn on thhe tasks t *hic* here."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:47:39.95--
+Medi begins making an entry in a mhun-skin journal, disappearing from sight.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:47:40.56--
+(The Midnight Crew): Sanaki says, "Much of why I didn't bother spending days bashing undead."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:47:53.01--
+(The Midnight Crew): Sanaki says, "Though realistically, I should have, to resell."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:48:07.51--
+(Thralls): Atalkez says, "Zarla, do not speak on any channels while inebriated. Thank you."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:48:08.55--
+Carbine arrives from the west.
+An alabaster pegasus soars in from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:49:25.60--
+Carbine begins making an entry in a personal journal, disappearing from sight.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:49:45.70--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:50:21.05--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Looking ready for anything, a hulking war elephant stands here. A Baalzadeen demon towers over you, filling you with dread. Wings flaring, a pegasus tosses his regal head impatiently.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:50:30.11--
+(Thralls): Atalkez says, "Thrall Blaster has passed his Thrall requirements with me. Well done, Thrall."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:55:32.25--
+A small burro twitches his tail.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:56:24.22--
+(Market): Qwindor says, "Still looking for the Quisalis looking glass lens. Send tells please."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:56:43.99--
+(Thralls): Nercyllis says, "Congratulations, Thrall."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:56:52.86--
+(Thralls): Watchman says, "Congratulations."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:56:59.88--
+(Market): Morthif says, "Selling Black boar and miniature snowy owl pets, send tells with offers."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:57:16.38--
+(Thralls): Blaster says, "Why can I not access hhelp aspirant yet?"
+5786h, 6019m, 24060e, 22695w  exckdb---s03:57:41.33--
+(Thralls): Nercyllis says, "Because you've not been given the title yet."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:14.46--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Looking ready for anything, a hulking war elephant stands here. A Baalzadeen demon towers over you, filling you with dread. Wings flaring, a pegasus tosses his regal head impatiently.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand and a Soulpiercer in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:53.10--
+totem297554         a runic totem
+sigil59073          a monolith sigil
+burro42284          a small burro
+wraith176532        an infernal wraith
+wraith33628         an infernal wraith
+wraith124482        an infernal wraith
+elephant329892      a war elephant
+baalzadeen187832    a Baalzadeen
+pegasus63249        an alabaster pegasus
+Number of objects: 9
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:53.42--
+You see the following people here:
+Carbine, Dartega
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:53.43--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:54.67--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. Wings flaring, a pegasus tosses his regal head impatiently. A stubborn mule wanders about here, nosing at the ground.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:58:54.68--
+Your queues are already empty.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:58:55.14--
+A guardhouse (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. Eyes flickering briefly from out of a bone hilt, this daegger appears to be alive and hovers close to its master's side. There are 3 large domesticated ants here. There are 5 infernal wraiths here. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose.  Melodie Ancyrion, Abaddon's Whisper is here. She wields a bronze shield inlaid with sea glass in her right hand.
+You see a single exit leading east.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:58:55.16--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:58:56.07--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. Wings flaring, a pegasus tosses his regal head impatiently. A stubborn mule wanders about here, nosing at the ground.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:58:56.10--
+Your queues are already empty.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:58:56.43--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here.
+You see exits leading up and down.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:58:56.48--
+Your queues are already empty.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:58:56.69--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here. A crystalline golem stands here. A worn scroll made of crimson leather lies forgotten upon the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. Moving in malevolent silence, a column of tiny daemonites swirls with unholy slowness. An elegant bloodstone bench is here. A black bone chest is here. Thrall Blaster is here. Revelator Kitiara Lichlord is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5786h, 6019m, 24054e, 22695w  exckdb---s03:58:56.70--
+Your queues are already empty.
+5786h, 6019m, 24054e, 22695w  exckdb---s03:58:57.27--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 2 monolith sigils in 2 groups here. There are 5 infernal wraiths here. An obsidian eye sigil is here. Picking nervously at its riding saddle, a large ant stands here quietly.   You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24052e, 22695w  exckdb---s03:58:57.28--
+Your queues are already empty.
+5786h, 6019m, 24052e, 22695w  exckdb---s03:58:58.42--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here. A crystalline golem stands here. A worn scroll made of crimson leather lies forgotten upon the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. Moving in malevolent silence, a column of tiny daemonites swirls with unholy slowness. An elegant bloodstone bench is here. A black bone chest is here. Thrall Blaster is here. Revelator Kitiara Lichlord is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5786h, 6019m, 24050e, 22695w  exckdb---s03:58:58.43--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  exckdb---s03:58:58.64--
+Drake Gloom (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here. There are 5 infernal wraiths here. A many-headed hydra towers over the area, his carmine scales glimmering like gems.   You see a sign indicating there are WARES for sale here.
+You see exits leading east (open door) and down (closed door).
+5786h, 6019m, 24048e, 22695w  exckdb---s03:58:58.65--
+Your queues are already empty.
+5786h, 6019m, 24048e, 22695w  exckdb---s03:58:59.73--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here. A crystalline golem stands here. A worn scroll made of crimson leather lies forgotten upon the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. Moving in malevolent silence, a column of tiny daemonites swirls with unholy slowness. An elegant bloodstone bench is here. A black bone chest is here. Thrall Blaster is here. Revelator Kitiara Lichlord is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5786h, 6019m, 24046e, 22695w  exckdb---s03:58:59.74--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:00.09--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here.
+You see exits leading up and down.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:59:00.10--
+Your queues are already empty.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:59:00.53--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. Wings flaring, a pegasus tosses his regal head impatiently. A stubborn mule wanders about here, nosing at the ground.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:59:00.54--
+Your queues are already empty.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:59:01.07--
+A guardhouse (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. Eyes flickering briefly from out of a bone hilt, this daegger appears to be alive and hovers close to its master's side. There are 3 large domesticated ants here. There are 5 infernal wraiths here. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose.  Melodie Ancyrion, Abaddon's Whisper is here. She wields a bronze shield inlaid with sea glass in her right hand.
+You see a single exit leading east.
+5786h, 6019m, 24054e, 22695w  exckdb---s03:59:01.13--
+"Wow!" you exclaim to Melodie.
+5786h, 6019m, 24054e, 22695w  exckdb---s03:59:03.98--
+"Wow!" you exclaim to Melodie.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:04.27--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:05.16--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. Wings flaring, a pegasus tosses his regal head impatiently. A stubborn mule wanders about here, nosing at the ground.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:59:05.17--
+Your queues are already empty.
+5786h, 6019m, 24058e, 22695w  exckdb---s03:59:05.44--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Looking ready for anything, a hulking war elephant stands here. A Baalzadeen demon towers over you, filling you with dread. Wings flaring, a pegasus tosses his regal head impatiently.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand and a Soulpiercer in his right.
+You see a single exit leading west.
+5786h, 6019m, 24056e, 22695w  exckdb---s03:59:05.45--
+(Mhaldor): Kitiara says, "In Suffering."
+5786h, 6019m, 24056e, 22695w  exckdb---s03:59:07.00--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Looking ready for anything, a hulking war elephant stands here. A Baalzadeen demon towers over you, filling you with dread. Wings flaring, a pegasus tosses his regal head impatiently.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand and a Soulpiercer in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:08.23--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. Looking ready for anything, a hulking war elephant stands here. A Baalzadeen demon towers over you, filling you with dread. Wings flaring, a pegasus tosses his regal head impatiently.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand and a Soulpiercer in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:11.69--
+(Mhaldor): Alcinae says, "In Suffering, Revelator."
+5786h, 6019m, 24060e, 22695w  exckdb---s03:59:23.08--
+(The Midnight Crew): Achilles says, "Im so excited, people finally buying imbued scrolls."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:00:42.87--
+(The Midnight Crew): Skye sceptically says, "I buy imbued scrolls all the time."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:00:54.23--
+(Market): Qwindor says, "Buying quisalis armband pieces. Send tells."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:00:59.60--
+(The Midnight Crew): Atalkez says, "Man I go through a full set every other day it feels like."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:05.93--
+(The Midnight Crew): Achilles says, "Most people dont even know of their existence."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:08.49--
+(The Midnight Crew): Atalkez says, "Ice wall and resists."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:15.41--
+(The Midnight Crew): Skye says, "I prefer scrolls to pre-enchanted shit."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:24.03--
+(The Midnight Crew): Atalkez says, "Me too."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:31.78--
+(The Midnight Crew): Atalkez says, "Alot easier."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:33.32--
+(The Midnight Crew): Sanaki says, "I prefer arties to scrolls."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:42.11--
+(The Midnight Crew): Aegoth says, "Plebs. Get prismatic rings."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:45.32--
+(The Midnight Crew): Sanaki says, "^."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:49.80--
+(The Midnight Crew): Sanaki says, "Sadly, no ring yet."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:54.51--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:56.47--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:01:56.71--
+(The Midnight Crew): Sanaki says, "So scrolls are cool too."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:00.70--
+(The Midnight Crew): Achilles says, "Dont see the point of prismatic rings now."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:21.72--
+(The Midnight Crew): Achilles says, "I just have 2 sets of resist rings."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:28.50--
+Carbine leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:41.37--
+(The Midnight Crew): Atalkez says, "Convenience."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:42.52--
+(The Midnight Crew): Achilles says, "Double firelash, double firewall gauntlets and the other rings."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:51.90--
+(The Midnight Crew): Achilles says, "Erm firewall and icewall."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:02:59.73--
+(The Midnight Crew): Achilles says, "Only need one firelash."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:03:10.22--
+Melodie tells you in Mhaldorian, "What!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:03:12.79--
+(The Midnight Crew): Achilles says, "Barely use it besides to melt ice."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:03:16.07--
+You tell Melodie in Mhaldorian, "What."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:03:16.39--
+(The Midnight Crew): Sanaki says, "Prismatic's good for me mostly because I go months at a time without playing and don't want to have to buy rings now that I can't craft them."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:03:29.79--
+(The Midnight Crew): Sanaki says, "Really, I prefer not to have to rely on anyone else for anything."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:04:02.78--
+(The Midnight Crew): Atalkez says, "Just enchant arties."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:04:11.25--
+(The Midnight Crew): Atalkez says, "You got sip ring etc?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:04:14.63--
+(The Midnight Crew): Sanaki says, "Only artie ring I have is a L1 mana regen."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:04:43.29--
+(The Midnight Crew): Atalkez says, "Ah."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:04:52.02--
+(The Midnight Crew): Sanaki says, "The point is that they still wear off though. Prismatic doesn't."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:03.54--
+(The Midnight Crew): Atalkez says, "Well yes the artie provides convenience, ofc."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:17.72--
+(The Midnight Crew): Atalkez says, "But the ring won't decay."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:23.55--
+(The Midnight Crew): Sanaki says, "Mind you, I keep firelash on my harvesting gloves."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:23.73--
+(The Midnight Crew): Amranu says, "Prismatpc is pretty expensive."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:25.54--
+(The Midnight Crew): Sanaki says, "600cr, could be worse."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:37.81--
+(The Midnight Crew): Sanaki says, "It's at the high end for what it does, but it's still in the range where it's worthwhile."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:05:51.51--
+(The Midnight Crew): Sanaki says, "Then again, most arties are in the high end for what they do."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:06:45.90--
+(The Midnight Crew): Arcturus says, "Arties cost lots of RL monez."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:14.69--
+It is now the 7th of Chronos, 684 years after the fall of the Seleucarian Empire.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:21.45--
+(The Midnight Crew): Karai says, "Or lots of your life."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:34.68--
+(The Midnight Crew): Achilles says, "I'm just happy I have aldar and SoA before prices went up."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:36.85--
+(Market): Ginovianna says, "Still buying lights. Please, my moth if afraid of the dark."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:46.78--
+(The Midnight Crew): Achilles says, "Most players have no lives, so really those bashing arties cost nothing."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:56.59--
+(The Midnight Crew): Sanaki says, "Forgot they bumped aldar. Good thing I don't care much."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:07:57.56--
+(The Midnight Crew): Arcturus says, "I just resumed playing World of Tanks tonight."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:03.42--
+(The Midnight Crew): Arcturus says, "Good game."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:05.71--
+(Market): Hellen says, "The Crown Chymist, selling alchemical cures at great prices! E, SE, E, S from the Crossroads in Hashan!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:06.26--
+(The Midnight Crew): Carmell says, "Dude i bought my aldar less then a week before prices went up."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:06.28--
+(Market): Liliana says, "Cyrenian Sundries! Bulk Sigils: Eyes, Orbs, Fists, Flames, Keys, Monos, and NOW Stars! NE, W from the Cyrene Subs!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:20.75--
+(The Midnight Crew): Achilles says, "I had to borrow 100cr to get my SoA."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:21.80--
+(The Midnight Crew): Arditi says, "My torc...sob."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:21.83--
+(The Midnight Crew): Sanaki says, "I got my SoA ages ago. Nice that it's finally usable in lesser."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:24.98--
+(The Midnight Crew): Achilles says, "Also switched to SnB."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:31.21--
+(The Midnight Crew): Achilles says, "And yea, didnt get an SoA for awhile because old knight couldnt really use it."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:53.42--
+(The Midnight Crew): Sanaki says, "I'm L2 long + SoA for snb, it's pretty nice."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:08:53.80--
+(The Midnight Crew): Atalkez says, "Had SoA before, traded it."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:09:02.54--
+(The Midnight Crew): Achilles says, "Though I believe single jab with SoA was better bashing."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:09:02.86--
+(The Midnight Crew): Atalkez says, "Regrets."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:09:03.96--
+(The Midnight Crew): Carmell says, "Soa, buckawns and fork I bought probably 9 rl years ago."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:09:15.98--
+Carbine arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:10:04.45--
+(The Midnight Crew): Sanaki says, "I'm somewhat surprised I still haven't picked up a ring of the magus. Was on my wishlist a decade ago and somehow something else always comes up."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:10:27.59--
+(The Midnight Crew): Achilles says, "I actually bought the urn of beeswax last week when drunk."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:10:48.14--
+(The Midnight Crew): Sanaki says, "Lol."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:10:52.91--
+(The Midnight Crew): Achilles says, "I guess Im staying runie forever."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:10:56.42--
+(The Midnight Crew): Carmell says, "Oh were you drunk?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:00.91--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:04.15--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:06.02--
+(The Midnight Crew): Achilles says, "Buzzed mostly."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:08.22--
+(The Midnight Crew): Carmell says, "Since I remember you doing it."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:09.21--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:21.36--
+(The Midnight Crew): Sanaki says, "Now, if you picked up a wax stick at the same time, then you'd be locked."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:49.34--
+(The Midnight Crew): Carmell says, "Seems like we were fightin before you did it."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:52.46--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:57.74--
+There is no exit in that direction.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:11:57.74--
+(The Midnight Crew): Achilles says, "I thought this urn was the wax stick."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:06.98--
+(The Midnight Crew): Sanaki says, "...ouch."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:15.29--
+(The Midnight Crew): Daslin says, "Smooooth."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:15.94--
+(The Midnight Crew): Carmell says, "Heh."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:20.27--
+(The Midnight Crew): Sanaki says, "Idea Allow artifact exchanges without the fee for a couple days, because drunk people."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:52.02--
+(The Midnight Crew): Achilles says, "Heh."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:12:52.73--
+(The Midnight Crew): Achilles says, "I guess the wax stick is next."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:09.99--
+(The Midnight Crew): Aegoth says, "Never trade arties."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:30.44--
+(The Midnight Crew): Aegoth says, "Ever."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:32.63--
+(The Midnight Crew): Sanaki says, "Right, well you continue debating the efficacy of your magic stick, I'm gonna go to work at 9pm."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:43.03--
+(The Midnight Crew): Aegoth says, "It's like real estate. Th best time to sell a house is never."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:44.50--
+Medi inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:45.24--
+Medi exhales loudly.
+Medi's eyes close and his lips move silently as a Baalzadeen rushes in.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:45.87--
+Medi inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:48.02--
+Medi leaves to the west.
+Exploding into flames, the Baalzadeen disappears from view.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:51.80--
+Carbine leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:54.88--
+(Market): Qwindor says, "Buying the Quisalis armband bottom. Send tells please."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:13:55.95--
+Carbine arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:14:24.68--
+(The Midnight Crew): Sanaki says, "No, the best time to sell a house is the week before the water damage finally shows through the paint."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:15:12.39--
+A small burro shakes his head.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:15:24.28--
+A shrill cry of utter anguish howls from the black basilica and tears through the city, a raw expression of pure Suffering.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:15:42.92--
+Consort Sabatu, the dwaemon guard yells, "The spirit may be made stronger by enduring hardships, both self-imposed and externally-imposed. Suffer gloriously, Maestra!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:15:45.91--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:17:06.87--
+Carbine takes a drink from a black-walnut vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:17:07.12--
+Carbine eats a plumbum flake.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:18:15.01--
+Carbine closes his eyes, curls up into a ball and falls asleep.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:18:16.20--
+Carbine murmurs softly, deep within Sleep's embrace.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:18:16.45--
+Carbine murmurs softly, deep within Sleep's embrace.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:18:26.38--
+(Market): Ginovianna says, "Cfs, lowest. Still looking for lights. My moth is still whimpering about the dark."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:19:11.71--
+(The Midnight Crew): Aegoth says, "Lol atalkez, I love your quote."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:19:55.78--
+(The Midnight Crew): Atalkez says, "Which."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:01.04--
+(The Midnight Crew): Atalkez says, "Oh."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:02.35--
+(The Midnight Crew): Atalkez says, "Blaster?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:03.80--
+(The Midnight Crew): Aegoth says, "Yea."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:05.69--
+(The Midnight Crew): Atalkez says, "Lol."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:07.82--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:21.39--
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:27.77--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:27.82--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You inhale deeply and begin holding your breath.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:27.84--
+A feeling of generosity spreads throughout you.
+You cease holding your breath and exhale loudly.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:20:27.95--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:28.32--
+You inhale deeply and begin holding your breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:28.46--
+You may apply another salve or balm to yourself.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:28.73--
+(The Midnight Crew): Aegoth says, "So badass."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:30.39--
+(The Midnight Crew): Aegoth says, "*swoon*."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:20:35.65--

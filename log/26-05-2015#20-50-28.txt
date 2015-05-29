@@ -1,0 +1,99 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           256 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+You feel your mind enhanced by the megalith tattoo.
+The vitality of the black boar begins to flow through you.
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+5786h, 6019m, 24060e, 22695w  exdb---s01:50:37.26--
+5786h, 6019m, 24060e, 22695w  exdb---s01:50:37.61--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 6019m, 24060e, 22695w  exdb---s01:50:37.73--
+You remove 1 quartz, bringing the total in the Rift to 118.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:37.77--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:38.53--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:38.59--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:38.95--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:39.01--
+-=[ Tired of bashing the Underworld alone? Vote for Achaea at TopMudSites and help bring in new players! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:39.08--
+There is currently a House credit sale in progress.
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:39.18--
+Message #1765       Sent by Vadimuses
+5/26/8:45 Go ahead and update your system (vupdate force) and you'll be set!
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:39.23--
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Maleficent Jubilee is approaching! See Mhaldor news 3309 for more information, and remember to make your submissions for the recipe competition. Credit prizes will be rewarded!
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 6019m, 24060e, 22695w  xckdb---s01:50:40.40--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:42.55--
+Message #1766       Sent by Achaea
+5/26/23:10 A suicide mouse has escaped your clutches!
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:42.85--
+The shadows have lengthened. It is late afternoon in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2015/05/27 01:50:43 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:43.44--
+Message #1767       Sent by Achaea
+5/26/23:40 A suicide mouse has escaped your clutches!
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:43.97--
+Message #1768       Sent by Achaea
+5/27/0:04 A suicide mouse has escaped your clutches!
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:44.43--
+Message #1769       Sent by Achaea
+5/27/0:07 A suicide mouse has escaped your clutches!
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:44.71--
+Message #1770       Sent by Achaea
+5/27/0:07 A suicide mouse has escaped your clutches!
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:44.82--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:45.02--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:45.20--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:45.44--
+(The Midnight Crew): Sanaki says, "What's the lowest cost anyway?"
+5786h, 6019m, 24060e, 22695w  exckdb---s01:50:55.61--

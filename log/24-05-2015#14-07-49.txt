@@ -1,0 +1,534 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           253 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+*** You have new messages ***
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+The vitality of the black boar begins to flow through you.
+*------------------( Announcements from the Administration )------------------*
+-> Hordes of undead sailors assault the coastlines of Sapience - READNEWS
+   EVENTS 503 for further details!
+-> BATTLERAGE has been released, adding a whole new dimension to combat with
+   denizens - READNEWS ANNOUNCE 4344!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 6019m, 24060e, 22695w  exdb---s19:07:57.52--
+5786h, 6019m, 24060e, 22695w  exdb---s19:07:57.84--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 6019m, 24060e, 22695w  exdb---s19:07:57.95--
+You remove 1 quartz, bringing the total in the Rift to 124.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:57.99--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:07:58.71--
+Message #1754       Sent by Achaea
+5/24/8:24 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:07:58.76--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:58.80--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:07:59.17--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:59.24--
+There is currently a House credit sale in progress.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:59.47--
+It is late night, approaching dawn.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/05/24 19:07:59 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:59.69--
+-=[ Need more friends to raid with? Recruit some by voting at TopMudSites! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:59.71--
+Message #1755       Sent by Achaea
+5/24/8:33 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:07:59.95--
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Maleficent Jubilee is approaching! See Mhaldor news 3309 for more information, and remember to make your submissions for the recipe competition. Credit prizes will be rewarded!
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 6019m, 24060e, 22695w  xckdb---s19:08:00.46--
+Message #1756       Sent by Achaea
+5/24/8:45 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:08:00.50--
+Message #1757       Sent by Achaea
+5/24/8:45 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:08:00.96--
+Message #1758       Sent by Achaea
+5/24/8:45 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:08:01.32--
+Message #1759       Sent by Achaea
+5/24/8:45 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:08:01.52--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:01.69--
+Message #1760       Sent by Achaea
+5/24/8:51 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:01.70--
+Message #1761       Sent by Achaea
+5/24/8:51 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:01.85--
+Message #1762       Sent by Achaea
+5/24/8:51 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:02.01--
+Message #1763       Sent by Achaea
+5/24/8:51 A dust bomb has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:02.19--
+Message #1764       Sent by Achaea
+5/24/17:12 Your bug report (detail: flay <target> curare doesn't seem to be applying the venom when removing sileris. Works with flaying shield and rebounding though) - has been removed because it is a duplicate of a previous bug report.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:02.32--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:02.47--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:02.66--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:13.27--
+(Mudlet Clan): Slink says, "It's not that kind of table. Try charstats[2] or some other number. I think they're always in the same order, so it ought to be reliable."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:14.59--
+PUBLIC NEWS #19694                                      (05/24/2015 at 13:05)  
+From   : Merchant Rispok Thorngage, Indefatigable Lupine
+To     : Everyone
+Subject: Shadow and Flame Shop lease in Hashan
+-------------------------------------------------------------------------------
+Hello,
+
+  There is a shop in Hashan that is up for lease. It is called Shadow and Flame, and it located just east of the Seneschal's Complex in Hashan. I will be accepting LETTERS from applicants for the next couple of months.
+
+  The options for the lease are as follows. These numbers do not account for the taxes associated with the shop.
+
+ Lease                Term            Payment
+(Yearly)             (Leasing)    (Due at Signing)
+
+20,000 gold...........10 yrs.........0 credits
+17,000 gold...........20 yrs.........50 credits
+15,000 gold...........50 yrs.........100 credits
+
+  If you would like to purchase the lease send me a LETTER with your goals and qualifications. If you have any questions about this offer feel free to send me a message or tell.
+
+  The contract award will be decided in a few months, after everybody has had time to submit their applications.
+
+Thanks,
+  --Rispok
+
+Penned by my hand on the 18th of Lupar, in the year 684 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:14.94--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:19.36--
+Aepas arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:37.32--
+(Mudlet Clan): Seifur says, "You're not understanding how that table is formed. You need to use the index. ex: gmcp.Char.Vitals.charstats[2] for rage."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:44.28--
+(Mudlet Clan): Gamden says, "Ahh ok."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:08:56.29--
+(Mudlet Clan): Gamden says, "So stance will be lua display(gmcp.Char.Vitals.charstats[4])."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:09:41.50--
+(Mudlet Clan): Otra says, "I do not get this .charstats[2]."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:10:13.12--
+The shimmer of divine protection fades from around Aepas.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:10:22.12--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Jarrod                07         On      On         No      Serpent
+Nercyllis             03         On      On         No      Serpent
+Elazar                15         On      On         No      Infernal
+Buri                  03         On      On         No      Serpent
+Atalkez               07         On      On         No      Blademaster
+Saibel                06         On      On         No      Serpent
+Nikun                 01        Off      On         No      Blademaster
+Panawen               01        Off      On         No      Runewarden
+Locki                 04         On      On         No      Apostate
+Vum                   06         On      On         No      Dragon
+Proficy               08         On      On         No      Dragon
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:32.57--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:33.24--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Jarrod Lucoster                                               2  On  Serpent
+Aepas Xa'sai, Herald of Iniquity                              4  On  Runewarden
+Emissary Nercyllis, Thrall of Elazar                          1  On  Serpent
+Ataraxia, Initiate of the West                                1  On  Serpent
+Adjutant Elazar Lichlord, Dread Knight                        6  On  Infernal
+Dread Emissary Buri, Thrall of Herose                         1  On  Serpent
+Maxim, Pure Disciple                                          1  On  Serpent
+Legate Atalkez al'Dejan                                       3  On  Blademaster
+Revelator Kitiara Lichlord                                    2  On  Serpent
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Tensei Orzaansyn, Archfiend of the Cathedral                  6  On  Blademaster
+Thrall Panawen                                                1  On  Runewarden
+Tael, Apprentice of Manipulation                              1  On  Shaman
+Locki, Duelist of the Seven                                   2  On  Apostate
+Jadair                                                        1  On  Infernal
+Thrall Nikun                                                  1  On  Blademaster
+Squire Vum Daesheryn, Crusher of Wills                        4  On  Dragon
+Sir Arador Aristata, Herald of the Insidium                   5  On  Infernal
+Ysela, Herald of Iniquity                                     2  On  Magi
+Scourge Proficy, the Merciful                                 6  On  Dragon
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:33.96--
+Proficy is currently the Avenging Arrow Champion.
+Santar is currently the Silent Executioner.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:35.44--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A Baalzadeen demon towers over you, filling you with dread. There are 3 slippery elms in a group here. Vigilant, an umbral tiger crouches on his haunches. Here stands a restless mountain eagle, arrogantly surveying his surroundings. Looking ready for anything, a hulking war elephant stands here.  Aepas Xa'sai, Herald of Iniquity is here. He wields an imposing, corroded bastard sword in both hands.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:36.28--
+totem297554         a runic totem
+sigil59073          a monolith sigil
+burro42284          a small burro
+wraith176532        an infernal wraith
+wraith33628         an infernal wraith
+wraith124482        an infernal wraith
+baalzadeen482908    a Baalzadeen
+elm418050           a group of 3 slippery elms
+tiger123908         a branded umbral tiger
+eagle401712         an audacious mountain eagle
+elephant329892      a war elephant
+Number of objects: 11
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:36.64--
+You see the following people here:
+Aepas, Dartega
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:36.76--
+--------------------------------------------------------------------------------
+You are holding:
+Wielded:
+   Left hand:  shield200640        a Shield of Absorption
+   Right hand: lash94975           Elentari's Scourge
+Curing aides:
+   pipe124801          an ornately carved ivory pipe
+   pipe512008          an ornately carved ivory pipe
+   pipe512260          an ornately carved ivory pipe
+Weapons:
+   bow163141           a Lupine bow
+   dirk56792           Thoth's fang
+Containers:
+   horn186945          a horn of plenty
+Misc:
+   whistle17177        a platinum whistle
+   hourglass105412     a wintry hourglass
+   gem422222           a gem of cloaking
+   badge470262         a badge of returning
+   grimoire183521      a Grimoire of Hasty Adaptation
+   bowl74986           a scrying bowl
+
+You are wearing:
+   robes55677          Robes of the Magi
+   sash243205          a Sash of Caymus
+   boots476487         Boots of Dexterity
+   gauntlets165554     a pair of Logosian Gauntlets
+   hat225061           a debonair white top hat
+   ring25597           a ring of the Magus
+   diadem45672         an Aldar Diadem
+   ring60057           a Logosian ring
+   ring71821           a ring of flying
+   bracelets72671      a pair of Logosian Bracelets
+   belt94025           a Belt of Aegis
+   band163638          a golden band of Draconic vigour
+   ring228875          a prismatic ring
+   veil434196          a Veil of the Sphinx
+   ring448099          a ring of Noxtra
+   ring448458          a silver ring of meditation
+   ring410233          a ring of endurance
+[Type MORE if you wish to continue reading. (67% shown)]
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:43.05--
+(Mudlet Clan): Otra says, "I got it lua table referencing cool."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:11:56.53--
+(Legates): Buri says, "Is there any kinds of restrictions on summoning snakes? I can't seem to summon one."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:12:56.51--
+(Legates): Saibel says, "Try to summon an adder. I've no idea why."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:07.01--
+(Legates): Buri says, "Aha. Thanks."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:21.72--
+(Mudlet Clan): Gamden says, "Ypu."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:23.29--
+(Mudlet Clan): Gamden says, "Yup."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:25.72--
+(Legates): Saibel says, "Doesn't look very much like an adder.."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:29.98--
+(Legates): Buri says, "As long as it bites hard, I don't mind if it's the ugliest snake about!"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:13:57.45--
+A reverent silence settles about the Tasur'ke beachfront.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:14:55.68--
+Aepas leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:15:08.26--
+(Mudlet Clan): Otra says, "Is there a way to take the geyserMiniConsole and make it a floating console that i can move myself with mu mouse."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:16:43.82--
+Guttural songs of unholy worship waft and wind throughout Mhaldor as the daemonic chorus rehearses in the cathedral.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:17:01.76--
+(Mudlet Clan): Sanaki says, "The object you're asking for is a userWindow, and that's... well, a pile of crap to work with. It may be possible to emulate it with mouse position events or such, but I don't know anything about those, they're a newer thing and I haven't had a reason to look into them yet."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:18:23.38--
+(Mudlet Clan): Otra says, "And is there a way to open and close the window say using an alias. so it goes and comes at my will."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:18:24.34--
+(Mudlet Clan): Otra says, "Ok i keep away from them for now."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:18:54.35--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:19:53.19--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A Baalzadeen demon towers over you, filling you with dread. There are 3 slippery elms in a group here. Vigilant, an umbral tiger crouches on his haunches. Here stands a restless mountain eagle, arrogantly surveying his surroundings. Looking ready for anything, a hulking war elephant stands here.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:20:16.01--
+Aepas arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:21:16.21--
+Aepas leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:21:16.70--
+Aepas arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:21:19.30--
+Aepas grows still and his lips begin to move silently.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:21:42.18--
+Aepas is enveloped in translucent fire for a moment and is gone, his soul safe until he returns to Achaea.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:21:54.23--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A Baalzadeen demon towers over you, filling you with dread. There are 3 slippery elms in a group here. Vigilant, an umbral tiger crouches on his haunches. Here stands a restless mountain eagle, arrogantly surveying his surroundings. Looking ready for anything, a hulking war elephant stands here.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:53.61--
+The body of Carbine Sar'vet, Initiate of the West appears in a flash and his soul descends to fill it, causing the previously expressionless face to fill with emotion.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:57.56--
+Carbine takes some salve from a vial and rubs it on his body.
+Carbine takes a drink from a stygian vial.
+Carbine eats a quartz grain.
+Carbine clenches his fists and grits his teeth.
+Carbine applies a quicksilver droplet to himself.
+Carbine touches a cloak tattoo.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:58.12--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:58.62--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:58.88--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:59.38--
+Carbine touches a mindseye tattoo.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:22:59.60--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:04.55--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:04.81--
+A supple metallic shell of quicksilver has formed around Carbine.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:06.62--
+Singing a powerful tune of safety and protection, Carbine weaves musical defences around himself.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:07.15--
+Carbine's knuckles grow momentarily white as he strengthens his grip.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:08.19--
+A shimmering curseward appears around Carbine.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:09.93--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:23:09.99--
+(Colloquium Iniquus): Buri says, "Other than prefarar and curare, what else should I put on my arrows?"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:25:01.98--
+(Colloquium Iniquus): Jarrod says, "Delphinium is a good option in some cases, Loki as well."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:25:25.20--
+(Colloquium Iniquus): Buri says, "Thank you."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:25:32.58--
+(Colloquium Iniquus): Elazar says, "Yeah, those four about have it covered, though almost always pref or curare."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:25:44.97--
+(Colloquium Iniquus): Kitiara says, "I personally have loki, delphinium, curare, voyria, prefarar, kalmia, and aconite arrows."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:25:48.37--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:26:06.91--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:26:07.16--
+(Colloquium Iniquus): Atalkez says, "For now you want to stick with prefarar/curare/delphinium/locki until you get further along in your training. Those four will serve you well for the times you are allowed to fire them."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:26:28.58--
+(The Midnight Crew): Vicious says, "?"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:26:38.82--
+(The Midnight Crew): Vicious says, "Mis, Hi."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:26:43.10--
+(The Midnight Crew): Marcalo says, "Hey."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:03.01--
+(Colloquium Iniquus): Buri says, "That's very helpful thanks. One last question, how many arrows can my quiver hold? I have 100 curare, delphinium and prefarar so far."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:07.42--
+(Colloquium Iniquus): Atalkez says, "250 I believe."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:26.64--
+(Colloquium Iniquus): Kitiara says, "Non artefact quivers can hold up to 500."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:29.91--
+(Colloquium Iniquus): Atalkez says, "Ah."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:33.39--
+(Colloquium Iniquus): Atalkez says, "I was halfway there!"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:39.65--
+(Colloquium Iniquus): Buri says, "Okay, thanks again."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:41.01--
+(The Midnight Crew): Merador says, "Mmmmmkay."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:43.60--
+(Colloquium Iniquus): Kitiara says, "Aye!"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:27:43.67--
+(The Midnight Crew): Vicious says, "It's starting to be summer here, it's really nice out."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:28:56.34--
+(Mhaldor): Kitiara says, "The Jubilee will be starting in a half day from now. We will be starting in the Mhaldorian theatre. For those who do not know where that is you can always walk to me."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:28:57.50--
+Carbine lifts his head and whistles an intricate, lilting tune. A blue-feathered songbird wings swiftly in and perches upon his shoulder.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:08.06--
+Carbine takes a drink from a stygian vial.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:08.33--
+(The Midnight Crew): Vicious says, "I wish Trey was here so I could tell him how good this Rolling Rock is."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:15.01--
+(The Midnight Crew): Atalkez says, "Been raining all day here."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:18.47--
+(The Midnight Crew): Vicious says, "Sounds relaxing."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:32.79--
+(The Midnight Crew): Atalkez says, "Ya it's a stay inside and take naps kinda day."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:29:51.34--
+(The Midnight Crew): Atalkez says, "Or stay inside and hunt bitches down, in my casea."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:01.78--
+(The Midnight Crew): Vicious says, "Yes."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:24.60--
+(The Midnight Crew): Vicious says, "I support that."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:27.69--
+(The Midnight Crew): Vicious says, "I got HDF for telling someone I'd behead them for picking up bodies I dropped to rez."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:43.42--
+(The Midnight Crew): Vicious says, "Dawnblade = pussy."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:51.55--
+(The Midnight Crew): Vicious says, "I miss Maldaathi."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:30:59.36--
+Vicious Lichlord (male Human).
+He is 76 years old, having been born on the 25th of Chronos, 607 years after the fall of the Seleucarian Empire.
+He is ranked 632nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Sentry in Targossas.
+He is a Conscript in the army of Targossas.
+He is considered to be approximately equal to your might.
+He is a mentor and able to take on proteges.
+His motto: 'Now I Am. Become Death. The Destroyer of Worlds.'
+He bears the arms: Sable, a wolf's head couped Argent and a sword contourny in base Argent within an orle of the second.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:31:52.32--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:31:53.91--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A Baalzadeen demon towers over you, filling you with dread. There are 3 slippery elms in a group here. Vigilant, an umbral tiger crouches on his haunches. Here stands a restless mountain eagle, arrogantly surveying his surroundings. Looking ready for anything, a hulking war elephant stands here.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand and a Soulpiercer in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:31:54.90--
+(Colloquium Iniquus): Jadair says, "Where can I find Rathos Aristata?"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:32:08.87--
+Carbine leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:32:13.56--
+Atalkez arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:32:35.82--
+A reverent silence settles about the Tasur'ke beachfront.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:08.95--
+A great weight seems to have been lifted from Atalkez.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:16.04--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:16.18--
+(The Midnight Crew): Sanaki says, "Since I uploaded it for someone else, here's my (not pretty, but functional) battlerage indicator solution. Far right five. Grey means still cooling, orange means cool, green means enough rage, red means not enough rage. Might give some of you ideas: http://fuzzy-dice.net/uploads/achaea/br_gauges.png ."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:31.71--
+(The Midnight Crew): Sanaki says, "And that was supposed to be Mudlet clan."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:38.88--
+(The Midnight Crew): Sanaki says, "You guys aren't Mudlet clan."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:44.27--
+(Mudlet Clan): Sanaki says, "Since I uploaded it for someone else, here's my (not pretty, but functional) battlerage indicator solution. Far right five. Grey means still cooling, orange means cool, green means enough rage, red means not enough rage. Might give some of you ideas: http://fuzzy-dice.net/uploads/achaea/br_gauges.png ."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:34:50.90--
+(Mudlet Clan): Sanaki says, "I have those gauges updating position every tenth of a second, but with how small they are, could probably drop that to quarter or such easily."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:36:20.18--
+A great weight seems to have been lifted from Atalkez.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:37:05.06--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:37:05.20--
+A great weight seems to have been lifted from Atalkez.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:39:24.52--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:39:24.63--
+(Market): Hecon says, "Selling cheap stone!"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:40:50.86--
+You will TIMEOUT in 1 minute unless you do something.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:40:53.28--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A Baalzadeen demon towers over you, filling you with dread. There are 3 slippery elms in a group here. Vigilant, an umbral tiger crouches on his haunches. Here stands a restless mountain eagle, arrogantly surveying his surroundings. Looking ready for anything, a hulking war elephant stands here.  Legate Atalkez al'Dejan is here.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:04.40--
+Atalkez exhales loudly.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:37.05--
+Atalkez inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:38.23--
+Atalkez exhales loudly.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:47.09--
+Atalkez inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:49.11--
+A great weight seems to have been lifted from Atalkez.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:54.79--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:41:54.95--
+Panawen arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:43:04.13--
+With a flourish of his arm, Panawen bows deeply.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:43:48.37--
+Panawen leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:43:54.58--
+(The Midnight Crew): Sanaki says, "Huh, bet Denaye and Xeyana are utter whores now."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:43:58.62--
+(The Midnight Crew): Marcalo says, "Peacethafuckout."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:05.84--
+Atalkez exhales loudly.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:21.72--
+Atalkez inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:23.81--
+Atalkez exhales loudly.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:28.80--
+Atalkez inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:30.01--
+Atalkez exhales loudly.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:32.73--
+Atalkez inhales and begins holding his breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:34.75--
+A great weight seems to have been lifted from Atalkez.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:53.23--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:53.33--
+Atalkez leaves to the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:44:54.10--
+(Mhaldor): Kitiara says, "The Maleficent Jubilee will be starting in a quarter day, please make your way to the theatre. Feel free to walk to me if you get lost."
+5786h, 6019m, 24060e, 22695w  exckdb---s19:45:53.49--
+A shrill cry of utter anguish howls from the black basilica and tears through the city, a raw expression of pure Suffering.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:18.59--
+Consort Sabatu, the dwaemon guard yells, "The spirit may be made stronger by enduring hardships, both self-imposed and externally-imposed. Suffer gloriously, Maestra!"
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:21.58--
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:22.46--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:22.57--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You inhale deeply and begin holding your breath.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:22.59--
+A feeling of generosity spreads throughout you.
+You cease holding your breath and exhale loudly.
+5786h, 6019m, 24060e, 22695w  xckdb---s19:46:22.68--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:23.06--
+You inhale deeply and begin holding your breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:23.17--
+You may apply another salve or balm to yourself.
+5786h, 6019m, 24060e, 22695w  exckdb---s19:46:23.51--
