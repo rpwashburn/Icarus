@@ -2048,10 +2048,8 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The elixir heals and soothes you.</string>
-              <string>The tonic heals and soothes you.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -2090,10 +2088,8 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The elixir flows down your throat without effect.</string>
-              <string>The tonic flows down your throat without effect.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -2112,12 +2108,10 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>Horribly, you feel the tick suck some of the elixir out of your throat.</string>
-              <string>Horribly, you feel the tick suck some of the tonic out of your throat.</string>
               <string>The symbol of sulphur inscribed about you fades away.</string>
               <string>The symbol of mercury inscribed about you fades away.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
               <integer>3</integer>
               <integer>3</integer>
@@ -2691,7 +2685,7 @@ svo.valid.swellskin_woreoff()</script>
           </Trigger>
         </Trigger>
         <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="yes" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
-          <name>Applied salve/balm</name>
+          <name>Applied salve</name>
           <script/>
           <triggerType>0</triggerType>
           <conditonLineDelta>1</conditonLineDelta>
@@ -2704,7 +2698,7 @@ svo.valid.swellskin_woreoff()</script>
           <colorTriggerFgColor>#000000</colorTriggerFgColor>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
-            <string>^You take out some (?:salve|balm) and quickly rub it on your </string>
+            <string>^You take out some salve and quickly rub it on your </string>
             <string>1</string>
           </regexCodeList>
           <regexCodePropertyList>
@@ -2746,10 +2740,8 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>You messily spread the salve over your body, to no effect.</string>
-              <string>You messily spread the balm over your body, to no effect.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -2768,10 +2760,8 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The salve slides off your oily skin.</string>
-              <string>The balm slides off your oily skin.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -3030,10 +3020,8 @@ svo.valid.swellskin_woreoff()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>Your body grows extremely dense and heavy as the mass salve infuses your skin.</string>
-              <string>Your body grows extremely dense and heavy as the density balm infuses your skin.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -3123,7 +3111,7 @@ svo.valid.swellskin_woreoff()</script>
           </Trigger>
           <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
             <name>svo leg broken</name>
-            <script>setTriggerStayOpen("Applied salve/balm", 1)</script>
+            <script>setTriggerStayOpen("Applied salve", 1)</script>
             <triggerType>0</triggerType>
             <conditonLineDelta>0</conditonLineDelta>
             <mStayOpen>0</mStayOpen>
@@ -3163,7 +3151,7 @@ svo.valid.swellskin_woreoff()</script>
           </Trigger>
           <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
             <name>svo emptied salve</name>
-            <script>setTriggerStayOpen("Applied salve/balm", 1)</script>
+            <script>setTriggerStayOpen("Applied salve", 1)</script>
             <triggerType>0</triggerType>
             <conditonLineDelta>0</conditonLineDelta>
             <mStayOpen>0</mStayOpen>
@@ -3183,7 +3171,7 @@ svo.valid.swellskin_woreoff()</script>
           </Trigger>
           <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
             <name>svo hypothermia</name>
-            <script>setTriggerStayOpen("Applied salve/balm", 1)</script>
+            <script>setTriggerStayOpen("Applied salve", 1)</script>
             <triggerType>0</triggerType>
             <conditonLineDelta>0</conditonLineDelta>
             <mStayOpen>0</mStayOpen>
@@ -9745,10 +9733,8 @@ svo.onprompt()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The elixir heals and soothes you.</string>
-              <string>The tonic heals and soothes you.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -9907,10 +9893,8 @@ svo.onprompt()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The potion flows down your throat without effect.</string>
-              <string>The tonic flows down your throat without effect.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -9971,10 +9955,8 @@ svo.onprompt()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The salve slides off your oily skin.</string>
-              <string>The balm slides off your oily skin.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -10093,10 +10075,8 @@ svo.onprompt()</script>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
               <string>The elixir flows down your throat without effect.</string>
-              <string>The tonic flows down your throat without effect.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -10358,11 +10338,9 @@ svo.onprompt()</script>
             <colorTriggerFgColor>#000000</colorTriggerFgColor>
             <colorTriggerBgColor>#000000</colorTriggerBgColor>
             <regexCodeList>
-              <string>You messily spread the balm over your body, to no effect.</string>
               <string>You messily spread the salve over your body, to no effect.</string>
             </regexCodeList>
             <regexCodePropertyList>
-              <integer>3</integer>
               <integer>3</integer>
             </regexCodePropertyList>
           </Trigger>
@@ -11046,8 +11024,10 @@ svo.onprompt()</script>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>** Illusion **</string>
+            <string>You conjure up your illusion:</string>
           </regexCodeList>
           <regexCodePropertyList>
+            <integer>3</integer>
             <integer>3</integer>
           </regexCodePropertyList>
         </Trigger>
@@ -11105,7 +11085,7 @@ svo.onprompt()</script>
           <colorTriggerFgColor>#000000</colorTriggerFgColor>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
-            <string>You may drink another health or mana elixir or tonic.</string>
+            <string>You may drink another health or mana elixir.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -11125,7 +11105,7 @@ svo.onprompt()</script>
           <colorTriggerFgColor>#000000</colorTriggerFgColor>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -11573,7 +11553,7 @@ end</script>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>Your torso feels stronger and healthier.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -11595,7 +11575,7 @@ end</script>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>Your torso is greatly healed, but still damaged.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -11617,7 +11597,7 @@ end</script>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>Your head feels stronger and healthier.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -11639,7 +11619,7 @@ end</script>
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>Your head is greatly healed, but still damaged.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -12697,7 +12677,7 @@ if svo.conf.gagrelight and not svo.inslowcuringmode() then svo.deleteLineP() end
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>The remedy burns through your chest, eliminating the spreading tendrils of a virulent heartseed.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -12719,7 +12699,7 @@ if svo.conf.gagrelight and not svo.inslowcuringmode() then svo.deleteLineP() end
           <colorTriggerBgColor>#000000</colorTriggerBgColor>
           <regexCodeList>
             <string>Though still frozen, you feel some slight remnants of heat returning to you.</string>
-            <string>You may apply another salve or balm to yourself.</string>
+            <string>You may apply another salve to yourself.</string>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
@@ -17972,7 +17952,7 @@ raiseEvent("svo got balance", "homunculus")</script>
             </regexCodePropertyList>
           </Trigger>
         </TriggerGroup>
-        <TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+        <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
           <name>Fitness balance</name>
           <script/>
           <triggerType>0</triggerType>
@@ -18048,7 +18028,7 @@ raiseEvent("svo got balance", "homunculus")</script>
             </regexCodePropertyList>
           </Trigger>
         </TriggerGroup>
-        <TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+        <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
           <name>Rage balance</name>
           <script/>
           <triggerType>0</triggerType>
@@ -18801,7 +18781,7 @@ echo'\n' svo.config.set("shipmode", "off", true)</script>
             </regexCodePropertyList>
           </Trigger>
         </TriggerGroup>
-        <TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+        <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
           <name>Two-hander recover footing</name>
           <script/>
           <triggerType>0</triggerType>
@@ -23149,7 +23129,7 @@ end</script>
             </regexCodePropertyList>
           </Trigger>
         </TriggerGroup>
-        <TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+        <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
           <name>Necromancy defences</name>
           <script/>
           <triggerType>0</triggerType>
@@ -23297,7 +23277,7 @@ end</script>
           </regexCodePropertyList>
         </Trigger>
       </TriggerGroup>
-      <TriggerGroup isActive="no" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+      <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
         <name>svo Bashing triggers</name>
         <script/>
         <triggerType>0</triggerType>
@@ -34489,7 +34469,7 @@ svo.valid.simpledementia()</script>
             <string>Using one of her massive paws to pin you to the ground, Leesha, the ursu packmother jabs your chest and stomach with her other paw, her sharp claws sinking deep into your flesh.</string>
             <string>Dropping lightly to the floor, Princess Qitala thrusts a leg from beneath her silken garments to trip you.</string>
             <string>-Commander Xu pulls back his massive arm and leaps forward onto you, knocking you to the ground and swiping his large claws into your flesh.</string>
-            <string>A xorani hunter expertly dances around you while slipping his net around your neck. As you fall to 1the ground, he begins choking you.</string>
+            <string>A xorani hunter expertly dances around you while slipping his net around your neck. As you fall to the ground, he begins choking you.</string>
             <string>At a gesture from Erato, spirit of the Eastern Ithmia, a thick tree root protrudes from the ground and trips you off your feet.</string>
             <string>A single massive hand grasps you and flings you away as a colossal, hulking ghoul turns and stomps after you for the kill.</string>
             <string>The King Stag tramples over you with his enormous body.</string>
@@ -38853,26 +38833,6 @@ svo.valid.simpledizziness()</script>
           </regexCodePropertyList>
         </Trigger>
         <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
-          <name>Peace</name>
-          <script>svo.valid.simplepeace()</script>
-          <triggerType>0</triggerType>
-          <conditonLineDelta>0</conditonLineDelta>
-          <mStayOpen>0</mStayOpen>
-          <mCommand/>
-          <packageName/>
-          <mFgColor>#ff0000</mFgColor>
-          <mBgColor>#ffff00</mBgColor>
-          <mSoundFile/>
-          <colorTriggerFgColor>#000000</colorTriggerFgColor>
-          <colorTriggerBgColor>#000000</colorTriggerBgColor>
-          <regexCodeList>
-            <string>^\w+ gazes fondly at you, eyes shining with compassion and love; all anger fades from your heart\.$</string>
-          </regexCodeList>
-          <regexCodePropertyList>
-            <integer>1</integer>
-          </regexCodePropertyList>
-        </Trigger>
-        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
           <name>Hellsight</name>
           <script>svo.valid.simplehellsight()</script>
           <triggerType>0</triggerType>
@@ -38910,6 +38870,28 @@ svo.valid.simpledizziness()</script>
           </regexCodeList>
           <regexCodePropertyList>
             <integer>3</integer>
+          </regexCodePropertyList>
+        </Trigger>
+        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="yes" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+          <name>Hallucinations</name>
+          <script>svo.valid.simplehallucinations()</script>
+          <triggerType>0</triggerType>
+          <conditonLineDelta>0</conditonLineDelta>
+          <mStayOpen>0</mStayOpen>
+          <mCommand/>
+          <packageName/>
+          <mFgColor>#ff0000</mFgColor>
+          <mBgColor>#ffff00</mBgColor>
+          <mSoundFile/>
+          <colorTriggerFgColor>#000000</colorTriggerFgColor>
+          <colorTriggerBgColor>#000000</colorTriggerBgColor>
+          <regexCodeList>
+            <string>Horrifying visions overcome you as</string>
+            <string>^Horrifying visions overcome you as \w+ turns (?:his|her) righteous gaze upon you\.$</string>
+          </regexCodeList>
+          <regexCodePropertyList>
+            <integer>2</integer>
+            <integer>1</integer>
           </regexCodePropertyList>
         </Trigger>
       </TriggerGroup>
@@ -53331,10 +53313,11 @@ end</script>
       <Alias isActive="yes" isFolder="no">
         <name>Sit</name>
         <script>svo.ignore.prone = {because = "you sat down"}
+raiseEvent("svo ignore changed", "prone")
 
 if svo.sittingdown then killTimer(svo.sittingdown) end
 svo.sittingdown = tempTimer(1, function()
-  if not svo.affl.prone then svo.ignore.prone = nil end
+  if not svo.affl.prone then svo.ignore.prone = nil; raiseEvent("svo ignore changed", "prone") end
 end)
 
 
@@ -54611,6 +54594,7 @@ function svo.sitting(_, aff)
 
   if svo.ignore.prone and svo.ignore.prone.because and svo.ignore.prone.because == "you sat down" then
     svo.ignore.prone = nil
+    raiseEvent("svo ignore changed", "prone")
   end
 end</script>
           <eventHandlerList>

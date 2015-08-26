@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta content="Loggerhead/1.18.2 Python/2.7.3 Bazaar/2.6.0 Paste/1.7.5.1 PasteDeploy/1.3.4 SimpleTAL/4.3 Pygments/1.6 simplejson/3.1.3" name="generator" />
-<title>~mudlet-makers/mudlet/mapper-lua : files for revision 216</title>
+<meta content="Loggerhead/1.18.2 Python/2.7.3 Bazaar/2.6.0.lp.1 Paste/1.7.5.1 PasteDeploy/1.3.4 SimpleTAL/4.3 Pygments/1.6 simplejson/3.1.3" name="generator" />
+<title>~mudlet-makers/mudlet/mapper-lua : files for revision 217</title>
 <link href="/static/css/global.css" rel="stylesheet" />
 <link href="/static/images/favicon.png" rel="shortcut icon" />
 
@@ -59,7 +59,7 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 
 <span>: <span class="breadcrumb">
 /
-</span> (revision 216)</span>
+</span> (revision 217)</span>
 </div>
 
 <div>
@@ -68,10 +68,10 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 <p>
 <ul id="submenuTabs">
 <li id="first">
-<a href="/~mudlet-makers/mudlet/mapper-lua/revision/216?start_revid=216">view revision</a>
+<a href="/~mudlet-makers/mudlet/mapper-lua/revision/217?start_revid=217">view revision</a>
 </li>
 <li id="last">
-<a href="/~mudlet-makers/mudlet/mapper-lua/changes/216?start_revid=216">view branch changes</a>
+<a href="/~mudlet-makers/mudlet/mapper-lua/changes/217?start_revid=217">view branch changes</a>
 </li>
 </ul>
 <div class="infoContainer">
@@ -84,31 +84,31 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 
 <li class="timer">
 <strong>Date:</strong>
-<span>2015-03-20 20:48:58 UTC</span>
+<span>2015-07-01 02:56:10 UTC</span>
 </li>
 
 
 
 <li class="revid">
 <strong>Revision ID:</strong>
-<span>vperetokin@gmail.com-20150320204858-9xti5e2eg8pq2n9h</span>
+<span>vperetokin@gmail.com-20150701025610-rczhfq1c4iuxzeny</span>
 </li>
 </ul>
 
 
 <div class="clear"></div>
 
-<div class="information">- added kaleidoscopic telescope trigger in Lusternia<br/>- speedwalk to use dash/sprint # in Achaea (thanks Naverre!)</div>
+<div class="information">New update</div>
 </div>
 
 <div class="clear"></div>
 </div>
 <table id="logentries">
 <tr class="logheader">
-<th class="summarycell"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150320204858-9xti5e2eg8pq2n9h?sort=filename">Filename</a></th>
+<th class="summarycell"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150701025610-rczhfq1c4iuxzeny?sort=filename">Filename</a></th>
 <th class="datecell">Latest Rev</th>
-<th class="datecell"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150320204858-9xti5e2eg8pq2n9h?sort=date">Last Changed</a></th>
-<th class="timedate"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150320204858-9xti5e2eg8pq2n9h?sort=size">Size</a></th>
+<th class="datecell"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150701025610-rczhfq1c4iuxzeny?sort=date">Last Changed</a></th>
+<th class="timedate"><a href="/~mudlet-makers/mudlet/mapper-lua/files/vperetokin%40gmail.com-20150701025610-rczhfq1c4iuxzeny?sort=size">Size</a></th>
 <th class="expandcell"></th>
 <th class="expandcell"></th>
 </tr>
@@ -126,16 +126,16 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 
 </a>
 <a href="/~mudlet-makers/mudlet/mapper-lua/view/head:/mudlet-mapper.xml" class="link">mudlet-mapper.xml</a></td>
-<td class="date"><a href="/~mudlet-makers/mudlet/mapper-lua/revision/216" title="Show revision 216">216</a>
+<td class="date"><a href="/~mudlet-makers/mudlet/mapper-lua/revision/217" title="Show revision 217">217</a>
 </td>
-<td class="date">2015-03-20 20:48:58 UTC</td>
-<td class="timedate2">405 KB</td>
+<td class="date">2015-07-01 02:56:10 UTC</td>
+<td class="timedate2">407 KB</td>
 <td class="expcell"><a href="/~mudlet-makers/mudlet/mapper-lua/view/head:/mudlet-mapper.xml" title="View mudlet-mapper.xml">
 <img src="/static/images/ico_planilla.gif" alt="Diff" />
 </a>
 </td>
 <td class="expcell">
-<a href="/~mudlet-makers/mudlet/mapper-lua/download/vperetokin%40gmail.com-20150320204858-9xti5e2eg8pq2n9h/mudletmapper.xml-20100916000616-71kbxngi7b3nybta-1/mudlet-mapper.xml" title="Download mudlet-mapper.xml at revision 216">
+<a href="/~mudlet-makers/mudlet/mapper-lua/download/vperetokin%40gmail.com-20150701025610-rczhfq1c4iuxzeny/mudletmapper.xml-20100916000616-71kbxngi7b3nybta-1/mudlet-mapper.xml" title="Download mudlet-mapper.xml at revision 217">
 <img src="/static/images/ico_file_download.gif" alt="Download File" />
 </a>
 </td>
@@ -152,16 +152,16 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 
 </a>
 <a href="/~mudlet-makers/mudlet/mapper-lua/view/head:/version" class="link">version</a></td>
-<td class="date"><a href="/~mudlet-makers/mudlet/mapper-lua/revision/216" title="Show revision 216">216</a>
+<td class="date"><a href="/~mudlet-makers/mudlet/mapper-lua/revision/217" title="Show revision 217">217</a>
 </td>
-<td class="date">2015-03-20 20:48:58 UTC</td>
+<td class="date">2015-07-01 02:56:10 UTC</td>
 <td class="timedate2">7 bytes</td>
 <td class="expcell"><a href="/~mudlet-makers/mudlet/mapper-lua/view/head:/version" title="View version">
 <img src="/static/images/ico_planilla.gif" alt="Diff" />
 </a>
 </td>
 <td class="expcell">
-<a href="/~mudlet-makers/mudlet/mapper-lua/download/vperetokin%40gmail.com-20150320204858-9xti5e2eg8pq2n9h/version-20110910005237-2917fpevgi4koxqk-1/version" title="Download version at revision 216">
+<a href="/~mudlet-makers/mudlet/mapper-lua/download/vperetokin%40gmail.com-20150701025610-rczhfq1c4iuxzeny/version-20110910005237-2917fpevgi4koxqk-1/version" title="Download version at revision 217">
 <img src="/static/images/ico_file_download.gif" alt="Download File" />
 </a>
 </td>
@@ -173,7 +173,7 @@ var expanded_icon_path = '/static/images/treeExpanded.png';
 <p id="footer" class="fl">
 Loggerhead is a web-based interface for <a href="http://bazaar-vcs.org/">Bazaar</a> branches
 <br />
-Version: 1.18.2<span>, Revision: 17413</span>
+Version: 1.18.2<span>, Revision: 17597</span>
 </p>
 </div>
 </body>
