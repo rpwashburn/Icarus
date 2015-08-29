@@ -1,0 +1,1041 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           189 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+The vitality of the black boar begins to flow through you.
+You are blind and can see nothing but darkness.
+5846h, 6081m, 24320e, 22940w  exdb-0-s05:58:17.78--
+5846h, 6081m, 24320e, 22940w  exdb-0-s05:58:18.03--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5846h, 6081m, 24320e, 22940w  exdb-0-s05:58:18.03--
+You remove 1 quartz, bringing the total in the Rift to 86.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:18.05--
+You have recovered equilibrium.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:18.90--
+You rub your hands together greedily.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:18.96--
+You have recovered equilibrium.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:19.31--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:19.45--
+You can purchase 10 available credits in a House credit sale.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:19.69--
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:20.13--
+Xinna drops a pinch of realgar crystals.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:20.64--
+----[ Mhaldor City announcement ]----
+The Culture Ministry will soon be hosting the Unsundered Strength tournament! Sign-up now with a partner from the opposite House. The competition begins Sarapin 692. Mhaldor news #3333 for more information.
+-------------------------------------
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:20.71--
+Xinna peers about herself unscrupulously.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:21.53--
+You have recovered equilibrium.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:22.08--
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waning Crescent.
+
+In your world, it is 2015/08/29 05:58:22 GMT.
+See HELP GMT for an explanation of GMT.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:22.91--
+You have the following defences:
+You are blind.
+You are walking with the grace of the stars.
+You are deaf.
+Mentally bolstered by the power of the megalith.
+Your wounds are being staunched by the moss tattoo.
+The vitality of the boar is energising you.
+You are feeling extremely energetic.
+You are surrounded by a cloak of protection.
+You are feeling quite selfish.
+Your senses are magically heightened.
+You are protected by 10 defences.
+5846h, 6081m, 24320e, 22940w  xckdb-0-s05:58:23.01--
+You have recovered equilibrium.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:23.47--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 4 monolith sigils in 4 groups here. There are 3 infernal wraiths here. Observing from high above the ground is a reticulated giraffe. Regal and commanding, a Dardanic stallion watches over his surroundings. A small pinch of realgar crystals rests upon the ground.  Tyrannus Xinna Dracrotalus, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand.
+You see a single exit leading west.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:27.76--
+You say, "Thief."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:30.75--
+Xinna drops a group of 4 pinches of ground cinnabar.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:31.59--
+Tyrannus Xinna Dracrotalus, Dread Legate says, "They aren't from you."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:38.44--
+Tyrannus Xinna Dracrotalus, Dread Legate says, "They're from Ashtan."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:42.41--
+The corners of Xinna's mouth turn up as she grins mischievously.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:43.25--
+Tyrannus Xinna Dracrotalus, Dread Legate says, "My rift gets full."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:46.90--
+You say, "Point still stands."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:47.96--
+Xinna rubs her hands together greedily.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:48.46--
+Xinna waves her hand dismissively.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:53.81--
+Alias "multicmd" will now execute: "apply mass to body/sip frost/smoke 512008/outr bisemutum/eat bisemutum/insomnia/outr quicksilver/apply quicksilver/thirdeye/hold breath/activate magic resistance/activate electric resistance/activate cold resistance/activate fire resistance/deathsight"
+5846h, 6081m, 24320e, 22940w  exckdb-0-s05:58:57.04--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You take a drink from a teakwood vial.
+A chill runs over your icy skin.
+You take a long drag of malachite off your pipe.
+You remove 1 bisemutum, bringing the total in the Rift to 152.
+You eat a bisemutum chip.
+As you swallow the bisemutum, you feel your mind begin to race. New avenues of mental exploration open up to you and you can feel your mind processing information as never before.
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+You remove 1 quicksilver, bringing the total in the Rift to 397.
+You apply a quicksilver droplet to yourself.
+You now possess the gift of the third eye.
+You inhale deeply and begin holding your breath.
+You turn a prismatic ring about your finger. A swirling stream of heliotrope light emanates from its band, surrounding you with a shimmering aura.
+You turn a prismatic ring about your finger. A crackling stream of argentine light emanates from its band, surrounding you with a flickering aura.
+You turn a prismatic ring about your finger. A frigid stream of cerulean light emanates from its band, surrounding you with a frosty aura.
+You turn a prismatic ring about your finger. A coruscating stream of sanguine light emanates from its band, surrounding you with a scintillating aura.
+You shut your eyes and concentrate on Thoth, the God of Death. A moment later, you feel inextricably linked with Death itself.
+You cease holding your breath and exhale loudly.
+5846h, 5962m, 24320e, 22930w  xckdb-0-s05:58:57.08--
+You take a drink from a black-walnut vial.
+5846h, 5962m, 24320e, 22930w  xckdb-0-s05:58:57.21--
+You take a drink from a cherry wood vial.
+You feel a momentary dizziness as your resistance to damage by poison increases.
+5846h, 5962m, 24320e, 22930w  xckdb-0-s05:58:57.29--
+You take a drink from a teakwood vial.
+Your body begins to feel lighter and you feel that you are floating slightly.
+5846h, 5962m, 24320e, 22930w  xckdb-0-s05:58:57.35--
+You may apply another salve to yourself.
+5846h, 5962m, 24320e, 22936w  xckdb-0-s05:58:58.06--
+You take out some salve and quickly rub it on your body.
+A feeling of comfortable warmth spreads over you.
+5846h, 5962m, 24320e, 22936w  xckdb-0-s05:58:58.12--
+Your lungs have recovered enough to smoke another mineral or plant.
+5846h, 5962m, 24320e, 22936w  xckdb-0-s05:58:58.59--
+You have recovered equilibrium.
+5846h, 5962m, 24320e, 22936w  exckdb-0-s05:58:58.74--
+You inhale deeply and begin holding your breath.
+You prick up your ears.
+You cease holding your breath and exhale loudly.
+Wildcard out of range in command '%3'.
+5846h, 5962m, 24320e, 22886w  xckdb-0-s05:58:58.85--
+You may apply another salve to yourself.
+5846h, 5962m, 24320e, 22904w  xckdb-0-s05:58:59.07--
+You have recovered equilibrium.
+5846h, 5962m, 24320e, 22904w  exckdb-0-s05:59:00.99--
+You inhale deeply and begin holding your breath.
+You bring a curseward into being to protect you from harm.
+You cease holding your breath and exhale loudly.
+Wildcard out of range in command '%3'.
+5846h, 5796m, 24320e, 22854w  xckdb-0-s05:59:01.08--
+Tiny tremours spread through your body as the world seems to slow down.
+5846h, 5786m, 24320e, 22854w  xckdb-0-s05:59:02.29--
+You have recovered equilibrium.
+5846h, 5786m, 24320e, 22872w  exckdb-0-s05:59:04.80--
+You inhale deeply and begin holding your breath.
+Quit trying to confuse me.
+Wildcard out of range in command '%3'.
+5846h, 5786m, 24320e, 22872w  exckdb-0-s05:59:04.94--
+Most perplexing.
+5846h, 5786m, 24320e, 22872w  exckdb-0-s05:59:05.56--
+You feel an aura of rebounding surround you.
+The quicksilver hardens into a supple metallic shell.
+5846h, 5786m, 24320e, 22872w  exckdb-0-s05:59:05.58--
+Could you be a bit clearer?
+5846h, 5786m, 24320e, 22872w  exckdb-0-s05:59:06.26--
+Clarification is in order.
+5846h, 5897m, 24320e, 22890w  exckdb-0-s05:59:06.97--
+I don't quite catch your drift.
+5846h, 5897m, 24320e, 22890w  exckdb-0-s05:59:07.70--
+Could you be a bit clearer?
+5846h, 5897m, 24320e, 22896w  exckdb-0-s05:59:08.36--
+Pardon me?
+5846h, 5897m, 24320e, 22896w  exckdb-0-s05:59:09.06--
+Please explain.
+5846h, 5897m, 24320e, 22896w  exckdb-0-s05:59:09.80--
+Brilliant! Dumb it down for me?
+5846h, 5897m, 24320e, 22896w  exckdb-0-s05:59:10.46--
+One more time?
+5846h, 5897m, 24320e, 22914w  exckdb-0-s05:59:11.20--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 4 monolith sigils in 4 groups here. There are 3 infernal wraiths here. Observing from high above the ground is a reticulated giraffe. Regal and commanding, a Dardanic stallion watches over his surroundings. A small pinch of realgar crystals rests upon the ground. There are 4 pinches of ground cinnabar in a group here.  Tyrannus Xinna Dracrotalus, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand.
+You see a single exit leading west.
+5846h, 5887m, 24320e, 22914w  exckdb-0-s05:59:14.62--
+You tilt your head to one side, rub your chin, and thoughtfully declare "Hrm."
+5846h, 5887m, 24320e, 22932w  exckdb-0-s05:59:16.62--
+Kiba has bled out, slain by the might of Jadys Lucoster in The Gauntlet.
+5846h, 5988m, 24320e, 22940w  exckdb-0-s05:59:26.86--
+Isaeah has bled out, slain by the might of Judicator Austere Lucoster in The Gauntlet.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s05:59:52.15--
+You tell Xinna, "Wonder if increase in deadeyes speed means you can stay quick witted."
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:00:06.68--
+Medi has bled out, slain by the might of Heartwood Shirszae Nynniaw, Scarlatti's Harp in Ainghaeal's Nest.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:00:07.54--
+Ashelynne has bled out, slain by the might of Judicator Austere Lucoster in The Gauntlet.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:00:08.09--
+The team of Morthif, Austere, and Jadys has defeated Ashelynne, Kiba, and Isaeah in combat within The Gauntlet!
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:00:08.13--
+Your enhanced senses inform you that Ulrike has entered The gates of Mhaldor, to the west.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:00:22.70--
+(Mhaldor): Xinna says, "We should be prepared for further large Ashtani incursions in the near future, given their failures this month. For now, I must take my leave."
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:00:23.91--
+Ainly dies, his defences no match for the relentless might of Sir Wyd Vorondil-Windsong, Sentry of the Shield in Ainghaeal's Nest.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:00:28.92--
+Ariete dies, features contorted from the poison delivered by Vanquisher Medi Dracrotalus in Ainghaeal's Nest.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:00:29.59--
+(Mhaldor): Titonus says, "In Strength, Tyrannus."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:00:40.40--
+(Mhaldor): Ulrike says, "We stand vigilant in the Master's Name. Go in Suffering, Tyrannus."
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:00:43.18--
+(Mhaldor): Xinna says, "Stand strong, Mhaldor. And ensure the font gets filled!"
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:00:50.79--
+Xinna grows still and her lips begin to move silently.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:00:53.78--
+A stone gargoyle falls from Xinna's person.
+Xinna is enveloped in translucent fire for a moment and is gone, her soul safe until she returns to Achaea.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:05.79--
+(Market): Aeryllin says, "Buying 50 credits for 6k per (300k)."
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:08.71--
+You feel your density return to normal.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:17.24--
+Wyna has fallen victim to the extraordinary powers of Gordon, The Untitled in Ainghaeal's Nest.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:17.70--
+Your enhanced senses inform you that Aegoth has entered The gates of Mhaldor, to the west.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:27.55--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 4 monolith sigils in 4 groups here. There are 3 infernal wraiths here. Observing from high above the ground is a reticulated giraffe. Regal and commanding, a Dardanic stallion watches over his surroundings. A small pinch of realgar crystals rests upon the ground. There are 4 pinches of ground cinnabar in a group here. A stone gargoyle flies overhead on leathery, grey wings.
+You see a single exit leading west.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:29.95--
++-Dread Duelist Dartega-------------------------------------------------------+
+| Level  : 92 (08.0%)  "4th Order of the Hyperphysical"                       |
+| Age    : 232         Birthdate: 12th Daedalan, 460AF    Class: Apostate     |
+| Gender : Male        Race     : Dwarf Crafter                  Full member  |
+|                                 (Unassigned Trait Slots)                    |
+| XP Rank: 386         Explorer Rank: 668     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 5846/5846   Willpower: 22940/22940 Strength : 15 Intelligence: 15 |
+| Mana    : 6081/6081   Endurance: 24320/24320 Dexterity: 15 Constitution: 16 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| Warmth  : dressed normally                   Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Zambuk.                                                      |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 0       Room: 0        Unbound: 0         |
+|   Packs  : 1172645       Bound  : 676                    Bound  : 0         |
+|   Banks  : 0             Lessons: 2914                                      |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Mhaldor           : Rank 2 - Troni                                        |
+|   Soldier           : Yes                                                   |
+| House                                                                       |
+|   The Dread Legates                                                         |
+|   (Rank 4 - a Duelist of the Seven)                                         |
+| Clans                                                                       |
+|   The Umbra                            Colloquium Iniquus                   |
+|   Whiners Anonymous                    Ar'kena Keep                         |
+|   The Midnight Crew *                  The Rant Garden                      |
+|   League of Legends                    The Bathhouse Strikes Back           |
+|   Mudlet Clan                          The Interdimensional Rift            |
+|                                                                             |
+| Enemied to: Ashtan, Aurora, Cij, Deucalion, Eleusis, Hashan, Heartwood,     |
+|             Merchants, Neraeos, Phaestus, Targossas, The Forests,           |
+|             Twilight, and Vastar                                            |
++-----------------------------------------------------------------------------+
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:01:31.94--
+You have the following defences:
+You are blind.
+You are walking with the grace of the stars.
+You are deaf.
+Mentally bolstered by the power of the megalith.
+Your wounds are being staunched by the moss tattoo.
+The vitality of the boar is energising you.
+You are feeling extremely energetic.
+You are surrounded by a cloak of protection.
+You are feeling quite selfish.
+Your senses are magically heightened.
+You are tempered against fire damage.
+Your mind is racing with enhanced speed.
+You have insomnia, and cannot easily go to sleep.
+You possess the sight of the third eye.
+You are enchanted against magic damage.
+You are enchanted against electric damage.
+You are enchanted against cold damage.
+You are enchanted against fire damage.
+Your mind has been touched by Thoth, the Lord of Death.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+A curseward has been established about your person.
+Your sense of time is heightened, and your reactions are speeded.
+You are holding your breath.
+You are protected from hand-held weapons with an aura of rebounding.
+You are protected from the fangs of serpents.
+You are protected by 28 defences.
+You cease holding your breath and exhale loudly.
+5846h, 6071m, 24320e, 22940w  xckdb-0-s06:01:32.74--
+You have recovered equilibrium.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:33.07--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 4 monolith sigils in 4 groups here. There are 3 infernal wraiths here. Observing from high above the ground is a reticulated giraffe. Regal and commanding, a Dardanic stallion watches over his surroundings. A small pinch of realgar crystals rests upon the ground. There are 4 pinches of ground cinnabar in a group here. A stone gargoyle flies overhead on leathery, grey wings.
+You see a single exit leading west.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:33.76--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A gilded pike with the decapitated heads of Lotar, Argathian, Atalkez, Jhui, Dalran, Seragorn, Jarrod, Ethoas, Ojad, Azelhu, Kasya, Carmell, Kitta, Ragathol, Cain, Aelios, Brogeta, Crythril, Daeir, Mycen, Savira, Darkheartess, Kitiara, Achilles, Tibitha, Kastiel, Lianice, Entaro, Siduri, Scrim, Aesi, Lala, Halos, Austere, Ahmet, Mizik, Sydyk, Dunn, Noranne, Isaeah, Garis, Xykon, Jinsun, Dajio, Seftin, Sciipe, Shirszae, Cyro, Tearstorm, Hecon, Hakaido, Daerin, Mithridates, Mierra, Rexak, Laetetia, Ineug, Amranu, Athelas, Medi, Madelyne, Cinandra, Galtero, and Deathward has been erected here. A sigil in the shape of a small, rectangular monolith is on the ground.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:01:35.19--
+Composed by: Taraus on or about the 9th of Daedalan, 682 AF.
+
+
+----------------------------------------
+  
+                     [ ]         LEGEND
+                    / ^           ^  Up
+                 [ ] [ ]         v  Down
+            [ ]   |   ^
+               ^v[ ] [ ]-[ ]
+            [ ]
+                     [ ]     [ ]
+                                v
+                                 [T]
+
+----------------------------------------
+
+The entrance to the Legates Househall is located 'Before the Spire of
+Horror' in the Baelgrim Fortress, one WEST from 'Central Courtyard'.
+
+The phrase to enter the Estate currently is, "Evil subjugates all
+things."
+    -- You should read HHELP SECURITY before attempting to enter. --
+
+Dreadlord Ariocha is located within the Estate at the 'Vestibule of
+Training' to assist you in learning your skills. There is a halfling in
+a cage with her. You might want to enjoy it as entertainment as you
+study your skills.
+
+Feel free to interact with the statue settled in the Hall of Conversion.
+Admire the mosaic as you pass through the Chamber of Ceremony and stare
+well at the map that lies affixed to the walls of the Hall of Conquest.
+If you but push your fingers to the map, you'll understand what our
+charge is, as Dread Legates of Mhaldor.
+
+Within 'a quiet hall' in our estate, you will find your willpower and
+endurance regeneration increased, as this location has been imbued with
+a magical enchantment to aide in such. Should you find need to utilise
+this room, ensure your vigilance and awareness remains on high.
+ 
+[Type MORE if you wish to continue reading. (72% shown)]
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:38.40--
+Your enhanced senses inform you that Mathonwy has entered Mhaldor Road, to the up.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:45.86--
+Mathonwy arrives from the up.
+Your enhanced senses inform you that Mathonwy has entered The gates of Mhaldor at your location.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:46.30--
+You aren't wielding anything.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:46.65--
+What do you wish to wield?
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:46.65--
+You must have whatever you wish to throw wielded.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:46.65--
+Mathonwy leaves to the east.
+Your enhanced senses inform you that Mathonwy has entered A massive gatehouse, to the east.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:01:47.82--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." An obsidian eye sigil is here. A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An heraldic pennon flies here, bearing the city arms of Mhaldor. An heraldic pennon flies here, bearing the Divine Order arms of Sartan. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  The Black Dragon Titonus' imposing form looms.
+You see exits leading up and down.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:01:49.28--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. An elegant bloodstone bench is here. A black bone chest is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5846h, 6061m, 24316e, 22940w  exckdb-0-s06:01:49.49--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 2 monolith sigils in 2 groups here. An obsidian eye sigil is here. Snorting softly, a dappled grey destrier lingers in regal repose. There are 5 infernal wraiths here. A crystalline golem stands here. A stubborn mule wanders about here, nosing at the ground.  The Silver Dragon Taraus' imposing form looms. Lord Watchman Dracrotalus is here.  You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:01:49.94--
+You open a dragonskin pack.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:53.57--
+You get 1172645 gold sovereigns from a dragonskin pack.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:53.58--
+You pay 1080 sovereigns and receive groups of 10 eye sigils.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:53.59--
+You put 1171565 gold sovereigns in a dragonskin pack.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:53.59--
+You close a dragonskin pack.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:53.59--
+A dragonskin pack is already closed.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:01:54.16--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. An elegant bloodstone bench is here. A black bone chest is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:01:56.49--
+Purgatory Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "From His Truths, we draw our strength." A runic totem is planted solidly in the ground. An obsidian eye sigil is here. There are 4 knights of the Maldaathi here. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast and southwest.
+5846h, 6071m, 24316e, 22940w  exckdb-0-s06:01:57.11--
+Streets of Sin.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "Strength through Service." A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Dressed in black and holding a doctor's bag, Dr. Kortoxian stands in the shadows.
+You see exits leading northeast, southwest, and west.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:01:57.91--
+(Market): Kalexei says, "Selling various talisman pieces, a lycopod and a corpse flower. Buying a globe bottom. Send tells."
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:01:58.23--
+Avenue of Trapped Souls.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. Some graffiti has been scrawled here. It reads, "No forgiveness, no mercy." A massive, deformed tree grows here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Wings wrapped about herself, a ghost bat hangs from a nearby perch. There are 5 infernal wraiths here. A spirited cremello stallion paces restlessly nearby, ears twitching with boundless energy.  A graceful Pillar of the Moon has been erected here.
+You see exits leading north and southwest.
+5846h, 6061m, 24316e, 22940w  exckdb-0-s06:01:59.29--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, and south.
+5846h, 6061m, 24314e, 22940w  exckdb-0-s06:01:59.50--
+Before the Mhaldor Cathedral.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and west.
+5846h, 6061m, 24312e, 22940w  exckdb-0-s06:01:59.76--
+Descent before the Cathedral (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and south.
+5846h, 6061m, 24310e, 22940w  exckdb-0-s06:02:00.52--
+Walkway of the faithful (indoors).
+A mule of Moghedu wanders about here, nosing at the ground. A runic totem is planted solidly in the ground. Draped in dark fabrics, the Confessor stands here silently. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and south.
+5846h, 6061m, 24308e, 22940w  exckdb-0-s06:02:00.99--
+Before the doors of Damnation.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here.
+You see exits leading north (open door), east, south, and west.
+5846h, 6061m, 24306e, 22940w  exckdb-0-s06:02:01.21--
+Vestibule of Evil (indoors).
+A tapestry depicting the raising of the Leviathan hangs upon a wall. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast, south (open door), and southwest.
+5846h, 6061m, 24304e, 22940w  exckdb-0-s06:02:01.52--
+Tower-like buttresses (indoors).
+A runic totem is planted solidly in the ground. Consort Sabatu, the dwaemon guard stands here alert to any threats. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, south, and west.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:02:01.97--
+Dim globes (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, south, and northwest.
+5846h, 6081m, 24316e, 22940w  exckdb-0-s06:02:02.42--
+Parallel aisles (indoors).
+A runic totem is planted solidly in the ground. Swinging her shortswords clumsily, Irilan practices her fighting here. A sigil in the shape of a small, rectangular monolith is on the ground. Clad in layers of thick, ancient plate armour, Rhaksul, the Infernal Knight, lingers here.
+You see exits leading north, northeast, southeast, and southwest.
+5846h, 6081m, 24314e, 22940w  exckdb-0-s06:02:02.96--
+A pair of confessionals (indoors).
+A runic totem is planted solidly in the ground. Mumbling to himself and quietly chanting hellborn rituals, a small heavily cloaked gremlin is here, kneeling on the cold stone. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, east, south, and northwest.
+5846h, 6081m, 24312e, 22940w  exckdb-0-s06:02:03.26--
+Dark sanctuary (indoors).
+A runic totem is planted solidly in the ground. An aura of power pulsates from Aznahz, the Haruspex. Unholy Sister Emalaith is here, gazing piously at Aznahz. A sigil in the shape of a small, rectangular monolith is on the ground. A bone pew is here.
+You see a single exit leading southeast.
+Cruel eyes flash across your vision followed quickly by apocalyptic visions that scream into your mind. The cruel laughter of the Haruspex, whose domain you enter, attempts to soothe your mind yet terror still lingers at the powerful creature before you.
+Aznahz, the Haruspex tells you, "Welcome to my sanctuary, Dartega."
+5846h, 6081m, 24310e, 22940w  exckdb-0-s06:02:03.80--
+A pair of confessionals (indoors).
+A runic totem is planted solidly in the ground. Mumbling to himself and quietly chanting hellborn rituals, a small heavily cloaked gremlin is here, kneeling on the cold stone. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, east, south, and northwest.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:02:06.74--
+A pair of confessionals (indoors).
+A runic totem is planted solidly in the ground. Mumbling to himself and quietly chanting hellborn rituals, a small heavily cloaked gremlin is here, kneeling on the cold stone. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, east, south, and northwest.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:02:07.60--
+Multi-storied facade (indoors).
+A vague aura reveals the haunting presence of Rapacimous, the Daemon of Intellect. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast, south, and southwest.
+5846h, 6071m, 24316e, 22940w  exckdb-0-s06:02:08.31--
+A stone beam (indoors).
+A runic totem is planted solidly in the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, southeast, southwest, and west.
+5846h, 6071m, 24314e, 22940w  exckdb-0-s06:02:08.71--
+Composed by: Taraus on or about the 9th of Daedalan, 682 AF.
+
+
+----------------------------------------
+  
+                     [ ]         LEGEND
+                    / ^           ^  Up
+                 [ ] [ ]         v  Down
+            [ ]   |   ^
+               ^v[ ] [ ]-[ ]
+            [ ]
+                     [ ]     [ ]
+                                v
+                                 [T]
+
+----------------------------------------
+
+The entrance to the Legates Househall is located 'Before the Spire of
+Horror' in the Baelgrim Fortress, one WEST from 'Central Courtyard'.
+
+The phrase to enter the Estate currently is, "Evil subjugates all
+things."
+    -- You should read HHELP SECURITY before attempting to enter. --
+
+Dreadlord Ariocha is located within the Estate at the 'Vestibule of
+Training' to assist you in learning your skills. There is a halfling in
+a cage with her. You might want to enjoy it as entertainment as you
+study your skills.
+
+Feel free to interact with the statue settled in the Hall of Conversion.
+Admire the mosaic as you pass through the Chamber of Ceremony and stare
+well at the map that lies affixed to the walls of the Hall of Conquest.
+If you but push your fingers to the map, you'll understand what our
+charge is, as Dread Legates of Mhaldor.
+
+Within 'a quiet hall' in our estate, you will find your willpower and
+endurance regeneration increased, as this location has been imbued with
+a magical enchantment to aide in such. Should you find need to utilise
+this room, ensure your vigilance and awareness remains on high.
+ 
+[Type MORE if you wish to continue reading. (72% shown)]
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:02:11.49--
+Stained-glass (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast, southwest, and northwest.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:02:23.32--
+Dim globes (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, south, and northwest.
+5846h, 6081m, 24316e, 22940w  exckdb-0-s06:02:23.38--
+Tower-like buttresses (indoors).
+A runic totem is planted solidly in the ground. Consort Sabatu, the dwaemon guard stands here alert to any threats. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, south, and west.
+5846h, 6081m, 24314e, 22940w  exckdb-0-s06:02:23.47--
+Now now, don't be so hasty!
+5846h, 6081m, 24312e, 22940w  exckdb-0-s06:02:23.55--
+Vestibule of Evil (indoors).
+A tapestry depicting the raising of the Leviathan hangs upon a wall. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast, south (open door), and southwest.
+5846h, 6081m, 24310e, 22940w  exckdb-0-s06:02:24.09--
+Before the doors of Damnation.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A sigil in the shape of a small, rectangular monolith is on the ground. An obsidian eye sigil is here.
+You see exits leading north (open door), east, south, and west.
+5846h, 6081m, 24308e, 22940w  exckdb-0-s06:02:24.20--
+Walkway of the faithful (indoors).
+A mule of Moghedu wanders about here, nosing at the ground. A runic totem is planted solidly in the ground. Draped in dark fabrics, the Confessor stands here silently. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and south.
+5846h, 6081m, 24306e, 22940w  exckdb-0-s06:02:24.28--
+Now now, don't be so hasty!
+5846h, 6081m, 24304e, 22940w  exckdb-0-s06:02:24.34--
+Descent before the Cathedral (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and south.
+5846h, 6081m, 24302e, 22940w  exckdb-0-s06:02:25.00--
+Before the Mhaldor Cathedral.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and west.
+5846h, 6081m, 24300e, 22940w  exckdb-0-s06:02:25.10--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, and south.
+5846h, 6081m, 24298e, 22940w  exckdb-0-s06:02:25.21--
+Now now, don't be so hasty!
+5846h, 6081m, 24296e, 22940w  exckdb-0-s06:02:25.29--
+Now now, don't be so hasty!
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:02:25.96--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A cast iron trough of bubbling tar is here, pouring sludge into the sewer grate. A sewer grate looms darkly beneath your feet. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Cracked rock surrounds a sulphurous fissure recently rent in the stony earth. A worn scroll made of crimson leather lies forgotten upon the ground.
+You see exits leading north, east (closed door), south, and west.
+5846h, 6081m, 24316e, 22940w  exckdb-0-s06:02:26.60--
+You step through a sewer grate.
+Sewers beneath Jirken's residence (indoors).
+A sigil in the shape of a small, rectangular monolith is on the ground. A runic totem is planted solidly in the ground.
+You see exits leading north, east, south, and up.
+5846h, 6081m, 24316e, 22940w  exckdb-0-s06:02:26.76--
+Sewers under the Tree (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A mhun scout crouches here quietly.
+You see exits leading north and southwest.
+5846h, 6081m, 24314e, 22940w  exckdb-0-s06:02:26.87--
+Below the Streets of Sin (indoors).
+A runic totem is planted solidly in the ground.
+You see exits leading northeast and southwest.
+5846h, 6081m, 24312e, 22940w  exckdb-0-s06:02:26.99--
+Below a junction of Mhaldor Road (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, south, northwest, up, and down.
+5846h, 6081m, 24310e, 22940w  exckdb-0-s06:02:27.10--
+A steel ladder (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, south, and up.
+5846h, 6081m, 24308e, 22940w  exckdb-0-s06:02:27.24--
+Now now, don't be so hasty!
+5846h, 6071m, 24306e, 22940w  exckdb-0-s06:02:27.41--
+Now now, don't be so hasty!
+5846h, 6071m, 24304e, 22940w  exckdb-0-s06:02:27.97--
+A dangerous climb (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading up and down.
+5846h, 6071m, 24302e, 22940w  exckdb-0-s06:02:28.58--
+A sluice gate and ladder (indoors).
+A runic totem is planted solidly in the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A sigil in the shape of a small, rectangular monolith is on the ground. A mhun scout crouches here quietly.
+You see exits leading north and down.
+5846h, 6071m, 24300e, 22940w  exckdb-0-s06:02:28.66--
+Passage filled with mystical energy (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north and south.
+5846h, 6071m, 24298e, 22940w  exckdb-0-s06:02:28.73--
+Now now, don't be so hasty!
+5846h, 6071m, 24296e, 22940w  exckdb-0-s06:02:28.82--
+A main intersection of sewers (indoors).
+A runic totem is planted solidly in the ground.
+You see exits leading north, northeast, east, southeast, south, southwest, west, northwest, and up.
+5846h, 6071m, 24294e, 22940w  exckdb-0-s06:02:29.41--
+Central courtyard.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A Rajamalan woman has been nailed upon a ridged, blood-stained cross and left to perish. A runic totem is planted solidly in the ground. There are 2 beleaguered slaves here. A stone fountain of dark fluid murmurs quietly. A dark granite statue of Lord Kaelin, of The Maldaathi casts its forbidding shadow upon the area. A sewer grate looms darkly beneath your feet. A sigil in the shape of a small, rectangular monolith is on the ground. A fractured sliver of stone sits covered in viscous ooze.
+You see exits leading north, northeast, east, southeast, south, southwest, west, northwest, and down.
+5846h, 6071m, 24292e, 22940w  exckdb-0-s06:02:29.53--
+Northeast of the central courtyard.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite.
+You see exits leading northeast (open door), east (open door), southwest, and in.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:02:33.96--
+Northeast of the central courtyard.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite.
+You see exits leading northeast (open door), east (open door), southwest, and in.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:02:35.30--
+You aren't wielding anything.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:02:38.37--
+You begin to wield an eye sigil in your left hand.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:02:38.37--
+Your aura of weapons rebounding disappears.
+You cast the eye sigil at the ground, and it bursts with a flash of light.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:02:38.37--
+The following beings are in your entourage:
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:02:42.36--
+You are in no group at present.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:02:42.36--
+Wyd has bled out, slain by the might of Vanquisher Medi Dracrotalus in Ainghaeal's Nest.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:02:55.26--
+Northeast of the central courtyard.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite.
+You see exits leading northeast (open door), east (open door), southwest, and in.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:07.49--
+Central courtyard.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A Rajamalan woman has been nailed upon a ridged, blood-stained cross and left to perish. A runic totem is planted solidly in the ground. There are 3 beleaguered slaves here. A stone fountain of dark fluid murmurs quietly. A dark granite statue of Lord Kaelin, of The Maldaathi casts its forbidding shadow upon the area. A sewer grate looms darkly beneath your feet. A sigil in the shape of a small, rectangular monolith is on the ground. A fractured sliver of stone sits covered in viscous ooze.
+You see exits leading north, northeast, east, southeast, south, southwest, west, northwest, and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:07.88--
+Before the Spire of Horror.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. The sun shines brightly overhead. A large bronze plaque is affixed to the front of the spire, just above the doorway. A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor. A sigil in the shape of a small, rectangular monolith is on the ground. A pike with the decapitated head of Rangor has been erected.
+You see exits leading east and southeast.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:10.48--
+The following beings are in your entourage:
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:11.76--
+You are in no group at present.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:11.76--
+You aren't wielding anything.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:11.76--
+You begin to wield an eye sigil in your left hand.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:11.76--
+You cast the eye sigil at the ground, and it bursts with a flash of light.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:11.76--
+You say, "Evil subjugates all things."
+Molten fire erupts around you, its acrid smoke blinding you. When your sight returns, you find your location has changed.
+A vaulted anteroom (indoors).
+A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor.
+You see exits leading northwest and down.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:15.12--
+A vaulted anteroom (indoors).
+A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor.
+You see exits leading northwest and down.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:16.23--
+Vestibule of Training (indoors).
+A runic totem is planted solidly in the ground. Smirking in disdain, the hulking form of Ariocha, the Dreadlord stands poised. The diminutive form of a dirty halfling shows through the bars of an iron cage. A plain stone juts out from the wall as if loose.
+You see a single exit leading up.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:03:17.21--
+totem27361          a runic totem
+ariocha211735       Ariocha, the Dreadlord
+cage312576          a large iron cage
+stone506294         a plain stone
+Number of objects: 4
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:18.92--
+You see the following people here:
+Dartega
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:18.97--
+A vaulted anteroom (indoors).
+A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor.
+You see exits leading northwest and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:20.53--
+A vaulted anteroom (indoors).
+A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor.
+You see exits leading northwest and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:21.06--
+Within the library (indoors).
+A runic totem is planted solidly in the ground. Mounted to the wall, a massive steel shield reflects flickering light. A dark crimson stone bookshelf is here.
+You see exits leading southeast and west.
+5846h, 6071m, 24316e, 22940w  exckdb-0-s06:03:21.63--
+totem200223         a runic totem
+shield232444        a massive shield
+bookshelf955        a dark crimson stone bookshelf (furniture)
+Number of objects: 3
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:03:23.22--
+You see the following people here:
+Dartega
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:03:23.22--
+A quiet hall (indoors).
+The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading east and up.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:03:24.33--
+shrine376837        a shrine of Sartan
+totem506391         a runic totem
+sigil150349         a monolith sigil
+Number of objects: 3
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:03:24.85--
+You see the following people here:
+Dartega
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:03:24.85--
+There is no exit in that direction.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:26.27--
+Hall of Conversion (indoors).
+A runic totem is planted solidly in the ground. Dominating the centre of the room, a statue flows from the floor stones. An ethereal spiritwolf swirls and spirals incessantly, constantly shifting.
+You see exits leading up and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:28.12--
+totem351408         a runic totem
+statue530441        a white marble statue
+spiritwolf44111     an ethereal spiritwolf
+Number of objects: 3
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:29.07--
+You see the following people here:
+Dartega
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:29.07--
+Hall of Conversion (indoors).
+A runic totem is planted solidly in the ground. Dominating the centre of the room, a statue flows from the floor stones. An ethereal spiritwolf swirls and spirals incessantly, constantly shifting.
+You see exits leading up and down.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:30.55--
+Chamber of Ceremony (indoors).
+A runic totem is planted solidly in the ground. Outlined by a ring of steel, tiny tiles form a colourful mosaic upon the floor. Positioned powerfully, a black marble altar radiates dominating strength. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading southwest and down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:31.76--
+Hall of Conquest (indoors).
+A runic totem is planted solidly in the ground. A massive steel map covers the floor stones. There are 11 heraldic pennons bearing the city arms of Mhaldor here. An heraldic pennon flies here, bearing the House arms of the Dread Legates. There are 20 heraldic pennons here.
+You see exits leading northeast and south.
+5846h, 6061m, 24316e, 22940w  exckdb-0-s06:03:33.46--
+totem381440         a runic totem
+map531631           a metal map
+pennon320954        an heraldic pennon
+pennon321001        an heraldic pennon
+pennon321045        an heraldic pennon
+pennon321051        an heraldic pennon
+pennon321069        an heraldic pennon
+pennon321083        an heraldic pennon
+pennon379086        an heraldic pennon
+pennon396346        an heraldic pennon
+pennon437765        an heraldic pennon
+pennon437778        an heraldic pennon
+pennon263998        an heraldic pennon
+pennon41667         an heraldic pennon
+pennon109117        an heraldic pennon
+pennon132137        an heraldic pennon
+pennon137150        an heraldic pennon
+pennon151713        an heraldic pennon
+pennon172482        an heraldic pennon
+pennon172549        an heraldic pennon
+pennon194896        an heraldic pennon
+pennon203398        an heraldic pennon
+pennon210061        an heraldic pennon
+pennon215039        an heraldic pennon
+pennon218126        an heraldic pennon
+pennon218127        an heraldic pennon
+pennon222391        an heraldic pennon
+pennon222521        an heraldic pennon
+pennon223698        an heraldic pennon
+pennon223704        an heraldic pennon
+pennon223730        an heraldic pennon
+pennon226056        an heraldic pennon
+pennon237490        an heraldic pennon
+pennon237499        an heraldic pennon
+Number of objects: 34
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:03:34.75--
+You see the following people here:
+Dartega
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:03:34.89--
+Hall of Conquest (indoors).
+A runic totem is planted solidly in the ground. A massive steel map covers the floor stones. There are 11 heraldic pennons bearing the city arms of Mhaldor here. An heraldic pennon flies here, bearing the House arms of the Dread Legates. There are 20 heraldic pennons here.
+You see exits leading northeast and south.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:36.37--
+Heights of the Spire (indoors).
+A runic totem is planted solidly in the ground. Lying flat on the ground is a key-shaped sigil. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast (closed door), up (closed door), and down (closed door).
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:38.14--
+There is a door in the way, to the down.
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:41.41--
+You open the door to the down.
+Opened briefly, a door swings closed again with a thud.
+5846h, 6071m, 24316e, 22940w  exckdb-0-s06:03:41.49--
+Heights of the Spire (indoors).
+A runic totem is planted solidly in the ground. Lying flat on the ground is a key-shaped sigil. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southeast (closed door), up (closed door), and down (closed door).
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:03:42.64--
+Hall of Conquest (indoors).
+A runic totem is planted solidly in the ground. A massive steel map covers the floor stones. There are 11 heraldic pennons bearing the city arms of Mhaldor here. An heraldic pennon flies here, bearing the House arms of the Dread Legates. There are 20 heraldic pennons here.
+You see exits leading northeast and south.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:03:45.50--
+totem381440         a runic totem
+map531631           a metal map
+pennon320954        an heraldic pennon
+pennon321001        an heraldic pennon
+pennon321045        an heraldic pennon
+pennon321051        an heraldic pennon
+pennon321069        an heraldic pennon
+pennon321083        an heraldic pennon
+pennon379086        an heraldic pennon
+pennon396346        an heraldic pennon
+pennon437765        an heraldic pennon
+pennon437778        an heraldic pennon
+pennon263998        an heraldic pennon
+pennon41667         an heraldic pennon
+pennon109117        an heraldic pennon
+pennon132137        an heraldic pennon
+pennon137150        an heraldic pennon
+pennon151713        an heraldic pennon
+pennon172482        an heraldic pennon
+pennon172549        an heraldic pennon
+pennon194896        an heraldic pennon
+pennon203398        an heraldic pennon
+pennon210061        an heraldic pennon
+pennon215039        an heraldic pennon
+pennon218126        an heraldic pennon
+pennon218127        an heraldic pennon
+pennon222391        an heraldic pennon
+pennon222521        an heraldic pennon
+pennon223698        an heraldic pennon
+pennon223704        an heraldic pennon
+pennon223730        an heraldic pennon
+pennon226056        an heraldic pennon
+pennon237490        an heraldic pennon
+pennon237499        an heraldic pennon
+Number of objects: 34
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:46.57--
+You see the following people here:
+Dartega
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:03:46.57--
+Chamber of Ceremony (indoors).
+A runic totem is planted solidly in the ground. Outlined by a ring of steel, tiny tiles form a colourful mosaic upon the floor. Positioned powerfully, a black marble altar radiates dominating strength. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading southwest and down.
+5846h, 6081m, 24318e, 22940w  exckdb-0-s06:03:47.08--
+Hall of Conversion (indoors).
+A runic totem is planted solidly in the ground. Dominating the centre of the room, a statue flows from the floor stones. An ethereal spiritwolf swirls and spirals incessantly, constantly shifting.
+You see exits leading up and down.
+5846h, 6071m, 24316e, 22940w  exckdb-0-s06:03:48.14--
+A quiet hall (indoors).
+The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading east and up.
+5846h, 6071m, 24314e, 22940w  exckdb-0-s06:03:48.68--
+There is no exit in that direction.
+5846h, 6071m, 24314e, 22940w  exckdb-0-s06:03:49.34--
+Within the library (indoors).
+A runic totem is planted solidly in the ground. Mounted to the wall, a massive steel shield reflects flickering light. A dark crimson stone bookshelf is here.
+You see exits leading southeast and west.
+5846h, 6071m, 24312e, 22940w  exckdb-0-s06:03:50.07--
+totem200223         a runic totem
+shield232444        a massive shield
+bookshelf955        a dark crimson stone bookshelf (furniture)
+Number of objects: 3
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:51.60--
+You see the following people here:
+Dartega
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:51.61--
+A vaulted anteroom (indoors).
+A runic totem is planted solidly in the ground. A bloodsteel pentagram stretches across the floor.
+You see exits leading northwest and down.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:03:54.04--
+Vestibule of Training (indoors).
+A runic totem is planted solidly in the ground. Smirking in disdain, the hulking form of Ariocha, the Dreadlord stands poised. The diminutive form of a dirty halfling shows through the bars of an iron cage. A plain stone juts out from the wall as if loose.
+You see a single exit leading up.
+5846h, 6061m, 24318e, 22940w  exckdb-0-s06:03:55.54--
+totem27361          a runic totem
+ariocha211735       Ariocha, the Dreadlord
+cage312576          a large iron cage
+stone506294         a plain stone
+Number of objects: 4
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:57.52--
+You see the following people here:
+Dartega
+5846h, 6071m, 24318e, 22940w  exckdb-0-s06:03:57.53--
+Vestibule of Training (indoors).
+A runic totem is planted solidly in the ground. Smirking in disdain, the hulking form of Ariocha, the Dreadlord stands poised. The diminutive form of a dirty halfling shows through the bars of an iron cage. A plain stone juts out from the wall as if loose.
+You see a single exit leading up.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:03:59.15--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:04:07.92--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:04:12.91--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the DEAF ability!
+The next ability you will learn is: IMPATIENCE.
+Your skill in Evileye has risen to Novice.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:04:16.91--
+I don't see who you wish to learn from.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:04:17.00--
+What do you want to eat?
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:05:02.96--
+What do you want to eat?
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:05:05.26--
+You have no myrrh stored in the Rift.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:05:08.36--
+You have no bismetum stored in the Rift.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:13.82--
+You have no bismutum stored in the Rift.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:05:18.91--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:25.83--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:05:30.83--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the IMPATIENCE ability!
+The next ability you will learn is: CLUMSY.
+Your skill in Evileye has risen to Apprentice.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:36.04--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:36.23--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:05:41.44--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the CLUMSY ability!
+The next ability you will learn is: VERTIGO.
+Your skill in Evileye has risen to Capable.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:45.51--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:45.61--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:05:50.62--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the VERTIGO ability!
+The next ability you will learn is: BLEED.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:54.63--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:05:54.71--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:05:59.72--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: BLEED.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:03.74--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:03.84--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:08.84--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the BLEED ability!
+The next ability you will learn is: AMNESIA.
+Your skill in Evileye has risen to Adept.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:12.84--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:12.90--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:17.91--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: AMNESIA.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:21.94--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:22.00--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:27.00--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the AMNESIA ability!
+The next ability you will learn is: AGORAPHOBIA.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:31.00--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:06:31.07--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:36.08--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the AGORAPHOBIA ability!
+The next ability you will learn is: BREACH.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:06:40.08--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:06:40.14--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:45.14--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: BREACH.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:06:49.14--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:06:49.22--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:54.22--
+Medi dies, his defences no match for the relentless might of Sir Wyd Vorondil-Windsong, Sentry of the Shield in Ainghaeal's Nest.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:57.82--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: BREACH.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:58.22--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:06:58.37--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:07:03.37--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the BREACH ability!
+The next ability you will learn is: DIZZY.
+Your skill in Evileye has risen to Skilled.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:07.39--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:07.51--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:07:12.51--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: DIZZY.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:16.53--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:16.60--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:21.68--
+(Market): Kalexei says, "Buying runes."
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:07:22.85--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: DIZZY.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:25.67--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:25.75--
+Page Ariete Xanatov, Shieldwarden has battered Wyna to death in Ainghaeal's Nest.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:28.82--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:30.77--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+You have learned the DIZZY ability!
+The next ability you will learn is: CLAUSTROPHOBIA.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:34.80--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:34.94--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:39.95--
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:42.53--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:42.54--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: CLAUSTROPHOBIA.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:07:43.98--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6081m, 24320e, 22940w  exckdb-0-s06:07:44.06--
+(Market): Prysala says, "Daughter's Shoppe - north and east of Cyrene fountain. Health and mana refills for 150 per refill!"
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:46.52--
+Ariocha, the Dreadlord continues your training in Evileye.
+5846h, 6071m, 24320e, 22940w  exckdb-0-s06:07:49.06--
+Punctuated with a stern glare, Ariocha, the Dreadlord gives you a final reminder of the importance of discipline and practice and sends you on your way.
+The next ability you will learn is: CLAUSTROPHOBIA.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:53.06--
+Ariocha, the Dreadlord bows to you and commences the lesson in Evileye.
+5846h, 6061m, 24320e, 22940w  exckdb-0-s06:07:53.13--
