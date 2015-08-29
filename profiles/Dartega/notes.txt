@@ -1,37 +1,70 @@
-[here - Kasya, Eorissa, Vicious, Lace, Kitta and Anedhel (6)]
-
-Flagellate (Battlerage)                       Known: Yes
+Convulsions (Battlerage)                      Known: Yes
 -------------------------------------------------------------------------------
-Syntax:            FLAGELLATE <target>
-Extra Information: Gives denizen affliction: Aeon
-
-Works on/against:  Denizens
-Cooldown:          27.00 seconds
-Resource:          25 rage
-Details:
-Sting your target's nerves with a series of light whip cracks, causing the target to suffer from 
-sensitivity for a few seconds.
--------------------------------------------------------------------------------
-
-Thrash (Battlerage)                           Known: Yes
--------------------------------------------------------------------------------
-Syntax:            THRASH <target>
+Syntax:            STARE <target> CONVULSIONS
 Works on/against:  Denizens
 Cooldown:          16.00 seconds
 Resource:          14 rage
 Details:
-Expend your rage to whip the target bloody, causing intense damage.
+Use the evileye to cause your victim's limbs to contract and cause great pain. The convulsions will 
+last for a short time, continually doing damage to the target.
 -------------------------------------------------------------------------------
 
-Throatrip (Battlerage)                        Known: Yes
+Pierce (Battlerage)                           Known: Yes
 -------------------------------------------------------------------------------
-Syntax:            THROATRIP <target>
-Extra Information: Uses denizen afflictions: Fear or Amnesia
+Syntax:            DAEGGER PIERCE <target>
+Works on/against:  Denizens
+Resource:          17 rage
+Details:
+Order your daegger to pierce through a denizen's shield, rendering it useless.
+-------------------------------------------------------------------------------
 
+Burrow (Battlerage)                           Known: Yes
+-------------------------------------------------------------------------------
+Syntax:            DAEGGER BURROW <target>
 Works on/against:  Denizens
 Cooldown:          23.00 seconds
 Resource:          36 rage
 Details:
-Use your fangs in a display of sheer viciousness and rage as you rip your target's throat out.
+Cause your daegger to burrow into your opponent's body and root around for a while, causing intense 
+damage.
 -------------------------------------------------------------------------------
 
+Bloodlet (Battlerage)                         Known: Yes
+-------------------------------------------------------------------------------
+Syntax:            BLOODLET <target>
+Extra Information: Uses denizen afflictions: Sensitivity or Stun
+
+Works on/against:  Denizens
+Cooldown:          23.00 seconds
+Resource:          25 rage
+Details:
+Your daegger will attempt to slice into the veins of your victim and drink from them. If your target 
+is afflicted by sensitivity or is stunned, the daegger will inflict increased damage.
+-------------------------------------------------------------------------------
+
+Possess (Battlerage)                          Known: Yes
+-------------------------------------------------------------------------------
+Syntax:            POSSESS <target>
+Extra Information: Gives denizen affliction: Charm
+
+Works on/against:  Denizens
+Cooldown:          43.00 seconds
+Resource:          32 rage
+Details:
+Override a target's will with the insertion of a minor demonic spirit, charming it to your cause for 
+a short time. While charmed, your victim will aid you in attacking any other denizens that you are 
+currently fighting.
+-------------------------------------------------------------------------------
+
+Horrify (Battlerage)                          Known: Yes
+-------------------------------------------------------------------------------
+Syntax:            STARE <target> HORRIFY
+Extra Information: Gives denizen affliction: Fear
+
+Works on/against:  Denizens
+Cooldown:          34.00 seconds
+Resource:          29 rage
+Details:
+Use the evileye to summon vissions of hell that terrify your opponents and send them fleeing for 
+several seconds.
+-------------------------------------------------------------------------------
