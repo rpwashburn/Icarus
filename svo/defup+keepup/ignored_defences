@@ -1,8 +1,0 @@
-return {{[ [[subterfuge]] ] = {2},[ [[general]] ] = {3},[ [[dragoncraft]] ] = {4},},
-{[ [[status]] ] = false,[ [[t]] ] = {5},},
-{[ [[status]] ] = false,[ [[t]] ] = {6},},
-{[ [[status]] ] = false,[ [[t]] ] = {7},},
-{[ [[weaving]] ] = false,[ [[ghost]] ] = false,[ [[phase]] ] = false,[ [[eavesdrop]] ] = false,[ [[listen]] ] = false,[ [[hiding]] ] = false,[ [[scales]] ] = false,[ [[secondsight]] ] = false,[ [[lipread]] ] = false,[ [[pacing]] ] = false,[ [[cloaking]] ] = false,[ [[bask]] ] = false,},
-{[ [[telesense]] ] = false,[ [[deaf]] ] = false,[ [[sileris]] ] = false,[ [[shield]] ] = false,[ [[clinging]] ] = false,[ [[alertness]] ] = false,[ [[frost]] ] = false,[ [[skywatch]] ] = false,[ [[block]] ] = false,[ [[bell]] ] = false,[ [[curseward]] ] = false,[ [[mindseye]] ] = false,[ [[breath]] ] = false,[ [[caloric]] ] = false,[ [[thirdeye]] ] = false,[ [[fireresist]] ] = false,[ [[lyre]] ] = false,[ [[meditate]] ] = false,[ [[riding]] ] = false,[ [[magicresist]] ] = false,[ [[insomnia]] ] = false,[ [[metawake]] ] = false,[ [[levitation]] ] = false,[ [[mass]] ] = false,[ [[coldresist]] ] = false,[ [[cloak]] ] = false,[ [[electricresist]] ] = false,[ [[selfishness]] ] = false,[ [[blind]] ] = false,[ [[softfocus]] ] = false,[ [[speed]] ] = false,[ [[satiation]] ] = false,[ [[rebounding]] ] = false,[ [[nightsight]] ] = false,[ [[deathsight]] ] = false,[ [[groundwatch]] ] = false,[ [[kola]] ] = false,[ [[vigilance]] ] = false,[ [[hypersight]] ] = false,[ [[treewatch]] ] = false,[ [[myrrh]] ] = false,[ [[venom]] ] = false,},
-{[ [[dragonarmour]] ] = false,[ [[dragonform]] ] = false,[ [[dragonbreath]] ] = false,},
-}
