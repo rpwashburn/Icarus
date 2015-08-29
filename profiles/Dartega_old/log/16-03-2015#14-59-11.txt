@@ -1,0 +1,1276 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           182 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           185 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+Your megalith tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:20.54--
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:20.69--
+I cannot fathom your meaning.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:21.88--
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:23.07--
+(Mhaldor): Xinna says, "The font still requires filling. I have the things of Chaos and drakes, but anyone can do lamassu, flower maidens, or fairies, it would be useful."
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:25.23--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5714h, 5639m, 24875e, 22205w  xdb---s20:03:29.38--
+You must regain equilibrium first.
+5714h, 5639m, 24875e, 22205w  xdb---s20:03:31.43--
+You have recovered equilibrium.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:31.92--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:34.46--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:35.04--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:35.20--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:39.32--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:39.52--
+(The Midnight Crew): Melodie sadly says, "Sure leave the forest shit for us."
+5714h, 5639m, 24875e, 22205w  exdb---s20:03:44.38--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24873e, 22205w  exdb---s20:03:48.42--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:49.09--
+(The Midnight Crew): Xinna says, "Suckers."
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:49.40--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24869e, 22205w  exdb---s20:03:49.64--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A sigil in the shape of a small, rectangular monolith is on the ground. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A quicksilver droplet is here, rolling across the floor. Brimming with energy, a sooty Dardanic colt waits impatiently nearby. A silvery Dardanic mare stands here with a graceful presence. Curving her neck coquettishly, a dappled Dardanic filly nibbles at her shoulder. Regal and commanding, a Dardanic stallion watches over his surroundings.
+You see exits leading up and down.
+5714h, 5639m, 24873e, 22205w  exdb---s20:03:51.65--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A crystalline golem stands here. A simple cream-coloured cup sits here. A many-headed hydra towers over the area, his carmine scales glimmering like gems. A mortal heart, still dripping blood is here. A regal valley iguana regards the surroundings with bright amber eyes. A Baalzadeen demon towers over you, filling you with dread. An elegant bloodstone bench is here. A black bone chest is here. Vivessa, Apprentice of Manipulation is here. Her face is partially concealed beneath a raised hood. She wields a wicked-looking daegger in her left hand and a cavalry shield in her right. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:51.96--
+Vivessa and her Baalzadeen fade out of view.
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:53.39--
+Purgatory Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "From His Truths, we draw our strength." A runic totem is planted solidly in the ground. There are 5 knights of the Maldaathi here. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast and southwest.
+5714h, 5639m, 24873e, 22205w  exdb---s20:03:54.99--
+Streets of Sin.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Strength through Service." A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, southwest, and west.
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:55.22--
+Avenue of Trapped Souls.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Everything about you is obscured by a heavy fog. Some graffiti has been scrawled here. It reads, "No forgiveness, no mercy." There are 5 infernal wraiths here. A massive, deformed tree grows here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.  A graceful Pillar of the Moon has been erected here.
+You see exits leading north and southwest.
+5714h, 5639m, 24869e, 22205w  exdb---s20:03:55.51--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A burly, wide set mhun works frantically here.
+You see exits leading north, east, and south.
+5714h, 5639m, 24867e, 22205w  exdb---s20:03:55.88--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. A cast iron trough of bubbling tar is here, pouring sludge into the sewer grate. A sewer grate looms darkly beneath your feet. A sigil in the shape of a small, rectangular monolith is on the ground. A runic totem is planted solidly in the ground. A broken piece of a wickedly sharp, blackened blade has been discarded here.
+You see exits leading north, east (closed door), south, and west.
+5714h, 5639m, 24865e, 22205w  exdb---s20:03:56.09--
+Now now, don't be so hasty!
+5714h, 5639m, 24863e, 22205w  exdb---s20:03:56.22--
+Nefarious Way.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A burly, wide set mhun works frantically here.
+You see exits leading north, east, and south.
+5714h, 5639m, 24861e, 22205w  exdb---s20:03:56.57--
+Avenue of Trapped Souls.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Everything about you is obscured by a heavy fog. Some graffiti has been scrawled here. It reads, "No forgiveness, no mercy." There are 5 infernal wraiths here. A massive, deformed tree grows here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.  A graceful Pillar of the Moon has been erected here.
+You see exits leading north and southwest.
+5714h, 5639m, 24859e, 22205w  exdb---s20:03:56.74--
+There is no exit in that direction.
+5714h, 5639m, 24859e, 22205w  exdb---s20:03:56.88--
+There is no exit in that direction.
+5714h, 5639m, 24859e, 22205w  exdb---s20:03:57.04--
+Streets of Sin.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Strength through Service." A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast, southwest, and west.
+5714h, 5639m, 24857e, 22205w  exdb---s20:03:57.39--
+Purgatory Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "From His Truths, we draw our strength." A runic totem is planted solidly in the ground. There are 5 knights of the Maldaathi here. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading northeast and southwest.
+5714h, 5639m, 24855e, 22205w  exdb---s20:03:57.50--
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A sigil in the shape of a small, rectangular monolith is on the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A crystalline golem stands here. A simple cream-coloured cup sits here. A many-headed hydra towers over the area, his carmine scales glimmering like gems. A mortal heart, still dripping blood is here. A regal valley iguana regards the surroundings with bright amber eyes. A Baalzadeen demon towers over you, filling you with dread. An elegant bloodstone bench is here. A black bone chest is here. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5714h, 5639m, 24853e, 22205w  exdb---s20:03:57.67--
+There is no exit in that direction.
+5714h, 5639m, 24873e, 22205w  exdb---s20:03:57.82--
+There is no exit in that direction.
+5714h, 5639m, 24873e, 22205w  exdb---s20:03:58.07--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A sigil in the shape of a small, rectangular monolith is on the ground. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A quicksilver droplet is here, rolling across the floor. Brimming with energy, a sooty Dardanic colt waits impatiently nearby. A silvery Dardanic mare stands here with a graceful presence. Curving her neck coquettishly, a dappled Dardanic filly nibbles at her shoulder. Regal and commanding, a Dardanic stallion watches over his surroundings.
+You see exits leading up and down.
+5714h, 5639m, 24871e, 22205w  exdb---s20:03:58.64--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24869e, 22205w  exdb---s20:03:58.79--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5639m, 24867e, 22205w  exdb---s20:03:59.23--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24865e, 22205w  exdb---s20:03:59.80--
+Before two towering mountains (road).
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A runic totem is planted solidly in the ground. A decaying corpse has been impaled here upon a fifteen foot stake. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, southwest, and up.
+5714h, 5639m, 24863e, 22205w  exdb---s20:04:00.12--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24861e, 22205w  exdb---s20:04:01.01--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24859e, 22205w  exdb---s20:04:01.39--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:01.91--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:31.92--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24873e, 22205w  exdb---s20:04:32.39--
+(Market): Laytron says, "Great value bulk inks N of Lower Western Draoi Crown Emporium Eleusis."
+5714h, 5639m, 24873e, 22205w  exdb---s20:04:32.81--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A stubborn mule wanders about here, nosing at the ground. Brimming with energy, a sooty Dardanic colt waits impatiently nearby.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5714h, 5639m, 24873e, 22205w  exdb---s20:04:32.94--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24873e, 22205w  exdb---s20:04:34.55--
+I missed that altogether.
+5714h, 5639m, 24873e, 22205w  exdb---s20:04:36.07--
+You tell Melodie, "Attakc me real fast."
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:41.10--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:43.13--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:43.30--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:43.51--
+You have the following defences:
+You are deaf.
+You are walking with the grace of the stars.
+You are blind.
+Your senses are magically heightened.
+You are protected by 4 defences.
+5714h, 5639m, 24875e, 22205w  xdb---s20:04:45.05--
+You have recovered equilibrium.
+5714h, 5639m, 24875e, 22205w  exdb---s20:04:45.44--
+You weave your fingers together, calling upon the swiftcurse to aid you.
+5714h, 5439m, 24875e, 22125w  xdb---s20:04:48.51--
+Melodie touches you with her withered finger and an agonizing sensation ripples through your body.
+4527h, 5551m, 24875e, 22143w  xdb---s20:04:50.42--
+You take a drink from an oaken vial.
+The elixir heals and soothes you.
+5689h, 5551m, 24875e, 22143w  xdb---s20:04:50.47--
+You have recovered equilibrium.
+5689h, 5551m, 24875e, 22149w  exdb---s20:04:50.63--
+You may drink another health or mana elixir or tonic.
+5689h, 5551m, 24875e, 22167w  exdb---s20:04:54.89--
+Whom do you wish to tell to?
+5689h, 5551m, 24875e, 22167w  exdb---s20:04:56.46--
+(The Midnight Crew): Merador says, "Lmao."
+5689h, 5551m, 24875e, 22185w  exdb---s20:04:58.00--
+Whom do you wish to tell to?
+5689h, 5551m, 24875e, 22185w  exdb---s20:04:58.79--
+(The Midnight Crew): Merador says, "Chowmein left."
+5689h, 5551m, 24875e, 22185w  exdb---s20:04:59.90--
+You happily tell Melodie, "Affs."
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:01.90--
+(The Midnight Crew): Merador says, "Classic."
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:05.43--
+(The Midnight Crew): Rangor laughingly says, "Not really a bombshell."
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:09.16--
+(The Midnight Crew): Merador says, "It is for me."
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:13.84--
+Melodie stares at you, giving you the evil eye.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.44--
+Melodie stares at you, giving you the evil eye.
+You shuffle your feet noisily, suddenly bored.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.44--
+You're unable to focus your mind.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.49--
+You're unable to focus your mind.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.49--
+You remove 1 plumbum, bringing the total in the Rift to 1385.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.53--
+You eat a plumbum flake.
+You are patient once again.
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.53--
+(The Midnight Crew): Taraus says, "Oh."
+5714h, 5639m, 24875e, 22205w  exdb---s20:05:15.58--
+You focus your mind intently on curing your mental maladies.
+5714h, 5473m, 24875e, 22130w  exdb---s20:05:15.64--
+You may eat another plant or mineral.
+5714h, 5473m, 24875e, 22130w  exdb---s20:05:17.05--
+Melodie stares at you, giving you the evil eye.
+A prickly stinging overcomes your body, fading away into numbness.
+Melodie stares at you, giving you the evil eye.
+You feel a tightening sensation grow in your lungs.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:17.35--
+You remove 1 magnesium, bringing the total in the Rift to 87.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:17.42--
+You eat a magnesium chip.
+Your muscles unlock; you are no longer paralysed.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:17.42--
+(The Midnight Crew): Merador says, "All those Raves about Eleusis lmao."
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:17.89--
+Your mind is able to focus once again.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:18.06--
+You may eat another plant or mineral.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:19.02--
+You remove 1 aurum, bringing the total in the Rift to 264.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:19.06--
+You eat an aurum flake.
+Your bronchial tubes open up and your asthma is cured.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:19.06--
+Melodie stares at you, giving you the evil eye.
+The idea of eating or drinking is repulsive to you.
+Melodie stares at you, giving you the evil eye.
+Your limbs grow heavy and you groan feebly.
+5714h, 5473m, 24875e, 22148w  exdb---s20:05:19.41--
+You focus your mind intently on curing your mental maladies.
+Food is no longer repulsive to you.
+5714h, 5307m, 24875e, 22073w  exdb---s20:05:19.48--
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+5714h, 5639m, 24875e, 22073w  exdb---s20:05:19.52--
+You may eat another plant or mineral.
+5714h, 5639m, 24875e, 22079w  exdb---s20:05:20.63--
+You remove 1 aurum, bringing the total in the Rift to 263.
+5714h, 5639m, 24875e, 22079w  exdb---s20:05:20.69--
+You eat an aurum flake.
+Your limbs strengthen and you feel stronger.
+5714h, 5639m, 24875e, 22079w  exdb---s20:05:20.69--
+Melodie stares at you, giving you the evil eye.
+None may stand in your way! You are invincible!
+Melodie stares at you, giving you the evil eye.
+5714h, 5639m, 24875e, 22097w  exdb---s20:05:21.35--
+You are:
+deaf.
+blind.
+reckless.
+afraid of heights.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:21.39--
+You remove 1 potash, bringing the total in the Rift to 1954.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:21.45--
+You eat a potash crystal.
+You feel your health and mana replenished.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:21.45--
+Your mind is able to focus once again.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:21.85--
+You may eat another plant or mineral.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:22.15--
+You remove 1 lobelia seed, bringing the total in the Rift to 433.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:22.19--
+You eat a lobelia seed.
+Prudence rules your psyche once again.
+5714h, 5639m, 24875e, 22097w  xdb---s20:05:22.21--
+You focus your mind intently on curing your mental maladies.
+Your fear of heights subsides.
+5714h, 5473m, 24875e, 22022w  xdb---s20:05:22.25--
+You have recovered equilibrium.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:22.25--
+Melodie stares at you, giving you the evil eye.
+Hmmmm. Why must everything be so difficult to figure out?
+Melodie stares at you, giving you the evil eye.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:23.40--
+You may eat another plant or mineral.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:23.82--
+You remove 1 plumbum, bringing the total in the Rift to 1384.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:23.86--
+Tears fill your eyes and begin to slowly run down your face.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:23.86--
+You may drink another health or mana elixir or tonic.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:24.07--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Atalkez al'Dejan, Crusher of Wills is here. Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand.
+You see a single exit leading west.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:24.14--
+You drop to one knee.
+5714h, 5473m, 24875e, 22022w  exdb---s20:05:24.31--
+The ground seems to tilt and you fall with a thump.
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.47--
+Atalkez exhales loudly.
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.53--
+You hug yourself compassionately.
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.56--
+You remove 1 plumbum, bringing the total in the Rift to 1383.
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.56--
+You let out a loud, long "MOOOOOOOOOOO!"
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.63--
+Your mind is able to focus once again.
+5714h, 5473m, 24875e, 22022w  edb---s20:05:24.68--
+You focus your mind intently on curing your mental maladies.
+You aren't such a complete idiot anymore.
+5714h, 5307m, 24875e, 21947w  edb---s20:05:24.74--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5307m, 24875e, 21947w  edb---s20:05:24.77--
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+5714h, 5639m, 24875e, 21947w  edb---s20:05:24.82--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21947w  edb---s20:05:24.98--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21947w  edb---s20:05:25.13--
+(The Midnight Crew): Rangor says, "Yeah man, he's weird."
+5714h, 5639m, 24875e, 21947w  edb---s20:05:25.16--
+Atalkez inhales and begins holding his breath.
+5714h, 5639m, 24875e, 21947w  edb---s20:05:25.22--
+You eat a plumbum flake.
+You are no longer dizzy.
+5714h, 5639m, 24875e, 21965w  edb---s20:05:25.26--
+You remove 1 plumbum, bringing the total in the Rift to 1382.
+5714h, 5639m, 24875e, 21965w  edb---s20:05:25.26--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21965w  edb---s20:05:25.30--
+You have recovered balance on all limbs.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.38--
+(The Midnight Crew): Mizik says, "About Mizik*."
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.40--
+You stand up.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.42--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.49--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.70--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:25.90--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:26.32--
+You may eat another plant or mineral.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:26.78--
+Your mind is able to focus once again.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:27.18--
+You may eat another bit of irid moss or potash.
+5714h, 5639m, 24875e, 21965w  exdb---s20:05:27.48--
+You may drink another health or mana elixir or tonic.
+5714h, 5639m, 24875e, 21983w  exdb---s20:05:29.42--
+(The Midnight Crew): Merador says, "Thanks rangor, we really RAPED ashtan today 15 vs 3!! it was great!!"
+5714h, 5639m, 24875e, 21983w  exdb---s20:05:30.10--
+(The Midnight Crew): Taraus says, "Caoimhaen is changing sides again. It must be the second Tuesday of the month."
+5714h, 5639m, 24875e, 21989w  exdb---s20:05:31.00--
+You cease wielding a Shield of Absorption in your left hand.
+5714h, 5639m, 24875e, 21989w  exdb---s20:05:31.16--
+You begin to wield a Shield of Absorption in your left hand.
+5714h, 5639m, 24875e, 21989w  exdb---s20:05:31.16--
+You cease wielding a living vodun doll of Hasar in your right hand.
+5714h, 5639m, 24875e, 21989w  exdb---s20:05:31.16--
+You begin to wield a vodun doll roughly resembling Melodie in your right hand.
+5714h, 5639m, 24875e, 21989w  exdb---s20:05:31.17--
+You point an imperious finger at Melodie.
+Your attempt to breach finds no curseward.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+5714h, 5579m, 24875e, 21964w  edb---s20:05:31.17--
+A vodun doll roughly resembling Melodie, it is crude and does not yet show evidence of much craft.
+It has 25 months of usefulness left.
+The doll looks to have been fashioned 3 times.
+It weighs about 2 pounds and 0 ounce(s).
+It bears the distinctive mark of Dartega.
+5714h, 5579m, 24875e, 21964w  edb---s20:05:31.24--
+You have recovered balance on all limbs.
+5714h, 5579m, 24875e, 21964w  exdb---s20:05:31.97--
+You point an imperious finger at Melodie.
+Horror overcomes Melodie's face as her body stiffens into paralysis.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 15 curses.
+5714h, 5543m, 24875e, 21939w  edb---s20:05:33.05--
+(The Midnight Crew): Mizik says, "W8 will he hate me now."
+5714h, 5543m, 24875e, 21939w  edb---s20:05:33.05--
+Melodie eats a bloodroot leaf.
+5714h, 5543m, 24875e, 21939w  edb---s20:05:33.20--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.54--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.59--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.63--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.70--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.76--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.76--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.79--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.79--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.82--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.84--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.88--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.91--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.95--
+You must regain balance first.
+5714h, 5543m, 24875e, 21957w  edb---s20:05:33.95--
+You have recovered balance on all limbs.
+5714h, 5543m, 24875e, 21957w  exdb---s20:05:34.05--
+You point an imperious finger at Melodie.
+Horror overcomes Melodie's face as her body stiffens into paralysis.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 14 curses.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.05--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.05--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.05--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.10--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.10--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.15--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.17--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.20--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.23--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.25--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.28--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.31--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.34--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.38--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.41--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.43--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.46--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.51--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.53--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.56--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.59--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.63--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.66--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.69--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.72--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.76--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.78--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.81--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.86--
+Melodie eats a bloodroot leaf.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.88--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.88--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.91--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.94--
+You must regain balance first.
+5714h, 5507m, 24875e, 21932w  edb---s20:05:34.98--
+You have recovered balance on all limbs.
+5714h, 5507m, 24875e, 21932w  exdb---s20:05:35.04--
+You point an imperious finger at Melodie.
+Horror overcomes Melodie's face as her body stiffens into paralysis.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 13 curses.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.04--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.05--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.07--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.11--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.12--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.17--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.20--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.23--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.26--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.31--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.33--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.39--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.39--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.44--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.47--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.49--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.52--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.55--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.62--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.63--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.65--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.68--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.71--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.75--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.78--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.81--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.86--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.88--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.93--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.93--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:35.97--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:36.00--
+You must regain balance first.
+5714h, 5471m, 24875e, 21907w  edb---s20:05:36.05--
+You have recovered balance on all limbs.
+5714h, 5471m, 24875e, 21907w  exdb---s20:05:36.05--
+You point an imperious finger at Melodie.
+Melodie shuffles her feet in boredom.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 12 curses.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.07--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.15--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.15--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.17--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.20--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.23--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.27--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.30--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.33--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.36--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.38--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.44--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.46--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.48--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.51--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.53--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.58--
+Melodie eats a bloodroot leaf.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.58--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.61--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.63--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.66--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.71--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.73--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.76--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.79--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.84--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.87--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.89--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.93--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:36.94--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:37.05--
+You must regain balance first.
+5714h, 5438m, 24875e, 21882w  edb---s20:05:37.05--
+You have recovered balance on all limbs.
+5714h, 5438m, 24875e, 21882w  exdb---s20:05:37.07--
+You point an imperious finger at Melodie.
+Horror overcomes Melodie's face as her body stiffens into paralysis.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 11 curses.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.08--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.08--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.13--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.15--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.17--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.20--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.23--
+You must regain balance first.
+5714h, 5402m, 24875e, 21857w  edb---s20:05:37.26--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.30--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.32--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.37--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.41--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.44--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.47--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.52--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.52--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.55--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.57--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.61--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.64--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.67--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.74--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.74--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.77--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.80--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.82--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.87--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.90--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.92--
+You must regain balance first.
+5714h, 5402m, 24875e, 21875w  edb---s20:05:37.95--
+You have recovered balance on all limbs.
+5714h, 5402m, 24875e, 21875w  exdb---s20:05:38.07--
+You point an imperious finger at Melodie.
+You have not formed a bond with the appropriate spirit to carry out that ability.
+The swiftcurse is empowered with another 10 curses.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.07--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.07--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.09--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.11--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.12--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.15--
+You must regain balance first.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.19--
+Melodie makes a strangled meowing noise and quickly shuts up, blushing.
+5714h, 5366m, 24875e, 21850w  edb---s20:05:38.44--
+You have recovered balance on all limbs.
+5714h, 5366m, 24875e, 21850w  exdb---s20:05:39.06--
+Melodie eats a bloodroot leaf.
+5714h, 5366m, 24875e, 21850w  exdb---s20:05:39.58--
+Melodie wails like an old woman.
+5714h, 5366m, 24875e, 21856w  exdb---s20:05:41.16--
+Melodie blinks.
+5714h, 5478m, 24875e, 21874w  exdb---s20:05:41.77--
+Melodie eats a goldenseal root.
+5714h, 5478m, 24875e, 21874w  exdb---s20:05:42.26--
+Melodie eats a goldenseal root.
+5714h, 5478m, 24875e, 21874w  exdb---s20:05:43.95--
+Melodie stares at you, giving you the evil eye.
+Hmmmm. Why must everything be so difficult to figure out?
+Melodie stares at you, giving you the evil eye.
+5714h, 5478m, 24875e, 21874w  exdb---s20:05:44.62--
+You waggle your eyebrows comically.
+5714h, 5478m, 24875e, 21874w  exdb---s20:05:44.66--
+You focus your mind intently on curing your mental maladies.
+You are no longer dizzy.
+5714h, 5312m, 24875e, 21817w  exdb---s20:05:45.36--
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:45.41--
+You eat a plumbum flake.
+You aren't such a complete idiot anymore.
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:45.41--
+You remove 1 plumbum, bringing the total in the Rift to 1381.
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:45.41--
+You may eat another plant or mineral.
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:46.98--
+Your mind is able to focus once again.
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:47.81--
+(The Midnight Crew): Mizik says, "He coming to Ashtan, no doubt."
+5714h, 5639m, 24875e, 21817w  exdb---s20:05:48.66--
+You may drink another health or mana elixir or tonic.
+5714h, 5639m, 24875e, 21835w  exdb---s20:05:49.91--
+(The Midnight Crew): Merador says, "Hahaha."
+5714h, 5639m, 24875e, 21835w  exdb---s20:05:50.20--
+(The Midnight Crew): Merador says, "All those Chowmein raves about Mizik yeah."
+5714h, 5639m, 24875e, 21877w  exdb---s20:05:57.57--
+(The Midnight Crew): Mizik says, "Enemied :(."
+5714h, 5639m, 24875e, 21877w  exdb---s20:05:57.94--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 21901w  exdb---s20:06:01.98--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 21901w  exdb---s20:06:02.22--
+Atalkez exhales loudly.
+5714h, 5639m, 24875e, 21919w  exdb---s20:06:05.67--
+Atalkez inhales and begins holding his breath.
+5714h, 5639m, 24875e, 21919w  exdb---s20:06:06.75--
+Atalkez exhales loudly.
+5714h, 5639m, 24875e, 21979w  exdb---s20:06:18.80--
+(The Midnight Crew): Mizik says, "Although, last I looked 'class act' was an insult."
+5714h, 5639m, 24875e, 21979w  exdb---s20:06:19.01--
+Atalkez inhales and begins holding his breath.
+5714h, 5639m, 24875e, 21979w  exdb---s20:06:19.88--
+(The Midnight Crew): Merador says, "No way."
+5714h, 5639m, 24875e, 22021w  exdb---s20:06:28.81--
+(The Midnight Crew): Melodie says, "Lol why would he leave, he sounded like he was having fun in Loosis."
+5714h, 5639m, 24875e, 22039w  exdb---s20:06:30.05--
+(The Midnight Crew): Merador says, "Yeah no idea."
+5714h, 5639m, 24875e, 22087w  exdb---s20:06:40.89--
+(The Midnight Crew): Merador says, "All those Eleusis raves lol."
+5714h, 5639m, 24875e, 22123w  exdb---s20:06:49.75--
+(The Midnight Crew): Penwize says, "Some people are just like that I guess."
+5714h, 5639m, 24875e, 22147w  exdb---s20:06:52.32--
+(The Midnight Crew): Xinna says, "Who."
+5714h, 5639m, 24875e, 22147w  exdb---s20:06:53.71--
+(The Midnight Crew): Merador says, "Chowmein."
+5714h, 5639m, 24875e, 22165w  exdb---s20:06:57.79--
+(The Midnight Crew): Merador says, "Check news girl."
+5714h, 5639m, 24875e, 22183w  exdb---s20:06:59.72--
+(The Midnight Crew): Mizik says, "Penwize let's fight."
+5714h, 5639m, 24875e, 22189w  exdb---s20:07:01.41--
+Atalkez ponders the situation.
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:03.91--
+(The Midnight Crew): Xinna says, "Lol."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:15.09--
+Atalkez asks Melodie in a silky, smooth tenor voice, "Can you smith armour or weapons?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:17.17--
+(The Midnight Crew): Lilian says, "Jfc that wall of text."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:18.97--
+(The Midnight Crew): Xinna says, "Roroan walks up to me and hands me all the flower maidens."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:23.85--
+Melodie says with a flowing, cultured accent, "Both."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:25.65--
+(The Midnight Crew): Penwize says, "Oh god no, I fought with Xer earlier and realized the depths of how much shit I'm lacking."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:26.19--
+(The Midnight Crew): Xinna says, "Does he not know where the font is."
+5714h, 5639m, 24875e, 22205w  exdb---s20:07:31.60--
+Atalkez asks Melodie in a silky, smooth tenor voice, "My ringmail has decayed. Would you have time to fashion another for me anytime soon?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:11.96--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:19.00--
+wraith280613        an infernal wraith
+totem297554         a runic totem
+wraith360702        an infernal wraith
+wraith361009        an infernal wraith
+sigil59073          a monolith sigil
+horse26132          a midnight blue draught horse
+destrier372546      a dappled grey destrier
+otter273280         a sleek black otter
+Number of objects: 8
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:20.34--
+You see the following people here:
+Melodie, Atalkez, Dartega
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:20.34--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A midnight blue draught horse stands patiently awaiting direction. Snorting softly, a dappled grey destrier lingers in regal repose. Playfully scampering about is a sleek black otter.  Melodie Le'Murzen, Vindicator of Faith is here. She wields a bronze shield inlaid with sea glass in her left hand. Atalkez al'Dejan, Crusher of Wills is here.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:26.10--
+Melodie asks with a flowing, cultured accent, "Do you have any particular way you would wish it to look?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:26.95--
+Melodie nods her head at Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:08:59.31--
+A whip comes speeding in, wraps itself around Atalkez, and speeds back out, unable to move him.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:03.88--
+(The Midnight Crew): Merador says, "Rip."
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:21.88--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:27.76--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:27.94--
+Taraus arrives from the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:28.82--
+Taraus flashes Atalkez a joyous smile.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:32.19--
+"Welcome, welcome," Atalkez says graciously.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:34.72--
+Melodie's eyes sparkle with amusement.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:38.04--
+"Nice to meet you!" Taraus says to Atalkez with a smile.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:39.93--
+Atalkez chuckles long and heartily.
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:52.07--
+(The Midnight Crew): Xinna says, "Oh."
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:52.28--
+(The Midnight Crew): Xinna says, "OH."
+5714h, 5639m, 24875e, 22205w  exdb---s20:09:59.93--
+(The Midnight Crew): Rangor says, "Holy ganks."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:01.62--
+(The Midnight Crew): Xinna says, "I get it."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:01.83--
+(The Midnight Crew): Xinna says, "Chowmein."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:04.20--
+(The Midnight Crew): Merador says, "................"
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:07.66--
+(The Midnight Crew): Antidas says, "You started that son."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:10.84--
+(The Midnight Crew): Antidas says, "Entered the reaches and put us all on alert."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:15.84--
+(The Midnight Crew): Antidas says, "Then tried to gank me : (."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:19.91--
+(The Midnight Crew): Rangor says, "Lol, but so many total strangers that wants to gank me."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:20.38--
+(The Midnight Crew): Antidas says, "Nah, we partied up the moment you entered the reaches."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:29.51--
+(The Midnight Crew): Rangor says, "Err."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:32.95--
+(The Midnight Crew): Rangor says, "Rofl."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:33.92--
+(The Midnight Crew): Antidas says, "Haha."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:35.85--
+(The Midnight Crew): Merador says, "How did you not escape Rangor."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:37.02--
+(The Midnight Crew): Merador says, "Ur serp."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:38.19--
+(The Midnight Crew): Rangor says, "I was in reaches for 2 seconds."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:39.22--
+(The Midnight Crew): Antidas says, "Idk."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:42.52--
+(The Midnight Crew): Antidas says, "I logged in and seconds later heard."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:51.70--
+(The Midnight Crew): Antidas says, "Rangor in reaches."
+5714h, 5639m, 24875e, 22205w  exdb---s20:10:53.48--
+(The Midnight Crew): Antidas says, "And then people started partying up, so I was like w/e."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:02.35--
+(The Midnight Crew): Rangor says, "Well, you know what's happening when you do this kinda thing."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:07.49--
+(The Midnight Crew): Merador says, "Oh god."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:15.13--
+(The Midnight Crew): Merador says, "Backstab garrote inc."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:17.73--
+(Market): Rotose says, "Domestic Diva of Ashtan. Cures of both types, Inks half of Rurin's prices. and refills. SW of Central Market."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:24.09--
+(The Midnight Crew): Rangor says, "Targossas gets no sympathy for being steamrolled no more!"
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:25.19--
+(The Midnight Crew): Rangor says, "Is ok though."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:29.89--
+(The Midnight Crew): Merador says, "Tbf."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:33.39--
+(The Midnight Crew): Rangor says, "We do this this mhald/ashtan regularly."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:36.29--
+(The Midnight Crew): Antidas sadly says, "Gonna go reclaim us like you did Hashan?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:38.37--
+(The Midnight Crew): Merador says, "You 20 man raid Hashan, can't say you need an excuse."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:40.72--
+(The Midnight Crew): Rangor says, "Just won't treat targossas different."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:42.80--
+Melodie begins counting carefully on her fingers.
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:54.40--
+(The Midnight Crew): Mizik says, "Penwize what do you need help with."
+5714h, 5639m, 24875e, 22205w  exdb---s20:11:55.27--
+(The Midnight Crew): Mizik says, "Nevermind."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:08.15--
+(The Midnight Crew): Merador says, "He's been procrastibating instead of coding."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:08.39--
+(The Midnight Crew): Merador says, "Jerking it you know what I mean."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:12.69--
+(Legates): Milenka says, "Greetings, Legates."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:38.09--
+(Legates): Taraus says, "Good morning, Subjugator."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:48.23--
+(The Midnight Crew): Rangor says, "At least my scytherus+camus beat raido."
+5714h, 5639m, 24875e, 22205w  exdb---s20:12:59.62--
+(Mhaldor): Xinna says, "Font is now at 77%. There might still be lamassu out there. Otherwise, be certain to fill it when more of the eidolons are about."
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:09.19--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:23.03--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:23.22--
+Atalkez takes a simple scroll case from a soft leather pack.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:43.03--
+Atalkez gets some gold sovereigns from a simple scroll case.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:43.03--
+Atalkez puts a simple scroll case into a soft leather pack.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:43.03--
+Atalkez gives some gold sovereigns to Melodie.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:46.30--
+Melodie gives a trillingly melodic laugh.
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:50.41--
+(Market): Laytron says, "AD 6, shop for sale."
+5714h, 5639m, 24875e, 22205w  exdb---s20:13:51.75--
+Melodie opens a netted pack trimmed with seashells.
+5714h, 5639m, 24875e, 22205w  exdb---s20:14:05.45--
+Melodie puts some gold sovereigns in a netted pack trimmed with seashells.
+5714h, 5639m, 24875e, 22205w  exdb---s20:14:09.70--
+"Be right back!" Melodie cries.
+5714h, 5639m, 24875e, 22205w  exdb---s20:14:11.51--
+Melodie leaves to the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:14:11.96--
+(Mhaldor): Xinna says, "Every Mhaldorian should really know how to fill the font. It does not require much effort, and it is necessary for the city's defense and military efforts. CHELP EIDOLONS."
+5714h, 5639m, 24875e, 22205w  exdb---s20:14:21.08--
+Guttural songs of unholy worship waft and wind throughout Mhaldor as the daemonic chorus rehearses in the cathedral.
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:20.64--
+(The Midnight Crew): Mizik says, "The ganx."
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:41.88--
+Melodie arrives from the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:43.21--
+Melodie's eyes gleam with generosity.
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:45.25--
+(The Midnight Crew): Rangor says, "We're busy mizik."
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:47.96--
+Melodie gives a scarred suit of Mhaldorian ring mail to Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:48.06--
+Melodie rubs her hands together greedily.
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:49.21--
+(The Midnight Crew): Rangor says, "Stop interfering!"
+5714h, 5639m, 24875e, 22205w  exdb---s20:15:50.84--
+Atalkez thanks Melodie profusely.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:04.58--
+Atalkez puts on a scarred suit of Mhaldorian ring mail.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:07.26--
+Melodie smiles and nods at Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:09.00--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:14.36--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:14.44--
+Taraus ceases to wield an iron-tipped whip in her left hand.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:26.02--
+Taraus ceases to wield a flashy, razor-sharp dirk in her right hand.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:26.02--
+Taraus begins to wield a flashy, razor-sharp dirk in her right hand.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:30.37--
+Taraus begins to wield a blackened cavalry shield with ivory accents in her left hand.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:30.38--
+Taraus ceases to wield a blackened cavalry shield with ivory accents in her left hand.
+Taraus begins to wield a serpentine, obsidian-tipped lash in her left hand.
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:36.46--
+(The Midnight Crew): Aegoth says, "LOL chowmein's post."
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:55.02--
+(The Midnight Crew): Mizik says, "Gonna eat me some Eleusis noobs now nom nom."
+5714h, 5639m, 24875e, 22205w  exdb---s20:16:58.83--
+(The Midnight Crew): Merador says, "Mmmm."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:04.75--
+(The Midnight Crew): Mizik says, "Barricon, Maccabeus."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:08.85--
+(The Midnight Crew): Aegoth says, "What a tool."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:10.46--
+(The Midnight Crew): Mizik says, "Deladan."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:11.65--
+(The Midnight Crew): Rangor says, "Barricon's 100% newbie :p."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:18.90--
+(The Midnight Crew): Rangor says, "Be nice."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:20.89--
+(The Midnight Crew): Mizik says, "Why."
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:41.06--
+Atalkez takes a simple scroll case from a soft leather pack.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:49.10--
+Atalkez gets some gold sovereigns from a simple scroll case.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:49.10--
+Atalkez puts a simple scroll case into a soft leather pack.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:49.10--
+Atalkez gives some gold sovereigns to Melodie.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:49.11--
+Atalkez flashes the world a quick thumbs up.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:50.17--
+Melodie grins and nods.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:54.52--
+Melodie leaves to the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:17:55.50--
+Atalkez exhales loudly.
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:07.62--
+Atalkez inhales and begins holding his breath.
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:09.09--
+(The Midnight Crew): Merador says, "100% newbie 18 y.o 30% might rank 1233."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:12.55--
+(The Midnight Crew): Merador says, "Idk bruh."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:14.30--
+Taraus tilts her head to one side while looking at nothing in particular, rubs her chin, and thoughtfully mumbles "Hrm."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:24.82--
+Taraus leaves to the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:25.37--
+A great weight seems to have been lifted from Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:36.04--
+Atalkez takes some salve from a vial and rubs it on his skin.
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:36.27--
+(The Midnight Crew): Merador says, "Besides he's got this retarded pun prefix that deserves killing."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:42.24--
+(The Midnight Crew): Rangor says, "Well, he's still bugging me about how he can do jab and sing without singing before the jab."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:47.53--
+(The Midnight Crew): Aegoth says, ""Cities are NOT a blight on nature." Clearly doesn't know eleusian RP."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:54.44--
+(The Midnight Crew): Merador says, "That's just bardnewbie."
+5714h, 5639m, 24875e, 22205w  exdb---s20:18:55.84--
+(Market): Taraus says, "Seeking a fancy belthook."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:03.32--
+(The Midnight Crew): Merador says, "Or disagrees with Eleusis RP, hence quit."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:05.39--
+Melodie arrives from the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:17.93--
+Melodie's eyes gleam with generosity.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:18.93--
+Melodie gives a scarred, Mhaldorian flail to Atalkez.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:21.65--
+Melodie rubs her hands together greedily.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:22.87--
+Atalkez thanks Melodie profusely.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:24.83--
+(The Midnight Crew): Mizik says, "Oh my god."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:30.41--
+Melodie smiles and says with a flowing, cultured accent, "Thank you as well."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:31.78--
+(The Midnight Crew): Mizik says, "Hahahahhaa."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:34.37--
+Melodie puts some gold sovereigns in a netted pack trimmed with seashells.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:35.35--
+(The Midnight Crew): Merador says, "Yes, child?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:35.98--
+Melodie closes a netted pack trimmed with seashells.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:36.52--
+(The Midnight Crew): Mizik says, "Maccabeus went dual cut."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:49.89--
+(The Midnight Crew): Mizik says, "Another one bites the dust."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:54.04--
+(The Midnight Crew): Merador says, "Lols."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:54.60--
+(The Midnight Crew): Merador says, "Rip."
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:56.29--
+Atalkez nods his head in agreement.
+5714h, 5639m, 24875e, 22205w  exdb---s20:19:59.23--
+(Market): Bluef says, "Tharosian Estates - Fine city living without the stupid city laws! AD 268."
+5714h, 5639m, 24875e, 22205w  exdb---s20:20:07.77--
+Atalkez leaves to the west.
+5714h, 5639m, 24875e, 22205w  exdb---s20:20:26.20--
+(The Midnight Crew): Rangor says, "Fighting targossas should be fun, though looking at their numbers they should be able to stomp eleusis good :p."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:06.81--
+(The Midnight Crew): Antidas says, "Eh."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:15.42--
+(The Midnight Crew): Antidas says, "We suck."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:16.60--
+(The Midnight Crew): Antidas says, "So idk."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:18.41--
+(The Midnight Crew): Antidas says, "Haha."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:19.13--
+(The Midnight Crew): Merador says, "Lmao."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:20.92--
+(The Midnight Crew): Rangor says, "We do too."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:21.86--
+(The Midnight Crew): Merador says, "Rangor please."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:22.84--
+(The Midnight Crew): Antidas says, "It will be fun though."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:24.34--
+(The Midnight Crew): Rangor says, "At least the group I have now."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:25.32--
+(The Midnight Crew): Antidas says, "Haha."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:29.38--
+(The Midnight Crew): Rangor says, "We went home."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:31.95--
+(The Midnight Crew): Antidas says, "Well yes."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:32.72--
+(The Midnight Crew): Antidas says, "We would have won that skirmish I think."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:36.25--
+(The Midnight Crew): Antidas says, "Overall idk."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:37.58--
+(The Midnight Crew): Antidas says, "Not so sure."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:40.00--
+(The Midnight Crew): Antidas says, ": P."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:42.15--
+(The Midnight Crew): Merador says, "Targ would get destroyed by Eleusis."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:55.00--
+(The Midnight Crew): Aegoth says, "^."
+5714h, 5639m, 24875e, 22205w  exdb---s20:21:59.39--
+(The Midnight Crew): Rangor says, "Really?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:00.43--
+(The Midnight Crew): Merador says, "Eleusis would probably beat Ashtan unless we made people log on."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:03.96--
+(The Midnight Crew): Merador says, "Sure."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:06.42--
+(The Midnight Crew): Rangor says, "They have like 2x the population we do though."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:18.37--
+(The Midnight Crew): Merador says, "So what."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:21.56--
+(The Midnight Crew): Aegoth says, "Loosis is p. strong thee days."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:23.97--
+(Market): Laytron says, "AD 6 - shop for sale."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:26.73--
+(The Midnight Crew): Rangor sadly says, "Out people don't 24/7."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:41.54--
+(The Midnight Crew): Rangor says, "So we're always short handed."
+5714h, 5639m, 24875e, 22205w  exdb---s20:22:44.83--
+(The Midnight Crew): Merador says, "Ashtan has a laod of people who don't PK at all."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:01.73--
+(The Midnight Crew): Rangor says, "Except when we raid hashan."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:01.92--
+(The Midnight Crew): Rangor says, "Then everyone wants to join in."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:05.46--
+(The Midnight Crew): Rangor says, "Yah I know merador, it makes setting up enemy lists hard."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:27.38--
+(The Midnight Crew): Aegoth says, "That's because Hashan is EZmode raid."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:29.33--
+(The Midnight Crew): Xinna says, "U need moar dedicated ppl, Rangroar."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:32.03--
+(The Midnight Crew): Rangor says, "Never know who actually defends or not."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:32.47--
+(The Midnight Crew): Merador says, "There are about 5 of us."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:40.19--
+(The Midnight Crew): Rangor says, "I know Xinna, you looking to get hired?"
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:44.64--
+(The Midnight Crew): Merador says, "The rest can probably use a bashing attack."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:47.40--
+(The Midnight Crew): Jinsun says, "Sup bitches."
+5714h, 5639m, 24875e, 22205w  exdb---s20:23:49.15--
+(The Midnight Crew): Xinna sadly says, "But I luv my peeps here."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:04.69--
+(The Midnight Crew): Jinsun says, "Xinna, yo. I need you to come to Tennessee and sue the state for me."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:17.43--
+(The Midnight Crew): Xinna says, "I thought you were a lawyer."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:29.49--
+(The Midnight Crew): Merador says, "Nah he's just water boy."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:41.09--
+(The Midnight Crew): Jinsun says, "Yeah, but I hate civil work."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:42.65--
+(The Midnight Crew): Merador says, "Buys the coffees."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:43.49--
+(The Midnight Crew): Jinsun says, "I need someone to do my light work."
+5714h, 5639m, 24875e, 22205w  exdb---s20:24:51.26--
+(The Midnight Crew): Jinsun sadly says, "Basically, when I say sue, I mean go to the budget office and threaten to break windows or something."
+5714h, 5639m, 24875e, 22205w  exdb---s20:25:16.95--
+(The Midnight Crew): Jinsun says, "I figured up my billing this month and I'm broke because I've only been paid for 50% of my billing so far."
+5714h, 5639m, 24875e, 22205w  exdb---s20:25:42.53--
+5714h, 5639m, 24875e, 22205w  exdb---s20:25:47.95--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5714h, 5639m, 24875e, 22205w  exdb---s20:25:47.95--
+You store 2 plumbum, bringing the total in the rift to 1383.
+5714h, 5639m, 24875e, 22205w  exdb---s20:25:48.03--

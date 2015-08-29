@@ -1,0 +1,405 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           206 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+Your moss tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> We're pleased to offer a new introductory package for all players, see
+   ANNOUNCE news #4102 for all of the details!
+-> Help us take the #1 spot - http://www.achaea.com/vote - every 12 hours.
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+6032h, 4419m, 27625e, 20195w exdb-
+6032h, 4419m, 27625e, 20195w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6032h, 4353m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4353m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4353m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4353m, 27625e, 20200w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6032h, 4353m, 27625e, 20200w xdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is here.
+You see exits leading north, west, and northwest.
+6032h, 4353m, 27625e, 20200w xdb-
+-=[ Help us grow by voting for us at TopMudSites! http://www.achaea.com/vote ]=-
+6032h, 4353m, 27625e, 20200w xdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is here.
+You see exits leading north, west, and northwest.
+6032h, 4353m, 27625e, 20200w xdb-
+You have recovered equilibrium.
+6032h, 4353m, 27625e, 20200w exdb-
+You do not have any weapons capable of parrying, warrior.
+6032h, 4353m, 27625e, 20200w exdb-
+You have begun to look for arrows to pluck from the air.
+6032h, 4353m, 27625e, 20200w edb-
+There is currently a City credit sale in progress.
+6032h, 4353m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4353m, 27625e, 20200w exdb-
+You do not have any weapons capable of parrying, warrior.
+6032h, 4353m, 27625e, 20200w exdb-
+You do not have any weapons capable of parrying, warrior.
+6032h, 4353m, 27625e, 20200w exdb-
+It is early morning in Achaea.
+The phase of the moon is that of the Waxing Crescent.
+
+In your world, it is 2014/04/23 05:31:59 GMT.
+See HELP GMT for an explanation of GMT.
+6032h, 4353m, 27625e, 20200w exdb-
+There is no next message to read.
+6032h, 4353m, 27625e, 20200w exdb-
+You have no further news to read.
+6032h, 4423m, 27625e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is here.
+You see exits leading north, west, and northwest.
+6032h, 4405m, 27625e, 20200w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Deacon of Celestia Bahtell Muk'tar, Aarashi Rasul             2  On  Priest
+Soldier Iskla Rian                                            1  On  Blademaster
+Analeiss                                                      1  On  Priest
+Lachlan Del-Amroth, Aarashi Rasul                             3  On  Dragon
+Gibbi Jaydde-Stormcrow                                        1  On  Alchemist
+Hanley D'Ischai                                               1  On  Serpent
+Soldier Caladbolg Van Helsing                                 1  On  Paladin
+Shros                                                         1  On  Runewarden
+Sulit                                                         1  On  Runewarden
+Apostle Daeir Wintermourne, Voice of the Fallen               2  On  Serpent
+Svalis                                                        1  On  Blademaster
+Islwyn                                                        1  On  Priest
+Antidas Wintermourne, Luminous Shade                          3  On  Serpent
+Predicant Araeus Yuridja-Keyte                                1  On  Priest
+Vovi                                                          1  On  Paladin
+Mithridates Eupator Dionysius                                 3  On  Magi
+Ebe                                                           1  On  Bard
+Soldier Shiro                                                 1  On  Blademaster
+Oathsworn Kran                                                1  On  Paladin
+Halos Vorondil, Herald of Redemption                          3  On  Priest
+Extrum Wintermourne                                           1  On  Jester
+6032h, 4387m, 27625e, 20195w exdb-
+Ebe (male Horkval).
+He is 18 years old, having been born on the 18th of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6032h, 4387m, 27625e, 20195w exdb-
+Islwyn (male Human).
+He is 18 years old, having been born on the 25th of Lupar, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6032h, 4387m, 27625e, 20195w exdb-
+The following members of the clan of Fellowship of Dawn are in the realms:
+Soldier Caladbolg Van Helsing
+Halos Vorondil, Herald of Redemption
+Extrum Wintermourne
+6032h, 4473m, 27625e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is here.
+You see exits leading north, west, and northwest.
+6032h, 4459m, 27625e, 20200w exdb-
+Your current clan will now be the 'Fellowship of Dawn' clan.
+6032h, 4443m, 27625e, 20200w exdb-
+A look of true love crosses Caladbolg's face.
+A look of purest love crosses Caladbolg's face, and Caladbolg is summoned away.
+6032h, 4443m, 27625e, 20200w exdb-
+(Fellowship of Dawn): You say, "Man."
+6032h, 4443m, 27625e, 20200w exdb-
+You shut your eyes and concentrate on Thoth, the God of Death. A moment later, you feel inextricably linked with Death itself.
+6032h, 4440m, 27625e, 20190w xdb-
+You have recovered equilibrium.
+6032h, 4422m, 27625e, 20185w exdb-
+You cease wielding a living puppet of Mithridates in your right hand.
+6032h, 4422m, 27625e, 20197w exdb-
+You begin to wield a living puppet of Mithridates in your right hand.
+6032h, 4422m, 27625e, 20197w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground.  Mithridates Eupator Dionysius is here. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right. Soldier Caladbolg Van Helsing is here.
+You see a single exit leading down.
+6032h, 4422m, 27625e, 20197w edb-
+A living puppet of Mithridates, its chest heaves a bit and its arms and legs move. Every detail of it is perfectly rendered, though the look in its eyes betrays no intelligence. It is a tool, not a fully living creature.
+It has 10 months of usefulness left.
+The puppet looks to have been fashioned approximately 73 times.
+It weighs about 2 pounds and 0 ounce(s).
+It bears the distinctive mark of Extrum.
+6032h, 4405m, 27625e, 20192w edb-
+You have recovered balance on all limbs.
+6032h, 4405m, 27625e, 20192w exdb-
+(Fellowship of Dawn): You say, "Caladbolg and mithridates in - a dirty bedchamber."
+6032h, 4473m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+Dragon's Tail Bar (indoors).
+An opulent roulette wheel lies here horizontally, tempting those with a taste for risk. A runic totem is planted solidly in the ground. Someone has left a ginger root here. Resting on the ground is a cube-shaped silver sigil. A sigil in the shape of a small, rectangular monolith is on the ground. Geld the barman stands here, rubbing a clear glass with a white rag. Kes, the roulette attendant, stands here looking amused. A shady-looking man dressed in fine black clothes leans against the wall. An icewall is here, blocking passage to the up.  Soldier Caladbolg Van Helsing is here. Mithridates Eupator Dionysius is here. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see exits leading north, southeast, and up.
+6032h, 4455m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4455m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+Dragon's Tail Bar (indoors).
+An opulent roulette wheel lies here horizontally, tempting those with a taste for risk. A runic totem is planted solidly in the ground. Someone has left a ginger root here. Resting on the ground is a cube-shaped silver sigil. A sigil in the shape of a small, rectangular monolith is on the ground. Geld the barman stands here, rubbing a clear glass with a white rag. Kes, the roulette attendant, stands here looking amused. A shady-looking man dressed in fine black clothes leans against the wall. An icewall is here, blocking passage to the up. An icewall is here, blocking passage to the southeast. An icewall is here, blocking passage to the north.  Mithridates Eupator Dionysius is here. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right. Soldier Caladbolg Van Helsing is here.
+You see exits leading north, southeast, and up.
+6032h, 4457m, 27625e, 20196w edb-
+You have recovered balance on all limbs.
+6032h, 4457m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+Dragon's Tail Bar (indoors).
+An opulent roulette wheel lies here horizontally, tempting those with a taste for risk. A runic totem is planted solidly in the ground. Someone has left a ginger root here. Resting on the ground is a cube-shaped silver sigil. A sigil in the shape of a small, rectangular monolith is on the ground. Geld the barman stands here, rubbing a clear glass with a white rag. Kes, the roulette attendant, stands here looking amused. A shady-looking man dressed in fine black clothes leans against the wall. An icewall is here, blocking passage to the up. An icewall is here, blocking passage to the southeast. An icewall is here, blocking passage to the north.  Mithridates Eupator Dionysius is here. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right. Soldier Caladbolg Van Helsing is here.
+You see exits leading north, southeast, and up.
+6032h, 4457m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4457m, 27625e, 20200w exdb-
+You remove 1 wood, bringing the total in the Rift to 267.
+6032h, 4440m, 27625e, 20200w exdb-
+You remove 1 iron, bringing the total in the Rift to 72.
+6032h, 4440m, 27625e, 20200w exdb-
+With agile fingers, you quickly construct a jack-in-the-box.
+6032h, 4440m, 27625e, 20200w edb-
+You remove 1 wood, bringing the total in the Rift to 266.
+6032h, 4440m, 27625e, 20200w edb-
+You remove 1 iron, bringing the total in the Rift to 71.
+6032h, 4440m, 27625e, 20200w edb-
+(Fellowship of Dawn): Halos says, "Mildly turned on."
+6032h, 4425m, 27625e, 20196w edb-
+You have recovered balance on all limbs.
+6032h, 4425m, 27625e, 20196w exdb-
+You remove 1 wood, bringing the total in the Rift to 265.
+6032h, 4425m, 27625e, 20200w exdb-
+You remove 1 iron, bringing the total in the Rift to 70.
+6032h, 4425m, 27625e, 20200w exdb-
+With agile fingers, you quickly construct a jack-in-the-box.
+6032h, 4425m, 27625e, 20200w edb-
+You remove 1 wood, bringing the total in the Rift to 264.
+6032h, 4425m, 27625e, 20200w edb-
+You remove 1 iron, bringing the total in the Rift to 69.
+6032h, 4425m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4455m, 27625e, 20195w exdb-
+You remove 1 wood, bringing the total in the Rift to 263.
+6032h, 4455m, 27625e, 20200w exdb-
+You remove 1 iron, bringing the total in the Rift to 68.
+6032h, 4455m, 27625e, 20200w exdb-
+With agile fingers, you quickly construct a jack-in-the-box.
+6032h, 4455m, 27625e, 20200w edb-
+You remove 1 wood, bringing the total in the Rift to 262.
+6032h, 4455m, 27625e, 20200w edb-
+You remove 1 iron, bringing the total in the Rift to 67.
+6032h, 4455m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4439m, 27625e, 20195w exdb-
+You remove 1 wood, bringing the total in the Rift to 261.
+6032h, 4439m, 27625e, 20200w exdb-
+You remove 1 iron, bringing the total in the Rift to 66.
+6032h, 4439m, 27625e, 20200w exdb-
+With agile fingers, you quickly construct a jack-in-the-box.
+6032h, 4439m, 27625e, 20200w edb-
+You remove 1 wood, bringing the total in the Rift to 260.
+6032h, 4439m, 27625e, 20200w edb-
+You remove 1 iron, bringing the total in the Rift to 65.
+6032h, 4439m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4457m, 27625e, 20195w exdb-
+You remove 1 wood, bringing the total in the Rift to 259.
+6032h, 4457m, 27625e, 20200w exdb-
+You remove 1 iron, bringing the total in the Rift to 64.
+6032h, 4457m, 27625e, 20200w exdb-
+With agile fingers, you quickly construct a jack-in-the-box.
+6032h, 4457m, 27625e, 20200w edb-
+You remove 1 wood, bringing the total in the Rift to 258.
+6032h, 4457m, 27625e, 20200w edb-
+You remove 1 iron, bringing the total in the Rift to 63.
+6032h, 4457m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4442m, 27625e, 20196w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+Dragon's Tail Bar (indoors).
+An opulent roulette wheel lies here horizontally, tempting those with a taste for risk. A runic totem is planted solidly in the ground. Someone has left a ginger root here. Resting on the ground is a cube-shaped silver sigil. A sigil in the shape of a small, rectangular monolith is on the ground. Geld the barman stands here, rubbing a clear glass with a white rag. Kes, the roulette attendant, stands here looking amused. A shady-looking man dressed in fine black clothes leans against the wall. An icewall is here, blocking passage to the up. An icewall is here, blocking passage to the southeast. An icewall is here, blocking passage to the north.  Soldier Caladbolg Van Helsing is here. Mithridates Eupator Dionysius is here. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see exits leading north, southeast, and up.
+6032h, 4442m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4442m, 27625e, 20200w exdb-
+Antidas projects a net of light about himself and you watch as his image becomes faded and ghostly.
+6032h, 4442m, 27625e, 20200w exdb-
+(Fellowship of Dawn): You say, "Lol, raiding hashan?"
+6032h, 4455m, 27625e, 20200w exdb-
+Antidas tosses a sparkling cloud of dust over himself, and vanishes little by little into invisibility.
+6032h, 4455m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground. An icewall is here, blocking passage to the down. Looking ready for anything, a hulking war elephant stands here.  Mithridates Eupator Dionysius is riding on a war elephant. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see a single exit leading down.
+6032h, 4437m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4437m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground. An icewall is here, blocking passage to the down. Looking ready for anything, a hulking war elephant stands here.  Mithridates Eupator Dionysius is riding on a war elephant. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see a single exit leading down.
+6032h, 4473m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4473m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground. An icewall is here, blocking passage to the down. Looking ready for anything, a hulking war elephant stands here.  Mithridates Eupator Dionysius is riding on a war elephant. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see a single exit leading down.
+6032h, 4473m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4458m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground. An icewall is here, blocking passage to the down. Looking ready for anything, a hulking war elephant stands here.  Mithridates Eupator Dionysius is riding on a war elephant. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see a single exit leading down.
+6032h, 4458m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4458m, 27625e, 20200w exdb-
+You close your eyes and hold a puppet of Mithridates up to your forehead.
+
+A dirty bedchamber (indoors).
+A runic totem is planted solidly in the ground. A small forest of sharpened crystals protrudes from the ground. An icewall is here, blocking passage to the down. Looking ready for anything, a hulking war elephant stands here.  Mithridates Eupator Dionysius is riding on a war elephant. He wields a roughly-hewn crystalline staff in his left hand and a crystalline elemental shield in his right.
+You see a single exit leading down.
+6032h, 4458m, 27625e, 20200w edb-
+Antidas's eyes sparkle with amusement.
+6032h, 4458m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4458m, 27625e, 20200w exdb-
+(Fellowship of Dawn): Caladbolg says, "I wanted weapon prof's."
+6032h, 4458m, 27625e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.
+You see exits leading north, west, and northwest.
+6032h, 4458m, 27625e, 20200w exdb-
+Antidas says in a soft voice, "They're fine."
+6032h, 4441m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4441m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4441m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4441m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+Comprehension flashes across your face.
+6032h, 4456m, 27625e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.
+You see exits leading north, west, and northwest.
+6032h, 4456m, 27625e, 20200w exdb-
+Antidas says in a soft voice, "Caladbolg is just learning warhammer proficiency."
+6032h, 4440m, 27625e, 20200w exdb-
+The radiant sun shines all about you.
+6032h, 4440m, 27625e, 20200w exdb-
+You nod your head emphatically.
+6032h, 4440m, 27625e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.
+You see exits leading north, west, and northwest.
+6032h, 4420m, 27625e, 20194w exdb-
+Antidas takes some balm from a vial and rubs it on his body.
+6032h, 4420m, 27625e, 20194w exdb-
+You say, "Darn."
+6032h, 4473m, 27625e, 20194w exdb-
+You say, "Was hoping to puppet bind them at an terrible moment."
+6032h, 4439m, 27625e, 20195w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. There are 2 alabaster pegasi here. A testament to his training, Ewig stands here as still as a mountain.
+You see exits leading north, west, and northwest.
+6032h, 4439m, 27625e, 20195w exdb-
+Antidas' lips twitch upwards slightly.
+6032h, 4473m, 27625e, 20200w exdb-
+Clara arrives from the west.
+6032h, 4455m, 27625e, 20195w exdb-
+Clara leaves to the north.
+6032h, 4455m, 27625e, 20195w exdb-
+(Fellowship of Dawn): You say, "Ok, back to bed with me."
+6032h, 4473m, 27625e, 20200w exdb-
+(Market): Brivius says, "Selling hellcat claw, fang, tail, paw and a ozhera bait and next."
+6032h, 4458m, 27625e, 20200w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 684.
+6032h, 4458m, 27625e, 20200w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6032h, 4458m, 27625e, 20200w exkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4458m, 27625e, 20200w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6032h, 4458m, 27625e, 20200w cxkdb-
+6032h, 4458m, 27625e, 20200w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 1 wood, bringing the total in the rift to 259.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 5 iron, bringing the total in the rift to 68.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 1 wood, bringing the total in the rift to 260.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 1 wood, bringing the total in the rift to 261.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 1 wood, bringing the total in the rift to 262.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You store 1 wood, bringing the total in the rift to 263.
+6032h, 4458m, 27625e, 20200w cxkdb-
+You have recovered equilibrium.
+6032h, 4458m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4458m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You wave goodbye.
+6032h, 4458m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4458m, 27625e, 20200w cexkdb-
+Antidas nods his head at you.
+6032h, 4442m, 27625e, 20200w cexkdb-

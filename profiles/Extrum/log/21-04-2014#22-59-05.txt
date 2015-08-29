@@ -1,0 +1,456 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           248 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> We're pleased to offer a new introductory package for all players, see
+   ANNOUNCE news #4102 for all of the details!
+-> Help us take the #1 spot - http://www.achaea.com/vote - every 12 hours.
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+6344h, 4338m, 26864e, 20189w exdb-
+6344h, 4338m, 26864e, 20189w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6344h, 4272m, 26864e, 20189w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4272m, 26864e, 20189w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4272m, 26864e, 20189w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4272m, 26864e, 20189w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6344h, 4272m, 26864e, 20189w xdb-
+What is it that you wish to drink?
+6344h, 4272m, 26864e, 20189w xdb-
+What is it that you wish to drink?
+6344h, 4272m, 26864e, 20189w xdb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6344h, 4473m, 26864e, 20189w xdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Resting here with a haughty expression is a golden gryphon. There are 2 alabaster pegasi here. The shining figure of a guardian angel floats in the air here.  Student of Quaero Senri, of Eleusis is here. Sir Morthif Aristata, Knight of the Watch is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand. Halos Vorondil, Herald of Redemption is here, a determined glint in his eyes. He wields a Raphaelan mace in his left hand and a butchering cleaver in his right.
+You see exits leading north, west, and northwest.
+6344h, 4473m, 26864e, 20189w xdb-
+-=[ Help us grow by voting for us at TopMudSites! http://www.achaea.com/vote ]=-
+6344h, 4473m, 26884e, 20200w xdb-
+You have recovered equilibrium.
+6344h, 4473m, 26884e, 20200w exdb-
+You will now attempt to parry attacks to your left arm.
+6344h, 4473m, 26884e, 20200w exdb-
+You have begun to look for arrows to pluck from the air.
+6344h, 4473m, 26884e, 20200w edb-
+There is currently a City credit sale in progress.
+6344h, 4473m, 26884e, 20200w edb-
+Message #1581       Sent by Achaea
+4/21/6:54 You are dismayed as your puppet of Ernam returns to a near-shapeless mass.
+6344h, 4473m, 26884e, 20200w edb-
+You have recovered balance on all limbs.
+6344h, 4473m, 26884e, 20200w exdb-
+Message #1582       Sent by Achaea
+4/21/10:58 You are no longer known for acts of infamy.
+6344h, 4473m, 26884e, 20200w exdb-
+Message #1583       Sent by Achaea
+4/21/20:33 An arrow has decayed to dust in your absence.
+6344h, 4473m, 26884e, 20200w exdb-
+Message #1584       Sent by Achaea
+4/21/20:42 An arrow has decayed to dust in your absence.
+6344h, 4473m, 26884e, 20200w exdb-
+You may drink another health or mana elixir or tonic.
+6344h, 4473m, 26884e, 20200w exdb-
+Message #1585       Sent by Achaea
+4/21/20:51 An arrow has decayed to dust in your absence.
+6344h, 4473m, 26884e, 20200w exdb-
+Message #1586       Sent by Achaea
+4/21/21:15 An arrow has decayed to dust in your absence.
+6344h, 4455m, 26884e, 20195w exdb-
+There is no next message to read.
+6344h, 4455m, 26884e, 20195w exdb-
+There is no next message to read.
+6344h, 4455m, 26904e, 20195w exdb-
+There is no next message to read.
+6344h, 4455m, 26904e, 20195w exdb-
+There is no next message to read.
+6344h, 4455m, 26904e, 20195w exdb-
+The shadows have lengthened. It is late afternoon in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/04/22 03:59:22 GMT.
+See HELP GMT for an explanation of GMT.
+6344h, 4455m, 26904e, 20195w exdb-
+POETRY NEWS #4682                                       (04/22/2014 at 01:06)  
+From   : Somerled Ren'Thirok, Black Tongue
+To     : Everyone
+Subject: Smile
+-------------------------------------------------------------------------------
+Naive, infected little mongrel
+Your half-witted Pollyanna outlook is shameful
+You wear a smile like a scar
+I'd rather you cut the lips from your face
+Wear an eternal, bloody grin
+
+I hope you see that death is powerful
+I hope you understand that you are nothing
+I hope that suffering finds your doorstep
+Walk into the flames and let them singe your flesh
+Break the sinew and bone that give you motion
+
+May an arrow find its way into your heart and out your back
+Smolder beneath a pile of burning coal
+You will see that the world is a thorn
+This life will crush you into dust
+The dirt will claim you as its own
+
+I wish to see your blood run like a river
+I wish to see you destitute and broken
+I wish for you to experience colossal, unremitting pain
+Open your eyes to reality, then gouge them out
+
+Where is your smile now?
+[Type MORE if you wish to continue reading. (95% shown)]
+6344h, 4455m, 26904e, 20195w exdb-
+TARGOSSAS NEWS #281                                     (04/21/2014 at 05:46)  
+From   : Yen Jaydde-Stormcrow, Grace Serene
+To     : Everyone
+Subject: Treasury report, 650-51
+-------------------------------------------------------------------------------
+Dear City,
+
+Enclosed please find the biennial report of the Ministry of the Treasury, 650-51 A.F.
+
+This term, the city built three new barracks, the setting-up costs of which were paid by our three Houses.  Each House donated 3 million gold (for a total of 9 million gold) toward this effort.
+
+Shortly after we built the new barracks, the maintenance requirements of city improvements were substantially changed.  Previously, we needed only provide a certain amount of gold.  Now, they require commodities in addition to gold, though the gold cost has been reduced by about 40 percent.  In light of this, a one-time allocation of 2 million gold was given to the Trade Ministry to adjust to the new demands on its resources.
+
+Recurrent funding for the Trade Ministry will be arranged when the costs of providing the necessary commodities are more reliably known.  As a rough figure, however, it would cost about 480k every two years to buy commodities at their minimum prices.  At the same time, the gold required to maintain our improvements (3 barracks and a scimitar) over this time frame has been reduced from 2.8 million gold to 1.68 million gold (a reduction of 1.12 million gold).  As such, unless we end up buying commodities at more than double the minimum price, we should benefit from this change.  But having said that, maintaining four improvements is still quite expensive and we will have to think carefully about how to manage this expense going forward.
+
+It should also be noted that the quota of city credits that citizens may buy has been reduced.  During 650 A.F., the quota was raised to 15 to celebrate the semicentennial and the arrival of Houses.  However, it was reduced to 5 in 651 A.F. and will remain at this reduced level for the forseeable future.
+
+Finally, the Dawnlord's discretionary expenses were 650k for a master shopkeeper's license, 129k for Dawnguard supplies, and 32k for furniture.  Miscellaneous revenues were from city hunting trips.
+
+Revenues                           Expenses
+--------                           --------
+
+Taxes                   359,000    Shop Protection Costs       240,000
+Banking Fees             97,400    Scimitar (Maintenance)      921,000
+City Credit Sales     3,085,500    Barracks (Capital)        9,000,000
+Maritime Fees             3,500    Barracks (Maintenance)    1,419,525
+Fines                    90,000    Development (Repair)        160,000
+City Shops              568,311    Security                  3,475,000
+Donations             9,000,000    Maritime                     20,000
+[Type MORE if you wish to continue reading. (82% shown)]
+6344h, 4455m, 26904e, 20195w exdb-
+TARGOSSAS NEWS #282                                     (04/21/2014 at 21:15)  
+From   : Zuko Shu'in-Crescent, Monk of the Watch
+To     : Everyone
+Subject: Conclusion of the Sartan Shrine Contest
+-------------------------------------------------------------------------------
+Salutations Dawnspear,
+
+It is has been an exciting couple years here with the Sartan shrine defiling competition, but with it's conclusion I am proud to announce our champions.
+
+Coming in first was Mithridates, with 160.5 points, and for his hard work and victory in this competition, he has been awarded 20 credits.
+
+In second place we have Epiphany, who made it to a strong 140 points in the contest, and she has been awarded 15 credits for her dedication.
+
+Great work and well done to all who participated! I hope to see you all carry on this momentum in the coming years without the need for reward.
+
+In service to the Bloodsworn and Their city,
+Zuko Shu'in-Crescent, Monk of the Watch
+
+Penned by my hand on the 1st of Mayan, in the year 652 AF.
+6344h, 4473m, 26904e, 20200w exdb-
+You have no further news to read.
+6344h, 4435m, 26944e, 20200w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Resting here with a haughty expression is a golden gryphon. There are 2 alabaster pegasi here. The shining figure of a guardian angel floats in the air here.  Student of Quaero Senri, of Eleusis is here. Sir Morthif Aristata, Knight of the Watch is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand. Halos Vorondil, Herald of Redemption is here, a determined glint in his eyes. He wields a Raphaelan mace in his left hand and a butchering cleaver in his right.
+You see exits leading north, west, and northwest.
+6344h, 4421m, 26964e, 20196w exdb-
+mahmoud59621        Mahmoud, the farrier of Targossas
+pony176599          a sleek pony
+bow-maiden208340    a Riverwall bow-maiden
+totem357865         a runic totem
+defender432106      a Shornwall defender
+mistweaver454339    a Naxian mistweaver
+brawler454379       a Duskmere brawler
+swordsman455215     a Blackstone swordsman
+hippogriff75209     a noble hippogriff
+rhinoceros334845    an armoured rhinoceros
+gryphon89892        a golden gryphon
+pegasus257836       an alabaster pegasus
+pegasus305788       an alabaster pegasus
+Number of objects: 13
+6344h, 4473m, 26964e, 20196w exdb-
+You see the following people here:
+Senri, Morthif, Halos, Extrum
+6344h, 4473m, 26964e, 20196w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Banek, of Targossas                                           1  On  Runewarden
+Svalis                                                        1  On  Blademaster
+Predicant Garis 'The Jinx' Obuun                              2  On  Monk
+Varamoure, of Targossas                                       1  On  Priest
+Phantom Asp, Siduri Azagnanna                                 3  On  Serpent
+Sir Morthif Aristata, Knight of the Watch                     1  On  Paladin
+Analeiss                                                      1  On  Priest
+Oathsworn Vithincus Shu'in-Crescent                           1  On  Paladin
+Kei Greywards                                                 1  On  Bard
+Quisse Wintermourne                                           1  On  Alchemist
+Soldier Qara Del-Amroth Rian                                  1  On  Blademaster
+Predicant Kaiu Silvertongue-Obuun                             3  On  Druid
+Soldier Iskla Rian                                            1  On  Blademaster
+Halos Vorondil, Herald of Redemption                          3  On  Priest
+Shros                                                         1  On  Runewarden
+Hanley D'Ischai                                               1  On  Serpent
+Devout Nila Yuridja-Keyte                                     1  On  Monk
+Soldier Caladbolg Van Helsing                                 1  On  Paladin
+Predicant Lyndee Faelithar                                    1  On  Magi
+Lachlan Del-Amroth, Aarashi Rasul                             3  On  Sentinel
+Magelord Veldrin Crescent Concordia                           2  On  Magi
+Mithridates Eupator Dionysius                                 3  On  Magi
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Aarashi Shamshir Synbios Hagane, Blade Singularity            1  On  Blademaster
+Sulit                                                         1  On  Runewarden
+Predicant Araeus Yuridja-Keyte                                1  On  Priest
+Arkhuro, of Targossas                                         1  On  Alchemist
+Cambri, of Targossas                                          1  On  Priest
+Extrum Wintermourne                                           1  On  Jester
+6344h, 4473m, 26964e, 20196w exdb-
+Svalis (male Horkval).
+He is 18 years old, having been born on the 10th of Glacian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 5% of your might.
+6344h, 4473m, 26964e, 20196w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Resting here with a haughty expression is a golden gryphon. There are 2 alabaster pegasi here. The shining figure of a guardian angel floats in the air here.  Student of Quaero Senri, of Eleusis is here. Sir Morthif Aristata, Knight of the Watch is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand. Halos Vorondil, Herald of Redemption is here, a determined glint in his eyes. He wields a Raphaelan mace in his left hand and a butchering cleaver in his right.
+You see exits leading north, west, and northwest.
+6344h, 4442m, 27004e, 20195w exdb-
+Extrum, Lavergnius, Synbios, Dajio, Batuo, Odacaii, Xarvin, Shara, Varamoure, Kakarot, Halric, Kray, Tinder, Nahsoldur, Aiseiri, Cambri, Arkhuro, Kafziel, Masreth, Farran, Senri, Rotose, Battosai, Araeus, Allene, Bronislav, Yerf, Mistral, Ashlog, Kyadea, Atalkez, Lomina, Xaviel, Quisse, Nemch, Aoghinius, Nila, Aeriquo, Benson, Evessa, Antoinette, Neraya, Deladan, Kyrra, Melodie, Kalkarin, Eurulis, Twil, Attestion, Drafox, Hanley, Shros, Arralana, Ardoran, Jhui, Oriias, Zazzen, Daslin, Beliar, Crythril, Kei, Juniko, Amaranda, Hexan, Annwyl, Romeo, Sybilla, Valkyre, Satyana, Callis, Gamoneterik, Galos, Svalis, Banek, Toura, Jerminyn, Aquilora, Jacen, Accipiter, Gildaer, Garis, Raynor, Moonfox, Kazuya, Caliko, Vithincus, Caoimhaen, Alaric, Exos, Pharacles, Rynas, Eiredhel, Araragi, Inoa, Crixos, Kaiu, Jinsun, Iskla, Scarlett, Aeryllin, Caladbolg, Lannah, Talya, Isera, Bazzl, Nimala, Qara, Okk, Exelethril, Dalran, Galvan, Maven, Relida, Spyrit, Halos, Spas, Eabei, Analeiss, Aluciana, Basileios, Tynnendri, Shiana, Indaba, Tarvius, Kharr, Yanneth, Grimalkina, Jawaal, Vasriia, Michielle, Dareth, Cel, Glaen, Fendrel, Sulit, Paik, Zilveren, Azuros, Toranpu, Mako, Perl, Araldor, Phelia, Bruin, Saibel, Invictus, Tesha, Squidax, Camillia.
+Plus another 52 whose presence you cannot fully sense.
+6344h, 4459m, 27024e, 20196w exdb-
+Mischievite Toranpu (male Rajamala).
+He is 18 years old, having been born on the 7th of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Deshi Battosai, of Ashtan (male Troll).
+He is 18 years old, having been born on the 25th of Glacian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Gildaer (male Atavian).
+He is 18 years old, having been born on the 15th of Lupar, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Pharacles Diamante-Sar'vet (male Tsol'aa).
+He is 122 years old, having been born on the 21st of Daedalan, 530 years after the fall of the Seleucarian Empire.
+He is ranked 1434th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 5% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Cel (male Atavian).
+He is 18 years old, having been born on the 7th of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Odacaii (male Human).
+He is 18 years old, having been born on the 8th of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Zazzen (male Mhun).
+He is 20 years old, having been born on the 16th of Valnuary, 632 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Eabei (female Horkval).
+She is 18 years old, having been born on the 6th of Mayan, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Dareth, of Ashtan (male Human).
+He is 18 years old, having been born on the 2nd of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Scarlett, Vipera Vagus (female Mhun).
+Her date of birth is hidden by the sand of Aeon.
+She is ranked 996th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peasant in Hashan.
+She is considered to be approximately 40% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Squidax (male Atavian).
+He is 18 years old, having been born on the 18th of Glacian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Tastol os Ser, Jerminyn Storm, Roaming Scholar (male Atavian).
+He is 152 years old, having been born on the 6th of Lupar, 500 years after the fall of the Seleucarian Empire.
+He is ranked 1474th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 45% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Find a credo to live by, and stick to it.'
+See HONOURS DEEDS JERMINYN to view his 1 special honours.
+6344h, 4459m, 27024e, 20196w exdb-
+Lavergnius (male Xoran).
+He is 267 years old, having been born on the 17th of Miraman, 385 years after the fall of the Seleucarian Empire.
+He is ranked 702nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 70% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'In the end, its what WE make it.'
+He has been divorced once.
+See HONOURS DEEDS LAVERGNIUS to view his 3 special honours.
+6344h, 4459m, 27024e, 20196w exdb-
+Viridi Bazzl, of Eleusis (male Tsol'aa).
+He is 18 years old, having been born on the 19th of Chronos, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Cub Grimalkina (female Tsol'aa).
+She is 18 years old, having been born on the 14th of Scarlatan, 634 years after the fall of the Seleucarian Empire.
+She is ranked 2314th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Uaithne Bruin (male Human).
+He is 18 years old, having been born on the 3rd of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Relida (female Troll).
+She is 18 years old, having been born on the 6th of Mayan, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+Yanneth (male Human).
+He is 18 years old, having been born on the 3rd of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6344h, 4459m, 27024e, 20196w exdb-
+You detect nothing here by that name.
+6344h, 4473m, 27084e, 20200w exdb-
+You close your eyes momentarily and extend the range of your vision, seeking out the presence of Fendrel.
+Though too far away to accurately perceive details, you see that Fendrel is in Ashtan.
+6344h, 4426m, 27104e, 20191w xdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Resting here with a haughty expression is a golden gryphon. There are 2 alabaster pegasi here. The shining figure of a guardian angel floats in the air here.  Sir Morthif Aristata, Knight of the Watch is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand. Halos Vorondil, Herald of Redemption is here, a determined glint in his eyes. He wields a Raphaelan mace in his left hand and a butchering cleaver in his right. Student of Quaero Senri, of Eleusis is here.
+You see exits leading north, west, and northwest.
+6344h, 4426m, 27104e, 20191w xdb-
+You have recovered equilibrium.
+6344h, 4426m, 27104e, 20191w exdb-
+The radiant sun shines all about you.
+6344h, 4426m, 27104e, 20191w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 690.
+6344h, 4426m, 27104e, 20191w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6344h, 4426m, 27104e, 20191w exkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4426m, 27104e, 20191w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6344h, 4426m, 27104e, 20191w cxkdb-
+6344h, 4426m, 27104e, 20191w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6344h, 4426m, 27104e, 20191w cxkdb-
+You have recovered equilibrium.
+6344h, 4473m, 27104e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4473m, 27104e, 20200w cexkdb-
+Mithridates arrives from the west.
+6344h, 4459m, 27124e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You slap Mithridates on the cheek.
+6344h, 4441m, 27144e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4441m, 27144e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A noble hippogriff flaps its wings in agitation here. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Resting here with a haughty expression is a golden gryphon. There are 2 alabaster pegasi here. The shining figure of a guardian angel floats in the air here.  Sir Morthif Aristata, Knight of the Watch is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand. Halos Vorondil, Herald of Redemption is here, a determined glint in his eyes. He wields a Raphaelan mace in his left hand and a butchering cleaver in his right. Mithridates Eupator Dionysius is here. He wields a crystalline elemental shield in his left hand and a roughly-hewn crystalline staff in his right. Student of Quaero Senri, of Eleusis is here.
+You see exits leading north, west, and northwest.
+6344h, 4473m, 27164e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4473m, 27164e, 20194w cexkdb-

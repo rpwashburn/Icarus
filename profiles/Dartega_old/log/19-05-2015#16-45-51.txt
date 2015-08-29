@@ -1,0 +1,1305 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           205 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+You have received 5 lessons thanks to your Iron Membership.
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+The vitality of the black boar begins to flow through you.
+You are blind and can see nothing but darkness.
+6658h, 5928m, 27850e, 22450w  exdb---s21:45:56.96--
+6658h, 5928m, 27850e, 22450w  exdb---s21:45:57.14--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+6658h, 5928m, 27850e, 22450w  exdb---s21:45:57.14--
+There is currently a House credit sale in progress.
+6658h, 5928m, 27850e, 22450w  exdb---s21:45:58.90--
+You take out some salve and quickly rub it on your head.
+You are no longer blind.
+6658h, 5928m, 27850e, 22450w  exd---s21:45:59.01--
+-=[ Tired of bashing the Underworld alone? Vote for Achaea at TopMudSites and help bring in new players! http://www.achaea.com/vote - Thanks! ]=-
+6658h, 5928m, 27850e, 22450w  exd---s21:45:59.05--
+There is currently a City credit sale in progress.
+----[ Mhaldor City announcement ]----
+
+All Mhaldorians who sail will take note of CHELP PLAGUECURE and keep themselves informed.
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+6658h, 5928m, 27850e, 22450w  exd---s21:45:59.88--
+There is no exit in that direction.
+6658h, 5928m, 27850e, 22450w  exd---s21:45:59.90--
+You may apply another salve or balm to yourself.
+6658h, 5928m, 27850e, 22450w  exd---s21:46:00.04--
+You take out some salve and quickly rub it on your head.
+You are no longer deaf.
+6658h, 5928m, 27850e, 22450w  ex----s21:46:00.08--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A stubborn mule wanders about here, nosing at the ground. A fierce tiger prowls restlessly nearby. Playfully scampering about is a sleek black otter.
+You see a single exit leading west.
+6658h, 5928m, 27850e, 22450w  ex----s21:46:00.42--
+You may apply another salve or balm to yourself.
+6658h, 5928m, 27850e, 22450w  ex----s21:46:00.98--
+There is no exit in that direction.
+6658h, 5928m, 27850e, 22450w  ex----s21:46:01.70--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Taraus                10         On      On         No      Dragon
+Drodak                03         On      On         No      Infernal
+Jarrod                07         On      On         No      Serpent
+Blaster               01        Off      On         No      Blademaster
+Medi                  07         On      On         No      Apostate
+Nercyllis             03         On      On         No      Serpent
+Adison                04         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Dartega               04         On      On         No      Jester
+6658h, 5928m, 27850e, 22450w  ex----s21:46:02.42--
+It is late night, approaching dawn.
+The phase of the moon is that of the Waxing Crescent.
+
+In your world, it is 2015/05/19 21:46:03 GMT.
+See HELP GMT for an explanation of GMT.
+6658h, 5957m, 27850e, 22450w  ex----s21:46:03.04--
+ANNOUNCE NEWS #4341                                     (05/17/2015 at 16:23)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Poses
+-------------------------------------------------------------------------------
+I just loaded up a small change to the POSES system, allowing you to set a pose that is cleared when you leave the room. Just use the TPOSE command instead of POSE!
+
+Penned by My hand on the 3rd of Daedalan, in the year 684 AF.
+6658h, 5957m, 27850e, 22450w  ex----s21:46:05.09--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Taraus                10         On      On         No      Dragon
+Drodak                03         On      On         No      Infernal
+Jarrod                07         On      On         No      Serpent
+Blaster               01        Off      On         No      Blademaster
+Medi                  07         On      On         No      Apostate
+Nercyllis             03         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Adison                04         On      On         No      Serpent
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:46:07.07--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Taraus Bravi'os                                               3  On  Dragon
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Jarrod Lucoster                                               2  On  Serpent
+Thrall Blaster                                                1  On  Blademaster
+Legate Medi                                                   2  On  Apostate
+Emissary Nercyllis, Thrall of Elazar                          1  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Zulah, Herald of Iniquity                                     2  On  Blademaster
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:46:07.94--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Taraus                10         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Blaster               01        Off      On         No      Blademaster
+Medi                  07         On      On         No      Apostate
+Adison                04         On      On         No      Serpent
+Nercyllis             03         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Drodak                03         On      On         No      Infernal
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:46:29.68--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Taraus Bravi'os                                               3  On  Dragon
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Jarrod Lucoster                                               2  On  Serpent
+Legate Medi                                                   2  On  Apostate
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Emissary Nercyllis, Thrall of Elazar                          1  On  Serpent
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Thrall Blaster                                                1  On  Blademaster
+Zulah, Herald of Iniquity                                     2  On  Blademaster
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:46:31.46--
+ANNOUNCE NEWS #4342                                     (05/18/2015 at 20:33)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Heads-up!
+-------------------------------------------------------------------------------
+Just a quick update that there will be some fun things happening this upcoming weekend. Stay tuned for more details in the days to come, but consider this a heads-up!
+
+Penned by My hand on the 6th of Aeguary, in the year 684 AF.
+6658h, 5957m, 27850e, 22450w  ex----s21:46:35.24--
+ANNOUNCE NEWS #4343                                     (05/19/2015 at 19:55)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Talisman market
+-------------------------------------------------------------------------------
+We're pleased to announce the release of a talisman marketplace, allowing adventurers to trade and auction off talisman pieces in a convenient manner!
+
+For all of the relevant details on this system, please be sure to read over HELP TALISMAN MARKET.
+
+(*) Please note: While most talisman pieces can be sold on the market, there are some exceptions.
+
+Penned by My hand on the 5th of Miraman, in the year 684 AF.
+6658h, 5957m, 27850e, 22450w  ex----s21:46:41.26--
+EVENTS NEWS #502                                        (05/17/2015 at 04:43)  
+From   : Anonymous
+To     : Everyone
+Subject: Flotsam
+-------------------------------------------------------------------------------
+ [An excerpt taken from the Executive Officer's log of The Ilythian Whisper, found washed ashore near Riparium.]
+
+
+Ero, 683 AF.
+
+The sickly sweet smell of pestilence hung in the air, lingering on one's tongue. Lanterns hung from the aft of ships abandoned, their decks and railings crusted with vomit and blackened suppurate, canvas wicks burning low and fast in the absence of care. The odd corpse or two floated about in the surf, bloated and swollen beyond all discerning, the sea about its grave visage tinged a terrible yellow hue.
+
+"Captain, there's not a bloody chance we can dock there. The moorings are full o' plagueboats."
+
+He swore, loudly. The profanities washed about the silent docks, breaking upon a blue man's cough and sputter elsewhere in its midst.
+
+The larders were empty. They'd taken to eating the mice. Every port was closed - the plague'd taken them all, and to dock beside or downwind was suicide. May as well hang one's self from the nest.
+
+It came low and quiet, at first. A few bodies washed up along eastern shores. Soldiers with limbs missing and the plague's collar about their necks in full swing. The gulls had come after; the horde of curious lubbers that'd poked and pried and spread the contagion about themselves. Nay, not the disease itself, but the godsdamned curiosity about it.
+
+Curiosity's ever a fickle thing, but she soon struck her mark. Umbrin. The plague had all but ravaged those poor blighters. A Nereian had docked there and found out the hard way. The authority'd caught on quick. Sent up mates to bar the harbour and let the Umbrinites languish in their misery. Nobody even knows if any are left, now. The plague might've taken them all. Gods knows it's bloody bad enough. S'all lost now, how the plague even came about. A raid, or somesuch. It doesn't matter, anyhow. One of the gulls broke his own ship from quarantine at the same dock later on thinking it was naught but a harmless cough, overworked sailors, mayhap. It's everywhere now.
+
+
+Phaestian, 683 AF.
+
+The cure's made and waiting, but there's not enough. Never enough of it. Mariners tell us you have to dandy with the source of the sickness, a thing called a "sargassum", a great tangle o' seaweed that pulls along the dead of the deeps in its snarls, gives them the terrible ill that makes them come alive again. A strand of the stuff and a bunch of bark and root, and the Baarian apothecary up at Tasur'ke gives you a candle to burn on deck. The fumes quell the plague, but you can just breath in a lungful o' the contagion and catch it anew. And so many have. So, so many.
+
+Every crew that comes within firing distance of the plagueweed gets the disease themselves, a bloody awful one at that. Cursed men take the lines and helm on those brave ships in the plagued fleets, fighting both themselves and the sargassum for a chance at seeing their families outside of a casket. It's not enough, though. They get a strand when the thing finally rescinds to the deep broken and dead, but the strand's just enough for them and their mates. Seems almost pointless to fight. Three o' the pieces makes a vat enough to purge a harbour's curse, but not the ships in them. It's a nightmare. Enough so that there's talk of the Pirates of Meropis?thrice cursed, those scurvy lot, are working with Nereian and Guildsman alike to see the oceans through this storm. Them and their gypsy Pirate King.
+
+Some of us are starting to wonder, mayhap, if there might be more dead to scuttled ships and hulls ablaze than the plague yet. We can't let this sickness get in land. If it does, we're all done for. Each plagueweed that surfaces might yet be the last, and we've no bloody clue as to how many of the things are even left, if any at all. We don't know how much time we have, or if we'll even run out.
+
+I'm no religious man, but the Seagod's silence is deafening. And maybe soon, ours will be too.
+
+Bar the sound of the plaguedman's cough before he tumbles over into the deeps, one last time.
+
+               ~ ~ ~ ~ ~
+
+Summary: An excerpt from the ship's log of one of the plague-infected ships.
+
+[Type MORE if you wish to continue reading. (98% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:46:47.48--
+(The Bathhouse Strikes Back): Antonius says, "Reassuring to know we still take forever to do anything."
+6658h, 5957m, 27850e, 22450w  ex----s21:46:48.03--
+MHALDOR NEWS #3309                                      (05/18/2015 at 16:56)  
+From   : Adjutant Elazar Lichlord, Dread Knight
+To     : Everyone
+Subject: Maleficent Jubilee: Updates and Reminders
+-------------------------------------------------------------------------------
+Servants of Evil,
+ 
+   There have been some changes regarding the Maleficent Jubilee, the joint house event, so do take note.  The most important is that the Jubilee's opening ceremonies has been moved twenty four days later to the 25th of LUPAR, 684.
+ 
+ 
+   Following the opening ceremonies, a two on two ladder combat tournament will be held.  The teams will be randomized with a Legate and Insidi member on each.  Winning team of the tournament will receive 15 credits each, second place will receive 10 credits each, and third will receive 5 credits each.
+ 
+ 
+   After the combat tournament, test your knowledge at the House against House trivia game.  We will be choosing up to four or five from each house to participate, first to SAY the answer aloud, with correct pronunciation will receive a point for their house.  Winning team will get a one of a kind brooch, to honour thy knowledge.
+ 
+ 
+   The cook-off has been slightly modified.  Instead of having a prepared dish, we are accepting a recipe up until the opening ceremonies.  Send either myself or Revelator Kitiara your recipe.  For now, your dish should only include appearance, dropped, and examined descriptions.  We will be selecting a winner, who will receive 25 credits, with two runner-ups, who will receive 10 credits each.
+ 
+ 
+   I hope to see many of you out there.  Let's represent our respective houses, grow as followers of Truth, and honour thy Master.
+ 
+-Through Suffering, we find Strength.
+ 
+Adjutant Elazar Lichlord, Dread Knight
+
+Penned by my hand on the 3rd of Aeguary, in the year 684 AF.
+6658h, 5957m, 27850e, 22450w  ex----s21:46:51.29--
+(The Bathhouse Strikes Back): You say, "Antonius, more like anbronius."
+6658h, 5957m, 27850e, 22450w  ex----s21:47:04.05--
+THRALLS NEWS #6                                         (05/18/2015 at 17:26)  
+From   : Adjutant Elazar Lichlord, Dread Knight
+To     : Everyone
+Subject: Apparel Contest
+-------------------------------------------------------------------------------
+Legates,
+
+  A job well done on all the apparel submissions!  I will go ahead and transfer five credits to each of you that had an entry.  Please, if you did not receive your credits, contact me.  We will continue to judge over the next few months so hold tight for the announcement of the winners!
+
+  I also would like to start probing for interest as part of the Maleficent Jubilee Legate trivia team (READNEWS MHALDOR 3309).  We are looking for four to five members to represent the Legates in this event.  The opening ceremonies will be held on the 25 of Lupar 684, following that will be the two on two combat tournament, then the House versus House trivia game.  I would guess the trivia event would land somewhere between the late 26th to the 28th of Lupar.  This is just a guess - if you wish to try and plan.  Exact times, following the opening ceremony are still up in the air.  If -you- are interested, let me know.  Any questions regarding the Jubilee, contact myself or Revelator Kitiara.
+
+  Our annual house credit sale has just opened as well.  Continue to grow, through serving Him, we shall conquer all!
+
+-In Strength,
+
+Adjutant Elazar Lichlord, Dread Knight
+
+Penned by my hand on the 3rd of Aeguary, in the year 684 AF.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:18.37--
+(Market): Amranu says, "Cfs."
+6658h, 5957m, 27850e, 22450w  ex----s21:47:21.69--
+You have no further news to read.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:26.51--
+There is no next message to read.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:28.22--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Taraus                10         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Nercyllis             03         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Blaster               01        Off      On         No      Blademaster
+Adison                04         On      On         No      Serpent
+Medi                  07         On      On         No      Apostate
+Drodak                03         On      On         No      Infernal
+Chiam                 07         On      On         No      Dragon
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:47:29.95--
+You have no further news to read.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:30.96--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Taraus Bravi'os                                               3  On  Dragon
+Jarrod Lucoster                                               2  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Emissary Nercyllis, Thrall of Elazar                          1  On  Serpent
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Zulah, Herald of Iniquity                                     2  On  Blademaster
+Thrall Blaster                                                1  On  Blademaster
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Legate Medi                                                   2  On  Apostate
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Commandant Chiam Nithilar                                     4  On  Dragon
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:47:31.67--
+Proficy is currently the Avenging Arrow Champion.
+Santar is currently the Silent Executioner.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:32.78--
+Proficy, the Merciful (male Grook).
+He is 442 years old, having been born on the 25th of Valnuary, 241 years after the fall of the Seleucarian Empire.
+He is ranked 7th in Achaea.
+He is the 15th ranked combatant with a rating of 100.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is the Avenging Arrow Champion in the Ivory Mark.
+He is an Exsusiai in Mhaldor.
+He is an Oppressor in the army of Mhaldor.
+He is considered to be approximately 120% of your might.
+He is a Legate of Truths in the Dread Legates.
+He is a mentor and able to take on proteges.
+His warcry: 'Things can never be what they once were'
+He has been divorced once.
+See HONOURS DEEDS PROFICY to view his 7 special honours.
+6658h, 5957m, 27850e, 22450w  x----s21:47:38.99--
+You have recovered equilibrium.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:40.59--
+You have no further news to read.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:48.33--
+There is no next message to read.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:48.83--
+Proficy is currently the Avenging Arrow Champion.
+Santar is currently the Silent Executioner.
+6658h, 5957m, 27850e, 22450w  ex----s21:47:49.86--
+(Market): Shirszae says, "Buying 2330 wood commodities for a good price. Send tells."
+6658h, 5957m, 27850e, 22450w  ex----s21:47:52.41--
+The call of a warhorn sounds out as Jhui issues a challenge to Talysin.
+6658h, 5957m, 27850e, 22450w  ex----s21:48:37.02--
+Fabulous Forestwalker Talysin Moonflair (male Viridian Grook).
+He is 363 years old, having been born on the 10th of Chronos, 320 years after the fall of the Seleucarian Empire.
+He is ranked 138th in Achaea.
+He is the 5th ranked combatant with a rating of 243.
+He is an extremely credible character.
+He is one of the Infamous.
+He is a member of the Ivory Mark.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'My best feature is everything.'
+He has been divorced once.
+See HONOURS DEEDS TALYSIN to view his 8 special honours.
+6658h, 5957m, 27850e, 22450w  x----s21:48:41.72--
+You have recovered equilibrium.
+6658h, 5957m, 27850e, 22450w  ex----s21:48:43.43--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A stubborn mule wanders about here, nosing at the ground. A fierce tiger prowls restlessly nearby. Playfully scampering about is a sleek black otter.
+You see a single exit leading west.
+6658h, 5957m, 27850e, 22450w  ex----s21:48:46.20--
+Talysin has accepted the challenge to mortal combat issued by Jhui.
+6658h, 5957m, 27850e, 22450w  ex----s21:48:59.40--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s21:49:04.96--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Emissary Nercyllis, Thrall of Elazar                          1  On  Serpent
+Jarrod Lucoster                                               2  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Commandant Chiam Nithilar                                     4  On  Dragon
+Legate Medi                                                   2  On  Apostate
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Zulah, Herald of Iniquity                                     2  On  Blademaster
+Thrall Blaster                                                1  On  Blademaster
+Taraus Bravi'os                                               3  On  Dragon
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s21:49:07.85--
+You tell Jarrod, "Is scales flat damage reduction, or only cutting and blunt."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:24.11--
+You tell Jarrod, "Can't remember."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:28.52--
+Jarrod tells you, "Think it's flat damage reduction, pretty sure it affects magical."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:42.70--
+You tell Jarrod, "Nice."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:46.05--
+(The Midnight Crew): Aquil says, "Whut."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:53.83--
+You tell Jarrod, "Thanks man."
+6658h, 5957m, 27850e, 22450w  ex----s21:49:59.09--
+Jarrod tells you, "No problem."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:10.88--
+(The Midnight Crew): Aquil says, "Did Tesha arc and get all those? Lmfao."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:17.44--
+(The Midnight Crew): Jarrod says, "Was blunt damage."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:25.35--
+(The Midnight Crew): Jarrod says, "So no."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:27.68--
+(The Bathhouse Strikes Back): Antonius says, "Fucking svo freaking out in retardation..."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:30.88--
+(The Midnight Crew): Antidas says, "Trample."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:31.16--
+(The Midnight Crew): Aquil says, "Ah."
+6658h, 5957m, 27850e, 22450w  ex----s21:50:34.66--
+(Market): Ginovianna says, "Buying a lot of deepsea bait."
+6658h, 5957m, 27850e, 22450w  ex----s21:52:19.47--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s21:52:44.57--
+--------------------------------------------------------------------------------
+You are holding:
+Wielded:
+   Left hand:  shield200640        a Shield of Absorption
+Curing aides:
+   pipe124801          an ornately carved ivory pipe
+   pipe512008          an ornately carved ivory pipe
+   pipe512260          an ornately carved ivory pipe
+Weapons:
+   bow163141           a Velocity Bow
+   blackjack192317     a Pandora's blackjack
+Containers:
+   horn186945          a horn of plenty
+Misc:
+   whistle17177        a platinum whistle
+   bowl74986           a scrying bowl
+   hourglass105412     a wintry hourglass
+   gem422222           a gem of cloaking
+   badge470262         a badge of returning
+   grimoire183521      a Grimoire of Hasty Adaptation
+   quill199517         a quill of inscribing
+   chunk409835         a compact chunk of creamy Combatia cheese
+
+You are wearing:
+   robes55677          Robes of the Magi
+   sash243205          a Sash of Caymus
+   boots48174          a pair of buckawn's boots
+   hat225061           a debonair white top hat
+   ring25597           a ring of the Magus
+   diadem45672         an Aldar Diadem
+   ring60057           a Logosian ring
+   ring71821           a ring of flying
+   bracelets72671      a pair of Logosian Bracelets
+   belt94025           a Belt of Aegis
+   band163638          a golden band of Draconic vigour
+   ring228875          a prismatic ring
+   collar250772        a Collar of Agatheis
+   veil434196          a Veil of the Sphinx
+   ring448099          a ring of Noxtra
+   ring448458          a silver ring of meditation
+[Type MORE if you wish to continue reading. (72% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:55:14.82--
+[File continued via MORE]
+   ring410233          a ring of endurance
+Containers:
+   pack214612          a dragonskin pack
+Jewellery:
+   earring233937       an earring of Sinope
+   earring344809       an earring of Sinope
+Misc:
+   amulet79441         an Amulet of the Will
+   armband116161       a mammoth tusk armband
+   pendant142719       a blood pendant
+   spurs314366         a set of mithril spurs
+   greaves115492       chitin greaves
+   goggles280348       goggles of whitesight
+   wings143796         a pair of atavian wings
+--------------------------------------------------------------------------------
+42 items were shown.
+6658h, 5957m, 27850e, 22450w  ex----s21:55:15.78--
+A compact chunk of creamy Combatia cheese currently costs 500 credits. It will trade in for 333 bound credits.
+6658h, 5957m, 27850e, 22450w  ex----s21:55:28.71--
+A quill of inscribing currently costs 250 credits. It will trade in for 166 bound credits.
+6658h, 5957m, 27850e, 22450w  ex----s21:55:34.95--
+A Pandora's blackjack currently costs 1600 credits. It will trade in for 1066 bound credits.
+6658h, 5957m, 27850e, 22450w  ex----s21:55:39.60--
++-Dread Duelist Dartega-------------------------------------------------------+
+| Level  : 90 (15.1%)  "1st Rank of the Infinite"                             |
+| Age    : 224         Birthdate: 12th Daedalan, 460AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 429         Explorer Rank: 717     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6658/6658   Willpower: 22450/22450 Strength : 12 Intelligence: 15 |
+| Mana    : 5957/5957   Endurance: 27850/27850 Dexterity: 10 Constitution: 19 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 60 minutes          |
+|                                                                             |
+| Your mentor is Zambuk.                                                      |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 310     Room: 0        Unbound: 0         |
+|   Packs  : 678775        Bound  : 61                     Bound  : 0         |
+|   Banks  : 0             Lessons: 282                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Mhaldor           : Rank 2 - Troni                                        |
+|   Soldier           : Yes                                                   |
+| House                                                                       |
+|   The Dread Legates                                                         |
+|   (Rank 4 - a Duelist of the Seven)                                         |
+| Clans                                                                       |
+|   The Umbra                            Colloquium Iniquus                   |
+|   Whiners Anonymous                    Ar'kena Keep                         |
+|   The Midnight Crew *                  The Rant Garden                      |
+|   League of Legends                    The Bathhouse Strikes Back           |
+|   Mudlet Clan                          The Interdimensional Rift            |
+|                                                                             |
+| Enemied to: Ashtan, Aurora, Blacklotus, Cij, Cyrene, Deucalion, Eleusis,    |
+|             Hashan, Heartwood, Merchants, Neraeos, Phaestus,                |
+|             Spiritwalkers, Targossas, The Forests, Twilight, and Vastar     |
++-----------------------------------------------------------------------------+
+6658h, 5957m, 27850e, 22450w  ex----s21:56:12.85--
+19.10.2 Offensive Artefacts
+
+(see also HELP ARTEFACTS, HELP ARTEFACT TRADEINS, HELP ARTEFACT TRANSFERS)
+
+Artefacts are special items that can be purchased only with Bound Credits.
+Unless otherwise stated, artefacts can be purchased in Merentesh's series of
+shops in Delos. They will reset into your inventory frequently, which means
+they cannot be loaned out, or stolen(!), for very long. Some only work for the
+owner. They never decay. They cannot be changed to reset to anyone else's
+inventory, so do not buy artefacts of any kind if you intend to sell them.
+
+
+Note About Stacking
+-------------------
+Artefact effects (for similar artefacts) don't combine or stack. If you have,
+say, a Collar of Ceylon and a Collar of Agatheis, then only one will boost
+damage of a magical nature. If you have a Logosian Ring and a Mayan Ring, then
+only one will increase the value of sipping a health elixir. In general, the
+best item rules, but there may be exceptions. So don't count on having two
+artefacts and somehow stacking their effects.
+
+
+-------------------
+OFFENSIVE ARTEFACTS
+-------------------
+Within the Offensive artefact category, we have two sub-categories:
+
+Enhanced weapons
+   - These are weapons with stats that are superior to the
+     statistically average weapon of that type.
+
+Special weapons
+   - These are offensive artefacts whose advantage is not based in the
+     three weapon statistics (damage, to-hit, and speed).
+
+
+Enhanced weapons
+----------------
+                              Damage  To-hit  Speed   Cost
+Longswords:
+[Type MORE if you wish to continue reading. (13% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:56:41.63--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s21:56:42.72--
+[File continued via MORE]
+   Meteoric longsword          121     168     186     350 credits
+   Vorpal longsword            125     173     192     800 credits
+   Logosian longsword          130     180     200    1600 credits
+
+Scimitars:
+   Scimitar of Hawks            56     168     236     350 credits
+   Scimitar of Falcons          60     173     240     800 credits
+   Scimitar of Eagles           64     180     245    1600 credits
+
+Broadswords:
+   Mithril broadsword          154     168     159     350 credits
+   Vorpal broadsword           164     173     164     800 credits
+   Logosian broadsword         172     180     170    1600 credits
+
+Rapiers:
+   Blackened rapier             57     168     236     350 credits
+   Eagle's Scream               60     173     241     800 credits
+   Soulpiercer                  63     180     246    1600 credits
+
+Battleaxes:
+   Orcsplitter                 162     160     151     350 credits
+   Stonereaver                 168     166     156     800 credits
+   Logosian battleaxe          174     172     162    1600 credits
+
+Bastard swords (two-handed):
+   Dawnrender                  204     165     136     350 credits
+   Soulreaver                  213     173     143     800 credits
+   Dreadblade                  222     180     149    1600 credits
+
+Warhammers (two-handed):
+   Stonesmith's Maul           186     160     149     350 credits
+   Worldforge Hammer           192     169     154     800 credits
+   Hellforge Hammer            200     174     160    1600 credits
+
+Throwing axes:
+   Sylvan Axe                   97     198     225     350 credits
+   Axe of the Hunt             101     207     232     800 credits
+   Axe of Gaian Fury           106     216     242    1600 credits
+
+Spears:
+[Type MORE if you wish to continue reading. (27% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:56:44.41--
+[File continued via MORE]
+   Spiked steel spear           96     215     200     350 credits
+   Mithril spear               101     219     205     800 credits
+   Stormspear                  106     224     210    1600 credits
+
+Tridents:
+   Defender's Trident           96     215     200     350 credits
+   Devil's Fork                101     219     205     800 credits
+   Neraeos' Fork               106     224     210    1600 credits
+
+Spirituality Maces:
+   Odyssean Mace               165     220     220     350 credits
+   Raphaelan Mace              173     230     230     800 credits
+   Auroran Mace                180     240     240    1600 credits
+
+Flails:
+   Mutilator flail             140     168     168     350 credits
+   Skullsplitter flail         144     173     173     800 credits
+   Braincrusher flail          150     180     180    1600 credits
+
+Morningstars:
+   Barbarian's Morningstar      73     191     212     350 credits
+   Berserker's Morningstar      77     195     218     800 credits
+   Matsuhama's Morningstar      85     200     225    1600 credits
+
+Whips:
+   Whip of Thorns:              77     187     165     350 credits
+   Razor Whip:                  81     196     173     800 credits
+   Serpentis Whip:              84     204     180    1600 credits
+
+Lashes:
+   Viper's Coil:                55     164     187     350 credits
+   Wyvern's Lash:               59     174     209     800 credits
+   Elentari's Scourge:          65     191     225    1600 credits
+
+Jester's Blackjacks:
+   Prankster's Blackjack:       66     220     220     350 credits
+   Carnivalis Blackjack:        69     230     230     800 credits
+   Pandora Blackjack:           72     240     240    1600 credits
+
+Javelins:
+[Type MORE if you wish to continue reading. (41% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:56:45.70--
+You tell Jarrod, "Whats the advantages of whips over lashes?"
+6658h, 5957m, 27850e, 22450w  ex----s21:57:49.06--
+You tell Jarrod, "Artie wise."
+6658h, 5957m, 27850e, 22450w  ex----s21:57:55.42--
+Jarrod tells you, "Whips hit harder, lashes hit faster."
+6658h, 5957m, 27850e, 22450w  ex----s21:58:13.77--
+Jarrod tells you, "Lashes are generally better in every situation, a whip would only be useful for trying to kill someone with backstab into garrote."
+6658h, 5957m, 27850e, 22450w  ex----s21:58:38.00--
+You tell Jarrod, "Haha, so is like one used for flay and one for garrote or is flay not weapon dependant."
+6658h, 5957m, 27850e, 22450w  ex----s21:58:54.58--
+You tell Jarrod, "Ah."
+6658h, 5957m, 27850e, 22450w  ex----s21:58:57.61--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s21:59:28.71--
+19.10.4 Stats Altering Artefacts
+
+(see also HELP ARTEFACTS, HELP ARTEFACT TRADEINS, HELP ARTEFACT TRANSFERS)
+
+Artefacts are special items that can be purchased only with Bound Credits.
+Unless otherwise stated, artefacts can be purchased in Merentesh's series of
+shops in Delos. They will reset into your inventory frequently, which means
+they cannot be loaned out, or stolen(!), for very long. Some only work for
+the owner. They never decay. They cannot be changed to reset to anyone
+else's inventory, so do not buy artefacts of any kind if you intend to sell
+them.
+
+
+Note About Stacking
+-------------------
+Artefact effects (for similar artefacts) don't combine or stack. If you have,
+say, a Collar of Ceylon and a Collar of Agatheis, then only one will boost
+damage of a magical nature. If you have a Logosian Ring and a Mayan Ring, then
+only one will increase the value of sipping a health elixir. In general, the
+best item rules, but there may be exceptions. So don't count on having two
+artefacts and somehow stacking their effects.
+
+
+----------------------------
+STATISTIC-ALTERING ARTEFACTS
+----------------------------
+Belts: (to increase constitution)
+  - Belt versions of the Girdle of the Titans and Girdle of Aegis are also
+    available at the artefact shop in Delos.
+   Hunter's Belt:            400 credits (+1 constitution)
+   Girdle of the Titans:    1000 credits (+2 constitution)
+   Girdle of Aegis:         2000 credits (+3 constitution)
+
+Boots: (to increase dexterity)
+   Pixie's Boots:            500 credits (+1 dexterity)
+   Boots of Dexterity:      1250 credits (+2 dexterity)
+   Ethereal Boots:          2500 credits (+3 dexterity)
+
+Gauntlets: (to increase strength)
+   Ogre's Gauntlets:         500 credits (+1 strength)
+[Type MORE if you wish to continue reading. (80% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s21:59:57.46--
+[File continued via MORE]
+   Gauntlets of the Aldar:  1250 credits (+2 strength)
+   Logosian Gauntlets:      2500 credits (+3 strength)
+   - Work as a falconry glove.
+
+Sashes: (to increase intelligence)
+   Epicurean Sash:           500 credits (+1 intelligence)
+   Sash of Wisdom:          1250 credits (+2 intelligence)
+   Sash of Caymus:          2500 credits (+3 intelligence)
+
+
+(see also HELP ARTEFACTS, HELP ARTEFACT TRADEINS, HELP ARTEFACT TRANSFERS)
+6658h, 5957m, 27850e, 22450w  ex----s21:59:59.70--
+Dread Duelist Dartega (male Dwarf Miner)
+You are level 90 (1st Rank of the Infinite) and 15.1% of the way to the next level.
+Health:       6658 / 6658     Mana:         5957 / 5957
+Endurance:   27850 /27850     Willpower:   22450 /22450
+Strength: 12  Dexterity: 10  Constitution: 19  Intelligence: 15
+6658h, 5957m, 27850e, 22450w  ex----s22:00:22.41--
+Created by Phaestus and given a soul by Proteus in return for Phaestus's eternal loyalty, dwarves are doughty and loyal humanoids. Grouped in clans from the central Siroccian Mountains to Inbhir Ness in the far north and the Vasnari Mountains of Meropis, they prefer the relative solitude of the highlands to the hustle and bustle of cities. Nevertheless, they are often found in leadership positions as everyone has heard the maxim: dependable as a dwarf.
+
+Dwarves are unmistakably stocky, with muscular builds that retain their strength even into extreme old age. Skinny or slender dwarves are very rare. Most stand around four feet short, though there are rare cases of giant dwarves who grow to reach human height. Their skin tone is naturally pale or ruddy, but those with tanned and dark skin are not unheard of, and their facial features are rounded, often with button or bulbous noses. Beards are prevalent among male dwarves, and most consider a long, thick beard to be a mark of pride. Many of the females can grow beards as well, though they have a tendency to remove their facial hair. Red or dark hair is very common, though blond is not particularly unusual, and it is generally thick and/or curly in texture. The eyes, too, are typically dark (brown or black) but many have blue, green, or grey eyes as well.
+
+Statistics for this race:
+Specialisation      Str.        Dex.        Con.        Int.
+-------------------------------------------------------------
+Unspecialised       12          11          13          12
+Brawler             14          11          13          11
+Crafter             12          13          12          12
+Miner               12          10          15          12
+Foreman             11          11          13          14
+
+This race has the following trait:
+Earthborn
+- Resistant to MAGIC damage.
+- Resistant to FIRE damage.
+- Resistant to COLD damage.
+- Resistant to POISON damage.
+
+6658h, 5957m, 27850e, 22450w  ex----s22:00:27.05--
+The rajamala are a race of proud, fierce, tiger-like humanoids from a distant planet. The first that history speaks of the rajamala is when they fought with the Triumvirate, under the command of the god Agatheis, during the great battle on Nishnatoba. Their origins are not known. They mingle easily with the other races and seldom form communities of their own, though one village in the valley of Xhaiden Dale is comprised mostly of rajamala.
+
+Orange fur with black stripes is the traditional colouring of rajamala, but many have coats that mimic that of other felines: tawny and golden, white, black, silver, and more. They may also be spotted or striped in many combinations. Rajamala stand six feet tall on average, with a sleek or muscular physique that seldom becomes overweight. Their eyes are often amber or yellow and brown, but they can be blue and green and black as well. They are born with tails, and some have manes and whiskers that can be styled like human hair.
+
+Statistics for this race:
+Specialisation      Str.        Dex.        Con.        Int.
+-------------------------------------------------------------
+Unspecialised       12          13          12          11
+Executioner         14          13          12          10
+Striker             12          15          11          11
+Enforcer            12          12          14          11
+Magiker             11          13          12          13
+
+This race has the following trait:
+Feral Spirit
+- Can consume the corpses of fallen foes.
+- Additional chance to dodge attacks.
+- Resistant to COLD damage.
+
+6658h, 5957m, 27850e, 22450w  ex----s22:00:47.77--
+Jarrod Lucoster (male Rajamala).
+He is 335 years old, having been born on the 2nd of Lupar, 348 years after the fall of the Seleucarian Empire.
+He is ranked 48th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a member of the Quisalis Mark.
+He is a Troni in Mhaldor.
+He is a Maggot in the army of Mhaldor.
+He is considered to be approximately 120% of your might.
+He is a Legate of Truths in the Dread Legates.
+He is a mentor and able to take on proteges.
+His motto: 'To preach tolerance is to die in weakness.'
+He has been divorced 2 times.
+See HONOURS DEEDS JARROD to view his 21 special honours.
+6658h, 5957m, 27850e, 22450w  x----s22:01:01.40--
+You have recovered equilibrium.
+6658h, 5957m, 27850e, 22450w  ex----s22:01:03.05--
+The rajamala are a race of proud, fierce, tiger-like humanoids from a distant planet. The first that history speaks of the rajamala is when they fought with the Triumvirate, under the command of the god Agatheis, during the great battle on Nishnatoba. Their origins are not known. They mingle easily with the other races and seldom form communities of their own, though one village in the valley of Xhaiden Dale is comprised mostly of rajamala.
+
+Orange fur with black stripes is the traditional colouring of rajamala, but many have coats that mimic that of other felines: tawny and golden, white, black, silver, and more. They may also be spotted or striped in many combinations. Rajamala stand six feet tall on average, with a sleek or muscular physique that seldom becomes overweight. Their eyes are often amber or yellow and brown, but they can be blue and green and black as well. They are born with tails, and some have manes and whiskers that can be styled like human hair.
+
+Statistics for this race:
+Specialisation      Str.        Dex.        Con.        Int.
+-------------------------------------------------------------
+Unspecialised       12          13          12          11
+Executioner         14          13          12          10
+Striker             12          15          11          11
+Enforcer            12          12          14          11
+Magiker             11          13          12          13
+
+This race has the following trait:
+Feral Spirit
+- Can consume the corpses of fallen foes.
+- Additional chance to dodge attacks.
+- Resistant to COLD damage.
+
+6658h, 5957m, 27850e, 22450w  ex----s22:01:07.63--
+You tell Jarrod, "And final question, is it 15 or 16 as the cap on dex for dstab speed."
+6658h, 5957m, 27850e, 22450w  ex----s22:02:01.84--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s22:02:04.24--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Chiam                 07         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Vum                   06         On      On         No      Dragon
+Taraus                10         On      On         No      Dragon
+Blaster               01        Off      On         No      Blademaster
+Medi                  07         On      On         No      Apostate
+Adison                04         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:02:04.35--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Commandant Chiam Nithilar                                     4  On  Dragon
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Jarrod Lucoster                                               2  On  Serpent
+Squire Vum Daesheryn, Crusher of Wills                        4  On  Dragon
+Taraus Bravi'os                                               3  On  Dragon
+Legate Medi                                                   2  On  Apostate
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Thrall Blaster                                                1  On  Blademaster
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:02:10.44--
+Jarrod tells you, "With what artie dirk."
+6658h, 5957m, 27850e, 22450w  ex----s22:02:14.91--
+You tell Jarrod, "Thoth."
+6658h, 5957m, 27850e, 22450w  ex----s22:02:17.58--
+Jarrod tells you, "15."
+6658h, 5957m, 27850e, 22450w  ex----s22:02:39.59--
+Jarrod tells you, "But phase/backstab channel speeds don't have a cap on scaling."
+6658h, 5957m, 27850e, 22450w  ex----s22:03:13.53--
+You tell Jarrod, "Interesting."
+6658h, 5957m, 27850e, 22450w  ex----s22:03:28.30--
+Carbine, riding an alabaster pegasus, arrives from the west.
+6658h, 5957m, 27850e, 22450w  ex----s22:03:30.52--
+You tell Jarrod, "Guess that's not terribly important."
+6658h, 5957m, 27850e, 22450w  ex----s22:03:44.67--
+You tell Jarrod, "Hrm."
+6658h, 5957m, 27850e, 22450w  ex----s22:03:45.91--
+Jarrod tells you, "Not too important, garrote speeds are the same."
+6658h, 5957m, 27850e, 22450w  ex----s22:03:55.35--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s22:04:28.72--
+19.10.2 Offensive Artefacts
+
+(see also HELP ARTEFACTS, HELP ARTEFACT TRADEINS, HELP ARTEFACT TRANSFERS)
+
+Artefacts are special items that can be purchased only with Bound Credits.
+Unless otherwise stated, artefacts can be purchased in Merentesh's series of
+shops in Delos. They will reset into your inventory frequently, which means
+they cannot be loaned out, or stolen(!), for very long. Some only work for the
+owner. They never decay. They cannot be changed to reset to anyone else's
+inventory, so do not buy artefacts of any kind if you intend to sell them.
+
+
+Note About Stacking
+-------------------
+Artefact effects (for similar artefacts) don't combine or stack. If you have,
+say, a Collar of Ceylon and a Collar of Agatheis, then only one will boost
+damage of a magical nature. If you have a Logosian Ring and a Mayan Ring, then
+only one will increase the value of sipping a health elixir. In general, the
+best item rules, but there may be exceptions. So don't count on having two
+artefacts and somehow stacking their effects.
+
+
+-------------------
+OFFENSIVE ARTEFACTS
+-------------------
+Within the Offensive artefact category, we have two sub-categories:
+
+Enhanced weapons
+   - These are weapons with stats that are superior to the
+     statistically average weapon of that type.
+
+Special weapons
+   - These are offensive artefacts whose advantage is not based in the
+     three weapon statistics (damage, to-hit, and speed).
+
+
+Enhanced weapons
+----------------
+                              Damage  To-hit  Speed   Cost
+Longswords:
+[Type MORE if you wish to continue reading. (13% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:05:56.90--
+[File continued via MORE]
+   Meteoric longsword          121     168     186     350 credits
+   Vorpal longsword            125     173     192     800 credits
+   Logosian longsword          130     180     200    1600 credits
+
+Scimitars:
+   Scimitar of Hawks            56     168     236     350 credits
+   Scimitar of Falcons          60     173     240     800 credits
+   Scimitar of Eagles           64     180     245    1600 credits
+
+Broadswords:
+   Mithril broadsword          154     168     159     350 credits
+   Vorpal broadsword           164     173     164     800 credits
+   Logosian broadsword         172     180     170    1600 credits
+
+Rapiers:
+   Blackened rapier             57     168     236     350 credits
+   Eagle's Scream               60     173     241     800 credits
+   Soulpiercer                  63     180     246    1600 credits
+
+Battleaxes:
+   Orcsplitter                 162     160     151     350 credits
+   Stonereaver                 168     166     156     800 credits
+   Logosian battleaxe          174     172     162    1600 credits
+
+Bastard swords (two-handed):
+   Dawnrender                  204     165     136     350 credits
+   Soulreaver                  213     173     143     800 credits
+   Dreadblade                  222     180     149    1600 credits
+
+Warhammers (two-handed):
+   Stonesmith's Maul           186     160     149     350 credits
+   Worldforge Hammer           192     169     154     800 credits
+   Hellforge Hammer            200     174     160    1600 credits
+
+Throwing axes:
+   Sylvan Axe                   97     198     225     350 credits
+   Axe of the Hunt             101     207     232     800 credits
+   Axe of Gaian Fury           106     216     242    1600 credits
+
+Spears:
+[Type MORE if you wish to continue reading. (27% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:05:57.79--
+[File continued via MORE]
+   Spiked steel spear           96     215     200     350 credits
+   Mithril spear               101     219     205     800 credits
+   Stormspear                  106     224     210    1600 credits
+
+Tridents:
+   Defender's Trident           96     215     200     350 credits
+   Devil's Fork                101     219     205     800 credits
+   Neraeos' Fork               106     224     210    1600 credits
+
+Spirituality Maces:
+   Odyssean Mace               165     220     220     350 credits
+   Raphaelan Mace              173     230     230     800 credits
+   Auroran Mace                180     240     240    1600 credits
+
+Flails:
+   Mutilator flail             140     168     168     350 credits
+   Skullsplitter flail         144     173     173     800 credits
+   Braincrusher flail          150     180     180    1600 credits
+
+Morningstars:
+   Barbarian's Morningstar      73     191     212     350 credits
+   Berserker's Morningstar      77     195     218     800 credits
+   Matsuhama's Morningstar      85     200     225    1600 credits
+
+Whips:
+   Whip of Thorns:              77     187     165     350 credits
+   Razor Whip:                  81     196     173     800 credits
+   Serpentis Whip:              84     204     180    1600 credits
+
+Lashes:
+   Viper's Coil:                55     164     187     350 credits
+   Wyvern's Lash:               59     174     209     800 credits
+   Elentari's Scourge:          65     191     225    1600 credits
+
+Jester's Blackjacks:
+   Prankster's Blackjack:       66     220     220     350 credits
+   Carnivalis Blackjack:        69     230     230     800 credits
+   Pandora Blackjack:           72     240     240    1600 credits
+
+Javelins:
+[Type MORE if you wish to continue reading. (41% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:05:57.97--
+[File continued via MORE]
+   Babel's Pin                 267     146      83     525 credits
+   Babel's Barb                255     153      87     800 credits
+   Babel's Fury                279     160      91    1300 credits
+
+Dirks:
+   Assassin's Dirk             8% faster DSTABs        350 credits
+   Buckawn's Spine            15% faster DSTABs        800 credits
+   Thoth's Fang               23% faster DSTABs       1600 credits
+
+Blademaster's Bands
+   Band of Fire         5% increased speed/damage      350 credits
+   Band of Lightning   10% increased speed/damage      800 credits
+   Band of Ice         15% increased speed/damage     1600 credits
+   - With your blade in your hand, "ATTACH BAND TO SWORD" to convert it
+     into an artefact weapon, adding an additional 5%/10%/15% speed and
+     damage. This also makes the weapon reset to its owner.
+   - These may be DETACHed as well.
+   - Blademaster swords are not able to take on the Asp add-on.
+
+Bows:  These shoot more quickly, do more damage, and hit more easily than a
+       darkbow. The damage and to-hit percentages aren't possible to give
+       because they are only one of many factors - suffice it to say that
+       the more expensive bows are more accurate and do more damage.
+
+  Note: The base price of bows is based on having the DARKBOWS ability.
+        Should you not have this class ability, you can purchase the
+        "shooting" option via the ARTEFACT command, which grants the
+        owner the ability to use the SHOOT command:
+           SHOOT <adventurer> <direction> -or-
+           SHOOT <adventurer> WITH METEOR.
+
+   Ranger's Bow                       7% faster        250 credits
+   Shooting Addon                                     +100 credits
+   Velocity Bow                      14% faster        550 credits
+   Shooting Addon                                     +250 credits
+   Lupine Bow                        22% faster       1000 credits
+   Shooting Addon                                     +500 credits
+
+Asp
+---
+[Type MORE if you wish to continue reading. (58% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:05:58.13--
+[File continued via MORE]
+For 750 credits, you may add the Asp ability to almost any artefact edged
+weapon. This is achieved via ARTEFACT <item> ADD ASP.
+
+The Asp ability causes the weapon to hit with a random venom each time, and 1/3
+of the time no specific venom message is given. If there are venoms on the
+weapon, the venoms will be delivered and the asp will not take effect. If there
+are no venoms, asp will take effect.
+
+For the purposes of adding Asp ability, knuckles do not count as edged weapons.
+
+The asp ability may be traded in. It is valued at two-thirds (500 credits).
+
+Special Weapons
+---------------
+Armbands of the Fist
+   - These armbands allow Tekura users to hit more often with their punches
+     and kicks. The precise effect is difficult to express, but is similar
+     to raising the to-hit of a weapon by 10%, 15% or 20%. This effect is
+     not limited by the type of target in any way, denizen or adventurer.
+
+   Bronze Armband of the Fist   Raises to-hit by 10%   200 credits
+   Copper Armband of the Fist   Raises to-hit by 15%   500 credits
+   Steel Armband of the Fist    Raises to-hit by 20%  1000 credits
+
+Boomerangs: 450 credits
+   - Throw these at someone in your line of sight (up to 10 rooms away) and
+     the boomerang will try to bring your target to you. The syntax is:
+     THROW BOOMERANG AT <target> <direction>
+   * one-way exits will defeat boomerangs.
+   * the same things that prevent a yank will prevent a boomerang from
+     succeeding (impaled, massed, stand firm, rooted, clinging) plus
+     grounding vibes, being at a dock, restrained by tentacles or grave
+     hands, or a rite of piety.
+
+Bracers of Flame: 400 credits
+   - Grants the wielder the ability to FIRELASH and cast FIREWALLS.
+
+Bracers of Frost: 1000 credits
+   - Allows you to:
+        1) FREEZE GROUND - Cover the ground in ice.
+[Type MORE if you wish to continue reading. (73% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:05:58.75--
+(The Midnight Crew): Merador says, "Haha dat Eleusis crew do."
+6658h, 5957m, 27850e, 22450w  ex----s22:05:58.87--
+(The Midnight Crew): Merador says, "Dam..."
+6658h, 5957m, 27850e, 22450w  ex----s22:06:04.51--
+[File continued via MORE]
+        2) FREEZE <person> - Freeze an opponent.
+        3) CAST DEEPFREEZE - Deepfreeze all your enemies that are in the
+           same location with you, if you could otherwise interact with
+           that person (taking into account astralform, phase,
+           blackwind, and the like).
+        4) POINT <bracers> <direction> - Create an icewall to block the
+           direction.
+
+Collars:
+   - These increase damage done to opponents from abilities that are
+     magical in nature. These abilities include cast (or grove) lightning,
+     cast firelash, thornrend, staffcast, stormhammer, accentato, holocaust
+     globe, kai choke, distort aura, utter truename, warp, taint, purity,
+     decay, star tarot, thurisaz rune, educe iron, and mind crush.
+
+
+   Collar of Ceylon        10% increased damage        400 credits
+   Collar of Diablerie     15% increased damage        800 credits
+   Collar of Agatheis      20% increased damage       1600 credits
+
+Critical Hit Pendants
+   - These pendants allow you to get extra critical hits when hunting.
+     Everybody, at every level, has a chance of getting a critical hit.
+     The higher the level, the higher the chance of getting a critical
+     hit _and_ the higher the chance of getting harder hits. These
+     pendants increase both the chance of getting a critical hit and
+     the chance of getting harder hits. To give a couple of examples
+     of critical hit chances: level 50 = 1.6% chance of getting a
+     critical hit; level 65 = 6.4%; level 80 = 16.6%.
+
+   Fire pendant              2% increased chance       200 credits
+   Blood pendant             4% increased chance       600 credits
+   Stygian pendant           6% increased chance      1200 credits
+
+Metal Knuckles:
+   - Increases damage: MAUL, PUNCH, JBP, HFP, HKP, UCP, & SPP
+
+   Copper Knuckles   15% increased Tekura damage       400 credits
+                     10% increased Metam. damage
+   Brass Knuckles    25% increased Tekura damage       800 credits
+[Type MORE if you wish to continue reading. (90% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:06:40.56--
+[File continued via MORE]
+                     15% increased Metam. damage
+   Spiked Knuckles   35% increased Tekura damage      1600 credits
+                     20% increased Metam. damage
+                                
+Scorpion's Tail: 800 credits
+   - Wear it and then you may sting people with your tail, delivering the
+     Loki venom (which hits the person with a random venom).
+
+Silver Fangs: 600 credits
+   - Makes sumac and camus do 15% extra damage, due to a chemical reaction
+     with the silver.
+
+Skull Pendants:
+   - These artefacts extend the number of curses that SWIFTCURSE augments.
+   
+   Obsidian skull pendant        2 extra curses        350 credits
+   Amethyst skull pendant        4 extra curses        800 credits
+   Sapphire skull pendant        6 extra curses       1600 credits
+
+Whip of Taming: 300 credits
+   - Gives someone the pacifism affliction when hit.
+      * Cannot be used for garrote.
+
+Yggdrasian Splinter (Quarterstaff) - 500 credits
+   - Increases personal sunlight capacity by 2500 (+50% at transcendent).
+
+
+(see also HELP ARTEFACTS, HELP ARTEFACT TRADEINS, HELP ARTEFACT TRANSFERS)
+6658h, 5957m, 27850e, 22450w  ex----s22:06:45.12--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s22:08:23.15--
+Carbine yawns suddenly and mightily.
+6658h, 5957m, 27850e, 22450w  ex----s22:08:32.73--
+18.8 Becoming an Immortal - specifically, a Celani
+
+
+So you're thinking about applying to be a Celani? Well, before you do, you
+probably want to know what you're getting yourself into!
+
+
+BECOMING A CELANI
+-----------------
+Here's what's involved, if you wish to follow this path:
+
+1 - There will be an announcement. We'll let you know when we're looking!
+
+2 - Respond by giving your reasons in writing why you want to be a
+    Celani, what it means to you, your characters' histories, etc.
+
+3 - We'll read the applications/stories and consider. We will consider
+    lots of other things too, like how long you've been around, your
+    characters' reputations, positions of leadership and responsibility,
+    etc. We'll also look for writing - as an immortal, you really must be
+    able to write! Spelling, punctuation, usage, grammar, it's all
+    important to some degree.
+
+4 - We'll look deeper into certain candidates, likely with further
+    talks, interviews, etc. There are ALWAYS more candidates than there
+    are openings, so don't feel bad if you aren't asked for a further
+    interview. We'll want to know if you understand exactly what you're
+    getting into. We'll want to know if you are able to commit the time
+    consistently to keep things going. We'll want to know if we can trust
+    you.
+
+5 - We'll invite a few to become Celani, if they are still interested.
+
+Applicants who are not invited will not otherwise be notified, but are free to
+apply another time.
+
+
+A BIT OF BACKGROUND
+-------------------
+We have two ranks of immortality before you become a full-fledged God: Celani
+[Type MORE if you wish to continue reading. (25% shown)]
+6658h, 5957m, 27850e, 22450w  ex----s22:08:35.24--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Chiam                 07         On      On         No      Dragon
+Vum                   06         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Taraus                10         On      On         No      Dragon
+Adison                04         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Medi                  07         On      On         No      Apostate
+Drodak                03         On      On         No      Infernal
+Blaster               01        Off      On         No      Blademaster
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:08:46.27--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Commandant Chiam Nithilar                                     4  On  Dragon
+Squire Vum Daesheryn, Crusher of Wills                        4  On  Dragon
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Jarrod Lucoster                                               2  On  Serpent
+Taraus Bravi'os                                               3  On  Dragon
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Legate Medi                                                   2  On  Apostate
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Thrall Blaster                                                1  On  Blademaster
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:08:47.88--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Commandant Chiam Nithilar                                     4  On  Dragon
+Squire Vum Daesheryn, Crusher of Wills                        4  On  Dragon
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Jarrod Lucoster                                               2  On  Serpent
+Taraus Bravi'os                                               3  On  Dragon
+Adison Nithilar, Duelist of the Legates                       3  On  Serpent
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Legate Medi                                                   2  On  Apostate
+Emissary Drodak, Thrall of Elazar                             1  On  Infernal
+Thrall Blaster                                                1  On  Blademaster
+Dread Duelist Dartega                                         2  On  Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:08:58.22--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Chiam                 07         On      On         No      Dragon
+Vum                   06         On      On         No      Dragon
+Jarrod                07         On      On         No      Serpent
+Taraus                10         On      On         No      Dragon
+Adison                04         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Medi                  07         On      On         No      Apostate
+Blaster               01        Off      On         No      Blademaster
+Drodak                03         On      On         No      Infernal
+Dartega               04         On      On         No      Jester
+6658h, 5957m, 27850e, 22450w  ex----s22:08:59.30--
+You have no further news to read.
+6658h, 5957m, 27850e, 22450w  ex----s22:09:00.00--
+Proficy is currently the Avenging Arrow Champion.
+Santar is currently the Silent Executioner.
+6658h, 5957m, 27850e, 22450w  ex----s22:09:01.16--
+Dread Duelist Dartega (male Dwarf Miner)
+You are level 90 (1st Rank of the Infinite) and 15.1% of the way to the next level.
+Health:       6658 / 6658     Mana:         5957 / 5957
+Endurance:   27850 /27850     Willpower:   22450 /22450
+Strength: 12  Dexterity: 10  Constitution: 19  Intelligence: 15
+6658h, 5957m, 27850e, 22450w  ex----s22:09:01.99--
++-Dread Duelist Dartega-------------------------------------------------------+
+| Level  : 90 (15.1%)  "1st Rank of the Infinite"                             |
+| Age    : 224         Birthdate: 12th Daedalan, 460AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 429         Explorer Rank: 717     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6658/6658   Willpower: 22450/22450 Strength : 12 Intelligence: 15 |
+| Mana    : 5957/5957   Endurance: 27850/27850 Dexterity: 10 Constitution: 19 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 60 minutes          |
+|                                                                             |
+| Your mentor is Zambuk.                                                      |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 310     Room: 0        Unbound: 0         |
+|   Packs  : 678775        Bound  : 61                     Bound  : 0         |
+|   Banks  : 0             Lessons: 282                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Mhaldor           : Rank 2 - Troni                                        |
+|   Soldier           : Yes                                                   |
+| House                                                                       |
+|   The Dread Legates                                                         |
+|   (Rank 4 - a Duelist of the Seven)                                         |
+| Clans                                                                       |
+|   The Umbra                            Colloquium Iniquus                   |
+|   Whiners Anonymous                    Ar'kena Keep                         |
+|   The Midnight Crew *                  The Rant Garden                      |
+|   League of Legends                    The Bathhouse Strikes Back           |
+|   Mudlet Clan                          The Interdimensional Rift            |
+|                                                                             |
+| Enemied to: Ashtan, Aurora, Blacklotus, Cij, Cyrene, Deucalion, Eleusis,    |
+|             Hashan, Heartwood, Merchants, Neraeos, Phaestus,                |
+|             Spiritwalkers, Targossas, The Forests, Twilight, and Vastar     |
++-----------------------------------------------------------------------------+
+6658h, 5957m, 27850e, 22450w  ex----s22:09:03.05--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Playing endlessly with its long floppy ears, a small burro stands here quietly. There are 3 infernal wraiths here. A stubborn mule wanders about here, nosing at the ground. A fierce tiger prowls restlessly nearby. Playfully scampering about is a sleek black otter. Wings flaring, a pegasus tosses his regal head impatiently.  Carbine Sar'vet, Initiate of the West is riding on an alabaster pegasus. He wields a bard's mandolin in his left hand and a malformed javelin in his right.
+You see a single exit leading west.
+6658h, 5957m, 27850e, 22450w  ex----s22:09:06.92--
+totem297554         a runic totem
+sigil59073          a monolith sigil
+burro42284          a small burro
+wraith176532        an infernal wraith
+wraith33628         an infernal wraith
+wraith124482        an infernal wraith
+mule65615           a stubborn mule
+tiger43167          a Baarian tiger
+otter273280         a sleek black otter
+pegasus63249        an alabaster pegasus
+Number of objects: 10
+6658h, 5957m, 27850e, 22450w  ex----s22:09:07.31--
+You see the following people here:
+Carbine, Dartega
+6658h, 5957m, 27850e, 22450w  ex----s22:09:07.32--
+Saibel takes some salve from a vial and rubs it on her body.
+6658h, 5957m, 27850e, 22450w  ex----s22:10:36.72--
+6658h, 5957m, 27850e, 22450w  ex----s22:11:44.66--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6658h, 5957m, 27850e, 22450w  ex----s22:11:44.68--

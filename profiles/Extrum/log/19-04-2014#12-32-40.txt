@@ -1,0 +1,808 @@
+Your oaken pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21681w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21681w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21681w exdb-
+Seftin tells you, "Staying jester?"
+6655h, 4765m, 30595e, 21680w exdb-
+You tell Soldier Seftin Azon, "Yuh."
+6655h, 4751m, 30595e, 21685w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Raikis, of Targossas                                          1  On  Blademaster
+Dannyl Maynard                                                1  On  Dragon
+Gamden Obuun                                                  1  On  Blademaster
+Phantom Asp, Siduri Azagnanna                                 3  On  Serpent
+Hanley D'Ischai                                               1  On  Serpent
+Havyn Shu'in-Crescent, Augur of Light                         4  On  Magi
+Oathsworn Shiro                                               1  On  Blademaster
+Sir Achilles, Knight of the Aarash Kheyr                      4  On  Dragon
+Soldier Seftin Azon                                           1  On  Runewarden
+Apostle Daeir Wintermourne, Voice of the Fallen               2  On  Serpent
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Essandri, of Targossas                                        1  On  Runewarden
+Mithridates Eupator Dionysius                                 3  On  Magi
+Rhyos                                                         1  On  Serpent
+Extrum Wintermourne                                           1  On  Jester
+6655h, 4735m, 30595e, 21680w exdb-
+Rhyos (male Human).
+He is 18 years old, having been born on the 9th of Lupar, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6655h, 4735m, 30595e, 21680w exdb-
+You tell Soldier Seftin Azon, "Why?"
+6655h, 4769m, 30595e, 21685w exdb-
+Seftin tells you, "Curious."
+6655h, 4765m, 30595e, 21680w exdb-
+You tell Soldier Seftin Azon, "To beast mode to switch."
+6655h, 4770m, 30595e, 21681w exdb-
+You tell Soldier Seftin Azon, "Unless shaman or apostate comes to Targossas."
+6655h, 4784m, 30595e, 21685w exdb-
+Seftin tells you, "I want to go sentinel so so so so so badly."
+6655h, 4768m, 30595e, 21685w exdb-
+You tell Soldier Seftin Azon, "Haha."
+6655h, 4752m, 30595e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here.
+You see a single exit leading down.
+6655h, 4784m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4770m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 21685w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4768m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I really want that shadow mood."
+6655h, 4768m, 30595e, 21685w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4750m, 30595e, 21680w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4750m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Nobody's selling MC's, though."
+6655h, 4784m, 30595e, 21685w exdb-
+Report #1
+-------------------------------------------------------------------------------
+Submitted by: Hirst          Status      : Submitted
+Skill       : Seafaring      Ability     : Wavecall
+-------------------------------------------------------------------------------
+Problem:
+Wavecall is used as a constant GTFO button and it completely negates any chance for naval conflict. It has no cooldown, has an absurd range, and provides no notification for anybody in pursuit. Wavecall should be for tactical movement and positioning, not a get out of jail free card.
+-------------------------------------------------------------------------------
+Solution #1:
+Reduce the maximum range of wavecall and add a cooldown based on metrons traveled. For instance, 2s cooldown per metron moved.
+Solution #2:
+Add a 3rd party message to wavecall that other ships will see that displays the direction a ship wavecalled.
+Solution #3:
+Combine solutions 1 & 2
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, "I'll sell you one for 200 credits."
+6655h, 4784m, 30595e, 21680w exdb-
+Credit Report
+-------------------------------------------------------------------
+You have 0 Credits reserved for sale.
+You have 5 Credit(s) left.
+You have 750 Bound Credit(s) left.
+You have converted 0 Bound Credits to lessons today.
+You have 487 Lessons left.
+Your Iron Membership grants you a 10% bonus on credit purchases, 150 Membership Credits per month, and a 25% experience bonus.
+The membership was last renewed on April 9, 2014.
+This character is permanent and cannot be deleted.
+6655h, 4733m, 30595e, 21679w exdb-
+You are wielding:
+      shield113501: a Shield of Absorption in your left hand.
+      puppet512051: a puppet roughly resembling Atalkez in your right hand.
+
+You are holding:
+
+
+You are wearing:
+No items were shown.
+6655h, 4744m, 30595e, 21679w exdb-
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.3%)  "Greater Dragon"                                       |
+| Age    : 115         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 262         Explorer Rank: 754     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6655/6655   Willpower: 21681/21685 Strength : 13 Intelligence: 13 |
+| Mana    : 4768/4784   Endurance: 30595/30595 Dexterity: 12 Constitution: 19 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 128           Unbound: 5       Room: 0.0      Unbound: 0         |
+|   Packs  : 62858         Bound  : 750     Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 487                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Fellowship of Dawn                   Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back *                                              |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6655h, 4768m, 30595e, 21681w exdb-
+Report #2
+-------------------------------------------------------------------------------
+Submitted by: Hirst          Status      : Submitted
+Skill       : Miscellaneous  Ability     : Worldburn
+-------------------------------------------------------------------------------
+Problem:
+Worldburn has become a standard go-to for city defense. It has no counter if the shrine is on city guards and no mechanism exists to prevent blanket coverage. Some people even use it for personal reasons such as ganks and contracts. The essence cost is negligible for large Orders and the willpower/endurance cost does not encourage smart, informed usage since a person can easily be killed and embrace death to regain their losses.
+-------------------------------------------------------------------------------
+Solution #1:
+Give worldburn a cooldown. Once per Order per Achaean month is more than reasonable to discourage rampant use of such a powerful ability.
+Solution #2:
+Limit the number of shrines per Order that can be raised in an area to prevent blanket coverage of entire cities.
+Solution #3:
+Remove worldburn entirely to encourage use of other shrine powers such as healing.
+-------------------------------------------------------------------------------
+
+6655h, 4734m, 30595e, 21681w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Fuk yo shit."
+6655h, 4747m, 30595e, 21680w exdb-
+(Market): Rotose says, "Buying a hellcat tail talisman piece. Paying well. Let me know if you have one."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, ":)."
+6655h, 4770m, 30595e, 21685w exdb-
+Report #3
+-------------------------------------------------------------------------------
+Submitted by: Hirst          Status      : Submitted
+Skill       : Seafaring      Ability     : Shipreturn
+-------------------------------------------------------------------------------
+Problem:
+The changes to islands to make them more secluded and profitable in terms of experience was needed but only served as a minor inconvenience with the advent of bronze toekns. People can still "farm" these locations for the improved experience as if they were never changed. Shipreturn should be modified slightly to encourage more ship sailing rather than turning ships into a safe refuge or hunting location
+-------------------------------------------------------------------------------
+Solution #1:
+Impose a limit to the number of returns possible before a ship must be moved to a NEW harbour and not just undocked and redocked at the same harbour. This will require people to actually put the effort into sailing to earn the benefits of outer island experience. Ships at sea are allowed unlimited returns so as to allow people to return to them if they should die during combat
+Solution #2:
+Give shipreturn a figurehead power cost such as 5-10%. This will force people to sail to maintain the benefits of shipreturn.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4769m, 30595e, 21685w exdb-
+Report #4
+-------------------------------------------------------------------------------
+Submitted by: Hirst          Status      : Submitted
+Skill       : Seafaring      Ability     : Oceansense
+-------------------------------------------------------------------------------
+Problem:
+The oceans are vast and finding other ships can be very tiresome and time-consuming, especially if crew on a ship do not have hours to invest in scouting. A new ability, much like Fullsense in Telepathy, would make hunting for ships more enjoyable.
+-------------------------------------------------------------------------------
+Solution #1:
+A new ability, in Watch or Command, that displays all undocked vessels in a particular region of ocean but not globally.
+Solution #2:
+Sonar ping. This new ability would send out a pulse in the local area, returning the general direction to any ships in that area. However, just like modern sonar pings, doing so will also alert these ships, giving them the time to sail away if they so desire. A figurehead cost of 5% or so would be reasonable.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4766m, 30595e, 21685w exdb-
+Report #5
+-------------------------------------------------------------------------------
+Submitted by: Madelyne       Status      : Submitted
+Skill       :                Ability     : Troubadour
+-------------------------------------------------------------------------------
+Problem:
+Bards can't fast travel. This is primarily a problem for bards.
+-------------------------------------------------------------------------------
+Solution #1:
+The troubadour ability would allow those who are trans Harmonics to call home their fellow class members, much the way delivery works for Devotion users. PLAY TROUBADOUR (target) would begin the process, and the target would PLAY ECHO to respond, to avoid griefing class members by calling them to the new location unawares.
+Solution #2:
+The troubadour ability would allow bards who are trans Voicecraft to call home their fellow class members, much the way delivery works for Devotion users. SING TROUBADOUR (target) would  begin the process, and the target would SING ECHO to respond, to avoid griefing class members by calling them to the new location unawares.
+Solution #3:
+Make it a voicecraft ability. i.e. SING TROUBADOUR (target) The power of your voice is so great that it creates a temporary portal between yourself and your target, but at a huge mana drain.
+-------------------------------------------------------------------------------
+
+6655h, 4749m, 30595e, 21680w exdb-
+Report #6
+-------------------------------------------------------------------------------
+Submitted by: Madelyne       Status      : Submitted
+Skill       : Gathering      Ability     : Milk
+-------------------------------------------------------------------------------
+Problem:
+When gathering, adventurers get way more eggs than milk.
+-------------------------------------------------------------------------------
+Solution #1:
+Change the ability to GATHER (eggs or milk) FROM FARM, allowing adventuers to toggle what they need to gather (still only allowing one gathering experience within the same timeframe)
+Solution #2:
+Alter the game specs so that adventuers have equal chance of gathering eggs or milk each time they gather from an area, so we don't wind up with subdivision houses filled with eggs that won't store in our rifts.
+Solution #3:
+Alter the game specs so that adventurers begin getting more milk than eggs, since milk has tons more uses and can be stored on vials for later use, making it a more valuable item on all levels.
+-------------------------------------------------------------------------------
+
+6655h, 4749m, 30595e, 21685w exdb-
+Report #7
+-------------------------------------------------------------------------------
+Submitted by: Madelyne       Status      : Submitted
+Skill       : Seafaring      Ability     : Shipreturn
+-------------------------------------------------------------------------------
+Problem:
+People have access to multiple ships, unlike when Seafaring was first introduced. It would be helpful to be able to toggle between a few different ones when ship returning.
+-------------------------------------------------------------------------------
+Solution #1:
+Tweak the SHIPRETURN ability, allowing adventurers to SHIPRETURN (ship short name or ID) for up to three ships.
+Solution #2:
+Add an ability called SHIPRECALL that allows adventurers to change their shipreturn to any ship where they are the owner or have captain perms without having to be onboard the ship at the time. To prevent abuse, it's only available once per RL day and comes with a slight mana drain so it can't be used immediately after the change.
+Solution #3:
+New artefact idea -- BROOCH OF THE HIGH SEAS (short - brooch of the high seas) (dropped - A brooch of the high seas is here, glittering like lost pirate's treasure.) (examined - Cast in the shape of a ship's anchor, a trio of gems lie like flotsam and jetsam along the bottom of the pin. Light sparkles in sequence upon the dazzling facets of the emerald, ruby, and sapphire stones. On the rear of the elegant accessory, a bit of scrawled text mars the otherwise smooth surface. // PURPOSE -- this would give 3 shipreturn "slots". // suggested commands -- SHIPRETURN HERE (gemstone) would set the shipreturn to that ship // SHIPRETURN WHERE (gemstone) reminds what's set at that gemstone // PUSH BROOCH (gemstone) toggles between shipreturn settings // WHY IT'S NEEDED -- some people have several ships, or access to several ships. When one is drydocked, it makes shipreturn a pain. To cut down on potential for abuse of a "quick travel" method, I suggest making the cost 800cr or taking a endurance/willpower hit similar to what one receives when using SHIP RESCUE ME with a token.
+-------------------------------------------------------------------------------
+
+6655h, 4749m, 30595e, 21685w exdb-
+Report #8
+-------------------------------------------------------------------------------
+Submitted by: Madelyne       Status      : Submitted
+Skill       : InkMilling     Ability     : Poster
+-------------------------------------------------------------------------------
+Problem:
+Posters dyed with ink are the same colour as everything else in the room.
+-------------------------------------------------------------------------------
+Solution #1:
+Allow posters to show up in the room to reflect the colour in which they are inked. (i.e. like streamers for the anniversary events)
+Solution #2:
+Allow text of a poster to show up reflecting the ink used to dye the poster.
+Solution #3:
+All of the above, because the realm could always use more colours.
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 30595e, 21685w exdb-
+Report #9
+-------------------------------------------------------------------------------
+Submitted by: Madelyne       Status      : Submitted
+Skill       : Riding         Ability     : Mounts
+-------------------------------------------------------------------------------
+Problem:
+We can use MOUNTS to see our loyal steeds but have no way to see where our pets are.
+-------------------------------------------------------------------------------
+Solution #1:
+Add pets and other loyals to what shows up in the MOUNTS command.
+Solution #2:
+Add an ability called PETS to the Riding skill, allowing people to find their loyal PETS.
+Solution #3:
+Add an ability called LOYALS to the Riding skill, allowing people to find their non-mount LOYALS.
+-------------------------------------------------------------------------------
+
+6655h, 4768m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 21685w exdb-
+Report #10
+-------------------------------------------------------------------------------
+Submitted by: Aegoth         Status      : Submitted
+Skill       : Elementalism   Ability     : New
+-------------------------------------------------------------------------------
+Problem:
+Transfix is only really useful to a mage for group combat situations. In 1v1, transfix is not considered to be strategically sound as other abilities could be used to better effect. Basically, there is no proper follow-up to transfixation for Magi to make it worth their while, even in retardation  and now that illusions are gone it's going to be hard to transfix properly... Therefor, now mages will have to work on getting transfix through use of venom stacking then trying to slip the transfix in. After all that hard work and they achieve the transfix...it's rather pointless to transfix because there is no decent follow up. This classlead addresses this issue
+-------------------------------------------------------------------------------
+Solution #1:
+Introduce a new ability "Disturbance" that Magi may cast upon a target that is transfixed. It will have a medium equilibrium cost (about 2.5s). Upon casting, the ability will deal magic damage (minor), epilepsy, stupidity and a 2 second stun. The stun and afflictions can hinder the foe and assist in putting them behind in curing (which mages really need help with at the moment, affliction power), and does minimal damage to start putting that damage momentum into place, and is fairly quick so the mage can flow back into their damage mode.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4765m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21680w exdb-
+Report #10
+-------------------------------------------------------------------------------
+Submitted by: Aegoth         Status      : Submitted
+Skill       : Elementalism   Ability     : New
+-------------------------------------------------------------------------------
+Problem:
+Transfix is only really useful to a mage for group combat situations. In 1v1, transfix is not considered to be strategically sound as other abilities could be used to better effect. Basically, there is no proper follow-up to transfixation for Magi to make it worth their while, even in retardation  and now that illusions are gone it's going to be hard to transfix properly... Therefor, now mages will have to work on getting transfix through use of venom stacking then trying to slip the transfix in. After all that hard work and they achieve the transfix...it's rather pointless to transfix because there is no decent follow up. This classlead addresses this issue
+-------------------------------------------------------------------------------
+Solution #1:
+Introduce a new ability "Disturbance" that Magi may cast upon a target that is transfixed. It will have a medium equilibrium cost (about 2.5s). Upon casting, the ability will deal magic damage (minor), epilepsy, stupidity and a 2 second stun. The stun and afflictions can hinder the foe and assist in putting them behind in curing (which mages really need help with at the moment, affliction power), and does minimal damage to start putting that damage momentum into place, and is fairly quick so the mage can flow back into their damage mode.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30595e, 21681w exdb-
+Report #11
+-------------------------------------------------------------------------------
+Submitted by: Swadryt        Status      : Submitted
+Skill       : Kaido          Ability     : Numbness
+-------------------------------------------------------------------------------
+Problem:
+Numbess has become quite a standard in survivability in Monk combat and hunting. But it doesn't seem to cost the Monk anything to use. From what I've seen, within the 10s it's possible for them to cure to full before numbness wears off. And then they can usually heal back to full quickly after if they don't take at least 200% damage while numbed. And all the while, they can keep hitting their targets while numbed.
+-------------------------------------------------------------------------------
+Solution #1:
+Add a kai cost to the ability of 20 or so and make any offensive action force Numbness to come down.
+Solution #2:
+only allow sip healing or passive healing while numbness is up and incorporate a fairly significant Kai cost, like 40 kai or so.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Hmm."
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Classlead list 10."
+6655h, 4746m, 30595e, 21679w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "So transfix is super useful in groups.... but not in 1v1... so lets give us a skill that makes it op in groups."
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "To help 1v1."
+6655h, 4756m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Quite a conundrum."
+6655h, 4746m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Havyn says, "Aegoth's are geared for 1v1."
+6655h, 4769m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Jesus fuck that's op."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, ""geared" for 1v1 and making them op in groups."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Not quite how it should work."
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Havyn says, "I told him I doubt any of them would get approved because they would be hard to make work in groups."
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Lol."
+6655h, 4768m, 30595e, 21685w exdb-
+Aegoth Yuridja-Keyte (male Tsol'aa).
+He is 33 years old, having been born on the 2nd of Chronos, 618 years after the fall of the Seleucarian Empire.
+He is ranked 418th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 85% of your might.
+He is a mentor and able to take on proteges.
+See HONOURS DEEDS AEGOTH to view his 3 special honours.
+6655h, 4770m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4754m, 30595e, 21681w exdb-
+Your pipe has gone cold and dark.
+6655h, 4754m, 30595e, 21681w exdb-
+Your pipe has gone cold and dark.
+6655h, 4754m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4754m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4754m, 30595e, 21681w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4754m, 30595e, 21681w exdb-
+Analeiss enters from the down, content with the world.
+6655h, 4750m, 30595e, 21685w exdb-
+Analeiss leaves to the down, contentment evident.
+6655h, 4784m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4767m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4767m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4767m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Classlead list 11."
+6655h, 4765m, 30595e, 21680w exdb-
+You must be wielding a blackjack to do that.
+6655h, 4765m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Sigh."
+6655h, 4751m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Ignore that."
+6655h, 4751m, 30595e, 21681w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4752m, 30595e, 21680w exdb-
+Report #11
+-------------------------------------------------------------------------------
+Submitted by: Swadryt        Status      : Submitted
+Skill       : Kaido          Ability     : Numbness
+-------------------------------------------------------------------------------
+Problem:
+Numbess has become quite a standard in survivability in Monk combat and hunting. But it doesn't seem to cost the Monk anything to use. From what I've seen, within the 10s it's possible for them to cure to full before numbness wears off. And then they can usually heal back to full quickly after if they don't take at least 200% damage while numbed. And all the while, they can keep hitting their targets while numbed.
+-------------------------------------------------------------------------------
+Solution #1:
+Add a kai cost to the ability of 20 or so and make any offensive action force Numbness to come down.
+Solution #2:
+only allow sip healing or passive healing while numbness is up and incorporate a fairly significant Kai cost, like 40 kai or so.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4735m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Marcen says, "I have this weird desire to watch 300."
+6655h, 4768m, 30595e, 21680w exdb-
+Report #12
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Submitted
+Skill       : Kaido          Ability     : Numbness
+-------------------------------------------------------------------------------
+Problem:
+Numbness is too spammable right now which leads to a monk being able to tank 20+ people for 10 seconds and probably past that too. The fact that it does not cost equilibrium to spam numb while already numbed allows the monk to spam numb in the last 2 seconds before it falls and then the monk will either re-enter numb with low health and can tank further 10 seconds or will starburst and re-enter numb immediately.
+-------------------------------------------------------------------------------
+Solution #1:
+if you try to NUMB while numbed then it will cost equilibrium as normal but will not extend the numb time at all.
+Solution #2:
+Implement a cooldown on numb so that you cannot numb again for 2 seconds after a previous numbness faded.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4748m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "Do it."
+6655h, 4748m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): Marcen says, "I need some mindless over the top violence."
+6655h, 4784m, 30595e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4784m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Mithridates says, "How am I going up rather than down in EXP rank when I'm just straight bashing."
+6655h, 4784m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Mithridates says, "Bullshit."
+6655h, 4747m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Aelios says, "Cause you're slow."
+6655h, 4766m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Aelios says, "Duh."
+6655h, 4766m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Mithridates says, "Dorman ppl."
+6655h, 4747m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Mithridates says, "Dormant*."
+6655h, 4784m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Aelios says, "Should log in my alt."
+6655h, 4784m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Aelios says, "Bump ya down 2 or 3."
+6655h, 4768m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Mithridates says, "It'll only go one."
+6655h, 4784m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Aelios says, "My alt's into PK."
+6655h, 4765m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Aelios says, "And I kill only 90+'ers."
+6655h, 4770m, 30595e, 21681w exdb-
+(Fellowship of Dawn): Dannyl says, "Who is your alt."
+6655h, 4784m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Aelios says, "Batman."
+6655h, 4768m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Dannyl says, "I call bs."
+6655h, 4766m, 30595e, 21680w exdb-
+(Fellowship of Dawn): Aelios says, "Tecton? Shaitan."
+6655h, 4766m, 30595e, 21685w exdb-
+Report #13
+-------------------------------------------------------------------------------
+Submitted by: Kross          Status      : Submitted
+Skill       : Survival       Ability     : Breathing
+-------------------------------------------------------------------------------
+Problem:
+Currently, the functionality of breathing allows an individual to negate asphyxiation damage at the cost of being unable to perform other actions. While this is a highly useful function, it could be tweaked slightly to allow individuals who might rely on asphyxiation damage an opportunity to secure a smaller chance of lethality, but remain balanced.
+-------------------------------------------------------------------------------
+Solution #1:
+Tweak breathing to not be able to be used as a defense while you have a broken torso. Practically speaking, a broken or mangled torso would make it naturally difficult to hold your breath, especially when being attacked. The benefit allows asphyxiation damage to sneak through from a well-timed or well-calculated attack, but also provides a simple way for an individual to realize they have a broken or mangled torso.
+Solution #2:
+Allow asphyxiation damage to hit breathing as normal, negating the damage, but cause a short stun or disrupt. Not really a balanced solution, but can prevent individuals from relying too heavily on remaining only defensive.
+Solution #3:
+Not really many more options to come up with, nothing else seems very balanced, effective or fair compare to the first option.
+-------------------------------------------------------------------------------
+
+6655h, 4733m, 30595e, 21681w exdb-
+(Fellowship of Dawn): Aelios says, "Oh, Oh, I know! ...Spider Wayne?"
+6655h, 4748m, 30595e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4747m, 30595e, 21679w exdb-
+Your pipe has gone cold and dark.
+6655h, 4747m, 30595e, 21679w exdb-
+Your pipe has gone cold and dark.
+6655h, 4747m, 30595e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4747m, 30595e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4747m, 30595e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4747m, 30595e, 21679w exdb-
+(Newbie): Gill says, "What does being part of a city mean?"
+6655h, 4768m, 30595e, 21685w exdb-
+Report #14
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Submitted
+Skill       : Miscellaneous  Ability     : Soul walking
+-------------------------------------------------------------------------------
+Problem:
+Right now you can walk without getting the 'Now now, don't be so hasty!' as a soul and walk from one end of the continent to the other pretty much instantly.
+-------------------------------------------------------------------------------
+Solution #1:
+Implement the same walking speed restrictions as when you are alive.
+Solution #2:
+Allow Mhun or slightly quicker movement as a soul, but still have a limit so that you can hit the 'Now now, don't be so hasty!' limit.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 30595e, 21685w exdb-
+Report #15
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Submitted
+Skill       : Necromancy     Ability     : Soulspear
+-------------------------------------------------------------------------------
+Problem:
+When a soulspear is chucked at your or someone in the room there is no indication of who threw it. Of course you can make educated guesses but it would be nice if you or your raid group knew who flung the soulspear.
+-------------------------------------------------------------------------------
+Solution #1:
+Implement a 3rd party message so that all people in the room can see who threw the soulspear at you.
+Solution #2:
+Implement a message so that you see who threw the soulspear at you.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 30595e, 21685w exdb-
+Report #16
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Submitted
+Skill       : Pranks         Ability     : Bombs
+-------------------------------------------------------------------------------
+Problem:
+At the moment there is no indication of who is throwing a bomb at you when a group is standing in an adjacent room. It might be a jester or some novice who got some bombs handed to them.
+-------------------------------------------------------------------------------
+Solution #1:
+Implement a 3rd party message on who threw the bomb on all bombs.
+Solution #2:
+Implement a 3rd party message on who threw the bomb on all bombs except dust bombs.
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4746m, 30595e, 21679w exdb-
+Report #17
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Tarot          Ability     : Hierophant
+-------------------------------------------------------------------------------
+Problem:
+When you fling a hierophant at someone you have x seconds to command them to do something. When you command them to do something, there is no message indicating that it was you that commanded it. There is also no message for when the ability to command via hierophant is gone due to time
+-------------------------------------------------------------------------------
+Solution #1:
+Add a message for when you force someone via Hierophant much like every other force ability has.
+Solution #2:
+Add a message for when the window to command someone in via Hierophant has closed.
+Solution #3:
+Both solution 1 and 2
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 30595e, 21685w exdb-
+Report #18
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Occultism      Ability     : Instill
+-------------------------------------------------------------------------------
+Problem:
+Very similar to classlead 17. Currently you have no way of knowing what affliction you are afflicting just by looking at the instill first person line. It's generic.
+-------------------------------------------------------------------------------
+Solution #1:
+Add the affliction that you are instilling to the first person instill message.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30595e, 21685w exdb-
+Report #19
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Domination     Ability     : Storm
+-------------------------------------------------------------------------------
+Problem:
+The chaos storm is largely unused due to its overlap in function with the humbug. Yes, they are different mental afflictions, but one of these entities is sufficient.
+-------------------------------------------------------------------------------
+Solution #1:
+Change the chaos storm to be a one time detonation per pact that creates a mini Chaos storm in the room in which it was detonated. The flavor would be similar to the Chaos storm evoked by the Babelonian ritual of the storm, but it would cause minor damage to everyone in the room.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 30595e, 21685w exdb-
+Report #20
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Domination     Ability     : Slime
+-------------------------------------------------------------------------------
+Problem:
+Similar to classleads 17 and 18. There is no message for when your target is no longer slimed after the sixty second period of effect.
+-------------------------------------------------------------------------------
+Solution #1:
+Add a third person message for when slime fades from someone
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4753m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "19."
+6655h, 4768m, 30595e, 21685w exdb-
+(Targossas): Gaheris Lighthawk says, "Citizens, join me in congratulating Rhyos, who has defeated a dire threat in the Great Rock!"
+6655h, 4754m, 30595e, 21685w exdb-
+I don't follow.
+6655h, 4735m, 30595e, 21685w exdb-
+(Targossas): Havyn says, "Good work, Rhyos!"
+6655h, 4784m, 30595e, 21685w exdb-
+(Targossas): Mithridates says, "Congratulations."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Does occie really need more damage burst."
+6655h, 4752m, 30595e, 21680w exdb-
+(Targossas): Essandri says, "Gongratulations Rhyos."
+6655h, 4770m, 30595e, 21681w exdb-
+(Targossas): Rhyos says, "Thank you!"
+6655h, 4756m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Hmm, that would stack too well with chaosrays in group combat."
+6655h, 4751m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "20."
+6655h, 4784m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Gdi, miss."
+6655h, 4767m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Lol."
+6655h, 4753m, 30595e, 21681w exdb-
+Report #20
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Domination     Ability     : Slime
+-------------------------------------------------------------------------------
+Problem:
+Similar to classleads 17 and 18. There is no message for when your target is no longer slimed after the sixty second period of effect.
+-------------------------------------------------------------------------------
+Solution #1:
+Add a third person message for when slime fades from someone
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+
+6655h, 4765m, 30595e, 21680w exdb-
+Report #21
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Submitted
+Skill       : Necromancy     Ability     : Soulspear
+-------------------------------------------------------------------------------
+Problem:
+Soulspears are incredibly easy to come by and are easily the most dominant force in line of sight encounters. Their availability coupled with their ability to prone and impale from line of sight is a bit much.
+-------------------------------------------------------------------------------
+Solution #1:
+Have a cap on the amount of soulspears that a necromancer can carry. Five or so, perhaps.

@@ -1,0 +1,231 @@
+Rapture Runtime Environment v2.3.6 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           151 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+There is no next message to read.
+5654h, 5580m, 24600e, 21960w  ex-----
+-=[ Tired of bashing the Underworld alone? Vote for Achaea at TopMudSites and help bring in new players! http://www.achaea.com/vote - Thanks! ]=-
+There is no exit in that direction.
+5654h, 5580m, 24600e, 21960w  ex-----
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.
+You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.
+You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+----[ Mhaldor City announcement ]----
+
+Logosmas comes to Mhaldor in a series of events! MHALDOR NEWS #3221 has more details.
+
+-------------------------------------
+5654h, 5580m, 24600e, 21960w  ex-----
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.
+You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+wraith48827         an infernal wraith
+sigil78937          a monolith sigil
+wraith226512        an infernal wraith
+totem297554         a runic totem
+wraith301155        an infernal wraith
+wraith350039        an infernal wraith
+wraith359791        an infernal wraith
+sigil462354         a monolith sigil
+gargoyle109882      a stone gargoyle
+serpent394416       a winged fire serpent
+Number of objects: 10
+5654h, 5580m, 24600e, 21960w  ex-----
+You see the following people here:
+Dartega
+5654h, 5580m, 24600e, 21960w  ex-----
+I don't quite catch your drift.
+5654h, 5580m, 24600e, 21960w  ex-----
+I do not understand.
+5654h, 5580m, 24600e, 21960w  ex-----
+(Market): Karai says, "Looking to trade dragon talismans pieces for up to 18 green dragon bones."
+5654h, 5580m, 24600e, 21960w  ex-----
+(Market): Melodie says, "Purchasing a buckawns thread talisman piece."
+5654h, 5580m, 24600e, 21960w  ex-----
+There is no next message to read.
+5654h, 5580m, 24600e, 21960w  ex-----
+Your current clan will now be the 'Mudlet Clan' clan.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have no further news to read.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Karai says, "=[ i don't have any of that specialty stuff."
+5654h, 5580m, 24600e, 21960w  ex-----
+MUDLET
+
+aliases       basicaliases  crowdmap      deathlog      howtoask      ircbot        macbuild      manuals       phoenixrp     scripts       test          ubuntu        usefullinks
+5654h, 5580m, 24600e, 21960w  ex-----
+Composed by: Qwindor on or about the 11th of Valnuary, 614 AF.
+
+If you are reading this then you are curious about the achaean crowdmap.
+The Achaean crowdmap is a map that is mainly updated and maintained by
+me, Qwindor. It is probably the most up to date map for the mudlet
+client other than probably some personal maps of those who prefer to map
+themselves which is always a choice you may have later on if you decide
+to do as such.
+
+But first you need to download and install the IRE mapping script via
+this website:
+http://wiki.mudlet.org/w/IRE_mapping_script
+
+After you have uninstalled the old mapping script via the package
+manager go ahead and install the new mapping script also via the package
+manager. Once it has been installed you need to completely close down
+mudlet and restart it so you can properly access all your configuration
+options for the mapping script.
+
+Once that is done then its time to configure your script to use the
+crowdmap by using the command "mconfig crowdmap true" which will tell
+the script to use the crowdmap instead of Achaea's "offical" map which
+is most of the time way out of date and can be quite confusing when
+large changes are made to the game areas.
+
+Note that when I update the crowdmap your script will detect it and
+update it for you automatically. DO NOT use the settings menu to
+redownload the map otherwise the crowdmap will be overwritten with the
+offical map. If you do happen to do this use the alias "rl" and click on
+the link that says force update to force an update for the crowdmap
+[Type MORE if you wish to continue reading. (53% shown)]
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Karai says, "Just want some bone, bb."
+5654h, 5580m, 24600e, 21960w  ex-----
+[File continued via MORE]
+again to correct it.
+
+Make sure your mudlet is as up to date as possible as some times the map
+may not show updates that I have done purely because of the mudlet
+script inside mudlet itself changing the way the map behaves and I try
+to stay on top of mudlet updates when I can. Also any major out of
+release changes that are done to mudlet are usually posted via this
+clans newsboard so keep an eye on it as well just in case.
+
+Now if you find mistakes in the crowdmap or PUBLIC areas I have missed
+please contact me with where to find the missing rooms and I will try to
+get it updated as soon as possible for me to do so. There are a few ways
+you may contact me. You may contact me via messages which I prefer that
+way if I'm busy I can go back to my messages and take a look at them.
+You may also contact me via skype at: qwindor.rousseau but please let me
+know who your in game character is and why you are adding me so as I
+know who are and can confirm you in game. Otherwise enjoy the fruits of
+my labor and enjoy the game made easier just because you can see where
+in the hell you are going.
+
+If you have personal areas like a subdivision house or out of
+subdivision house I am able to add those to the crowdmap as well as they
+for some reason are supported via GMCP which the mapping script mainly
+works off of so you don't get lost as easily.
+
+Qwindor Rousseau
+5654h, 5580m, 24600e, 21960w  ex-----
+MUDLET
+
+aliases       basicaliases  crowdmap      deathlog      howtoask      ircbot        macbuild      manuals       phoenixrp     scripts       test          ubuntu        usefullinks
+5654h, 5580m, 24600e, 21960w  ex-----
++-News for Dartega------------------------------------------------------------+
+| Common Boards:                                                              |
+|   Public                          Posts:   19599 /   19599                  |
+|   Announce                        Posts:    4241 /    4241                  |
+|   Events                          Posts:     489 /     489                  |
+| Organisational Boards:                                                      |
+|   Mhaldor                         Posts:    3221 /    3221                  |
+|   Thralls                         Posts:       1 /       1                  |
+| Clan Boards:                                                                |
+|   Bath                            Posts:       0 /       0                  |
+|   Horde                           Posts:       0 /       0                  |
+|   Kitkat                          Posts:      16 /      16                  |
+|   MCI                             Posts:     205 /     205                  |
+|   Mudlet                          Posts:      39 /      39                  |
+|   Oc                              Posts:       4 /       4                  |
+|   Rifttalk                        Posts:       0 /       0                  |
+|   Ssa                             Posts:       7 /       7                  |
+|   Tmc                             Posts:       5 /       5                  |
+|   Trg                             Posts:      16 /      16                  |
+|   Umbra                           Posts:      30 /      30                  |
+| Messages:                                                                   |
+|   Messages                                   870 /     870                  |
++-----------------------------------------------------------------------------+
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Aegoth says, "Oh my."
+5654h, 5580m, 24600e, 21960w  ex-----
+MUDLET NEWS #39                                         (11/24/2014 at 22:28)  
+From   : Lady Czanthria Zuiho_sho, Phaestus' Ice Maiden
+To     : Everyone
+Subject: clan switch mudlet
+-------------------------------------------------------------------------------
+Unable to download the crowdmap?
+
+Try this before you uninstall and reinstall and want to throw the computer out the window because you can not function without your map!!
+
+Click on triggers button -
+
+  Open the mudlet-mapper folder
+
+    Open the Mudlet Mapper folder
+
+      Open the Achaea folder
+
+The first trigger at the top of the list should be "Login"
+
+Click on Login
+
+Line 0 = Password correct. Welcome to Achaea.
+
+Add Line 1 = What is your password? Password correct. Welcome to Achaea.
+
+   Make sure to select "exact match"
+
+Click Save Item
+
+[Type MORE if you wish to continue reading. (86% shown)]
+5654h, 5580m, 24600e, 21960w  ex-----
+[File continued via MORE]
+Click Save Profile
+
+log out of Achaea
+
+log back in
+
+You should now be able to download the Achaea Crowdmap.
+
+
+
+Penned by my hand on the 23rd of Aeguary, in the year 670 AF.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Karai says, "Don't judge me."
+5654h, 5580m, 24600e, 21960w  ex-----
+A massive gatehouse (indoors).
+This enormous gatehouse is carved directly into the side of the mountain. Jagged stone walls reflect what little light is projected from the torches set between each archer slit. Racks holding weapons and several large, stone shelves filled with arrows line the eastern side of the room. Broken, discarded weapons are strewn across the floor, as though they were tossed there with great haste. A sprig of mistletoe has been hung here. There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.
+You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5654h, 5580m, 24600e, 21960w  ex-----

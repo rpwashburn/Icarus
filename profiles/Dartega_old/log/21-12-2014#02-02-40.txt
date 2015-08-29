@@ -1,0 +1,108 @@
+Rapture Runtime Environment v2.3.6 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           157 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+5654h, 5580m, 24600e, 21960w  exdb----
+5654h, 5580m, 24600e, 21960w  exdb----
+5654h, 5580m, 24600e, 21960w  exdb----
+You take out some salve and quickly rub it on your head.
+You are no longer blind.
+5654h, 5580m, 24600e, 21960w  exd----
+You may apply another salve or balm to yourself.
+5654h, 5580m, 24600e, 21960w  exd----
+You take out some salve and quickly rub it on your head.
+You are no longer deaf.
+5654h, 5580m, 24600e, 21960w  ex-----
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/12/21 08:02:54 GMT.
+See HELP GMT for an explanation of GMT.
+5654h, 5580m, 24600e, 21960w  ex-----
+You may apply another salve or balm to yourself.
+5654h, 5580m, 24600e, 21960w  ex-----
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+5654h, 5580m, 24600e, 21960w  ex-----
+----[ Mhaldor City announcement ]----
+
+Logosmas comes to Mhaldor in a series of events! MHALDOR NEWS #3221 has more details.
+
+-------------------------------------
+5654h, 5580m, 24600e, 21960w  ex-----
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/12/21 08:02:55 GMT.
+See HELP GMT for an explanation of GMT.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You must regain equilibrium first.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+[System]: Running queued equilibrium command: DEF
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You must regain equilibrium first.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+[System]: Running queued equilibrium command: DEF
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You must regain equilibrium first.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+[System]: Running queued equilibrium command: DEF
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have the following defences:
+You are walking with the grace of the stars.
+You are protected by one defence.
+5654h, 5580m, 24600e, 21960w  x-----
+You have recovered equilibrium.
+5654h, 5580m, 24600e, 21960w  ex-----

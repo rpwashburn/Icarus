@@ -1,0 +1,142 @@
+Rapture Runtime Environment v2.3.6 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           151 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+5654h, 5580m, 24600e, 21960w  ex-----
+Dusk has overtaken the light in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/12/21 08:23:52 GMT.
+See HELP GMT for an explanation of GMT.
+5654h, 5580m, 24600e, 21960w  ex-----
+-=[ Help us grow by voting for us at TopMudSites! http://www.achaea.com/vote ]=-
+5654h, 5580m, 24600e, 21960w  ex-----
+----[ Mhaldor City announcement ]----
+
+Logosmas comes to Mhaldor in a series of events! MHALDOR NEWS #3221 has more details.
+
+-------------------------------------
+5654h, 5580m, 24600e, 21960w  ex-----
+You have set your screen width to 0, which should disable wrapping completely.
+5654h, 5580m, 24600e, 21960w  ex-----
+Your custom prompt is now:
+*hh, *mm, *ee, *ww *t*T *b*d*c-*r-
+Your prompt is the bit of text that you see at the beginning of each line that asks you for a command. Because it's so prevalent, it helps to have useful information in it. Try HELP PROMPT for more information.
+
+Usage:
+   CONFIG PROMPT ALL       CONFIG PROMPT HMEW  (same as ALL)
+   CONFIG PROMPT STATS     CONFIG PROMPT HM    (same as STATS)
+   CONFIG PROMPT HE        CONFIG PROMPT HEW
+   CONFIG PROMPT HW        CONFIG PROMPT HMW
+   CONFIG PROMPT HME       -or-
+   CONFIG PROMPT OFF
+
+Additional Options:
+   CONFIG PROMPT NUMERIC - Normal prompt, shows exact values.
+   CONFIG PROMPT TEXT    - Text prompt, shows levels as words.
+   CONFIG PROMPT CUSTOM <text> - configure a customisable prompt.
+5654h, 5580m, 24600e, 21960w  ex-----
+Glancing into your rift, you see:
+------------------------------------------------------------------------------
+Herbs
+[    1] bayberry bark    [ 1238] bellwort flower  [  926] black cohosh
+[  216] bloodroot leaf   [ 1204] echinacea        [ 1614] ginger root
+[   46] ginseng root     [    1] hawthorn berry   [    1] irid moss
+[    1] kelp             [  113] kola nut         [  450] kuzu root
+[ 1950] lady's slipper r [  472] lobelia seed     [ 1823] prickly ash bark
+[ 1210] prickly pear     [    2] sileris          [    8] skullcap
+[ 1552] slippery elm     [  910] valerian
+Minerals
+[  816] arsenic          [  589] aurum            [    2] azurite
+[  197] bisemutum        [  948] calamine         [    4] cinnabar
+[    2] cuprum           [    3] dolomite         [  464] ferrum
+[    7] gypsum           [  602] magnesium        [  980] malachite
+[ 1515] plumbum          [ 1175] potash           [  736] quicksilver
+Inks
+[    2] blue ink         [   37] gold ink         [   56] green ink
+[   11] purple ink       [  113] red ink          [  168] yellow ink
+Crystals
+[    1] crystal cube     [    1] crystal pyramid  [    1] crystal spiral
+Commodities
+[    2] bone             [  127] cloth            [  252] coal
+[  385] diamond dust     [   50] gems             [  230] iron
+[    1] obsidian         [  153] rope             [   54] silver bar
+[   62] wood
+Misc
+[    4] lifestone
+------------------------------------------------------------------------------
+5654h, 5580m, 24600e, 21960w  ex-----
+You tap out the contents of your pipe.
+5654h, 5580m, 24600e, 21960w  ex-----
+You tap out the contents of your pipe.
+5654h, 5580m, 24600e, 21960w  ex-----
+You tap out the contents of your pipe.
+5654h, 5580m, 24600e, 21960w  ex-----
+You remove 1 cinnabar, bringing the total in the Rift to 3.
+5654h, 5580m, 24600e, 21960w  ex-----
+You fill your pipe with a pinch of ground cinnabar.
+5654h, 5580m, 24600e, 21960w  ex-----
+You have no realgar stored in the Rift.
+5654h, 5580m, 24600e, 21960w  ex-----
+You hold no "realgar".
+5654h, 5580m, 24600e, 21960w  ex-----
+You remove 1 malachite, bringing the total in the Rift to 979.
+5654h, 5580m, 24600e, 21960w  ex-----
+You fill your pipe with a pinch of ground malachite.
+5654h, 5580m, 24600e, 21960w  ex-----
+You remove 1 valerian, bringing the total in the Rift to 909.
+5654h, 5580m, 24600e, 21960w  ex-----
+You fill your pipe with a valerian leaf.
+5654h, 5580m, 24600e, 21960w  ex-----
+You remove 1 skullcap, bringing the total in the Rift to 7.
+5654h, 5580m, 24600e, 21960w  ex-----
+An ornately carved ivory pipe is full and will hold no more items.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "Okay how's that Mhaldor entrance coming along."
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "Am I in yet, Melodie?"
+5654h, 5580m, 24600e, 21960w  ex-----
+You have no pipes that require lighting.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Kyrra sadly says, "Yiwen."
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "You can come with me, Kyrra!"
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Melodie says, "You get Flor to sign off and log it I induct you whenever bby."
+5654h, 5580m, 24600e, 21960w  ex-----
+Stat    Pipe        Contents               Remaining      Decay
+--------------------------------------------------------------
+artfct  pipe124801  a valerian leaf        ( 10 puffs)     n/a
+artfct  pipe512008  a pinch of ground mala ( 10 puffs)     n/a
+artfct  pipe512260  a pinch of ground cinn ( 10 puffs)     n/a
+5654h, 5580m, 24600e, 21960w  ex-----
+5654h, 5580m, 24600e, 21960w  ex-----
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5654h, 5580m, 24600e, 21960w  ex-----
+You store 1 skullcap, bringing the total in the rift to 8.
+5654h, 5580m, 24600e, 21960w  ex-----

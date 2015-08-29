@@ -1,0 +1,336 @@
+Rapture Runtime Environment v2.3.6 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           217 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+5714h, 5619m, 24875e, 22205w  exdb----
+5714h, 5619m, 24875e, 22205w  exdb----
+I don't see the container here from which you wish to apply some fluid.
+5714h, 5619m, 24875e, 22205w  exdb----
+I don't see the container here from which you wish to apply some fluid.
+5714h, 5619m, 24875e, 22205w  exdb----
+You take out some salve and quickly rub it on your head.
+You are no longer blind.
+5714h, 5619m, 24875e, 22205w  exd----
+There is currently a House credit sale in progress.
+5714h, 5619m, 24875e, 22205w  exd----
+-=[ Need more friends to raid with? Recruit some by voting at TopMudSites! http://www.achaea.com/vote - Thanks! ]=-
+5714h, 5619m, 24875e, 22205w  exd----
+You may apply another salve or balm to yourself.
+5714h, 5619m, 24875e, 22205w  exd----
+It is early afternoon in Achaea.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/01/02 18:32:46 GMT.
+See HELP GMT for an explanation of GMT.
+5714h, 5619m, 24875e, 22205w  exd----
+You take out some salve and quickly rub it on your head.
+You are no longer deaf.
+5714h, 5619m, 24875e, 22205w  ex-----
+----[ Mhaldor City announcement ]----
+
+                  TRADESKILL BAN/RESTRICTION: HARVESTING!
+                        Read Mhaldor news #3227.
+Anyone caught with the skill will be answerable to the Council of Mhaldor.
+
+-------------------------------------
+5714h, 5619m, 24875e, 22205w  ex-----
+You may apply another salve or balm to yourself.
+5714h, 5619m, 24875e, 22205w  ex-----
+Message #984        Sent by Ayoxele
+1/02/6:47 Like not horrible AT gambling, but horrible restraint.
+5714h, 5619m, 24875e, 22205w  ex-----
+Message #985        Sent by Dartega
+1/02/6:47 (To Ayoxele): Yeah my normal strategy is to play video poker/blackjack, do ok, then say fuck it and throw all my money on black on roulette and win.
+5714h, 5639m, 24875e, 22205w  ex-----
+There is no next message to read.
+5714h, 5639m, 24875e, 22205w  ex-----
+There is no next message to read.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+totem297554         a runic totem
+wraith359791        an infernal wraith
+wraith360702        an infernal wraith
+wraith361009        an infernal wraith
+sigil386244         a monolith sigil
+box72278            a comical jack-in-the-box
+horse26132          a midnight blue draught horse
+Number of objects: 7
+5714h, 5639m, 24875e, 22205w  ex-----
+You see the following people here:
+Dartega
+5714h, 5639m, 24875e, 22205w  ex-----
+You have the following defences:
+   None.
+5714h, 5639m, 24875e, 22205w  x-----
+You have recovered equilibrium.
+5714h, 5639m, 24875e, 22205w  ex-----
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Minister Chiam Nithilar, Crusher of Wills                     4  On  Apostate
+Mycen Dracrotalus, Crimson Arrow of Malevolence               6  On  Dragon
+Tirui, Insidium Disciple                                      1  On  Infernal
+Vaele, Insidium Disciple                                      1  On  Serpent
+Dread Legate Krux                                             1  On  Infernal
+Carmain, Insidium Disciple                                    1  On  Apostate
+Mahesh Dracrotalus, Duelist of the Seven                      2  On  Runewarden
+Dread Legate Kisharo                                          2  On  Monk
+Cresil Aristata, Scourge of the Legion                        3  On  Serpent
+Dread Emissary Lideron Aristata, Thrall of Mycen              6  On  Infernal
+Ambassador Florentino Milani                                  4  On  Serpent
+Eminence Suladan Nithilar                                     6  On  Dragon
+Dread Legate Atalkez al'Dejan                                 3  On  Blademaster
+Herose Lichlord, Crusher of Wills                             3  On  Serpent
+Dread Emissary Dartega, Thrall of Xinna                       2  On  Shaman
+5714h, 5639m, 24875e, 22205w  ex-----
+Vaele, Insidium Disciple (female Siren).
+She is 20 years old, having been born on the 4th of Valnuary, 652 years after the fall of the Seleucarian Empire.
+She is ranked 1874th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 5% of your might.
+Her motto: 'Oh, did that hurt?'
+5714h, 5639m, 24875e, 22205w  ex-----
+Tirui, Insidium Disciple (female Rajamala).
+She is 19 years old, having been born on the 23rd of Lupar, 653 years after the fall of the Seleucarian Empire.
+She is ranked 1588th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 20% of your might.
+Her motto: 'Through discipline and pain we advance sentient life.'
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Ermagawddd atalkezzzz."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Hmm?"
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "I can't typeeeeee."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Go back."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "I'm mispelling everything now."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "NO."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Nevah."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "I'll go someplace else."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Meanie."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "CAN'T YOU SEE i JUST WANT TO LEVEL!?"
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kendrick says, "Atalkez don't beat on kyttin."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Me too."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "He was."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "He was hitting on me in Annwyn."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "That rogue."
+5714h, 5639m, 24875e, 22205w  ex-----
+(Legates): Cresil says, "In Strength, Legion."
+5714h, 5639m, 24875e, 22205w  ex-----
+(Mhaldor): Cresil says, "In Strength, Mhaldor."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Bad thing is I saw you, forgot you where BM and was like...he won't be able to find me :(."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Time to petition the house for a veil."
+5714h, 5639m, 24875e, 22205w  ex-----
+(Mhaldor): Suladan says, "In Strength, Dynamis."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "I never saw you."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Until I evaded into your room."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "I saw you move adjacent to me."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "You did? how?"
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "You bleed 57 health. 3273h, 5191m, 21423e, 17454w ekdb-12:33:45.314 34%(-57h, 1.0%) [west - Atalkez (1)]."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kendrick says, "Alertness."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kendrick says, "Op."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Fk I thought evade went around alertness."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "It does."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "It does."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Wat."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Maybe you didn't do that one right? >.>."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "Why would you bash with alertness tho Kyttin."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Annwyn."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Durh."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Carmain says, "Evade doesn't go around people staring tho."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Dalran says, "I keep alertness up forever."
+5714h, 5639m, 24875e, 22205w  ex-----
+(Legates): Andraste says, "Hail Legates."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "If I'm bashing Annwyn, I bash with Alertness AND skywatch (santar defense)."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): You say, "Why would you not bash with alertness."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyrra says, "I always have alertness up."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "I don't think I've ever bashed with alertness."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "You've not bashed the right places."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): You say, "Wow you know it adds +5 physical damage resist right."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): You say, "You've been bashing wrong."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "I bashed annwyn from like 80-100."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "99*."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): You say, "It costs like... no mana to use."
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Merador says, "Liar."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Evidently your hamstring ended abruptly Atalkez."
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "Plus I have all of Veldrins Arties, you didn't get me low on health >.>."
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez says, "Who goes for damage when they have an insta."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Kyttin says, "I wasn't bleeding that I saw though."
+5714h, 5639m, 24875e, 22205w  ex-----
+(The Midnight Crew): Atalkez happily says, "Not yet."
+5714h, 5639m, 24875e, 22205w  ex-----
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 3 infernal wraiths here. A sigil in the shape of a small, rectangular monolith is on the ground. A brightly coloured jack-in-the-box rests quietly on the ground. A midnight blue draught horse stands patiently awaiting direction.
+You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex-----
+5714h, 5639m, 24875e, 22205w  ex-----
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5714h, 5639m, 24875e, 22205w  ex-----

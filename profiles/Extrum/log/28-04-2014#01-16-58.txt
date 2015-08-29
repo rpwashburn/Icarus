@@ -1,0 +1,2839 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           174 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: adsl-216-63-104-231.dsl.bumttx.swbell.net.
+
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> We're pleased to offer a new introductory package for all players, see
+   ANNOUNCE news #4102 for all of the details!
+-> Help us take the #1 spot - http://www.achaea.com/vote - every 12 hours.
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+6655h, 4784m, 25957e, 10067w exdb-
+6655h, 4784m, 25957e, 10067w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6655h, 4718m, 25957e, 10067w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4718m, 25957e, 10067w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4718m, 25957e, 10067w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4718m, 25957e, 10067w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6655h, 4718m, 25957e, 10067w xdb-
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+You have recovered equilibrium.
+6655h, 4784m, 25957e, 10079w exdb-
+Message #1601       Sent by Achaea
+4/26/8:37 You are dismayed as your puppet of Fendrel returns to a near-shapeless mass.
+6655h, 4784m, 25957e, 10079w exdb-
+You will now attempt to parry attacks to your left arm.
+6655h, 4784m, 25957e, 10079w exdb-
+You have begun to look for arrows to pluck from the air.
+6655h, 4784m, 25957e, 10079w edb-
+There is currently a City credit sale in progress.
+----[ Targossas City announcement ]----
+The focus for the time-being is solely on eradicating all traces of the visible influence of the Skylord. All attention should be given over to defiling His shrines. Time wasted on defiling shrines to Sartan, Ourania, Babel and Twilight only gives Vastar's Order the opportunity to rebuild. We shall continue our work in stamping out what feeble efforts the rest of our enemies put forth when we are finished with Vastar.
+---------------------------------------
+6655h, 4784m, 25957e, 10079w edb-
+It is deep night in Achaea, before midnight.
+The phase of the moon is that of the Waning Crescent.
+
+In your world, it is 2014/04/28 06:17:09 GMT.
+See HELP GMT for an explanation of GMT.
+6655h, 4768m, 25977e, 10074w edb-
+You have recovered balance on all limbs.
+6655h, 4768m, 25977e, 10074w exdb-
+Message #1602       Sent by Achaea
+4/26/9:04 A bloodstained zombie kitten, your loyal companion, has been slain by Halos Vorondil, Herald of Redemption.
+6655h, 4765m, 26037e, 10100w exdb-
+Message #1603       Sent by Achaea
+4/27/2:31 A puppet roughly resembling Atalkez has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10095w exdb-
+Message #1604       Sent by Achaea
+4/27/13:26 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10095w exdb-
+Message #1605       Sent by Achaea
+4/27/13:35 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10095w exdb-
+Message #1606       Sent by Achaea
+4/27/13:44 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10095w exdb-
+Message #1607       Sent by Achaea
+4/27/13:44 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10107w exdb-
+Message #1608       Sent by Achaea
+4/27/13:47 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10107w exdb-
+Message #1609       Sent by Achaea
+4/27/13:53 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26037e, 10107w exdb-
+Message #1610       Sent by Achaea
+4/27/13:53 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1611       Sent by Achaea
+4/27/13:56 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1612       Sent by Achaea
+4/27/14:02 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1613       Sent by Achaea
+4/27/14:08 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1614       Sent by Achaea
+4/27/14:08 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1615       Sent by Achaea
+4/27/14:11 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1616       Sent by Achaea
+4/27/14:14 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1617       Sent by Achaea
+4/27/14:20 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1618       Sent by Achaea
+4/27/14:20 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1619       Sent by Achaea
+4/27/14:20 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1620       Sent by Achaea
+4/27/14:23 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1621       Sent by Achaea
+4/27/14:23 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1622       Sent by Achaea
+4/27/14:26 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1623       Sent by Achaea
+4/27/14:26 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1624       Sent by Achaea
+4/27/14:26 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1625       Sent by Achaea
+4/27/14:26 An arrow has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1626       Sent by Achaea
+4/28/2:24 A puppet roughly resembling Nizaris has decayed to dust in your absence.
+6655h, 4747m, 26057e, 10107w exdb-
+Message #1627       Sent by Achaea
+4/28/2:33 An arrow has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+Message #1628       Sent by Achaea
+4/28/2:33 An arrow has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+Message #1629       Sent by Achaea
+4/28/2:45 An arrow has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+Message #1630       Sent by Achaea
+4/28/2:45 An arrow has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+Message #1631       Sent by Achaea
+4/28/2:45 An arrow has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+Message #1632       Sent by Achaea
+4/28/3:24 A living puppet of Daeir has decayed to dust in your absence.
+6655h, 4728m, 26057e, 10102w exdb-
+There is no next message to read.
+6655h, 4784m, 26057e, 10102w exdb-
+There is no next message to read.
+6655h, 4784m, 26057e, 10102w exdb-
+There is no next message to read.
+6655h, 4784m, 26057e, 10114w exdb-
+PUBLIC NEWS #19428                                      (04/23/2014 at 20:59)  
+From   : Grand Master of Combat, Deladan Seir-Aristata
+To     : Everyone
+Subject: Previous Post
+-------------------------------------------------------------------------------
+The previous post was supposed to be to the Villagers of Caer Witrin.
+
+My scribe has been quartered and I am currently in the process of finding a new one.
+
+
+Deladan Seir-Aristata
+
+Penned by my hand on the 24th of Sarapin, in the year 653 AF.
+6655h, 4767m, 26077e, 10109w exdb-
+PUBLIC NEWS #19429                                      (04/24/2014 at 08:54)  
+From   : Unnamed Jadid, of Ashtan
+To     : Everyone
+Subject: My first announce
+-------------------------------------------------------------------------------
+Lame as it may be, hi!!. My first public announcment. Jadid.
+
+Penned by my hand on the 11th of Daedalan, in the year 653 AF.
+6655h, 4766m, 26117e, 10123w exdb-
+PUBLIC NEWS #19430                                      (04/24/2014 at 21:20)  
+From   : Vastar, the Skylord
+To     : Everyone
+Subject: Freedom
+-------------------------------------------------------------------------------
+I have learned much, from both My travels, and the events of the Worldreaver.
+
+Still, I hesitated to act on these lessons. Perhaps Sapience would learn from the terror of Bal'met, of seeing a city sunken and obliterated. Perhaps mortals would learn of their folly as the Pantheon shrunk, one by one, as Divine were slain.
+
+I waited, patiently, for evidence that such events would come to pass. And yet, the lessons of the Worldreaver sunk as quickly as Shallam, buried beneath waves of stupidity.
+
+Sapience has truly proven that the mistakes of the past shall continue to be repeated, an endless cycle of abuse and ignorance.
+
+And so I withdraw your privilege of soaring in the boundless Sky amongst Mine. I withdraw your right to Freedom.
+
+I withdraw that which I am known for. For too long has mortal ignorance stained My realm. For too long have I watched mortal hubris wield Freedom as a shield, as an excuse to cover for their lunacy. Too long have I watched Freedom be twisted, broken, stepped on by heels unworthy of claiming the cause.
+
+And so I remove that hollow excuse from your undeserving lips, never to be used again.
+
+The right to Freedom is one of utopia, of a world unstained by the tread of the ignorant. Freedom is now the goal on the horizon, rather than the excuse to fall back on. Freedom, from this day forth, shall be earned, not given.
+
+My Farethi shall be the heralds to show the way, to educate the interested in having a place to belong in this utopia. The Bastion is the only city approaching this ideal. Through them, I will deliver the truest form of Freedom to the unwashed masses, to ensure they do not desecrate My vision.
+
+Let Chaos reign.
+
+- The Skylord
+
+Penned by My hand on the 24th of Daedalan, in the year 653 AF.
+6655h, 4732m, 26157e, 10138w exdb-
+(Argent Ward): Daeir says, "We should icon raid ashtan."
+6655h, 4768m, 26357e, 10218w exdb-
+Your current clan will now be the 'Argent Ward' clan.
+6655h, 4750m, 26397e, 10228w exdb-
+(Argent Ward): You say, "Iocun raid ashtan."
+6655h, 4784m, 26437e, 10248w exdb-
+(Argent Ward): You say, "Got it."
+6655h, 4768m, 26457e, 10256w exdb-
+PUBLIC NEWS #19431                                      (04/24/2014 at 23:21)  
+From   : Sestina Senz'ombra
+To     : Vastar, the Skylord
+Subject: Freedom
+-------------------------------------------------------------------------------
+Freedom is not Yours to withdraw, Skylord, no matter how deeply steeped in its ideal You and Your followers may be. Freedom cannot be taken from us. Throw Your tantrums in the sky, cast Your disdain upon us, attempt to shackle us if You will, but You and no other can take away our Freedom.
+
+Freedom is earned, yes. Freedom is seldom understood and frequently misused, yes. But Freedom is immutable and entrenched within the hearts of those who bleed for it. Freedom is not a privilege but a right, one that is occasionally abused but never alienated. You speak of a utopia, but open its gates only to those who meet Your approval. There is no Freedom in such a land. Exclusivity breeds narrow-minded conformity, Skylord, even if those minds embrace what You call 'Freedom'.
+
+Wherever You have been, clearly it has twisted Your mind. Witnessing Your fellow Divine from afar, waiting for us mortals to learn a lesson and never once raising a hand to come to Their aid must have touched You in the head. You are no Skylord, You are just another minion of Chaos, tainted by its entropic caress, swollen with apathetic pride, hastening us towards destruction and condemning us for a crime You will not define. I cannot accept that You are truly Lord Vastar. If you are not the Skylord, Who are You?
+
+Whoever You are, I defy You. You think You can remove Freedom from my lips? Then I will say it again and again.
+
+Freedom.
+Freedom.
+Freedom.
+
+Clarity keep, 'Skylord'.
+
+Penned by my hand on the 1st of Aeguary, in the year 653 AF.
+6655h, 4764m, 26497e, 10269w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 26557e, 10291w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 26557e, 10291w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 26557e, 10291w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 26557e, 10291w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 26557e, 10291w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 26557e, 10291w exdb-
+PUBLIC NEWS #19432                                      (04/24/2014 at 23:38)  
+From   : Captain Narcicious
+To     : Vastar, the Skylord
+Subject: Freedom
+-------------------------------------------------------------------------------
+I am not a well-known man, nor do I wish to be so. But There is something here I feel I must say. Recent events have frankly mortified me. I look at the world and see those who could help each other squabble and bicker, fight when the could work together to fly. I watch and see the works of men and women, good, evil, neutral, all wandering. Sir, you speak of freedom. You speak of a utopia of freedom. And then you strike down a soul who is brave enough to point out a flaw where they think they have found it. I do not see that as an act of Divinity, but as one of a child who doesn?t like to be told they?re wrong. Strike me down as you wish as you will undoubtedly do. I shall rise and I shall call to the heavens I will not be broken for that is my Freedom to choose. I have the Freedom to live or die. And now I exercise that Freedom to say that I watch your works and I find myself disgusted at those I have witnessed. I may not know much, but I know that one who uses violence where words could be more effective is not a leader I?d wish to follow.
+Yours freely till the day I leap from this Mortal Coil
+-Captain Narcicious.
+
+
+Penned by my hand on the 1st of Aeguary, in the year 653 AF.
+6655h, 4767m, 26597e, 10305w exdb-
+PUBLIC NEWS #19433                                      (04/25/2014 at 04:00)  
+From   : Sempai Gyrth Shiva, the Green Dragon
+To     : The City of Cyrene
+Subject: Respect
+-------------------------------------------------------------------------------
+Senators of Cyrene,
+
+Call your dogs.  They are barking again and ours are quite hungry.
+
+With disgusting intention,
+
+G.S.
+
+Penned by my hand on the 5th of Aeguary, in the year 653 AF.
+6655h, 4769m, 26697e, 10342w exdb-
+PUBLIC NEWS #19434                                      (04/27/2014 at 01:48)  
+From   : Dawnlord Silas Maynard, the Voice of Light
+To     : Everyone
+Subject: Vastar, the Skylord
+-------------------------------------------------------------------------------
+Greetings, Sapience,
+
+In light of the Skylord's misguided proclamation, it is my duty to inform you all that worshippers of this so-called Freedom shall forthwith be denied entrance to the Dawnspear.
+
+It is disappointing to see that even a God can succumb to such self-serving folly - especially One who stood against the Triumvirate in the War of Humanity, and who saw first-hand the horrors inflicted during the Chaos Wars - but we must all make our choices daily.
+
+This is proof that it is not enough to commit yourself once against the forces of Chaos, of Evil, or of Darkness; this is a commitment that must be renewed each time the sun rises and a new day dawns, lest you too fall so easily into the clutches of that which you fought against.
+
+I have mocked Ashtan's twisted interpretation of Freedom for years, but even I am surprised by this move. To see the Skylord Himself turn His back on the tenets of true Freedom, of Passion, of Individuality and Infinity for the yawning void of Oblivion is something I did not expect, even after the second great betrayal of the Jade Empress.
+
+Alas.
+
+Until such a time as He regains His senses and recants this stance, we will tolerate no shrines to the Skylord to stand in these lands. All shall be reduced to splinters and dust, and all shall be replaced with beacons to Light and Fire. So long as He continues on this path, any sign of His visible influence shall be eradicated.
+
+Any worshipper of Vastar who dares to sully the streets of Targossas shall be asked to leave, and declared an enemy when they comply. Failure to comply will see you cut down where you stand.
+
+To align yourself with Vastar's warped vision of the future is to declare yourself an enemy of Creation itself.
+
+Make your choice, Sapience.
+
+
+In Their name,
+
+Silas Maynard de l'Evanoir
+[Type MORE if you wish to continue reading. (96% shown)]
+6655h, 4784m, 26737e, 10357w exdb-
+ANNOUNCE NEWS #4116                                     (04/24/2014 at 16:06)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: Unseeing moods
+-------------------------------------------------------------------------------
+Hi all,
+(TL;DR: CONFIG MOODS OFF is a thing now.)
+
+Moods have gotten a bit of a mixed reaction, with some people really liking them and some people really disliking them. Fair enough! I'd generally prefer that you all like something or dislike it, as that makes decisions easy, but it's not the case here.
+
+At any one time, currently about 25% of players are adopting a mood, which is somewhat higher than I would have expected actually, given that people turn moods on and off and that 25% is a snapshot of who is using it right now. That percentage rises to 30-35% if we only look at, for instance, just players level 80+ (newbies won't even know about moods at first).
+
+While we decide what to do with moods overall to potentially make them better, we've just added a way for those who dislike moods to simply stop seeing them. CONFIG MOODS OFF.
+
+We'll be pondering how to make moods better, but in the meantime, problem solved for those of you who dislike seeing moods.
+
+Penned by My hand on the 18th of Daedalan, in the year 653 AF.
+6655h, 4753m, 26817e, 10389w exdb-
+ANNOUNCE NEWS #4117                                     (04/27/2014 at 15:28)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: Photo contest extension
+-------------------------------------------------------------------------------
+Hi all. Getting some really good pictures in the photo contest so far (see announce #4114 for details), including folks in costume, but there haven't been as many submissions as I'd hoped for, so I'm going to extend the deadline for entering to May 15th.
+
+There's a total of over 1500 credits in prizes, so it's worth spending a little time to get a good shot!
+
+Again, see announce #4114 for details!
+
+Penned by My hand on the 15th of Scarlatan, in the year 653 AF.
+6655h, 4784m, 26837e, 10397w exdb-
+POETRY NEWS #4683                                       (04/24/2014 at 02:40)  
+From   : Incarnadine
+To     : Everyone
+Subject: Likes
+-------------------------------------------------------------------------------
+I like squishy things
+Like blood or dreams
+
+The psyche of wings
+Like tearing at seams
+
+A light fluffy sting
+Like from many bees
+
+Any might even think
+Like dead zombies
+
+Why like anything
+
+Love like clever kings
+Like worms that seep
+
+All sight that pings
+Like eyes gouged deep
+
+I like everything
+Like sandpaper dreams
+
+END
+[Type MORE if you wish to continue reading. (92% shown)]
+6655h, 4770m, 26857e, 10405w exdb-
+POETRY NEWS #4684                                       (04/27/2014 at 16:07)  
+From   : Nixxe Ashaela, Scarlatti's Weaver of Imagination
+To     : Everyone
+Subject: smart leaves
+-------------------------------------------------------------------------------
+Swaying to the Sun's rapture
+stars linger in reflective abandonment
+love ponders well-deserved sorrow
+sunrise emanates the leaves' groves
+weeping through excrutiating boughs
+Adventure, a luscious cosmos
+A wanderer awaits reflective delight
+desert quivers in fermented abandonment
+night ponders virtuous volcanoes
+Eternity aches for virtuous cosmos
+night soaks in steaming groves
+leaves fiddle with velvet knowledge
+moon lingers in reflective laughter
+leaves in study
+
+Penned by my hand on the 15th of Scarlatan, in the year 653 AF.
+6655h, 4770m, 26857e, 10405w exdb-
+
+EVENTS NEWS #465                                        (04/25/2014 at 00:06)  
+From   : Anonymous
+To     : Everyone
+Subject: Petran Recycling
+-------------------------------------------------------------------------------
+A crash and a chorus of child-like cries disturbed the Petran peace one spring afternoon in 652, the crows taking wing from the fields before deeming it safe to return to hunting for worms once more. With a sigh, an old xoran in a battered flat cap oversaw the lifting of a crystal chandelier into his hand barrow. As the dust settled, he felt a little sorry for the three children it had crushed, but really, he had warned them and given them ropes and blankets to bring the heavy furnishing down safely. Ah well, at least the chandelier was still in one piece.
+
+                              ~ ~ ~
+
+A young vagrant had approached Drucker the previous month, a man he had heard some of the others call the Superintendent. He wanted help making his dream for Petra a reality. The village had been empty for years, no one yet to stake a claim. The tall man had ideas, and the energy of youth shone in his gaze, promising he could see them through.
+
+Later that day, with a grumble and a hefty pull, Tinker Drucker jounced his barrow through the doorway of Sangre Keep. Determined not to look at the dust-covered corpses stacked like cordwood within the old fortress, his old eyes studied the rooms for anything that might bring some coin.
+
+The chandelier hanging overhead would glitter beautifully, the tinker thought, once the shrouds of greying cobwebs were removed, but he would need a team to bring it down. With a brush of a sleeve, the rounded curves of a forgotten vase showed smooth and black, silver striking through the stone. These would do nicely, he surmised. The larger furnishings required assistance to move, including a statue of some imperious woman. Gods, it wasn't just the stone that made her figure seem cold and hard. A few items, small as they were, fought his touch, an effort beyond physical strength required to lift them and nestle them within the blanketed barrow. More than once the old xoran had to step outside to find some fresh air, settle his roiling stomach, and deny the terrors that seemed to creep closer towards his turned back as he continued with his task.
+
+Most didn't speak of the demise of the keep's last family, but everyone knew about it just the same. The past seemed to have stirred again, disturbed from its slumber in history, and people were seeing and feeling strange things. At least they had Janice, he thought, offering what little relief she could to the vagrants. A life spent walking the roads had taught her much about sickness... and succour.
+
+"What a haul! You've done well, Drucker." The Superintendent looked pleased with the lots picked out from the remains of the Karrellan estate. "I'll organise a couple of rooms for you down at the Brass Lantern, and you can auction these off to fund the rebuild."
+
+Relief rippled through the tinker. It was not an unhappy couple of months spent outside of Petra's boundaries, and soon the night of the auction loomed.
+
+Later that month, a tired but smiling Drucker returned to Petra, where he was met at the door of the Horseshoe Inn by a shabby crowd of vagrants and harlots, all clamouring to know how the preceedings went. Pushing through the doors, he leaned behind the bar and claimed a dusty bottle. Three long swallows drained the ale quickly, and Drucker stepped back outside to nail a length of parchment to the door.
+
+            ------------------------
+
+           The Karrellan Estate Auction
+
+                6th Chronos, 652 AF
+
+[Type MORE if you wish to continue reading. (78% shown)]
+6655h, 4770m, 26877e, 10417w exdb-
+TARGOSSAS NEWS #283                                     (04/23/2014 at 08:52)  
+From   : Yen Jaydde-Stormcrow, Grace Serene
+To     : Everyone
+Subject: shop for lease
+-------------------------------------------------------------------------------
+Dear city,
+
+My shop at Veil's End is in need of a new tenant.  Any who would like to try their hand at shopkeeping, do let me know!
+
+Yen
+
+Penned by my hand on the 12th of Sarapin, in the year 653 AF.
+6655h, 4753m, 26877e, 10412w exdb-
+TARGOSSAS NEWS #284                                     (04/24/2014 at 04:40)  
+From   : Sir Morthif Aristata, Knight of the Watch
+To     : Everyone
+Subject: Fundraising
+-------------------------------------------------------------------------------
+Targossas,
+  Early in the month of Dadalean the seastrider known as the Lady Light set sail from the harbour Targossas. Captained by Garis, she carried with her Kaiu, Lachlan, Shros, Renoa, Iskla, Caladbolg, and me. As we headed to a destination only known by the captain the passengers chatted cheerfully in anticipation. As the anchor was dropped wild celebration broke out. Everyone wielded a pole and lines were seen being cast all over the ship.
+
+It was a fishing contest of course. In efforts to continue the fundraising for the Dawnguard Kaiu and I invited everyone out to fish. The rules were simple whoever caught the most pounds of fish won.
+
+What was the grand prize you ask? the best prize of all the fun and companionship of your fellow city mates as well as watching Caladbolg try to fish with a bastardsword.
+
+The total amount raised was: 88,565 gold, which Shros bumped up to an even 100,000.
+
+Separate donations to the Dawnguard also include
+
+18,000 gold from Dagnarille
+ 7,000 gold from Rhyos
+
+Bringing total donations for the Dawnguard up to 125,000 gold so far.
+
+
+Penned by my hand on the 7th of Daedalan, in the year 653 AF.
+6655h, 4753m, 26877e, 10412w exdb-
+TARGOSSAS NEWS #285                                     (04/25/2014 at 01:21)  
+From   : Sir Morthif Aristata, Knight of the Watch
+To     : Everyone
+Subject: Lottery #1
+-------------------------------------------------------------------------------
+Hail Dawnspear,
+ I come before you today to announce the opening of lottery #1. This lottery is another step in efforts to raise funds for the Dawnguard.  Tickets will cost 1000 gold a piece and there is no limit on the number of tickets you can purchase. The lottery will run for about 1 year or until at least 500 tickets are sold. Tickets may be purchased from me or at the ticket box located at ?A bustling farrier's yard.?
+
+Tickets are purchased by doing either
+BUY TICKET IN 1
+Or
+BUY # TICKETS IN 1
+
+Prizes Include:
+
+1. Gold.
+200,000 gold.
+
+2. Moss.
+2,500 moss.
+
+3. Inks.
+50 of each color ink.
+
+4. Herbs.
+1,000 moss & 1,000 bloodroot.
+
+5. Minerals.
+1,000 potash & 1,000 magnesium.
+[Type MORE if you wish to continue reading. (84% shown)]
+6655h, 4770m, 26897e, 10420w exdb-
+(The Dawnguard): Daeir says, "Cyla perhaps heading to Nishnatoba. The Shadowsnakes' icon is apparently low, as well."
+6655h, 4753m, 26917e, 10427w exdb-
+TARGOSSAS NEWS #286                                     (04/27/2014 at 01:18)  
+From   : Davio Op'Shae, Guardian of the Blades
+To     : Everyone
+Subject: Standing Order with the Skylord
+-------------------------------------------------------------------------------
+Greetings Targossas,
+
+As all of you should be aware of, Lord Vastar has made His purpose clear for all of us. With this in mind, Lord Vastar is now considered an enemy of Creation. As such, all of His followers are enemies of Creation, as well.
+
+Our new standing order on the matter is that His shrines will be reduced to dust - all of them. His influence will be eradicated. We have removed the visibility of Babel, Ourania, and for the most part Sartan shrines and this will be much of the same. We will start this process with the end in mind, so for the mean time if you take a shrine we will be raising a shrine to the Lord or Lady in it's place. Keep this in mind.
+
+We will not be defiling shrines to any Other during this time - our focus will be solely on Lord Vastar's shrines. The only exception to this rule is if you're fighting Mhaldor on the isle or within Mhaldor, you may use their shrines against them. But do not do so without a clear fight.
+
+Any who defile will be held responsible for helping raise. This will not be finished without much retaliation and, as is common for us in these conflicts, we will win in the same way - unrelenting focus, planning, and resolve.
+
+In service,
+
+Davio Op'Shae, Guardian of the Blades
+
+Penned by my hand on the 25th of Miraman, in the year 653 AF.
+6655h, 4753m, 26937e, 10427w exdb-
+TARGOSSAS NEWS #287                                     (04/27/2014 at 22:04)  
+From   : Argent Artificer Tesha al Ashtad, Golden Justice
+To     : Everyone
+Subject: Ashtan
+-------------------------------------------------------------------------------
+Greetings, everyone.
+
+Ashtan is a strong city. They have a large amount of citizens, a high amount of combatants with a network of earrings and a large number of veils. They fight for fun, to satisfy a corrupt bloodlust and to cure their ever-present boredum. Some of them are skilled, some of them are not. They fight primarily in hordes or against weaker opponents, forever chasing an illusion of victory and power.
+
+Their greatest strength is also their greatest flaw. What attracts the large number of ignorant fools that join Ashtan's ranks? An illusion of freedom, of doing little, and of an easy road to "winning". They are not unlike Cyrene, in the sense that comfort is what draws them. They have no purpose in life, so they have no expectations, and their citizens are left to do whatever they want, while reaping the benefits of the "power" of being Ashtani.
+
+However, this is a great and powerful weakness. Due to the fact that nothing at all unites them, they are weak, drooling fools. When they make a concentrated effort such as in the CTF or year 650 bandersnatch, they have a lot of strength. They do not make these efforts often, because their citizens are fat, lazy, and useless. They have little motivation to do anything other than flail listlessly in an attempt to amuse themselves.
+
+And that is how we will win this conflict. They will make a few concentrated efforts for a few months. Then fewer people will help. Then even fewer. They will hope we defend our shrines in small numbers, so that they may use overwhelming force to kill the small amount of defenders and use their bodies to defile more. That was their primary strategy in the Ouranian shrine conflict. And it is what they will do this time.
+
+Do not rush out to defend shrines alone. If a shrine is under assault, form a group and engage only if victory is likely. Ashtan's forces are mindless and have exceptionally little spirit and backbone. Their primary strategy in this will be to kill defenders and defile like that. So deny them their goals, and allow them to exhaust themselves in the attempt to outhunt us. They lost last time. They will lose once more.
+
+Endure, Dawnspear. Endure and remain united under the glory of the Bloodsworn. Our unity gives us strength matched by no other city, no other force. We have a battle on our hands, and it is in a field we are undefeated in. Let us strike down the piles of rubble the deranged Skylord considers His shrines, and replace them with beacons to the glory of Light and Righteousness. Let Sapience witness the radiant glory of Good.
+
+Tesha al Ashtad
+
+Penned by my hand on the 21st of Scarlatan, in the year 653 AF.
+6655h, 4766m, 27017e, 10455w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4784m, 27157e, 10518w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 27157e, 10518w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 27157e, 10518w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 27157e, 10518w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 27157e, 10518w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 27157e, 10518w exdb-
+It is now the 5th of Ero, 653 years after the fall of the Seleucarian Empire.
+6655h, 4756m, 27237e, 10549w exdb-
+You have no further news to read.
+6655h, 4770m, 27277e, 10563w exdb-
+You have no further news to read.
+6655h, 4750m, 27277e, 10557w exdb-
+There is no next message to read.
+6655h, 4750m, 27277e, 10557w exdb-
+Usage:
+   CLASSLEAD LIST [<skill>|SUBMITTED|UNSUBMITTED|CENSURED|ENDORSED]
+   CLASSLEAD SHOW <report #>
+6655h, 4756m, 27317e, 10573w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+  6 A Madelyne        Milk            When gathering, adventurers get way more
+ 14 A Nemutaur        Soul walking    Right now you can walk without getting t
+ 17 A Dunn            Hierophant      When you fling a hierophant at someone y
+ 20 A Dunn            Slime           Similar to classleads 17 and 18. There i
+ 23 A Dunn            Dragoncurse     Dragoncurse (the targeted, single aff ki
+ 34 A Caladbolg       Everything      Using devotion when it isn't possible to
+ 36 A Terra           Hailstorm       Currently, when you try to use Hailstorm
+ 69 A Antonius        Vardrax         The addiction affliction is trivially co
+ 75 A Antonius        Razeslash       Now that venoms can be specified as part
+ 78 A Nemutaur        Hypnotise       If you have Inept Hypnosis it takes so m
+ 87 A Aluciana        Summoning       As of now the equilibrium balance on a S
+ 94 A Tesha           Smite           Priests are terrible at hunting unless t
+ 97 A Tesha           Emperor         Flinging emperor at someone makes them f
+102 A Bonko           Hide            At the moment it's possible to bypass th
+107 A Dunn            Disarming       While someone is disarming a tank (city
+112 A Daeir           Clouded glass l While granting a very useful effect, the
+115 A Jovolo          Pinshot         Pinshot was a good move in the direction
+117 A Nieelensars     Robes           Currently, if Alchemists robes are near
+130 A Lilian          Minuet          Minuet is one a bard's biggest offensive
+136 A Alrena          Reflection      Incinerate, an instant-kill and importan
+140 A Josoul          Readaura        readaura's last line shows the affs a ta
+152 A Jovolo          All             The mana cost of Curses both blighted an
+172 A Rangor          Wormholes       This ability is highly abusable when it
+173 A Aegoth          Plague          With the changes to decay rate in crysta
+180 A Extrum          Mickey          Moss/Potash are consumed passively for t
+204 A Jovolo          Cripple         Vodun Cripple doesn't prone people if th
+219 A Jovolo          Pound           Druids have two ways to secure a kill as
+222 A Rip             Warp observatio I have always thought peering through a
+[Type MORE if you wish to continue reading. (63% shown)]
+6655h, 4756m, 27417e, 10611w exdb-
+[File continued via MORE]
+224 A Rip             Scan            Scan is one of the very first tracking a
+231 A Aelios          Disembowel      As it stands, anyone can completely nega
+232 A Anedhel         Runeblades      Currently, runeblades do not work with t
+234 A Shecks          Scytherus       Scytherus (relapsing) is instantly recog
+250 A Herose          Deathsight_hist DEATHSIGHT HISTORY is great but it can g
+264 A Davio           Tarotlink       Between aeon, tower tarot, ignoring elev
+265 A Hirst           Refuge          Refuge can be used as a nigh unstoppable
+268 A Daeir           Witness         Witness currently has a large balance co
+269 A Leviticus       Sandling        The ability can be used while on the gro
+274 A Leviticus       Lock            Mind lock in combat today can take up a
+297 A Josoul          Balance         Lately there's been a trend to make Acha
+300 A Tirac           Transverse      Transverse is useless. Necromancy has no
+302 A Tirac           Gravehands      Duration is prohibitively short out-of-r
+303 A Tirac           Blackwind       Blackwind now has a wind-up similar to p
+315 A Santar          Appraise        During theft, the person pickpocketing h
+325 A Nemutaur        Limb prep decay Currently all limb prep dissapears after
+-------------------------------------------------------------------------------
+6655h, 4784m, 27457e, 10630w exdb-
+Report #180
+-------------------------------------------------------------------------------
+Submitted by: Extrum         Status      : Approved                 Priority : 6
+Skill       : Pranks         Ability     : Mickey
+-------------------------------------------------------------------------------
+Problem:
+Moss/Potash are consumed passively for their reasons, which causes mickeys to be used up and nullifying their ability to herb stack.
+-------------------------------------------------------------------------------
+Solution #1:
+Remove moss/potash from list of herbs that trigger mickey.
+Solution #2:
+Solution #3:
+Delete ships
+-------------------------------------------------------------------------------
+Decision:
+Sure, solution 1.
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 27557e, 10668w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Lord Draekar Rian, Eminent Master                             4  On  Dragon
+Analeiss                                                      1  On  Priest
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Priest
+Predicant Carmell Bayt Al-Azhan, Caefir Priestess             4  On  Priest
+Vasha Sovolkyov                                               1  On  Alchemist
+Soldier Ada Young                                             2  On  Monk
+Oathsworn Shros                                               1  On  Runewarden
+Antidas Wintermourne, Luminous Shade                          3  On  Serpent
+Svalis                                                        1  On  Blademaster
+Soldier Caladbolg Van Helsing                                 1  On  Paladin
+Oathsworn Vithincus Shu'in-Crescent                           1  On  Paladin
+Varamoure, of Targossas                                       1  On  Runewarden
+Oathsworn Arkhuro                                             1  On  Alchemist
+Apostle Daeir Wintermourne, Voice of the Fallen               2  On  Serpent
+Oathsworn Kran                                                1  On  Paladin
+Extrum Wintermourne                                           1  On  Jester
+6655h, 4746m, 27737e, 10732w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4746m, 27737e, 10732w exdb-
+Your pipe has gone cold and dark.
+6655h, 4746m, 27737e, 10732w exdb-
+Your pipe has gone cold and dark.
+6655h, 4746m, 27737e, 10732w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4746m, 27737e, 10732w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4746m, 27737e, 10732w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4746m, 27737e, 10732w exdb-
+You cannot see the membership of any such clan.
+6655h, 4769m, 27777e, 10747w exdb-
+(Argent Ward): You say, "Noice, got a classlead approved."
+6655h, 4769m, 27817e, 10763w exdb-
+(Argent Ward): Daeir says, "It's only first round atm."
+6655h, 4754m, 27897e, 10793w exdb-
+(Argent Ward): You say, "Yeah."
+6655h, 4734m, 27957e, 10814w exdb-
+(Argent Ward): You say, "Its my first time to submit classleads."
+6655h, 4752m, 28037e, 10844w exdb-
+(Argent Ward): You say, "My little baby classlead."
+6655h, 4732m, 28057e, 10850w exdb-
+That is not the numeric ID of a valid classlead report.
+6655h, 4745m, 28097e, 10863w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+  6 A Madelyne        Milk            When gathering, adventurers get way more
+ 14 A Nemutaur        Soul walking    Right now you can walk without getting t
+ 17 A Dunn            Hierophant      When you fling a hierophant at someone y
+ 20 A Dunn            Slime           Similar to classleads 17 and 18. There i
+ 23 A Dunn            Dragoncurse     Dragoncurse (the targeted, single aff ki
+ 34 A Caladbolg       Everything      Using devotion when it isn't possible to
+ 36 A Terra           Hailstorm       Currently, when you try to use Hailstorm
+ 69 A Antonius        Vardrax         The addiction affliction is trivially co
+ 75 A Antonius        Razeslash       Now that venoms can be specified as part
+ 78 A Nemutaur        Hypnotise       If you have Inept Hypnosis it takes so m
+ 87 A Aluciana        Summoning       As of now the equilibrium balance on a S
+ 94 A Tesha           Smite           Priests are terrible at hunting unless t
+ 97 A Tesha           Emperor         Flinging emperor at someone makes them f
+102 A Bonko           Hide            At the moment it's possible to bypass th
+107 A Dunn            Disarming       While someone is disarming a tank (city
+112 A Daeir           Clouded glass l While granting a very useful effect, the
+115 A Jovolo          Pinshot         Pinshot was a good move in the direction
+117 A Nieelensars     Robes           Currently, if Alchemists robes are near
+130 A Lilian          Minuet          Minuet is one a bard's biggest offensive
+136 A Alrena          Reflection      Incinerate, an instant-kill and importan
+140 A Josoul          Readaura        readaura's last line shows the affs a ta
+152 A Jovolo          All             The mana cost of Curses both blighted an
+172 A Rangor          Wormholes       This ability is highly abusable when it
+173 A Aegoth          Plague          With the changes to decay rate in crysta
+180 A Extrum          Mickey          Moss/Potash are consumed passively for t
+204 A Jovolo          Cripple         Vodun Cripple doesn't prone people if th
+219 A Jovolo          Pound           Druids have two ways to secure a kill as
+222 A Rip             Warp observatio I have always thought peering through a
+[Type MORE if you wish to continue reading. (63% shown)]
+6655h, 4768m, 28137e, 10883w exdb-
+[File continued via MORE]
+224 A Rip             Scan            Scan is one of the very first tracking a
+231 A Aelios          Disembowel      As it stands, anyone can completely nega
+232 A Anedhel         Runeblades      Currently, runeblades do not work with t
+234 A Shecks          Scytherus       Scytherus (relapsing) is instantly recog
+250 A Herose          Deathsight_hist DEATHSIGHT HISTORY is great but it can g
+264 A Davio           Tarotlink       Between aeon, tower tarot, ignoring elev
+265 A Hirst           Refuge          Refuge can be used as a nigh unstoppable
+268 A Daeir           Witness         Witness currently has a large balance co
+269 A Leviticus       Sandling        The ability can be used while on the gro
+274 A Leviticus       Lock            Mind lock in combat today can take up a
+297 A Josoul          Balance         Lately there's been a trend to make Acha
+300 A Tirac           Transverse      Transverse is useless. Necromancy has no
+302 A Tirac           Gravehands      Duration is prohibitively short out-of-r
+303 A Tirac           Blackwind       Blackwind now has a wind-up similar to p
+315 A Santar          Appraise        During theft, the person pickpocketing h
+325 A Nemutaur        Limb prep decay Currently all limb prep dissapears after
+-------------------------------------------------------------------------------
+6655h, 4749m, 28137e, 10878w exdb-
+Report #14
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Approved                 Priority : 8
+Skill       : Miscellaneous  Ability     : Soul walking
+-------------------------------------------------------------------------------
+Problem:
+Right now you can walk without getting the 'Now now, don't be so hasty!' as a soul and walk from one end of the continent to the other pretty much instantly.
+-------------------------------------------------------------------------------
+Solution #1:
+Implement the same walking speed restrictions as when you are alive.
+Solution #2:
+Allow Mhun or slightly quicker movement as a soul, but still have a limit so that you can hit the 'Now now, don't be so hasty!' limit.
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+We'll investigate, this is likely a bug.
+-------------------------------------------------------------------------------
+
+6655h, 4768m, 28197e, 10892w exdb-
+Report #17
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Approved                 Priority : 6
+Skill       : Tarot          Ability     : Hierophant
+-------------------------------------------------------------------------------
+Problem:
+When you fling a hierophant at someone you have x seconds to command them to do something. When you command them to do something, there is no message indicating that it was you that commanded it. There is also no message for when the ability to command via hierophant is gone due to time
+-------------------------------------------------------------------------------
+Solution #1:
+Add a message for when you force someone via Hierophant much like every other force ability has.
+Solution #2:
+Add a message for when the window to command someone in via Hierophant has closed.
+Solution #3:
+Both solution 1 and 2
+-------------------------------------------------------------------------------
+Decision:
+Definitely solution 1, possibly solution 3.
+-------------------------------------------------------------------------------
+
+6655h, 4755m, 28257e, 10928w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4770m, 28337e, 10957w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 28337e, 10957w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 28337e, 10957w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 28337e, 10957w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 28337e, 10957w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 28337e, 10957w exdb-
+Report #20
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Approved                 Priority : 3
+Skill       : Domination     Ability     : Slime
+-------------------------------------------------------------------------------
+Problem:
+Similar to classleads 17 and 18. There is no message for when your target is no longer slimed after the sixty second period of effect.
+-------------------------------------------------------------------------------
+Solution #1:
+Add a third person message for when slime fades from someone
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Sure, oversight.
+-------------------------------------------------------------------------------
+
+6655h, 4752m, 28357e, 10952w exdb-
+Report #23
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Approved                 Priority : 4
+Skill       : Dragoncraft    Ability     : Dragoncurse
+-------------------------------------------------------------------------------
+Problem:
+Dragoncurse (the targeted, single aff kind) costs a ton of mana. Any dragon sustaining an offense depletes their willpower very rapidly during any fight.
+-------------------------------------------------------------------------------
+Solution #1:
+Reduce the willpower cost of single afflicting dragoncurses
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Approved for investigation, but it won't be super low.
+-------------------------------------------------------------------------------
+
+6655h, 4767m, 28397e, 10978w exdb-
+Report #69
+-------------------------------------------------------------------------------
+Submitted by: Antonius       Status      : Approved                 Priority : 6
+Skill       : Venom          Ability     : Vardrax
+-------------------------------------------------------------------------------
+Problem:
+The addiction affliction is trivially countered against certain classes by keeping both herbs and minerals in your inventory.
+-------------------------------------------------------------------------------
+Solution #1:
+Change addiction to eat both the herb and mineral equivalents at the same time. So, if a target eats bloodroot they'll also consume any magnesium in their inventory.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Was a design choice to see how things would pan out, no longer necessary.
+-------------------------------------------------------------------------------
+
+6655h, 4746m, 28517e, 11021w exdb-
+Report #94
+-------------------------------------------------------------------------------
+Submitted by: Tesha          Status      : Approved                 Priority : 6
+Skill       : Spirituality   Ability     : Smite
+-------------------------------------------------------------------------------
+Problem:
+Priests are terrible at hunting unless they specifically build their traits (nimble as opposed to quickwitted), race specialisation, and artifact purchases around hunting - after which they become moderately decent as opposed to amazing like many other classes. A good comparison would be intelligence monks - they can build for intelligence, but even bash monk bashing damage is amazing, so they don't suffer too much. This is especially noticable at lower levels when a lack of criticals makes base damage all the more important.
+-------------------------------------------------------------------------------
+Solution #1:
+Increase the base damage of smite and slightly decrease scaling with strength. Ideally, this would be a sizable increase, but leave the scaling at least a little attractive to encourage artifact purchases.
+Solution #2:
+Allow Priests to use spiritlash as a hunting attack, roughly half the damage of smite and scaling off of constitution. Additionally, make spiritlash lower in healing, so that it is more accessible for newbies.
+Solution #3:
+Allow Priests to use devotion purity for bashing (with no devotion cost when used on denizens), at a higher base damage than smite currently is.
+-------------------------------------------------------------------------------
+Decision:
+Will investigate.
+-------------------------------------------------------------------------------
+
+6655h, 4768m, 28637e, 11064w exdb-
+Report #97
+-------------------------------------------------------------------------------
+Submitted by: Tesha          Status      : Approved                 Priority : 2
+Skill       : Tarot          Ability     : Emperor
+-------------------------------------------------------------------------------
+Problem:
+Flinging emperor at someone makes them follow you without using their balance, allowing you to then be instantly summoned with empress to another location - even to a defendable totem. This is exceptionally strong, and can even be used against the leader of a group to decimate the entire group. The biggest counter is to unfollow, but then it's a ping battle between announcing emperor and unfollowing.
+-------------------------------------------------------------------------------
+Solution #1:
+Make emperor follow use balance, preferably a little longer than .4s - the current balance for following.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+We'll add a 2 second balance cost to mushrooming items, to give room for counterplay.
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 28677e, 11080w exdb-
+Report #107
+-------------------------------------------------------------------------------
+Submitted by: Dunn           Status      : Approved                 Priority : -1
+Skill       : Miscellaneous  Ability     : Disarming
+-------------------------------------------------------------------------------
+Problem:
+While someone is disarming a tank (city destruction tanks), they can receive multiple reflections and shields. While I understand that the system is supposed to favor the defenders, this can be a bit much.
+-------------------------------------------------------------------------------
+Solution #1:
+Make disarming analogous to an in-progress behead: You cannot receive a shield, rebounding or reflections
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+We'll investigate solutions to this, alongside similar mechanics.
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 28797e, 11131w exdb-
+Report #152
+-------------------------------------------------------------------------------
+Submitted by: Jovolo         Status      : Approved                 Priority : 3
+Skill       : Curses         Ability     : All
+-------------------------------------------------------------------------------
+Problem:
+The mana cost of Curses both blighted and unblighted is excessively high, up to 290 per curse. Considering the mana cost of deadeyes was reduced due to it being critical to their offense, it feels like Curses' high mana cost may have been an oversight.
+-------------------------------------------------------------------------------
+Solution #1:
+Decrease the mana cost of Curses to a standardised 50 per regular curse and 100 per blighted curse.
+Solution #2:
+The same as solution 1 but reevaluate the new costs of regular and blighted curses.
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Approved for investigation.
+-------------------------------------------------------------------------------
+
+6655h, 4751m, 28937e, 11170w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4751m, 28937e, 11182w exdb-
+Your pipe has gone cold and dark.
+6655h, 4751m, 28937e, 11182w exdb-
+Your pipe has gone cold and dark.
+6655h, 4751m, 28937e, 11182w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 28937e, 11182w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 28937e, 11182w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 28937e, 11182w exdb-
+Elode, an Arcadian maiden says, "I would not be alive today if not for the help of Mosr. I owe him my life."
+6655h, 4750m, 29037e, 11218w exdb-
+Report #231
+-------------------------------------------------------------------------------
+Submitted by: Aelios         Status      : Approved                 Priority : 6
+Skill       : Chivalry       Ability     : Disembowel
+-------------------------------------------------------------------------------
+Problem:
+As it stands, anyone can completely negate the torso damage modifier of a disembowel with a simple tumble. Once the prep work for a disembowel is in place, if someone tumbles on a leg break - or at all - before the in room Disembowel is complete, the tumble-forced disembowel will not take into account torso damage modifiers. This is a problem because, with a decent amount of health, you can guarantee not ever dying to a disembowel (broken torso or not) by simply tumbling. Any and all work put in to break the torso is 100% negated at this point, and the three knight classes (Infernal, Runewarden, Paladin) have zero counters for it. Out of those three classes, Runewarden must solely rely on Disembowel as a kill method, as there are zero alternatives, making killing anyone with sizable health or above quite an almost impossible feat.
+-------------------------------------------------------------------------------
+Solution #1:
+Tumble / Impale disembowels take into account torso damage, and would work the same as an in-room disembowel.
+Solution #2:
+Add an additional limb's balance cost to tumble if impaled.
+Solution #3:
+Increase the base damage of a Disembowel, allowing a better "chance" to kill your target if they've got high health and tumble.
+-------------------------------------------------------------------------------
+Decision:
+None of the solutions, but we'll do some brainstorming.
+-------------------------------------------------------------------------------
+
+6655h, 4767m, 29057e, 11213w exdb-
+Report #204
+-------------------------------------------------------------------------------
+Submitted by: Jovolo         Status      : Approved                 Priority : 5
+Skill       : Vodun          Ability     : Cripple
+-------------------------------------------------------------------------------
+Problem:
+Vodun Cripple doesn't prone people if they are mounted, which seems like an oversight. Cripple forcing prone isn't significantly overpowered enough (at all) for mounting to provide a defense against it.
+-------------------------------------------------------------------------------
+Solution #1:
+Make Cripple also prone people if they are mounted.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+No issues with this.
+-------------------------------------------------------------------------------
+
+6655h, 4768m, 29117e, 11247w exdb-
+Report #234
+-------------------------------------------------------------------------------
+Submitted by: Shecks         Status      : Approved
+Skill       : Venom          Ability     : Scytherus
+-------------------------------------------------------------------------------
+Problem:
+Scytherus (relapsing) is instantly recognized by server-side curing, despite having an intentionally unspecific affliction line against those using server curing.  This significantly decreases the usability of the venom, and doesn't appear to be intended in the implementation of server curing.  Combined with the fact that flay/scytherus illusions are no longer an option, bite venoms are almost entirely unusable against those using server curing.
+-------------------------------------------------------------------------------
+Solution #1:
+Require relapsing (and the other "blood afflictions that have the same vague affliction line) to be diagnosed or caught via symptoms (like Loki currently works).
+Solution #2:
+In addition to solution 1, remove sileris.
+Solution #3:
+In addition to solution 1, create hard-coded illusions (such as flay) that are recognized by server queueing as "real", until otherwise diagnosed.
+-------------------------------------------------------------------------------
+Decision:
+Approved for investigation alongside further serpent adjustments.
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 29257e, 11287w exdb-
+Report #265
+-------------------------------------------------------------------------------
+Submitted by: Hirst          Status      : Approved
+Skill       : Spirituality   Ability     : Refuge
+-------------------------------------------------------------------------------
+Problem:
+Refuge can be used as a nigh unstoppable way to avoid combat or escape, allowing the user to continue to heal both health and afflictions without stopping it. There is also no 3rd-party message to tell attackers that the person is refuging. This also applies to Apostaty refuge as well
+-------------------------------------------------------------------------------
+Solution #1:
+Make any action, curing or sipping, stop refuge.
+Solution #2:
+Show a 3rd party message so actions can be forced or attempts made to stop the refuge
+Solution #3:
+Do both solutions 1 & 2
+-------------------------------------------------------------------------------
+Decision:
+Solution 2, it'll not be interruptable though.
+-------------------------------------------------------------------------------
+
+6655h, 4754m, 29377e, 11343w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4767m, 29517e, 11397w exdb-
+Your pipe has gone cold and dark.
+6655h, 4767m, 29517e, 11397w exdb-
+Your pipe has gone cold and dark.
+6655h, 4767m, 29517e, 11397w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 29517e, 11397w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 29517e, 11397w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4767m, 29517e, 11397w exdb-
+Report #297
+-------------------------------------------------------------------------------
+Submitted by: Josoul         Status      : Approved                 Priority : 3
+Skill       : Domination     Ability     : Balance
+-------------------------------------------------------------------------------
+Problem:
+Lately there's been a trend to make Achaea more friendly to high latency non-Americans with the server-side queue and curing. The last thing left we keep doing slow and are "punished" by our latency is class balance attacks/commands (domination entities, etc). I think/it looks like the framework is there to fix this and class balance is already used/tracked in custom prompts. It is very frustrating when the target heals a prerequisite affliction for a key entity (cadmus, hecate) in the window between me/non-American sending the entity command and the command going through. This window is near half second and is more than enough to give time to faster latencies/server-side curing to mess offensive momentum during it often.
+-------------------------------------------------------------------------------
+Solution #1:
+Add "class" as a balance variable in the existing queue commands and implement a new/extra queue list for class specific balance commands. Size of this class queue is enough to be one (so a single string of info, I guess), or two if you want to take into account the rare occasions of orb(Actar)+another entity or priest self heal deaf/blind that is balanceless(?) + another heal balance command. Queue commands would look like: QUEUE ADD <BAL|EQ|CLASS> <COMMAND> (and maybe also QUEUE REPLACE <BAL|EQ|CLASS> <INDEX> <COMMAND>). The ADD command would check if we have class balance (entity balance for Occultists, etc), if yes, it would fire the command right away, if off entity bal it would fire it server-side imediatelly on ent bal regain.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+This is fine.
+-------------------------------------------------------------------------------
+
+6655h, 4769m, 29657e, 11448w exdb-
+Report #264
+-------------------------------------------------------------------------------
+Submitted by: Davio          Status      : Approved                 Priority : 2
+Skill       : Domination     Ability     : Tarotlink
+-------------------------------------------------------------------------------
+Problem:
+Between aeon, tower tarot, ignoring elevation, and bypassing walls, dopplegangers still remain a little too powerful in Line of Sight combat. With tower specifically, they are able to simultaneously prevent ranged targets from leaving a specified room, as well as create a line of rubble to slow down potential melee rushes. There is no counter to it, they can do it with very little risk to themselves, and one tower can block every exit in a specific room, for five consecutive rooms into an area, providing too much control and preventing any desire to deal with it.
+-------------------------------------------------------------------------------
+Solution #1:
+Add an ability, perhaps in survival, that allows someone to clear rubble with a significant balance cost associated with it.
+Solution #2:
+Significantly reduce the duration of rubble from tower tarot when thrown by a doppleganger
+Solution #3:
+Completely remove tower as a card available through tarotlink
+-------------------------------------------------------------------------------
+Decision:
+Solution 1 approved for investigation/discussion.
+-------------------------------------------------------------------------------
+
+6655h, 4764m, 29717e, 11470w exdb-
+(Market): Datrius says, "Crowns, crowns baby, buying at 30 per."
+6655h, 4750m, 29797e, 11505w exdb-
+Report #300
+-------------------------------------------------------------------------------
+Submitted by: Tirac          Status      : Approved                 Priority : 1
+Skill       : Necromancy     Ability     : Transverse
+-------------------------------------------------------------------------------
+Problem:
+Transverse is useless. Necromancy has no travel and no escape abilities comparable to other classes.
+-------------------------------------------------------------------------------
+Solution #1:
+Make transverse a copy of deliver/lust.
+Solution #2:
+Make transverse instantaneous, reduce essence cost.
+Solution #3:
+Delete it.
+-------------------------------------------------------------------------------
+Decision:
+We'll reevaluate the channel time. I doubt we'll outright remove it, but we'll see!
+-------------------------------------------------------------------------------
+
+6655h, 4768m, 29817e, 11508w exdb-
+Report #302
+-------------------------------------------------------------------------------
+Submitted by: Tirac          Status      : Approved
+Skill       : Necromancy     Ability     : Gravehands
+-------------------------------------------------------------------------------
+Problem:
+Duration is prohibitively short out-of-room for its cost. Already has significant disadvantage in the existence of dirge and visibility in LoS versus the analogue of rites.
+-------------------------------------------------------------------------------
+Solution #1:
+Return duration to normal for gravehands in adjacent rooms as well as in-room.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+We'll either reevaluate gravehands essence cost or do something along these lines.
+-------------------------------------------------------------------------------
+
+6655h, 4784m, 29917e, 11548w exdb-
+Report #303
+-------------------------------------------------------------------------------
+Submitted by: Tirac          Status      : Approved                 Priority : 5
+Skill       : Necromancy     Ability     : Blackwind
+-------------------------------------------------------------------------------
+Problem:
+Blackwind now has a wind-up similar to phase, and is mostly useful for infiltration rather than escape. However, it still has the same massive willpower drain that it used to.
+-------------------------------------------------------------------------------
+Solution #1:
+Lower blackwind willpower drain to be on-par with phase.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Not this solution, but we'll standardise blackwind and astralform wp drain. Whether that involves raising astralform or reducing blackwind we'll discuss.
+-------------------------------------------------------------------------------
+
+6655h, 4753m, 29977e, 11567w exdb-
+Report #315
+-------------------------------------------------------------------------------
+Submitted by: Santar         Status      : Approved                 Priority : 1
+Skill       : Subterfuge     Ability     : Appraise
+-------------------------------------------------------------------------------
+Problem:
+During theft, the person pickpocketing has to consider various things such as selfishness before attempting it, but it's impossible to know if someone has selfishness before beginning to steal from them.
+-------------------------------------------------------------------------------
+Solution #1:
+Appraise will state whether or not someone is using the selfishness defense.
+Solution #2:
+Solution #3:
+-------------------------------------------------------------------------------
+Decision:
+Tentatively approved, for serpent appraise only.
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30077e, 11609w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30117e, 11619w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30117e, 11619w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30117e, 11619w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30117e, 11619w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30117e, 11619w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30117e, 11619w exdb-
+Report #325
+-------------------------------------------------------------------------------
+Submitted by: Nemutaur       Status      : Approved                 Priority : 1
+Skill       : Miscellaneous  Ability     : Limb prep decay
+-------------------------------------------------------------------------------
+Problem:
+Currently all limb prep dissapears after 5 minutes of not hitting that limb on an opponent. This is still too long and allows limb prep classes to play much too defensively or even run away and know that their offense hasn't been lost at all.
+-------------------------------------------------------------------------------
+Solution #1:
+Reduce the time of limb prep decay to 2 minutes.
+Solution #2:
+If the limb prepper runs and stays out of the room for longer than 45 (or whatever number) of seconds all limb prep dissapears.
+Solution #3:
+All limb prep slowly decays over time, on a 20 second tick, regardless of whether that limb has been hit or not.
+-------------------------------------------------------------------------------
+Decision:
+Approved for the future, pending any adjustments to knights. Not viable until then.
+-------------------------------------------------------------------------------
+
+6655h, 4752m, 30137e, 11626w exdb-
+That is not the numeric ID of a valid classlead report.
+6655h, 4751m, 30257e, 11675w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+ 39 S Jovolo          New             With fashioning being so critical to a J
+194 S Kaie            Fashion         The recent illusion change brought an en
+196 S Kaie            Burn            Puppet Burn is basically a useless skill
+205 R Jovolo          Cripple         Puppetry Cripple doesn't prone people if
+279 S Extrum          New             Hocuspocus illusions where used efficien
+281 S Extrum          New             Even with the advantage of juggled axes,
+-------------------------------------------------------------------------------
+6655h, 4770m, 30277e, 11683w exdb-
+Report #279
+-------------------------------------------------------------------------------
+Submitted by: Extrum         Status      : Submitted
+Skill       : Puppetry       Ability     : New
+-------------------------------------------------------------------------------
+Problem:
+Hocuspocus illusions where used efficiently to throw off salve balance for jesters. With this loss, replicating with actual salve attacks can lead to a heavy loss in fashions.
+-------------------------------------------------------------------------------
+Solution #1:
+Lower required fashions (not necessarily used fashions, unless needed) for all salve based skills for earlier use.
+Solution #2:
+Lower required fashions for cripple
+Solution #3:
+Lower required fashions for mangle or concussion
+-------------------------------------------------------------------------------
+
+6655h, 4750m, 30297e, 11689w exdb-
+Report #281
+-------------------------------------------------------------------------------
+Submitted by: Extrum         Status      : Submitted
+Skill       : Puppetry       Ability     : New
+-------------------------------------------------------------------------------
+Problem:
+Even with the advantage of juggled axes, curing has caught up to handling aeon and removed some of the kill potential of jester.
+-------------------------------------------------------------------------------
+Solution #1:
+Add more skills to the list of puppetry/vodun that are hidden out of room. In particular slow and strip.
+Solution #2:
+After reaching a certain threshold of fashions (40? Not sure of the number), all reasonable puppet skills become invisible if used out of room.
+Solution #3:
+Allow to specify which skills you would like to hide at use time, with a heavier fashion use (puppet slow masked or something)
+-------------------------------------------------------------------------------
+
+6655h, 4731m, 30417e, 11730w exdb-
+(Targossas): Kran says, "Where in Targossas would I purchase epidermal salve?"
+6655h, 4767m, 30477e, 11751w exdb-
+(Argent Ward): Mithridates says, "Halos."
+6655h, 4750m, 30497e, 11758w exdb-
+(Argent Ward): Mithridates says, "How do you light braziers."
+6655h, 4735m, 30517e, 11766w exdb-
+(Argent Ward): You say, "With a match."
+6655h, 4752m, 30557e, 11782w exdb-
+(Argent Ward): Halos says, "^."
+6655h, 4734m, 30577e, 11789w exdb-
+(Argent Ward): You say, "Just dont burn her tits."
+6655h, 4769m, 30595e, 11797w exdb-
+(Argent Ward): Mithridates says, "Do i need wood."
+6655h, 4784m, 30595e, 11805w exdb-
+(Argent Ward): Halos says, "What brazier."
+6655h, 4765m, 30595e, 11812w exdb-
+(Argent Ward): Halos says, "Are you talking about."
+6655h, 4765m, 30595e, 11824w exdb-
+(Argent Ward): You say, "I always have wood when I burn bras off."
+6655h, 4768m, 30595e, 11834w exdb-
+(Argent Ward): Mithridates says, "The ones I got at hutchings."
+6655h, 4768m, 30595e, 11834w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4750m, 30595e, 11841w exdb-
+Your pipe has gone cold and dark.
+6655h, 4750m, 30595e, 11841w exdb-
+Your pipe has gone cold and dark.
+6655h, 4750m, 30595e, 11841w exdb-
+(Newbie): Orangehoodie says, "Is there a way to appeal against renaming my character?"
+6655h, 4750m, 30595e, 11841w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 11841w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 11841w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 11841w exdb-
+(Argent Ward): Halos says, "Put incense in them?"
+6655h, 4770m, 30595e, 11849w exdb-
+(Argent Ward): You say, "Ill put something in them, alright."
+6655h, 4736m, 30595e, 11863w exdb-
+(Argent Ward): Halos says, "They're basically furniture."
+6655h, 4767m, 30595e, 11870w exdb-
+(Argent Ward): Mithridates says, "Can i make them have more fire."
+6655h, 4749m, 30595e, 11877w exdb-
+(Argent Ward): You say, "The women?"
+6655h, 4749m, 30595e, 11877w exdb-
+(Argent Ward): Halos says, "Careful, if you drop it, you can't pick it back up."
+6655h, 4749m, 30595e, 11877w exdb-
+(Argent Ward): You say, "Thats mean."
+6655h, 4784m, 30595e, 11877w exdb-
+(Argent Ward): Mithridates says, "Enough to burn myself."
+6655h, 4750m, 30595e, 11891w exdb-
+(Argent Ward): Mithridates says, "Like."
+6655h, 4750m, 30595e, 11891w exdb-
+(Argent Ward): Halos says, "It's there permanently until it decays."
+6655h, 4784m, 30595e, 11897w exdb-
+(Argent Ward): Mithridates says, "Or just emote it then."
+6655h, 4784m, 30595e, 11897w exdb-
+(Argent Ward): You say, "Masochists."
+6655h, 4745m, 30595e, 11946w exdb-
+(Newbie): Romeo says, "I'm afraid not."
+6655h, 4766m, 30595e, 12046w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 30595e, 12058w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 12058w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 12058w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 12058w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 12058w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 12058w exdb-
+(Newbie): Romeo says, "When it's been determined a name needs to be changed, it does."
+6655h, 4748m, 30595e, 12080w exdb-
+(Argent Ward): Mithridates says, "How do i."
+6655h, 4766m, 30595e, 12115w exdb-
+(Argent Ward): Mithridates says, "Uh."
+6655h, 4766m, 30595e, 12115w exdb-
+(Argent Ward): Mithridates says, "How do i use this thurible."
+6655h, 4767m, 30595e, 12129w exdb-
+(Newbie): Orangehoodie says, "How so? OrangeHoodie is a title, and I would prefer to be referred to as such. There is no need to place my account in stasis."
+6655h, 4751m, 30595e, 12146w exdb-
+(Argent Ward): Daeir says, "Insert it into your rectum and twist."
+6655h, 4748m, 30595e, 12160w exdb-
+(Argent Ward): Mithridates says, "Srsly daeir."
+6655h, 4784m, 30595e, 12179w exdb-
+(Argent Ward): Mithridates says, "Ok."
+6655h, 4770m, 30595e, 12175w exdb-
+(Argent Ward): Mithridates says, "Do you just emote everything in rituals."
+6655h, 4766m, 30595e, 12228w exdb-
+(Newbie): Orangehoodie says, "In addition to this, if the problem is the way in which my name is spelled, there is not an option for a space in the name."
+6655h, 4766m, 30595e, 12240w exdb-
+(Newbie): Romeo says, "Your name breaks many rules. It's modern, a title is not a name, it's a title, it's a thing."
+6655h, 4766m, 30595e, 12240w exdb-
+(Argent Ward): Mithridates says, "Idk how to do this."
+6655h, 4766m, 30595e, 12240w exdb-
+(Argent Ward): Daeir says, "Twist it."
+6655h, 4752m, 30595e, 12248w exdb-
+(Argent Ward): Daeir says, "Twist the thurible."
+6655h, 4784m, 30595e, 12255w exdb-
+(Argent Ward): Halos says, "What is he twisting."
+6655h, 4753m, 30595e, 12270w exdb-
+(Argent Ward): Halos says, "Why."
+6655h, 4784m, 30595e, 12270w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4770m, 30595e, 12266w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 12266w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 12266w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 12266w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 12266w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 12266w exdb-
+(Argent Ward): Mithridates says, "God."
+6655h, 4753m, 30595e, 12285w exdb-
+(Argent Ward): Mithridates says, "U gaiz suck."
+6655h, 4753m, 30595e, 12285w exdb-
+Elode, an Arcadian maiden twirls about, laughing gaily.
+Elode, an Arcadian maiden exclaims, "Oh, I love Fak'trar so much!"
+6655h, 4784m, 30595e, 12306w exdb-
+(Argent Ward): Halos says, "Is that a thing?"
+6655h, 4766m, 30595e, 12313w exdb-
+(Argent Ward): Halos says, "I think daeir is fucking with u, otherwise."
+6655h, 4784m, 30595e, 12327w exdb-
+(Argent Ward): Mithridates says, "Yeah."
+6655h, 4784m, 30595e, 12339w exdb-
+(Argent Ward): Mithridates says, "He is."
+6655h, 4767m, 30595e, 12334w exdb-
+(Argent Ward): Halos says, "Push the shit out of it."
+6655h, 4767m, 30595e, 12334w exdb-
+(Argent Ward): Mithridates says, "That bastard."
+6655h, 4767m, 30595e, 12334w exdb-
+(Argent Ward): Mithridates says, "Omg."
+6655h, 4769m, 30595e, 12350w exdb-
+(Argent Ward): You say, "Pull it."
+6655h, 4769m, 30595e, 12350w exdb-
+(Argent Ward): Halos says, "Do you not know the basic commands to interact with shit in achaea."
+6655h, 4784m, 30595e, 12365w exdb-
+(Argent Ward): Mithridates says, "Nope."
+6655h, 4784m, 30595e, 12365w exdb-
+(Argent Ward): You say, "Wait."
+6655h, 4784m, 30595e, 12377w exdb-
+(Argent Ward): You say, "Say "quest" to it."
+6655h, 4750m, 30595e, 12379w exdb-
+(Argent Ward): Halos says, "Lol."
+6655h, 4784m, 30595e, 12391w exdb-
+(Argent Ward): Mithridates says, "Nope."
+6655h, 4770m, 30595e, 12399w exdb-
+(Argent Ward): Mithridates says, "Doesn't work."
+6655h, 4752m, 30595e, 12394w exdb-
+(Argent Ward): Halos says, "What is it."
+6655h, 4752m, 30595e, 12406w exdb-
+(Argent Ward): Halos says, "I should ask."
+6655h, 4784m, 30595e, 12401w exdb-
+(Argent Ward): Mithridates says, "A thurible."
+6655h, 4768m, 30595e, 12408w exdb-
+(Argent Ward): You say, "Oh oh oh."
+6655h, 4750m, 30595e, 12415w exdb-
+(Argent Ward): You say, "Wield it, and "summon Silas"."
+6655h, 4770m, 30595e, 12423w exdb-
+(Argent Ward): Mithridates says, "Nope."
+6655h, 4733m, 30595e, 12436w exdb-
+(Argent Ward): Halos says, "Push/swing/pull."
+6655h, 4784m, 30595e, 12448w exdb-
+(Argent Ward): You say, "Damn."
+6655h, 4764m, 30595e, 12442w exdb-
+(Argent Ward): Halos says, "Try those."
+6655h, 4764m, 30595e, 12442w exdb-
+(Argent Ward): Mithridates says, "Nope."
+6655h, 4746m, 30595e, 12449w exdb-
+(Argent Ward): Mithridates says, "Oh well."
+6655h, 4770m, 30595e, 12457w exdb-
+(Argent Ward): Mithridates says, "Will emote it."
+6655h, 4770m, 30595e, 12469w exdb-
+(Argent Ward): Halos says, "Give it to me."
+6655h, 4736m, 30595e, 12472w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4752m, 30595e, 12487w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 12487w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 12487w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 12487w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 12487w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 12487w exdb-
+(Argent Ward): Halos says, "Let me finger it out."
+6655h, 4752m, 30595e, 12487w exdb-
+(Argent Ward): Mithridates says, "Where the fuck are you."
+6655h, 4766m, 30595e, 12494w exdb-
+(Argent Ward): Mithridates says, "I'm gonna get a veil just to find you."
+6655h, 4748m, 30595e, 12513w exdb-
+(Argent Ward): Daeir says, "Have you lit the thurible first."
+6655h, 4730m, 30595e, 12508w exdb-
+(Argent Ward): You say, "Try turning it off then back on."
+6655h, 4749m, 30595e, 12550w exdb-
+(Argent Ward): You say, "Hard reset."
+6655h, 4730m, 30595e, 12545w exdb-
+(Argent Ward): Halos says, "Lol."
+6655h, 4767m, 30595e, 12552w exdb-
+(Argent Ward): Halos says, "Noob."
+6655h, 4751m, 30595e, 12632w exdb-
+(Argent Ward): Mithridates says, "What."
+6655h, 4751m, 30595e, 12644w exdb-
+(Argent Ward): Mithridates says, "How."
+6655h, 4751m, 30595e, 12644w exdb-
+(Argent Ward): Halos says, "Shake the bitch."
+6655h, 4750m, 30595e, 12666w exdb-
+(Argent Ward): Mithridates says, "Omg."
+6655h, 4769m, 30595e, 12674w exdb-
+(Argent Ward): Mithridates says, "Love u halos."
+6655h, 4749m, 30595e, 12680w exdb-
+(Argent Ward): You say, "Spank that monkey."
+6655h, 4749m, 30595e, 12680w exdb-
+(Argent Ward): Halos says, "Shake it like it owes you money."
+6655h, 4764m, 30595e, 12693w exdb-
+(Argent Ward): Mithridates says, "I did."
+6655h, 4765m, 30595e, 12707w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4765m, 30595e, 12707w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 12707w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 12707w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 12707w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 12707w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 12707w exdb-
+Elode, an Arcadian maiden says, "I would not be alive today if not for the help of Mosr. I owe him my life."
+6655h, 4768m, 30595e, 12744w exdb-
+(Argent Ward): Halos says, "HELP BASECOMMANDS."
+6655h, 4768m, 30595e, 12744w exdb-
+(Argent Ward): Halos says, "See those."
+6655h, 4753m, 30595e, 12752w exdb-
+(Argent Ward): Halos says, "Just try all those."
+6655h, 4784m, 30595e, 12760w exdb-
+(Argent Ward): Halos says, "Next time."
+6655h, 4767m, 30595e, 12767w exdb-
+(Argent Ward): You say, "Help BASEDGOD."
+6655h, 4767m, 30595e, 12767w exdb-
+(Argent Ward): Mithridates says, "I had."
+6655h, 4767m, 30595e, 12781w exdb-
+(Argent Ward): Halos says, "Basedgod."
+6655h, 4767m, 30595e, 12781w exdb-
+(Argent Ward): Halos says, "What."
+6655h, 4767m, 30595e, 12781w exdb-
+(Argent Ward): Mithridates says, "No idea that basecommands was a help scroll."
+6655h, 4727m, 30595e, 12793w exdb-
+(Argent Ward): You say, "Http://www.urbandictionary.com/define.php?term=Based%20God."
+6655h, 4784m, 30595e, 12805w exdb-
+(Newbie): Kyarain says, "Doing tasks can be a chore in any game."
+6655h, 4754m, 30595e, 12873w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30595e, 12927w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 12927w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 12927w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 12927w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 12927w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 12927w exdb-
+(Newbie): Romeo says, "You will learn a lot of things though."
+6655h, 4754m, 30595e, 12935w exdb-
+(Newbie): Romeo says, "And you don't have to do them all at once."
+6655h, 4770m, 30595e, 12951w exdb-
+(Newbie): Kyarain says, "Just getting the basics out of the way."
+6655h, 4784m, 30595e, 12992w exdb-
+(Newbie): Swaggydude says, "How to i find this buko guy."
+6655h, 4748m, 30595e, 13118w exdb-
+(Targossas): Daeir says, "Anybody have essence?"
+6655h, 4784m, 30595e, 13126w exdb-
+You tell Apostle Daeir Wintermourne, Voice of the Fallen, "I do."
+6655h, 4754m, 30595e, 13142w exdb-
+(Newbie): Myss says, "..."
+6655h, 4754m, 30595e, 13142w exdb-
+Shadows darken the edges of your vision as Daeir's words weave into your mind, "How much?"
+6655h, 4768m, 30595e, 13149w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4752m, 30595e, 13156w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 13156w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 30595e, 13156w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 13156w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 13156w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4752m, 30595e, 13156w exdb-
+You tell Apostle Daeir Wintermourne, Voice of the Fallen, "How much what."
+6655h, 4784m, 30595e, 13163w exdb-
+Daeir impassively tells you, "Essence."
+6655h, 4765m, 30595e, 13186w exdb-
+(Newbie): Romeo says, "You can WALK TO PYGMIES."
+6655h, 4746m, 30595e, 13193w exdb-
+(Targossas): Arkhuro says, "Aye, where can I meet you?"
+6655h, 4746m, 30595e, 13193w exdb-
+You tell Apostle Daeir Wintermourne, Voice of the Fallen, "I meant I had the essence of swagger."
+6655h, 4746m, 30595e, 13193w exdb-
+(Newbie): Romeo says, "That will get you close."
+6655h, 4784m, 30595e, 13201w exdb-
+(Argent Ward): You say, "#420yoloswag."
+6655h, 4767m, 30595e, 13234w exdb-
+(Argent Ward): You say, "Suck it Daeir."
+6655h, 4752m, 30595e, 13242w exdb-
+(Argent Ward): Mithridates says, "Swagswagswag."
+6655h, 4784m, 30595e, 13237w exdb-
+(Argent Ward): Mithridates says, "Swagswagswag."
+6655h, 4784m, 30595e, 13237w exdb-
+Daeir slaps you on the cheek.
+6655h, 4784m, 30595e, 13264w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+You attempt to stifle your amusement but cannot help laughing aloud.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13260w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Daeir slaps you on the cheek.
+6655h, 4769m, 30595e, 13272w exdb-
+Combat Scriptures (indoors).
+A runic totem is planted solidly in the ground. Elode stands here with a soft smile on her face. There are 5 Brighthold watchmen here. A small grey-brown rattlesnake is coiled here, rattling menacingly.  You see a sign indicating there are WARES for sale here.
+You see a single exit leading east.
+6655h, 4734m, 30595e, 13274w exdb-
+(Newbie): Assasiki says, "Swaggydude, are you a level 10."
+6655h, 4784m, 30595e, 13274w exdb-
+Nothing can be seen here by that name.
+6655h, 4784m, 30595e, 13286w exdb-
+(Argent Ward): You say, "Owned."
+6655h, 4769m, 30595e, 13282w exdb-
+Combat Scriptures (indoors).
+A runic totem is planted solidly in the ground. Elode stands here with a soft smile on her face. There are 5 Brighthold watchmen here. A small grey-brown rattlesnake is coiled here, rattling menacingly.  You see a sign indicating there are WARES for sale here.
+You see a single exit leading east.
+6655h, 4769m, 30595e, 13282w exdb-
+(Argent Ward): You say, "Man."
+6655h, 4751m, 30595e, 13315w exdb-
+(Argent Ward): You say, "I accidently coked this weekend."
+6655h, 4767m, 30595e, 13317w exdb-
+(Argent Ward): You say, "Its been a hell of a weekend."
+6655h, 4768m, 30595e, 13365w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4770m, 30595e, 13381w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 13381w exdb-
+Your pipe has gone cold and dark.
+6655h, 4770m, 30595e, 13381w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 13381w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 13381w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4770m, 30595e, 13381w exdb-
+(Argent Ward): Mithridates says, "Daeir come to me."
+6655h, 4784m, 30595e, 13396w exdb-
+(Argent Ward): You say, "Crawfish boils."
+6655h, 4769m, 30595e, 13404w exdb-
+(Argent Ward): You say, "Mmm."
+6655h, 4749m, 30595e, 13398w exdb-
+(Argent Ward): Mithridates says, "And coke."
+6655h, 4749m, 30595e, 13410w exdb-
+(Argent Ward): Mithridates says, "Crawfish and coke."
+6655h, 4766m, 30595e, 13417w exdb-
+(Argent Ward): Mithridates says, "Sounds fucking wonderful."
+6655h, 4746m, 30595e, 13411w exdb-
+(Argent Ward): You say, "It was."
+6655h, 4732m, 30595e, 13419w exdb-
+(Argent Ward): You say, "Crawfish, un poco coke, margaritas, clubs, lots of vodka red bull."
+6655h, 4767m, 30595e, 13512w exdb-
+(Newbie): Oijal says, "Whats the format for the TELL command?"
+6655h, 4751m, 30595e, 13520w exdb-
+(Argent Ward): You say, "I'm basedgod."
+6655h, 4767m, 30595e, 13527w exdb-
+(Newbie): Hrolfgar says, "TELL <person> <whatever>."
+6655h, 4784m, 30595e, 13550w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4741m, 30595e, 13589w exdb-
+Your pipe has gone cold and dark.
+6655h, 4741m, 30595e, 13589w exdb-
+Your pipe has gone cold and dark.
+6655h, 4741m, 30595e, 13589w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4741m, 30595e, 13589w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4741m, 30595e, 13589w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4741m, 30595e, 13589w exdb-
+(Newbie): Oijal says, "Thanks!"
+6655h, 4784m, 30595e, 13601w exdb-
+(Newbie): Romeo says, "You should be able to TELL person what you wish to say."
+6655h, 4745m, 30595e, 13629w exdb-
+(Argent Ward): You say, "These god damn bastards still haven't charged my CC for the computer."
+6655h, 4784m, 30595e, 13637w exdb-
+(Argent Ward): You say, "The fuck are they doing."
+6655h, 4764m, 30595e, 13643w exdb-
+(Newbie): Romeo says, "You can also configure it so you don't need the word TELL."
+6655h, 4770m, 30595e, 13659w exdb-
+Kran cheerfully enters from the east.
+6655h, 4736m, 30595e, 13673w exdb-
+Kran leaves to the east with a cheerful wave.
+6655h, 4784m, 30595e, 13685w exdb-
+(Targossas): Kran says, "Farewell Targossas."
+6655h, 4768m, 30595e, 13718w exdb-
+(Targossas): Caladbolg says, "Farewell Kran."
+6655h, 4748m, 30595e, 13724w exdb-
+Blackstone military quarter.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.  A large barracks is here providing the city's forces with rest and refuge. Looking quite cheerful, Oathsworn Kran is here. He wields a shining steel longsword in each hand.
+You see exits leading north, northeast, east, south, west, and northwest.
+6655h, 4766m, 30593e, 13743w exdb-
+Blackstone military quarter.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.  A large barracks is here providing the city's forces with rest and refuge. Looking quite cheerful, Oathsworn Kran is here. He wields a shining steel longsword in each hand.
+You see exits leading north, northeast, east, south, west, and northwest.
+6655h, 4746m, 30593e, 13737w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands. Oathsworn Ernam is here, calm and relaxed.
+You see exits leading north, west, and northwest.
+6655h, 4746m, 30591e, 13737w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands. Oathsworn Ernam is here, calm and relaxed.
+You see exits leading north, west, and northwest.
+6655h, 4746m, 30591e, 13737w exdb-
+mahmoud59621        Mahmoud, the farrier of Targossas
+pony176599          a sleek pony
+bow-maiden208340    a Riverwall bow-maiden
+totem357865         a runic totem
+defender432106      a Shornwall defender
+mistweaver454339    a Naxian mistweaver
+brawler454379       a Duskmere brawler
+swordsman455215     a Blackstone swordsman
+box91188            a lottery box
+gargoyle177760      a stone gargoyle
+rhinoceros334845    an armoured rhinoceros
+pegasus257836       an alabaster pegasus
+llama135111         a llama cria
+drake109465         a golden desert drake
+tanji77356          Tanji, an ash-grey jaguar
+pegasus365535       an alabaster pegasus
+solsci114993        a luminous ivory jaguar
+tortoise368343      a tortoise hatchling
+pegasus373713       an alabaster pegasus
+ewig215275          a large armoured war ant
+Number of objects: 20
+6655h, 4746m, 30591e, 13737w exdb-
+You see the following people here:
+Caladbolg, Ernam, Extrum
+6655h, 4746m, 30591e, 13737w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands. Oathsworn Ernam is here, calm and relaxed.
+You see exits leading north, west, and northwest.
+6655h, 4784m, 30595e, 13745w exdb-
+The radiant sun shines all about you.
+6655h, 4770m, 30595e, 13753w exdb-
+The following members of the clan of Argent Ward are in the realms:
+Soldier Caladbolg Van Helsing
+Oathsworn Vithincus Shu'in-Crescent
+Oathsworn Ernam
+Extrum Wintermourne
+6655h, 4770m, 30595e, 13753w exdb-
+(Argent Ward): You say, "Ernam."
+6655h, 4770m, 30595e, 13765w exdb-
+Caladbolg's aura of weapons rebounding disappears.
+Caladbolg thrusts his blade angrily towards Ernam, but he dodges easily out of the way.
+6655h, 4770m, 30595e, 13769w exdb-
+Caladbolg takes a long drag off his pipe.
+6655h, 4770m, 30595e, 13769w exdb-
+Ernam calls out, "Thank you."
+6655h, 4770m, 30595e, 13781w exdb-
+Caladbolg thrusts his blade angrily towards Ernam, but he dodges easily out of the way.
+6655h, 4754m, 30595e, 13776w exdb-
+Ernam puts on a pair of eagle's wings.
+6655h, 4754m, 30595e, 13776w exdb-
+Ernam says with a quiet, Aalen accent, "Duanathar."
+Ernam is swiftly carried into the skies and out of sight by a pair of eagle's wings.
+6655h, 4754m, 30595e, 13776w exdb-
+(Argent Ward): You say, "I beat you 1v1 and you didn't say my name."
+6655h, 4754m, 30595e, 13788w exdb-
+(Argent Ward): You say, "Wtf."
+6655h, 4734m, 30595e, 13782w exdb-
+You suddenly perceive the vague outline of an aura of rebounding around Caladbolg.
+6655h, 4784m, 30595e, 13782w exdb-
+(Argent Ward): You say, "Bro."
+6655h, 4784m, 30595e, 13782w exdb-
+A great weight seems to have been lifted from Caladbolg.
+6655h, 4784m, 30595e, 13782w exdb-
+Caladbolg takes some salve from a vial and rubs it on his body.
+6655h, 4784m, 30595e, 13782w exdb-
+Caladbolg's aura of weapons rebounding disappears.
+6655h, 4784m, 30595e, 13794w exdb-
+Caladbolg takes a long drag off his pipe.
+6655h, 4784m, 30595e, 13794w exdb-
+(Market): Callis says, "Selling 30 vials of milk."
+6655h, 4751m, 30595e, 13797w exdb-
+You suddenly perceive the vague outline of an aura of rebounding around Caladbolg.
+6655h, 4784m, 30595e, 13809w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4755m, 30595e, 13813w exdb-
+Your pipe has gone cold and dark.
+6655h, 4755m, 30595e, 13813w exdb-
+Your pipe has gone cold and dark.
+6655h, 4755m, 30595e, 13813w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4755m, 30595e, 13813w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4755m, 30595e, 13813w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4755m, 30595e, 13813w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands.
+You see exits leading north, west, and northwest.
+6655h, 4755m, 30595e, 13825w exdb-
+A nearly invisible magical shield forms around Hanley.
+6655h, 4784m, 30595e, 13833w exdb-
+The sounds of a merry troupe of street musicians waft past you.
+6655h, 4752m, 30595e, 13836w exdb-
+Poised at the very peak of the firmament, the fiery sun casts its radiant gaze across the land.
+6655h, 4768m, 30595e, 13843w exdb-
+A tortoise hatchling turns in an unhurried circle, chasing his stubby tail with a perplexed expression.
+6655h, 4753m, 30595e, 13851w exdb-
+You shut your eyes and concentrate on Thoth, the God of Death. A moment later, you feel inextricably linked with Death itself.
+6655h, 4701m, 30595e, 13848w xdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands.
+You see exits leading north, west, and northwest.
+6655h, 4784m, 30595e, 13848w xdb-
+You have recovered equilibrium.
+6655h, 4784m, 30595e, 13860w exdb-
+You cease wielding a Shield of Absorption in your left hand.
+6655h, 4765m, 30595e, 13867w exdb-
+You begin to wield a Shield of Absorption in your left hand.
+6655h, 4765m, 30595e, 13867w exdb-
+You cease wielding a nearly perfect puppet of Mithridates in your right hand.
+6655h, 4765m, 30595e, 13867w exdb-
+You begin to wield a nearly perfect puppet of Caladbolg in your right hand.
+6655h, 4765m, 30595e, 13867w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+The puppet's eyes fly open, and its arms and legs begin to move slowly.
+6655h, 4732m, 30593e, 13857w edb-
+A living puppet of Caladbolg, its chest heaves a bit and its arms and legs move. Every detail of it is perfectly rendered, though the look in its eyes betrays no intelligence. It is a tool, not a fully living creature.
+It has 28 months of usefulness left.
+The puppet looks to have been fashioned approximately 50 times.
+It weighs about 2 pounds and 0 ounce(s).
+It bears the distinctive mark of Extrum.
+6655h, 4732m, 30593e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You must regain balance first.
+6655h, 4732m, 30595e, 13857w edb-
+You have recovered balance on all limbs.
+6655h, 4732m, 30595e, 13857w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4699m, 30593e, 13847w edb-
+You must regain balance first.
+6655h, 4699m, 30593e, 13847w edb-
+You must regain balance first.
+6655h, 4699m, 30593e, 13847w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13843w edb-
+You have recovered balance on all limbs.
+6655h, 4684m, 30593e, 13843w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4651m, 30591e, 13833w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13833w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13845w edb-
+You have recovered balance on all limbs.
+6655h, 4651m, 30595e, 13845w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4713m, 30593e, 13835w edb-
+You must regain balance first.
+6655h, 4713m, 30593e, 13835w edb-
+You must regain balance first.
+6655h, 4713m, 30593e, 13835w edb-
+You must regain balance first.
+6655h, 4713m, 30593e, 13835w edb-
+You must regain balance first.
+6655h, 4695m, 30593e, 13830w edb-
+You must regain balance first.
+6655h, 4695m, 30593e, 13830w edb-
+You must regain balance first.
+6655h, 4695m, 30593e, 13830w edb-
+You must regain balance first.
+6655h, 4695m, 30593e, 13830w edb-
+You have recovered balance on all limbs.
+6655h, 4695m, 30593e, 13830w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4662m, 30591e, 13820w edb-
+You must regain balance first.
+6655h, 4662m, 30591e, 13820w edb-
+You must regain balance first.
+6655h, 4662m, 30591e, 13820w edb-
+You must regain balance first.
+6655h, 4662m, 30591e, 13832w edb-
+You must regain balance first.
+6655h, 4662m, 30595e, 13832w edb-
+You must regain balance first.
+6655h, 4662m, 30595e, 13832w edb-
+You must regain balance first.
+6655h, 4662m, 30595e, 13832w edb-
+You must regain balance first.
+6655h, 4662m, 30595e, 13832w edb-
+You must regain balance first.
+6655h, 4662m, 30595e, 13832w edb-
+You have recovered balance on all limbs.
+6655h, 4662m, 30595e, 13832w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4629m, 30593e, 13822w edb-
+You must regain balance first.
+6655h, 4613m, 30593e, 13818w edb-
+You must regain balance first.
+6655h, 4613m, 30593e, 13818w edb-
+You must regain balance first.
+6655h, 4613m, 30593e, 13818w edb-
+You have recovered balance on all limbs.
+6655h, 4613m, 30593e, 13818w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4580m, 30591e, 13808w edb-
+What is it that you wish to drink?
+6655h, 4580m, 30591e, 13808w edb-
+You must regain balance first.
+6655h, 4580m, 30591e, 13808w edb-
+You must regain balance first.
+6655h, 4580m, 30591e, 13808w edb-
+You must regain balance first.
+6655h, 4580m, 30591e, 13808w edb-
+What is it that you wish to drink?
+6655h, 4580m, 30591e, 13820w edb-
+You must regain balance first.
+6655h, 4580m, 30591e, 13820w edb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30591e, 13820w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13820w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13820w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13820w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13820w edb-
+You have recovered balance on all limbs.
+6655h, 4784m, 30595e, 13820w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13810w edb-
+You must regain balance first.
+6655h, 4733m, 30593e, 13805w edb-
+You have recovered balance on all limbs.
+6655h, 4733m, 30593e, 13805w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13795w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13807w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13807w edb-
+You have recovered balance on all limbs.
+You may drink another health or mana elixir or tonic.
+6655h, 4784m, 30595e, 13807w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13797w edb-
+You have recovered balance on all limbs.
+6655h, 4751m, 30593e, 13797w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4718m, 30591e, 13787w edb-
+You must regain balance first.
+6655h, 4718m, 30591e, 13787w edb-
+You must regain balance first.
+6655h, 4718m, 30591e, 13787w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You must regain balance first.
+6655h, 4700m, 30591e, 13782w edb-
+You have recovered balance on all limbs.
+6655h, 4700m, 30591e, 13794w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4667m, 30589e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You must regain balance first.
+6655h, 4667m, 30595e, 13784w edb-
+You have recovered balance on all limbs.
+6655h, 4667m, 30595e, 13784w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4634m, 30593e, 13774w edb-
+You must regain balance first.
+6655h, 4634m, 30593e, 13774w edb-
+You must regain balance first.
+6655h, 4634m, 30593e, 13774w edb-
+You must regain balance first.
+6655h, 4634m, 30593e, 13774w edb-
+You must regain balance first.
+6655h, 4619m, 30593e, 13770w edb-
+You must regain balance first.
+6655h, 4619m, 30593e, 13770w edb-
+You must regain balance first.
+6655h, 4619m, 30593e, 13770w edb-
+You have recovered balance on all limbs.
+6655h, 4619m, 30593e, 13770w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4586m, 30591e, 13760w edb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30591e, 13772w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13772w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13772w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13772w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13772w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13772w edb-
+You have recovered balance on all limbs.
+6655h, 4784m, 30595e, 13772w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4751m, 30593e, 13762w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13762w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13762w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13762w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13762w edb-
+You must regain balance first.
+6655h, 4770m, 30593e, 13758w edb-
+You must regain balance first.
+6655h, 4770m, 30593e, 13758w edb-
+You must regain balance first.
+6655h, 4770m, 30593e, 13758w edb-
+You have recovered balance on all limbs.
+6655h, 4770m, 30593e, 13758w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4737m, 30591e, 13748w edb-
+You must regain balance first.
+6655h, 4737m, 30591e, 13748w edb-
+You must regain balance first.
+6655h, 4737m, 30591e, 13760w edb-
+You must regain balance first.
+6655h, 4737m, 30595e, 13760w edb-
+You may drink another health or mana elixir or tonic.
+6655h, 4737m, 30595e, 13760w edb-
+You must regain balance first.
+6655h, 4737m, 30595e, 13760w edb-
+You must regain balance first.
+6655h, 4737m, 30595e, 13760w edb-
+You must regain balance first.
+6655h, 4737m, 30595e, 13760w edb-
+You must regain balance first.
+6655h, 4737m, 30595e, 13760w edb-
+You have recovered balance on all limbs.
+6655h, 4737m, 30595e, 13760w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4704m, 30593e, 13750w edb-
+You must regain balance first.
+6655h, 4684m, 30593e, 13744w edb-
+You have recovered balance on all limbs.
+6655h, 4684m, 30593e, 13744w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4651m, 30591e, 13734w edb-
+Caladbolg takes a drink from an ebony vial.
+6655h, 4651m, 30591e, 13734w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13734w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13734w edb-
+You must regain balance first.
+6655h, 4651m, 30591e, 13734w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13746w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13746w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13746w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13746w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13746w edb-
+You have recovered balance on all limbs.
+6655h, 4651m, 30595e, 13746w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13736w edb-
+You have recovered balance on all limbs.
+6655h, 4618m, 30593e, 13736w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4585m, 30591e, 13726w edb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30591e, 13721w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13721w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13721w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13721w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13721w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13733w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13733w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13733w edb-
+The radiant sun shines all about you.
+6655h, 4784m, 30595e, 13733w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13733w edb-
+You have recovered balance on all limbs.
+6655h, 4784m, 30595e, 13733w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13723w edb-
+You have recovered balance on all limbs.
+6655h, 4751m, 30593e, 13723w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands.
+You see exits leading north, west, and northwest.
+6655h, 4751m, 30593e, 13723w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4701m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4701m, 30591e, 13708w edb-
+You may drink another health or mana elixir or tonic.
+6655h, 4701m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4701m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4701m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4701m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4701m, 30591e, 13720w edb-
+You must regain balance first.
+6655h, 4701m, 30595e, 13720w edb-
+You must regain balance first.
+6655h, 4701m, 30595e, 13720w edb-
+You must regain balance first.
+6655h, 4701m, 30595e, 13720w edb-
+You have recovered balance on all limbs.
+6655h, 4701m, 30595e, 13720w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You must regain balance first.
+6655h, 4668m, 30593e, 13710w edb-
+You have recovered balance on all limbs.
+6655h, 4668m, 30593e, 13710w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4635m, 30591e, 13700w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13696w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13696w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13696w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13696w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13696w edb-
+You must regain balance first.
+6655h, 4619m, 30591e, 13708w edb-
+You must regain balance first.
+6655h, 4619m, 30595e, 13708w edb-
+You have recovered balance on all limbs.
+6655h, 4619m, 30595e, 13708w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4586m, 30593e, 13698w edb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You must regain balance first.
+6655h, 4784m, 30593e, 13698w edb-
+You have recovered balance on all limbs.
+6655h, 4784m, 30593e, 13698w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4751m, 30591e, 13688w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13688w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13688w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13688w edb-
+You must regain balance first.
+6655h, 4769m, 30591e, 13684w edb-
+You must regain balance first.
+6655h, 4769m, 30591e, 13684w edb-
+You must regain balance first.
+6655h, 4769m, 30591e, 13684w edb-
+You must regain balance first.
+6655h, 4769m, 30591e, 13684w edb-
+You must regain balance first.
+6655h, 4769m, 30591e, 13684w edb-
+You have recovered balance on all limbs.
+6655h, 4769m, 30595e, 13696w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You may drink another health or mana elixir or tonic.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+Withdrawing his cutlass from Ernam's chest, an Ashtani corsair denounces his dying foe with a witty rejoinder.
+6655h, 4736m, 30593e, 13686w edb-
+You must regain balance first.
+6655h, 4736m, 30593e, 13686w edb-
+You have recovered balance on all limbs.
+6655h, 4736m, 30593e, 13686w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4703m, 30591e, 13676w edb-
+You must regain balance first.
+6655h, 4684m, 30591e, 13671w edb-
+You have recovered balance on all limbs.
+6655h, 4684m, 30591e, 13671w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4651m, 30589e, 13661w edb-
+You must regain balance first.
+6655h, 4651m, 30589e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You must regain balance first.
+6655h, 4651m, 30595e, 13673w edb-
+You have recovered balance on all limbs.
+6655h, 4651m, 30595e, 13673w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4618m, 30593e, 13663w edb-
+You must regain balance first.
+6655h, 4604m, 30593e, 13659w edb-
+You have recovered balance on all limbs.
+6655h, 4604m, 30593e, 13659w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4571m, 30591e, 13649w edb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30591e, 13649w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13649w edb-
+You must regain balance first.
+6655h, 4784m, 30591e, 13649w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You must regain balance first.
+6655h, 4784m, 30595e, 13661w edb-
+You have recovered balance on all limbs.
+6655h, 4784m, 30595e, 13661w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You must regain balance first.
+6655h, 4751m, 30593e, 13651w edb-
+You have recovered balance on all limbs.
+6655h, 4751m, 30593e, 13651w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4718m, 30591e, 13641w edb-
+You must regain balance first.
+6655h, 4699m, 30591e, 13636w edb-
+You must regain balance first.
+6655h, 4699m, 30591e, 13636w edb-
+You must regain balance first.
+6655h, 4699m, 30591e, 13636w edb-
+You may drink another health or mana elixir or tonic.
+6655h, 4699m, 30591e, 13648w edb-
+You must regain balance first.
+6655h, 4699m, 30595e, 13648w edb-
+You must regain balance first.
+6655h, 4699m, 30595e, 13648w edb-
+You must regain balance first.
+6655h, 4699m, 30595e, 13648w edb-
+You must regain balance first.
+6655h, 4699m, 30595e, 13648w edb-
+You must regain balance first.
+6655h, 4699m, 30595e, 13648w edb-
+You have recovered balance on all limbs.
+6655h, 4699m, 30595e, 13648w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You must regain balance first.
+6655h, 4666m, 30593e, 13638w edb-
+You have recovered balance on all limbs.
+6655h, 4666m, 30593e, 13638w exdb-
+You laugh darkly and squint at Caladbolg as you add some final touches to your puppet of him.
+You quickly sneak in another fashion.
+6655h, 4633m, 30591e, 13628w edb-
+You must regain balance first.
+6655h, 4633m, 30591e, 13628w edb-
+You must regain balance first.
+6655h, 4616m, 30591e, 13623w edb-
+You must regain balance first.
+6655h, 4616m, 30591e, 13623w edb-
+You must regain balance first.
+6655h, 4616m, 30591e, 13623w edb-
+You must regain balance first.
+6655h, 4616m, 30595e, 13635w edb-
+You must regain balance first.
+6655h, 4616m, 30595e, 13635w edb-
+You must regain balance first.
+6655h, 4616m, 30595e, 13635w edb-
+You must regain balance first.
+6655h, 4616m, 30595e, 13635w edb-
+You have recovered balance on all limbs.
+6655h, 4616m, 30595e, 13635w exdb-
+Adding more detail to your puppet will no longer help.
+6655h, 4583m, 30593e, 13625w exdb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6655h, 4784m, 30593e, 13625w exdb-
+Adding more detail to your puppet will no longer help.
+6655h, 4751m, 30591e, 13615w exdb-
+You pat a living puppet of Caladbolg in a friendly manner.
+6655h, 4768m, 30595e, 13623w exdb-
+You may drink another health or mana elixir or tonic.
+6655h, 4768m, 30595e, 13623w exdb-
+Acarina arrives from the north.
+6655h, 4736m, 30595e, 13626w exdb-
+Acarina inclines her head politely.
+6655h, 4769m, 30595e, 13634w exdb-
+You say, "Now I can puppet concussion you at really bad times."
+6655h, 4751m, 30595e, 13653w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A small wooden lottery box stands here. A stone gargoyle flies overhead on leathery, grey wings. Stomping the ground occasionally, a huge armoured rhinoceros stands here. There are 3 alabaster pegasi here. A llama cria bounds energetically about the area. Restlessly eyeing the surroundings is a golden desert drake. An ash-grey jaguar pauses here, golden eyes alight. An ivory jaguar stands here vigilantly, golden eyes taking in the surroundings. In threat of being stepped upon, a diminutive tortoise cautiously rests here. A testament to his training, Ewig stands here as still as a mountain.  Soldier Caladbolg Van Helsing is riding on an alabaster pegasus. He wields a Delosian bastard sword in both hands. Acarina is here.
+You see exits leading north, west, and northwest.
+6655h, 4751m, 30595e, 13653w exdb-
+You nod your head emphatically.
+6655h, 4764m, 30595e, 13659w exdb-
+Acarina leaves to the west.
+6655h, 4764m, 30595e, 13659w exdb-
+You cease wielding a living puppet of Caladbolg in your right hand.
+6655h, 4764m, 30595e, 13659w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4764m, 30595e, 13659w exdb-
+Your pipe has gone cold and dark.
+6655h, 4764m, 30595e, 13659w exdb-
+Your pipe has gone cold and dark.
+6655h, 4764m, 30595e, 13659w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 30595e, 13659w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 30595e, 13659w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 30595e, 13659w exdb-
+Caladbolg swings his arm up and high fives you enthusiastically.
+6655h, 4750m, 30595e, 13667w exdb-
+You say, "Going to duel someone?"
+6655h, 4750m, 30595e, 13690w exdb-
+You say, "Puppet reckless."
+6655h, 4770m, 30595e, 13698w exdb-
+(Argent Ward): You say, "More like puppet rektless amirite."
+6655h, 4784m, 30595e, 13713w exdb-
+A great weight seems to have been lifted from Caladbolg.
+6655h, 4784m, 30595e, 13734w exdb-
+Caladbolg takes some salve from a vial and rubs it on his body.
+6655h, 4784m, 30595e, 13734w exdb-
+The radiant sun shines all about you.
+6655h, 4766m, 30595e, 13741w exdb-
+(Argent Ward): You say, "Seriously, I way underutilize my dolls abilities to grief my allies."
+6655h, 4770m, 30595e, 13756w exdb-
+The following members of the clan of Argent Ward are in the realms:
+Soldier Caladbolg Van Helsing
+Oathsworn Vithincus Shu'in-Crescent
+Oathsworn Ernam
+Extrum Wintermourne
+6655h, 4756m, 30595e, 13764w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Predicant Carmell Bayt Al-Azhan, Caefir Priestess             4  On  Priest
+Analeiss                                                      1  On  Priest
+Svalis                                                        1  On  Blademaster
+Lord Draekar Rian, Eminent Master                             4  On  Dragon
+Soldier Ada Young                                             2  On  Monk
+Varamoure, of Targossas                                       1  On  Runewarden
+Oathsworn Shros                                               1  On  Runewarden
+Soldier Caladbolg Van Helsing                                 1  On  Paladin
+Vovi                                                          1  On  Paladin
+Hanley D'Ischai                                               1  On  Serpent
+Apostle Daeir Wintermourne, Voice of the Fallen               2  On  Serpent
+Vasha Sovolkyov                                               1  On  Alchemist
+Oathsworn Vithincus Shu'in-Crescent                           1  On  Paladin
+Raikis, of Targossas                                          1  On  Blademaster
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Priest
+Oathsworn Rishla                                              1  On  Paladin
+Oathsworn Arkhuro                                             1  On  Alchemist
+Mithridates Eupator Dionysius                                 3  On  Magi
+Extrum Wintermourne                                           1  On  Jester
+6655h, 4770m, 30595e, 13779w exdb-
+Oathsworn Rishla (female Xoran).
+She is 18 years old, having been born on the 16th of Daedalan, 635 years after the fall of the Seleucarian Empire.
+She is ranked 2030th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 5% of your might.
+6655h, 4770m, 30595e, 13779w exdb-
+You close your eyes momentarily and extend the range of your vision, seeking out the presence of Mithridates.
+You see that Mithridates is at Sanctuary of the Righteous Fire.
+6655h, 4743m, 30595e, 13783w xdb-
+You have recovered equilibrium.
+6655h, 4743m, 30595e, 13783w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 679.
+6655h, 4784m, 30595e, 13867w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6655h, 4784m, 30595e, 13867w exkdb-
+You inhale deeply and begin holding your breath.
+6655h, 4784m, 30595e, 13867w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6655h, 4784m, 30595e, 13867w cxkdb-
+6655h, 4784m, 30595e, 13867w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6655h, 4784m, 30595e, 13867w cxkdb-
+You have recovered equilibrium.
+6655h, 4766m, 30595e, 13862w cexkdb-
+You inhale deeply and begin holding your breath.
+6655h, 4766m, 30595e, 13862w cexkdb-
+Datrius dies, his defences no match for the relentless might of Atalkez al'Dejan, the Damned in The Theatrum Mortalis.
+6655h, 4748m, 30595e, 13881w cexkdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4748m, 30595e, 13881w cexkdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 30595e, 13881w cexkdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 30595e, 13881w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4730m, 30595e, 13876w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4730m, 30595e, 13876w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4730m, 30595e, 13876w cexkdb-
+You inhale deeply and begin holding your breath.
+6655h, 4730m, 30595e, 13876w cexkdb-

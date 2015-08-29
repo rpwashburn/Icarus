@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.0">
+    <TriggerPackage>
+        <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+            <name>WunderSys Addon Triggers</name>
+            <script></script>
+            <triggerType>0</triggerType>
+            <conditonLineDelta>0</conditonLineDelta>
+            <mStayOpen>0</mStayOpen>
+            <mCommand></mCommand>
+            <packageName></packageName>
+            <mFgColor>#ff0000</mFgColor>
+            <mBgColor>#ffff00</mBgColor>
+            <mSoundFile></mSoundFile>
+            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+            <regexCodeList/>
+            <regexCodePropertyList/>
+            <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                <name>vListReader</name>
+                <script></script>
+                <triggerType>0</triggerType>
+                <conditonLineDelta>0</conditonLineDelta>
+                <mStayOpen>0</mStayOpen>
+                <mCommand></mCommand>
+                <packageName></packageName>
+                <mFgColor>#ff0000</mFgColor>
+                <mBgColor>#ffff00</mBgColor>
+                <mSoundFile></mSoundFile>
+                <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                <regexCodeList/>
+                <regexCodePropertyList/>
+                <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                    <name>vListReader</name>
+                    <script></script>
+                    <triggerType>0</triggerType>
+                    <conditonLineDelta>0</conditonLineDelta>
+                    <mStayOpen>0</mStayOpen>
+                    <mCommand></mCommand>
+                    <packageName></packageName>
+                    <mFgColor>#ff0000</mFgColor>
+                    <mBgColor>#ffff00</mBgColor>
+                    <mSoundFile></mSoundFile>
+                    <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                    <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                    <regexCodeList/>
+                    <regexCodePropertyList/>
+                    <Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                        <name>Vlist gate</name>
+                        <script>deleteLine()</script>
+                        <triggerType>0</triggerType>
+                        <conditonLineDelta>0</conditonLineDelta>
+                        <mStayOpen>999</mStayOpen>
+                        <mCommand></mCommand>
+                        <packageName></packageName>
+                        <mFgColor>#ff0000</mFgColor>
+                        <mBgColor>#ffff00</mBgColor>
+                        <mSoundFile></mSoundFile>
+                        <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                        <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                        <regexCodeList>
+                            <string>Vial                          Fluid                    Sips      Months Left</string>
+                            <string>return checkingVlist</string>
+                        </regexCodeList>
+                        <regexCodePropertyList>
+                            <integer>3</integer>
+                            <integer>4</integer>
+                        </regexCodePropertyList>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Vlistline - (venoms)</name>
+                            <script>vlistreader.addVial(matches[3], matches[6], matches[8], matches[10])
+deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>^(.*)(?:V|v)ial(\d+)(\s+)(the venom) (\w+)(\s+)(\d+)(\s+)(.*)$</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>1</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Border Venomlist</name>
+                            <script>deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>----------------------------------------------------------------------------</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>3</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>VlistLine - Empty</name>
+                            <script>vlistreader.addVial(matches[3], matches[5], matches[7], matches[9])
+deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>^(.*)(?:V|v)ial(\d+)(\s+)(empty)(\s+)(\d+)(\s+)(.*)$</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>1</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Vlist Prompt</name>
+                            <script>setTriggerStayOpen(&quot;Vlist gate&quot;, 0)
+checkingVlist = false
+vlistreader.vialReport()
+disableTrigger(&quot;Vlist gate&quot;)</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>return isPrompt()</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>4</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                    </Trigger>
+                </TriggerGroup>
+            </TriggerGroup>
+            <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                <name>Elistreader</name>
+                <script></script>
+                <triggerType>0</triggerType>
+                <conditonLineDelta>0</conditonLineDelta>
+                <mStayOpen>0</mStayOpen>
+                <mCommand></mCommand>
+                <packageName>Elistreader</packageName>
+                <mFgColor>#ff0000</mFgColor>
+                <mBgColor>#ffff00</mBgColor>
+                <mSoundFile></mSoundFile>
+                <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                <regexCodeList/>
+                <regexCodePropertyList/>
+                <TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                    <name>Elistreader</name>
+                    <script></script>
+                    <triggerType>0</triggerType>
+                    <conditonLineDelta>0</conditonLineDelta>
+                    <mStayOpen>0</mStayOpen>
+                    <mCommand></mCommand>
+                    <packageName></packageName>
+                    <mFgColor>#ff0000</mFgColor>
+                    <mBgColor>#ffff00</mBgColor>
+                    <mSoundFile></mSoundFile>
+                    <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                    <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                    <regexCodeList/>
+                    <regexCodePropertyList/>
+                    <Trigger isActive="no" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                        <name>Elist gate</name>
+                        <script>deleteLine()</script>
+                        <triggerType>0</triggerType>
+                        <conditonLineDelta>0</conditonLineDelta>
+                        <mStayOpen>999</mStayOpen>
+                        <mCommand></mCommand>
+                        <packageName></packageName>
+                        <mFgColor>#ff0000</mFgColor>
+                        <mBgColor>#ffff00</mBgColor>
+                        <mSoundFile></mSoundFile>
+                        <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                        <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                        <regexCodeList>
+                            <string>Vial                          Fluid                    Sips      Months Left</string>
+                            <string>return checkingElist</string>
+                        </regexCodeList>
+                        <regexCodePropertyList>
+                            <integer>3</integer>
+                            <integer>4</integer>
+                        </regexCodePropertyList>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Elistline - (salves/elixirs/tonics)</name>
+                            <script>elistreader.addVial(matches[3], matches[6], matches[8], matches[10])
+deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>^(.*)(?:V|v)ial(\d+)(\s+)(a salve of|an elixir of|a|a tonic of) (\w+)(\s+)(\d+)(\s+)(.*)$</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>1</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Elistline - (balms/salves)</name>
+                            <script>elistreader.addVial(matches[3], matches[6], matches[9], matches[11])
+deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>^(.*)vial(\d+)(\s+)(a|an) (\w+) (balm|salve)(\s+)(\d+)(\s+)(.*)$</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>1</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Elistline - empty</name>
+                            <script>elistreader.addVial(matches[3], matches[5], matches[7], matches[9])
+deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>^(.*)(?:V|v)ial(\d+)(\s+)(empty)(\s+)(\d+)(\s+)(.*)$</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>1</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Prompt</name>
+                            <script>setTriggerStayOpen(&quot;Elist gate&quot;, 0)
+checkingElist = false
+elistreader.vialReport()
+disableTrigger(&quot;Elist gate&quot;)</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>return isPrompt()</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>4</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                        <Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+                            <name>Border match</name>
+                            <script>deleteLine()</script>
+                            <triggerType>0</triggerType>
+                            <conditonLineDelta>0</conditonLineDelta>
+                            <mStayOpen>0</mStayOpen>
+                            <mCommand></mCommand>
+                            <packageName></packageName>
+                            <mFgColor>#ff0000</mFgColor>
+                            <mBgColor>#ffff00</mBgColor>
+                            <mSoundFile></mSoundFile>
+                            <colorTriggerFgColor>#000000</colorTriggerFgColor>
+                            <colorTriggerBgColor>#000000</colorTriggerBgColor>
+                            <regexCodeList>
+                                <string>----------------------------------------------------------------------------</string>
+                            </regexCodeList>
+                            <regexCodePropertyList>
+                                <integer>3</integer>
+                            </regexCodePropertyList>
+                        </Trigger>
+                    </Trigger>
+                </TriggerGroup>
+            </TriggerGroup>
+        </TriggerGroup>
+    </TriggerPackage>
+    <TimerPackage/>
+    <AliasPackage>
+        <AliasGroup isActive="yes" isFolder="yes">
+            <name>WunderSys AddOn Aliases</name>
+            <script></script>
+            <command></command>
+            <packageName></packageName>
+            <regex></regex>
+            <AliasGroup isActive="yes" isFolder="yes">
+                <name>vListReader</name>
+                <script></script>
+                <command></command>
+                <packageName></packageName>
+                <regex></regex>
+                <AliasGroup isActive="yes" isFolder="yes">
+                    <name>vListReader</name>
+                    <script></script>
+                    <command></command>
+                    <packageName></packageName>
+                    <regex></regex>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>(vlist) Check vlist</name>
+                        <script>send(&quot;config pagelength 150&quot;)
+tempTimer(.5, [[
+	vlistreader.clearVials()
+	checkingVlist = true
+	enableTrigger(&quot;Vlist gate&quot;)
+	setTriggerStayOpen(&quot;Vlist gate&quot;, 999)
+	send(&quot;vlist&quot;, false)
+	send(&quot;config pagelength 40&quot;)
+]])</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlist$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>vlist refiller</name>
+                        <script>vlistreader.Refiller()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlistfill$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Vlist Refill Decays - Put in Pack</name>
+                        <script>vlistreader.RefillDecays()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlistrefdecay$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Refill Missing venoms</name>
+                        <script>vlistreader.RefillerMissing()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlistrmiss$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Vlist Refill Decays - Feed Humgii</name>
+                        <script>vlistreader.RefillDecays(&quot;humgii&quot;)</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlistrefdecayh$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Vlist Refill Decays - Sell Rufio</name>
+                        <script>vlistreader.RefillDecays(&quot;sell&quot;)</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^vlistrefdecays$</regex>
+                    </Alias>
+                </AliasGroup>
+            </AliasGroup>
+            <AliasGroup isActive="yes" isFolder="yes">
+                <name>Elistreader</name>
+                <script></script>
+                <command></command>
+                <packageName>Elistreader</packageName>
+                <regex></regex>
+                <AliasGroup isActive="yes" isFolder="yes">
+                    <name>Elistreader</name>
+                    <script></script>
+                    <command></command>
+                    <packageName></packageName>
+                    <regex></regex>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>(elist) Check elist</name>
+                        <script>send(&quot;config pagelength 150&quot;)
+tempTimer(.5, [[
+	elistreader.clearVials()
+	checkingElist = true
+	enableTrigger(&quot;Elist gate&quot;)
+	setTriggerStayOpen(&quot;Elist gate&quot;, 999)
+	send(&quot;elist&quot;, false)
+	send(&quot;config pagelength 40&quot;)
+]])</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elist$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Elist Refiller</name>
+                        <script>elistreader.Refiller()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistfill$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Elist Refill Decays - Put into Pack</name>
+                        <script>elistreader.RefillDecays()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistrefdecay$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Forestal Missing Vials</name>
+                        <script>elistreader.RefillerForestMissing()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistrmissf$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Alchemy Missing Vials</name>
+                        <script>elistreader.RefillerAlchMissing()</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistrmissa$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Elist Refill Decays - Feed Humgii</name>
+                        <script>elistreader.RefillDecays(&quot;humgii&quot;)</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistrefdecayh$</regex>
+                    </Alias>
+                    <Alias isActive="yes" isFolder="no">
+                        <name>Elist Refill Decays - Sell Rufio</name>
+                        <script>elistreader.RefillDecays(&quot;sell&quot;)</script>
+                        <command></command>
+                        <packageName></packageName>
+                        <regex>^elistrefdecays$</regex>
+                    </Alias>
+                </AliasGroup>
+            </AliasGroup>
+        </AliasGroup>
+    </AliasPackage>
+    <ActionPackage/>
+    <ScriptPackage>
+        <ScriptGroup isActive="yes" isFolder="yes">
+            <name>WunderSys AddOn Scripts</name>
+            <packageName></packageName>
+            <script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+</script>
+            <eventHandlerList/>
+            <ScriptGroup isActive="yes" isFolder="yes">
+                <name>vListReader</name>
+                <packageName></packageName>
+                <script>-------------------------------------------------
+--         Put your Lua functions here.        --
+--                                             --
+-- Note that you can also use external Scripts --
+-------------------------------------------------
+</script>
+                <eventHandlerList/>
+                <ScriptGroup isActive="yes" isFolder="yes">
+                    <name>vListReader</name>
+                    <packageName></packageName>
+                    <script>--[[ 
+
+	TO USE:
+	
+	*Settings*
+
+	In the script file, the list of what you want tracked will need to be looked over, 
+	comment out anything on it you do not want in the vlistreader.fullset_venoms table.
+	
+	Set the days to decay vial the vListDecayTime variable.
+
+	Set the amounts of each type of vial you would like in the vlistreader.values_VialCount table.
+
+	*Aliases*
+	
+	vlist - Will give you the Venom list readout including what is close to decay how much sips
+	as well as how close to you are to your set numbers.
+	
+
+	(Note: Before Running the aliases below you must run the vlist command to get the values)
+	
+	vlistfill - Will refill from a tun to the set amounts in the vlistreader.values_VialCount as
+	as long as the vial type is being tracked.
+	
+	vlistrefdecay - Use the count that you received in the vlist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then put them in your pack.
+	*You can switch the action in the vlistreader.RefillDecays() function.
+
+	vlistrefdecayh - Use the count that you received in the vlist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then give them to a humgii.
+	*You can switch the action in the vlistreader.RefillDecays() function.
+	
+	vlistrefdecays - Use the count that you received in the vlist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then
+	sell them to Rufio, in New Thera (Yes you need to be in the room with him).
+	*You can switch the action in the vlistreader.RefillDecays() function.
+
+	vlistrmiss - Use the count that you received in the vlist alias readout to get the amount
+	of new vials to use with this one, refill the vials that are missing automatically from a tun.
+
+
+	This script was built by Fendo utilising Daeir's readable elixlist as a starter. 
+
+	
+	I hope it helps you out!
+
+--]]</script>
+                    <eventHandlerList/>
+                    <Script isActive="yes" isFolder="no">
+                        <name>vlistReader</name>
+                        <packageName></packageName>
+                        <script>vlistreader = {}
+vlistreader.vials = {}
+vlistreader.missing = {}
+
+--Set the decay date you are looking for, set for three weeks for a long time. 
+vListDecayTime = 21
+
+
+--Comment out the stuff you don not want to be tracked.
+vlistreader.fullset_venoms =
+{
+	&quot;xentio&quot;, 
+--	&quot;oleander&quot;, 
+	&quot;eurypteria&quot;, 
+	&quot;kalmia&quot;, 
+	&quot;digitalis&quot;, 
+	&quot;darkshade&quot;, 
+	&quot;curare&quot;,
+	&quot;epteth&quot;, 
+	&quot;epseth&quot;, 
+	&quot;prefarar&quot;, 
+	&quot;monkshood&quot;, 
+	&quot;euphorbia&quot;,
+--	&quot;colocasia&quot;,
+--	&quot;oculus&quot;,
+	&quot;vernalius&quot;,
+	&quot;larkspur&quot;, 
+	&quot;slike&quot;, 
+	&quot;voyria&quot;, 
+	&quot;delphinium&quot;, 
+	&quot;vardrax&quot;, 
+	&quot;loki&quot;, 
+	&quot;aconite&quot;, 
+	&quot;gecko&quot;, 
+--	&quot;scytherus&quot;
+}
+
+
+
+--Set the numbers to the amounts you want to keep on hand.
+--If commented out above it will not track here, can set to 0.
+
+vlistreader.values_VialCount =
+{
+	[&quot;xentio&quot;] = 3, 
+	[&quot;oleander&quot;] = 2, 
+	[&quot;eurypteria&quot;] = 3, 
+	[&quot;kalmia&quot;] = 3, 
+	[&quot;digitalis&quot;]= 3,
+	[&quot;darkshade&quot;] = 2, 
+	[&quot;curare&quot;] = 5,
+	[&quot;epteth&quot;] = 4, 
+	[&quot;epseth&quot;] = 4, 
+	[&quot;prefarar&quot;] = 5, 
+	[&quot;monkshood&quot;] = 3, 
+	[&quot;euphorbia&quot;] = 3,
+	[&quot;colocasia&quot;] = 1, 
+	[&quot;oculus&quot;] = 4, 
+	[&quot;vernalius&quot;] = 3, 
+	[&quot;larkspur&quot;] = 3, 
+	[&quot;slike&quot;]= 3,
+	[&quot;vardrax&quot;] = 3, 
+	[&quot;loki&quot;] = 3,
+	[&quot;voyria&quot;] = 3, 
+	[&quot;delphinium&quot;] = 3, 
+	[&quot;aconite&quot;] = 5, 
+	[&quot;gecko&quot;] = 5, 
+	[&quot;scytherus&quot;] = 0
+}
+
+
+
+function vlistreader.addVial(id, type, sips, decay)
+	vlistreader.vials[id] = {type, sips, decay}
+end
+
+function vlistreader.clearVials()
+	vlistreader.vials = {}
+	vlistreader.missing = {}
+end
+
+function indexcount(table)
+	--this is required for some stupid reason since table.getn doesn't work
+	local dex = 0
+
+	for i, thing in pairs(table) do
+		dex = dex + 1
+	end
+	return dex
+end
+
+function vlistreader.compareSets()
+	local donthave_venoms = {}
+	local typeswehave = vlistreader.returnAllTypes()
+
+	for i, type in ipairs(vlistreader.fullset_venoms) do
+		if not table.contains(typeswehave, type) and table.contains(vlistreader.fullset_venoms, type) then
+			donthave_venoms[type] = true
+			table.insert(vlistreader.missing, type)
+		end
+	end
+	
+	cecho(&quot;&lt;white&gt;Missing the following &lt;lawn_green&gt;Venoms&lt;white&gt;:\n&quot;)
+		--for i, type in pairs(donthave_venoms) do
+		--cecho(&quot;&lt;orange&gt;&quot;..i..&quot; &lt;white&gt;&quot;)
+	for i, type in ipairs(vlistreader.missing) do
+		local vdiff_amnt = vlistreader.compareMissingCount(type)
+		cecho(&quot;&lt;orange&gt;&quot;..type..&quot; &lt;red&gt;&quot;..vdiff_amnt..&quot;&lt;white&gt;\n&quot;)
+	end
+	--if indexcount(donthave_venoms) == 0 then
+	if indexcount(vlistreader.missing) == 0 then
+		cecho(&quot;&lt;green&gt;None!\n&quot;)
+	end
+end
+
+function removeshit(table, shit)
+	for i, value in ipairs(table) do
+		if value == shit then
+			table[i] = nil
+		end
+	end
+end
+
+function vlistreader.vialReport()
+	local types = vlistreader.returnAllTypes()
+	cecho(&quot;\n&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;lawn_green&gt;Venomlist report:&quot;)
+	cecho(&quot;\n&lt;dark_slate_gray&gt;----------------\n&quot;)
+	for i, type in ipairs(types) do
+		local sip_amnt = vlistreader.returnSipsofType(type)
+		local sip_col = &quot;&quot;
+		local tot_amnt = vlistreader.countofType(type)
+		local diff_amnt = vlistreader.compareTypeCount(type)
+		
+		if sip_amnt &gt; 400 then
+			sip_col = &quot;&lt;sky_blue&gt;&quot;
+		elseif sip_amnt &lt;= 400 and sip_amnt &gt;= 300 then
+			sip_col = &quot;&lt;green&gt;&quot;
+		elseif sip_amnt &lt;= 300 and sip_amnt &gt;= 200 then
+			sip_col = &quot;&lt;orange&gt;&quot;
+		elseif sip_amnt &lt; 200 and sip_amnt &gt;= 100 then
+			sip_col = &quot;&lt;goldenrod&gt;&quot;
+		else
+			sip_col = &quot;&lt;red&gt;&quot;
+		end
+
+
+		if tot_amnt &gt; 10 then
+			sip_col = &quot;&lt;sky_blue&gt;&quot;
+		elseif tot_amnt &lt;= 9 and tot_amnt &gt;= 7 then
+			sip_col = &quot;&lt;green&gt;&quot;
+		elseif tot_amnt &lt;= 6 and tot_amnt &gt;= 4 then
+			sip_col = &quot;&lt;orange&gt;&quot;
+		elseif tot_amnt &lt;= 3 and tot_amnt &gt; 1 then
+			sip_col = &quot;&lt;goldenrod&gt;&quot;
+		else
+			sip_col = &quot;&lt;red&gt;&quot;
+		end
+
+		if diff_amnt &lt; 0 then
+			dif_col = &quot;&lt;red&gt;&quot;
+		elseif diff_amnt == 0 then
+			dif_col = &quot;&lt;grey&gt;&quot;
+		elseif diff_amnt &lt;= 2 and diff_amnt &gt;= 1 then
+			dif_col = &quot;&lt;medium_aquamarine&gt;+&quot;
+		elseif diff_amnt &lt;= 5 and diff_amnt &gt;= 3 then
+			dif_col = &quot;&lt;green&gt;+&quot;
+		else
+			dif_col = &quot;&lt;sky_blue&gt;+&quot;
+		end
+
+
+		cecho(&quot;&lt;MintCream&gt;&quot;..type:title()..&quot;&lt;white&gt;: &quot;..sip_col..sip_amnt..&quot; &lt;white&gt;uses - (&quot;..sip_col..tot_amnt..&quot; vials&lt;white&gt;) &quot;..dif_col..diff_amnt..&quot;\n&quot;)
+	end
+
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	
+	vlistreader.compareSets()
+	vlistreader.vialsClosetoDecay()
+	vlistreader.totalRefillCount()
+
+	
+
+	local emptycount = vlistreader.countofType(&quot;empty&quot;)
+
+	if emptycount &gt; 0 then
+		cecho(&quot;&lt;white&gt;You have &lt;green&gt;&quot;..emptycount..&quot;&lt;white&gt; vials that can be filled for a total of &lt;green&gt;&quot;..(emptycount * 200)..&quot;&lt;white&gt; uses!&quot;)
+	end
+end
+
+function vlistreader.countofType(type)
+	local vialcount = 0
+
+	for id, vialdata in pairs(vlistreader.vials) do
+		if vialdata[1] == type then
+			vialcount = vialcount + 1
+		end
+	end
+		return vialcount
+end
+
+function vlistreader.vialsClosetoDecay()
+	local decayTotal = 0
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;white&gt;Vials with less than &lt;red&gt;&quot;..vListDecayTime..&quot; &lt;white&gt;days remaining:\n\n&quot;)
+	for id, vialdata in pairs(vlistreader.vials) do
+		if vialdata[3] ~= &quot;---&quot; and tonumber(vialdata[3]) &lt; vListDecayTime then
+			cecho(&quot;&lt;white&gt;Vial id &lt;green&gt;&quot;..id..&quot;&lt;white&gt; has &lt;red&gt;&quot;..vialdata[3]..&quot; &lt;white&gt;days remaining!&quot;)
+			
+			decayTotal = decayTotal + 1
+			if tonumber(vialdata[2]) ~= 0 then
+				cecho(&quot;&lt;white&gt; - Contains &lt;goldenrod&gt;&quot;..vialdata[2]..&quot;&lt;white&gt; uses of &lt;lawn_green&gt;&quot;..vialdata[1])
+			else
+				cecho(&quot;&lt;white&gt; - Is &lt;blue&gt;empty&quot;)
+			end
+			echo(&quot;\n&quot;)
+		end
+	end
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;white&gt;Total Decaying Soon: &lt;orange&gt;&quot;..decayTotal..&quot;\n&quot;)
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+end
+
+
+
+
+
+function vlistreader.returnAllTypes()
+	local typelist = {}
+	for id, vialdata in pairs(vlistreader.vials) do
+		if not table.contains(typelist, tostring(vialdata[1])) then
+			table.insert(typelist, tostring(vialdata[1]))
+		end
+	end	
+	return typelist
+end
+
+
+
+
+function vlistreader.returnSipsofType(type)
+	local totalsips = 0
+
+	if type == &quot;empty&quot; then
+		for id, vialdata in pairs(vlistreader.vials) do
+			if vialdata[1] == &quot;empty&quot; then
+				totalsips = totalsips + 200
+			end
+		end
+	end
+
+	for id, vialdata in pairs(vlistreader.vials) do
+		if vialdata[1] == type then
+			totalsips = totalsips + tonumber(vialdata[2])
+		end
+	end
+
+	return totalsips
+end
+
+
+
+
+function vlistreader.compareTypeCount(type)
+	local difference = 0
+		
+	for id, vialdata in pairs(vlistreader.vials) do
+		if vialdata[1] == type then
+			if vlistreader.values_VialCount[type] ~= vlistreader.countofType(type) then
+				difference = vlistreader.countofType(type) - vlistreader.values_VialCount[type]
+			else
+				difference = 0
+			end
+		end
+	end
+
+	return difference
+end
+
+
+function vlistreader.compareMissingCount(type)
+	local difference = 0
+
+		for k, v in pairs(vlistreader.missing) do
+			if vlistreader.values_VialCount[type] ~= 0 then
+				difference =  0 - vlistreader.values_VialCount[type]
+			else
+				difference = 0
+			end	
+		end
+	return difference
+end	
+
+
+
+
+function vlistreader.Refiller()
+	local types = vlistreader.returnAllTypes()
+
+	for i, type in ipairs(types) do
+		local diff_amnt = vlistreader.compareTypeCount(type)
+		while diff_amnt &lt; 0 do
+			send(&quot;refill empty with &quot;..type,false)
+			diff_amnt = diff_amnt + 1
+		end
+	end	
+	-- cecho(&quot;&lt;yellow&gt;Refilling Venoms!\n&quot;)
+end
+
+
+
+function vlistreader.RefillerMissing()
+	if next(vlistreader.missing) ~= nil then
+	for i, type in pairs(vlistreader.missing) do
+		local diff_amnt = vlistreader.compareMissingCount(type)
+		while diff_amnt &lt; 0 do
+			send(&quot;refill empty with &quot;..type,false)
+			diff_amnt = diff_amnt + 1
+		end
+	end	
+	else
+		cecho(&quot;&lt;yellow&gt;No Missing Venoms!\n&quot;)
+	end
+end
+
+
+
+function vlistreader.RefillDecays(dowhat)
+	for id, vialdata in pairs(vlistreader.vials) do
+		if vialdata[3] ~= &quot;---&quot; and tonumber(vialdata[3]) &lt; vListDecayTime then
+			cecho(&quot;&lt;white&gt;Pouring id &lt;green&gt;&quot;..id..&quot;&lt;white&gt; into a newer vial\n&quot;)
+			if dowhat == &quot;humgii&quot; then
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;give &quot;..id..&quot; to humgii&quot;)
+			elseif dowhat == &quot;sell&quot; then
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;sell &quot;..id..&quot; to rufio&quot;)
+			else
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;put &quot;..id..&quot; in pack&quot;)
+			end
+		end
+	end
+	--cecho(&quot;&lt;yellow&gt;Done Checking Decays!\n&quot;)
+end
+
+
+
+function vlistreader.totalRefillCount()
+	local refillTotal = 0
+	local types = vlistreader.returnAllTypes()
+
+
+	for i, type in ipairs(vlistreader.missing) do
+		local vdiff_amnt = vlistreader.compareMissingCount(type)
+		if vdiff_amnt &lt; 0 then
+			refillTotal = refillTotal + vdiff_amnt
+		end
+	end
+
+	for i, type in ipairs(types) do
+		local diff_amnt = vlistreader.compareTypeCount(type)
+		if diff_amnt &lt; 0 then
+			refillTotal = refillTotal + diff_amnt
+		end
+	end
+
+	if refillTotal &lt; 0 then
+		refillTotal = refillTotal * -1
+	end
+
+	cecho(&quot;&lt;white&gt;Total Needed for Refill: &lt;orange&gt;&quot;..refillTotal..&quot;\n&quot;)
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+
+end
+
+
+</script>
+                        <eventHandlerList/>
+                    </Script>
+                </ScriptGroup>
+            </ScriptGroup>
+            <ScriptGroup isActive="yes" isFolder="yes">
+                <name>Elistreader</name>
+                <packageName>Elistreader</packageName>
+                <script></script>
+                <eventHandlerList/>
+                <ScriptGroup isActive="yes" isFolder="yes">
+                    <name>Elistreader</name>
+                    <packageName></packageName>
+                    <script>--[[ 
+
+	TO USE:
+	
+	*Settings*
+
+	In the script file, the list of what you want tracked will need to be looked over, 
+	comment out anything on it you do not want in the elistreader.fullset_forestal and/or 
+	elistreader.fullset_alchemical table.
+	
+	Set the days to decay vial the eListDecayTime variable.
+
+	Set the amounts of each type of vial you would like in the elistreader.values_VialCount table.
+
+	*Aliases*
+	
+	elist - Will give you the Venom list readout including what is close to decay how much sips
+	as well as how close to you are to your set numbers.
+	
+	
+	(Note: Before Running the aliases below you must run the elist command to get the values)
+
+	elistfill - Will refill from a tun to the set amounts in the elistreader.values_VialCount as
+	as long as the vial type is being tracked.
+	
+	elistrefdecay - Use the count that you received in the elist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then put them in your pack.
+	*You can switch the action in the elistreader.RefillDecays() function.
+
+	elistrefdecay - Use the count that you received in the elist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then give them to a humgii.
+	*You can switch the action in the elistreader.RefillDecays() function.
+
+	elistrefdecay - Use the count that you received in the elist alias readout to get the amount
+	of new vials to use with this one, it will pour into empty and then 
+	sell them to Rufio, in New Thera (Yes you need to be in the room with him).
+	*You can switch the action in the elistreader.RefillDecays() function.
+	
+	elistrmissf - Use the count that you received in the elist alias readout to get the amount
+	of new vials to use with this one, it will refill the amount of missing forestal cures from 
+	a tun that you have set.
+
+	elistrmissa - Use the count that you received in the elist alias readout to get the amount
+	of new vials to use with this one, it will refill the amount of missing alchemical cures from 
+	a tun that you have set.
+
+
+	This script was built by Fendo utilising Daeir's readable elixlist as a starter. 
+
+	
+	I hope it helps you out!
+
+--]]</script>
+                    <eventHandlerList/>
+                    <Script isActive="yes" isFolder="no">
+                        <name>Elistreader</name>
+                        <packageName></packageName>
+                        <script>elistreader = {}
+elistreader.vials = {}
+elistreader.forestmissing = {}
+elistreader.alchmissing = {}
+
+
+--Set the decay date you are looking for, set for three weeks for a long time. 
+eListDecayTime = 21
+
+
+--Comment out the stuff you don't want to be tracked.
+elistreader.fullset_forestal =
+{
+	&quot;frost&quot;,
+	&quot;health&quot;, 
+	&quot;immunity&quot;, 
+	&quot;levitation&quot;, 
+	&quot;mana&quot;, 
+	&quot;speed&quot;, 
+	&quot;venom&quot;,
+	&quot;caloric&quot;, 
+	&quot;epidermal&quot;, 
+	&quot;mending&quot;, 
+	&quot;restoration&quot;, 
+--	&quot;mass&quot;
+}
+
+elistreader.fullset_alchemical =
+{
+--	&quot;antigen&quot;,
+-- 	&quot;endothermia&quot;,
+-- 	&quot;haste&quot;, 
+--	&quot;hovering&quot;, 
+--	&quot;mentality&quot;, 
+--	&quot;toxin&quot;, 
+--	&quot;vitality&quot;,
+--	&quot;density&quot;, 
+--	&quot;exothermic&quot;, 
+--	&quot;reconstructive&quot;, 
+--	&quot;renewal&quot;, 
+--	&quot;sensory&quot;
+}
+
+
+--Set the numbers to the amounts you want to keep on hand.
+--If commented out above it will not track here, can set to 0.
+
+elistreader.values_VialCount =
+{
+	[&quot;antigen&quot;] = 5, 
+	[&quot;endothermia&quot;] = 4, 
+	[&quot;haste&quot;] = 4, 
+	[&quot;hovering&quot;] = 4, 
+	[&quot;mentality&quot;]= 8,
+	[&quot;toxin&quot;] = 4, 
+	[&quot;vitality&quot;] = 12,
+	[&quot;density&quot;] = 15, 
+	[&quot;exothermic&quot;] = 5, 
+	[&quot;reconstructive&quot;] = 5, 
+	[&quot;renewal&quot;] = 5, 
+	[&quot;sensory&quot;] = 5,
+	[&quot;frost&quot;] = 5, 
+	[&quot;health&quot;] = 12, 
+	[&quot;immunity&quot;] = 5, 
+	[&quot;levitation&quot;] = 3, 
+	[&quot;mana&quot;]= 8,
+	[&quot;speed&quot;] = 4, 
+	[&quot;venom&quot;] = 4,
+	[&quot;caloric&quot;] = 5, 
+	[&quot;epidermal&quot;] = 5, 
+	[&quot;mending&quot;] = 5, 
+	[&quot;restoration&quot;] = 5, 
+	[&quot;mass&quot;] = 0,
+	[&quot;empty&quot;] = 0
+}
+
+function elistreader.addVial(id, type, sips, decay)
+	elistreader.vials[id] = {type, sips, decay}
+end
+
+function elistreader.clearVials()
+	elistreader.vials = {}
+	elistreader.forestmissing = {}
+	elistreader.alchmissing = {}
+end
+
+function indexcount(table)
+	--this is required for some stupid reason since table.getn doesn't work
+	local dex = 0
+
+	for i, thing in pairs(table) do
+		dex = dex + 1
+	end
+	return dex
+end
+
+function elistreader.compareSets()
+	local donthave_forest = {}
+	local donthave_alch = {}
+	local typeswehave = elistreader.returnAllTypes()
+
+	for i, type in ipairs(elistreader.fullset_forestal) do
+		if not table.contains(typeswehave, type) and table.contains(elistreader.fullset_forestal, type) then
+			donthave_forest[type] = true
+			table.insert(elistreader.forestmissing, type)
+		end
+	end
+	
+	--cecho(&quot;&lt;white&gt;Missing the following &lt;dark_green&gt;forestal&lt;white&gt; cures:\n&quot;)
+	cecho(&quot;&lt;white&gt;Missing the following cures:\n&quot;)
+	--for i, type in pairs(donthave_forest) do	
+		--cecho(&quot;&lt;orange&gt;&quot;..i..&quot; &lt;white&gt;&quot;)
+	for i, type in pairs(elistreader.forestmissing) do	
+		local fordiff_amnt = elistreader.compareForestMissingCount(type)
+		cecho(&quot;&lt;orange&gt;&quot;..type..&quot; &lt;red&gt;&quot;..fordiff_amnt..&quot;&lt;white&gt;\n&quot;)	
+	end
+	--if indexcount(donthave_forest) == 0 then
+	if indexcount(elistreader.forestmissing) == 0 then
+		cecho(&quot;&lt;green&gt;None!\n&quot;)
+		--cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	end
+	for i, type in ipairs(elistreader.fullset_alchemical) do
+		if not table.contains(typeswehave, type) and table.contains(elistreader.fullset_alchemical, type) then
+			donthave_alch[type] = true
+			table.insert(elistreader.alchmissing, type)
+		end
+	end
+
+	--cecho(&quot;\n&lt;white&gt;Missing the following &lt;yellow&gt;alchemical&lt;white&gt; cures:\n&quot;)
+	--for i, type in pairs(donthave_alch) do
+		--cecho(&quot;&lt;orange&gt;&quot;..i..&quot; &lt;white&gt;&quot;)
+	for i, type in pairs(elistreader.alchmissing) do
+		local alchdiff_amnt = elistreader.compareAlchMissingCount(type)
+	--	cecho(&quot;&lt;orange&gt;&quot;..type..&quot; &lt;red&gt;&quot;..alchdiff_amnt..&quot;&lt;white&gt;\n&quot;)
+	end
+	if indexcount(elistreader.alchmissing) == 0 then
+	--if indexcount(donthave_alch) == 0 then
+	--	cecho(&quot;&lt;green&gt;None!\n&quot;)
+	--	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	end
+end
+
+function removeshit(table, shit)
+	for i, value in ipairs(table) do
+		if value == shit then
+			table[i] = nil
+		end
+	end
+end
+
+function elistreader.vialReport()
+	local types = elistreader.returnAllTypes()
+	cecho(&quot;\n&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;DodgerBlue&gt;Elixirlist report:&quot;)
+	cecho(&quot;\n&lt;dark_slate_gray&gt;----------------\n&quot;)
+	for i, type in ipairs(types) do
+		local sip_amnt = elistreader.returnSipsofType(type)
+		local sip_col = &quot;&quot;
+		local tot_amnt = elistreader.countofType(type)
+		local diff_amnt = elistreader.compareTypeCount(type)
+
+		if sip_amnt &gt; 400 then
+			sip_col = &quot;&lt;sky_blue&gt;&quot;
+		elseif sip_amnt &lt;= 400 and sip_amnt &gt;= 300 then
+			sip_col = &quot;&lt;green&gt;&quot;
+		elseif sip_amnt &lt;= 300 and sip_amnt &gt;= 200 then
+			sip_col = &quot;&lt;orange&gt;&quot;
+		elseif sip_amnt &lt; 200 and sip_amnt &gt;= 100 then
+			sip_col = &quot;&lt;goldenrod&gt;&quot;
+		else
+			sip_col = &quot;&lt;red&gt;&quot;
+		end
+
+		if tot_amnt &gt;= 8 then
+			sip_col = &quot;&lt;sky_blue&gt;&quot;
+		elseif tot_amnt &lt;= 7 and tot_amnt &gt;= 5 then
+			sip_col = &quot;&lt;green&gt;&quot;
+		elseif tot_amnt &lt;= 4 and tot_amnt &gt;= 3 then
+			sip_col = &quot;&lt;orange&gt;&quot;
+		elseif tot_amnt &lt;= 2 and tot_amnt &gt;= 1 then
+			sip_col = &quot;&lt;goldenrod&gt;&quot;
+		else
+			sip_col = &quot;&lt;red&gt;&quot;
+		end
+
+		if diff_amnt &lt; 0 then
+			dif_col = &quot;&lt;red&gt;&quot;
+		elseif diff_amnt == 0 then
+			dif_col = &quot;&lt;grey&gt;&quot;
+		elseif diff_amnt &lt;= 2 and diff_amnt &gt;= 1 then
+			dif_col = &quot;&lt;medium_aquamarine&gt;+&quot;
+		elseif diff_amnt &lt;= 5 and diff_amnt &gt;= 3 then
+			dif_col = &quot;&lt;green&gt;+&quot;
+		else
+			dif_col = &quot;&lt;sky_blue&gt;+&quot;
+		end
+
+
+		cecho(&quot;&lt;MintCream&gt;&quot;..type:title()..&quot;&lt;white&gt;: &quot;..sip_col..sip_amnt..&quot; &lt;white&gt;uses - (&quot;..sip_col..tot_amnt..&quot; vials&lt;white&gt;) &quot;..dif_col..diff_amnt..&quot; \n&quot;)
+	end
+
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	elistreader.compareSets()
+	elistreader.vialsClosetoDecay()
+	elistreader.totalRefillCount()
+
+	
+
+	local emptycount = elistreader.countofType(&quot;empty&quot;)
+
+	if emptycount &gt; 0 then
+		cecho(&quot;&lt;white&gt;You have &lt;green&gt;&quot;..emptycount..&quot;&lt;white&gt; vials that can be filled for a total of &lt;green&gt;&quot;..(emptycount * 200)..&quot;&lt;white&gt; sips!&quot;)
+	end
+end
+
+function elistreader.countofType(type)
+	local vialcount = 0
+
+	for id, vialdata in pairs(elistreader.vials) do
+		if vialdata[1] == type then
+			vialcount = vialcount + 1
+		end
+	end
+		return vialcount
+end
+
+function elistreader.vialsClosetoDecay()
+	local decayTotal = 0
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;white&gt;Vials with less than &lt;red&gt;&quot;..eListDecayTime..&quot; &lt;white&gt;days remaining:\n\n&quot;)
+	for id, vialdata in pairs(elistreader.vials) do
+		if vialdata[3] ~= &quot;---&quot; and tonumber(vialdata[3]) &lt; eListDecayTime then
+			cecho(&quot;&lt;white&gt;Vial id &lt;green&gt;&quot;..id..&quot;&lt;white&gt; has &lt;red&gt;&quot;..vialdata[3]..&quot; &lt;white&gt;days remaining!&quot;)
+			decayTotal = decayTotal + 1
+			if tonumber(vialdata[2]) ~= 0 then
+				cecho(&quot;&lt;white&gt; - Contains &lt;goldenrod&gt;&quot;..vialdata[2]..&quot;&lt;white&gt; uses of &lt;green&gt;&quot;..vialdata[1])
+			else
+				cecho(&quot;&lt;white&gt; - Is &lt;blue&gt;empty&quot;)
+			end
+			echo(&quot;\n&quot;)
+		end
+	end
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+	cecho(&quot;&lt;white&gt;Total Decaying Soon: &lt;orange&gt;&quot;..decayTotal..&quot;\n&quot;)
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+end
+
+
+function elistreader.returnAllTypes()
+	local typelist = {}
+	for id, vialdata in pairs(elistreader.vials) do
+		if not table.contains(typelist, tostring(vialdata[1])) then
+			table.insert(typelist, tostring(vialdata[1]))
+		end
+	end	
+	return typelist
+end
+
+function elistreader.returnSipsofType(type)
+	local totalsips = 0
+
+	if type == &quot;empty&quot; then
+		for id, vialdata in pairs(elistreader.vials) do
+			if vialdata[1] == &quot;empty&quot; then
+				totalsips = totalsips + 200
+			end
+		end
+	end
+
+	for id, vialdata in pairs(elistreader.vials) do
+		if vialdata[1] == type then
+			totalsips = totalsips + tonumber(vialdata[2])
+		end
+	end
+
+	return totalsips
+end
+
+
+function elistreader.compareTypeCount(type)
+	local difference = 0
+		
+	for id, vialdata in pairs(elistreader.vials) do
+		if vialdata[1] == type then
+			if elistreader.values_VialCount[type] ~= elistreader.countofType(type) then
+				difference = elistreader.countofType(type) - elistreader.values_VialCount[type]
+			else
+				difference = 0
+			end
+		end
+	end
+	
+	return difference
+end
+
+
+
+
+
+
+
+function elistreader.compareForestMissingCount(type)
+	local difference = 0
+
+		for k, v in pairs(elistreader.forestmissing) do
+			if elistreader.values_VialCount[type] ~= 0 then
+				difference =  0 - elistreader.values_VialCount[type]
+			else
+				difference = 0
+			end	
+		end
+
+	return difference
+end	
+
+
+
+function elistreader.compareAlchMissingCount(type)
+	local difference = 0
+
+		for k, v in pairs(elistreader.alchmissing) do
+			if elistreader.values_VialCount[type] ~= 0 then
+				difference =  0 - elistreader.values_VialCount[type]
+			else
+				difference = 0
+			end	
+		end
+
+	return difference
+end	
+
+
+
+function elistreader.Refiller()
+	local types = elistreader.returnAllTypes()
+	
+	for i, type in ipairs(types) do
+		local diff_amnt = elistreader.compareTypeCount(type)
+		while diff_amnt &lt; 0 do
+			send(&quot;refill empty with &quot;..type,false)
+			diff_amnt = diff_amnt + 1
+		end
+	end
+end
+
+
+
+
+function elistreader.RefillerForestMissing()
+	for i, type in pairs(elistreader.forestmissing) do
+		local diff_amnt = elistreader.compareForestMissingCount(type)
+		while diff_amnt &lt; 0 do
+			send(&quot;refill empty with &quot;..type,false)
+			diff_amnt = diff_amnt + 1
+		end
+	end	
+end
+
+
+
+
+function elistreader.RefillerAlchMissing()
+	for i, type in pairs(elistreader.alchmissing) do
+		local diff_amnt = elistreader.compareAlchMissingCount(type)
+		while diff_amnt &lt; 0 do
+			send(&quot;refill empty with &quot;..type,false)
+			diff_amnt = diff_amnt + 1
+		end
+	end	
+end
+
+
+
+
+
+function elistreader.RefillDecays(dowhat)
+		for id, vialdata in pairs(elistreader.vials) do
+		if vialdata[3] ~= &quot;---&quot; and tonumber(vialdata[3]) &lt; eListDecayTime then
+			cecho(&quot;&lt;white&gt;Pouring id &lt;green&gt;&quot;..id..&quot;&lt;white&gt; into a newer vial\n&quot;)
+			if dowhat == &quot;humgii&quot; then
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;give &quot;..id..&quot; to humgii&quot;)
+			elseif dowhat == &quot;sell&quot; then
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;sell &quot;..id..&quot; to rufio&quot;)
+			else
+				send(&quot;pour &quot;..id..&quot; into empty&quot;)
+				send(&quot;put &quot;..id..&quot; in pack&quot;)
+			end
+		end
+	end
+end
+
+
+
+
+function elistreader.totalRefillCount()
+	local refillTotal = 0
+	local types = elistreader.returnAllTypes()
+
+	for i, type in pairs(elistreader.alchmissing) do
+		local alchdiff_amnt = elistreader.compareAlchMissingCount(type)
+		if alchdiff_amnt &lt; 0 then
+			refillTotal = refillTotal + alchdiff_amnt
+		end
+	end
+
+	for i, type in pairs(elistreader.forestmissing) do	
+		local fordiff_amnt = elistreader.compareForestMissingCount(type)
+		if fordiff_amnt &lt; 0 then
+			refillTotal = refillTotal + fordiff_amnt
+		end	
+	end
+
+	for i, type in ipairs(types) do
+		local diff_amnt = elistreader.compareTypeCount(type)
+		if diff_amnt &lt; 0 then
+			refillTotal = refillTotal + diff_amnt
+		end
+	end
+
+	if refillTotal &lt; 0 then
+		refillTotal = refillTotal * -1
+	end
+
+	cecho(&quot;&lt;white&gt;Total Needed for Refill: &lt;orange&gt;&quot;..refillTotal..&quot;\n&quot;)
+	cecho(&quot;&lt;dark_slate_gray&gt;----------------\n&quot;)
+
+end
+
+
+</script>
+                        <eventHandlerList/>
+                    </Script>
+                </ScriptGroup>
+            </ScriptGroup>
+        </ScriptGroup>
+    </ScriptPackage>
+    <KeyPackage/>
+</MudletPackage>

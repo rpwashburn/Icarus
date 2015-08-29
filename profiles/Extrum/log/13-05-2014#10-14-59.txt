@@ -1,0 +1,626 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           154 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. A rugged war goat stands here, gnawing on the leather bit of its reins. An obsidian eye sigil is here. Snorting excitedly, a heavy horse stands here. A simple pewter flagon lies here, abandoned. Wings flaring, a pegasus tosses his regal head impatiently.  A large barracks is here providing the city's forces with rest and refuge. Oathsworn Deglin is here, looking drawn and tired. His face is partially concealed beneath a raised hood. He wields a steel shortsword in his left hand and a steel Theran broadsword in his right. Devout Shelbie is here. She wields an ornate steel rapier in her left hand. Brivius is riding on an alabaster pegasus. He wields an ornate steel rapier in each hand.
+You see exits leading south, southwest, and west.
+6032h, 4473m, 27625e, 20200w ex-
+6032h, 4473m, 27625e, 20200w ex-
+You remove 1 bayberry bark, bringing the total in the Rift to 358.
+6032h, 4473m, 27625e, 20200w ex-
+You eat some bayberry bark.
+Your eyes dim as you lose your sight.
+6032h, 4473m, 27625e, 20200w exb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6032h, 4407m, 27625e, 20200w exb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4407m, 27625e, 20200w exb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4407m, 27625e, 20200w exb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4407m, 27625e, 20200w exb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6032h, 4407m, 27625e, 20200w xb-
+You may eat another plant or mineral.
+6032h, 4407m, 27625e, 20200w xb-
+You remove 1 hawthorn berry, bringing the total in the Rift to 139.
+6032h, 4407m, 27625e, 20200w xb-
+You eat a hawthorn berry.
+6032h, 4407m, 27625e, 20200w xb-
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/05/13 15:15:11 GMT.
+See HELP GMT for an explanation of GMT.
+6032h, 4407m, 27625e, 20200w xb-
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+6032h, 4407m, 27625e, 20200w xb-
+You have recovered equilibrium.
+6032h, 4407m, 27625e, 20200w exb-
+You will now attempt to parry attacks to your left arm.
+6032h, 4407m, 27625e, 20200w exb-
+You have begun to look for arrows to pluck from the air.
+6032h, 4407m, 27625e, 20200w eb-
+There is currently a City credit sale in progress.
+----[ Targossas City announcement ]----
+By the decree of the Bloodsworn Gods to Whom we are sworn, and until further notice, all martial attention of the city of Targossas is to be focused on the city of Mhaldor. No shrine to Sartan shall be left standing, no citizen of Mhaldor left free to walk the lands. This is Their will, and we will all follow it.
+---------------------------------------
+6032h, 4407m, 27625e, 20200w eb-
+You may eat another plant or mineral.
+6032h, 4407m, 27625e, 20200w eb-
+Message #1654       Sent by Achaea
+5/08/4:21 You are dismayed as your puppet of Draqoom returns to a near-shapeless mass.
+6032h, 4407m, 27625e, 20200w eb-
+You have recovered balance on all limbs.
+6032h, 4407m, 27625e, 20200w exb-
+Message #1655       Sent by Achaea
+5/09/15:00 A suicide mouse has escaped your clutches!
+6032h, 4407m, 27625e, 20200w exb-
+The aural world fades to silence.
+6032h, 4407m, 27625e, 20200w exdb-
+Deglin begins making an entry in a personal journal, disappearing from sight.
+6032h, 4390m, 27625e, 20195w exdb-
+Message #1656       Sent by Achaea
+5/11/4:08 A puppet of Ada has decayed to dust in your absence.
+6032h, 4372m, 27625e, 20195w exdb-
+Message #1657       Sent by Achaea
+5/11/4:14 A living puppet of Antonius has decayed to dust in your absence.
+6032h, 4461m, 27625e, 20195w exdb-
+Message #1658       Sent by Achaea
+5/11/4:47 A puppet roughly resembling Carmell has decayed to dust in your absence.
+6032h, 4461m, 27625e, 20195w exdb-
+Message #1659       Sent by Achaea
+5/11/4:50 A puppet roughly resembling Lyndee has decayed to dust in your absence.
+6032h, 4461m, 27625e, 20195w exdb-
+Shelbie says in an elegant voice, "Yeah yeah yell at me."
+6032h, 4461m, 27625e, 20195w exdb-
+Message #1660       Sent by Achaea
+5/13/0:00 Your Iron Membership has expired.
+6032h, 4461m, 27625e, 20195w exdb-
+(Argent Ward): Mithridates says, "I have more arties then dunn."
+6032h, 4461m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "Lol."
+6032h, 4442m, 27625e, 20195w exdb-
+Message #1661       Sent by Achaea
+5/13/6:09 An arrow has decayed to dust in your absence.
+6032h, 4442m, 27625e, 20195w exdb-
+Message #1662       Sent by Achaea
+5/13/6:09 An arrow has decayed to dust in your absence.
+6032h, 4442m, 27625e, 20200w exdb-
+Brivius's eyes sparkle with amusement.
+6032h, 4442m, 27625e, 20200w exdb-
+Message #1663       Sent by Achaea
+5/13/6:15 An arrow has decayed to dust in your absence.
+6032h, 4442m, 27625e, 20200w exdb-
+(Mudlet Clan): Siduri says, "It's supposed to be enabled through the Suggestion trigger, which contains: enableTrigger("HypnoEQ")."
+6032h, 4442m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "All of your artefacts give you the ability to have 13466 credits in escrow."
+6032h, 4424m, 27625e, 20195w exdb-
+Message #1664       Sent by Achaea
+5/13/6:18 An arrow has decayed to dust in your absence.
+6032h, 4424m, 27625e, 20195w exdb-
+Brivius says, "Not yellin."
+6032h, 4424m, 27625e, 20195w exdb-
+Message #1665       Sent by Achaea
+5/13/6:36 An arrow has decayed to dust in your absence.
+6032h, 4424m, 27625e, 20195w exdb-
+Message #1666       Sent by Achaea
+5/13/6:36 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1667       Sent by Achaea
+5/13/6:36 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1668       Sent by Achaea
+5/13/6:36 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+There is no next message to read.
+6032h, 4473m, 27625e, 20200w exdb-
+There is no next message to read.
+6032h, 4453m, 27625e, 20194w exdb-
+19.4.4 Elite Memberships
+
+What is Iron Elite
+------------------
+Elite Memberships are an optional subscription you may buy to receive a monthly
+benefit across your characters. It provides a variety of advantages to help you
+develop your characters at an advanced rate, as well as allowing you to receive
+additional benefits from other promotions we may be running.
+
+
+Advantages of Iron Elite
+------------------------
+- DAILY LESSONS
+Every character registered to your email address, will earn 5 lessons,
+everyday, upon login. You will earn these lessons the instant you login. This
+will net you 150 lessons per month which is about 25 credits. If you have 10
+characters, that is the equivalent of 250 credits per month in lessons.
+
+- BOUND CREDITS
+Your account will earn 100 bound credits every month. These credits can be
+distributed across any of your registered characters! In addition, you will
+accumulate 5 more credits every month you are on the membership (up to 150
+total credits per month).
+
+- PERMANENT CREDIT BONUS
+You will have a permanent 10% bonus to all credit purchases while on the
+membership. In other words, members will have a permanent sale running. This
+bonus will stack with any other sale we run.
+
+- EXPERIENCE BONUS
+[Type MORE if you wish to continue reading. (28% shown)]
+6032h, 4439m, 27625e, 20200w exdb-
+[File continued via MORE]
+Your characters will receive an experience bonus ranging from 5% - 25% (see
+below), to help you advance in levels at an accelerated rate.
+
+
+Cumulative benefits
+-------------------
+Being a long-term Iron Elite member increases the monthly benefits, based on
+the length of your membership! Each consecutive month you renew, you gain an
+additional 5% added to your experience bonus, as well as 5 more credits to be
+used however you see fit.
+
+In your first month, you'll receive 100 credits, and a 5% experience bonus. In
+your second, 105 credits, and a 10% experience bonus, all the way up to your
+eleventh consecutive month, where you'll receive 150 credits, and a 25%
+experience bonus every month thereafter!
+
+
+Accessing the Credits
+---------------------
+Your membership credits are stored in a "pool" which can be accessed by any of
+your characters. To access the credits, simply log in the character you wish to
+access the credits on, and use CREDITS MEMBERSHIP TRANSFER <AMOUNT>, which will
+convert them to bound credits on that character.
+
+You can check CREDIT REPORT at any time to see how many credits you have
+available!
+
+
+Purchasing an Iron Elite Membership
+-----------------------------------
+[Type MORE if you wish to continue reading. (56% shown)]
+6032h, 4458m, 27625e, 20196w exdb-
+[File continued via MORE]
+Signing up is simple! Just head to http://www.achaea.com/credits
+and follow the instructions listed there.
+
+PLEASE NOTE: This is a recurring payment! As you sign up, you're agreeing to an
+automatic, scheduled payment via your preferred payment method (PayPal or
+Credit Card.)
+
+If you're purchasing your membership via credit card, please keep your receipt,
+as it contains order information that you'll need in order to cancel your
+subscription.
+
+
+Cancelling your membership
+--------------------------
+You can cancel your membership at any time! There are no obligations to keep
+this going any longer than your wish for it to continue.
+
+If you paid for your Iron Elite Membership via PayPal: Simply log on to your
+PayPal account, navigate to the "Preapproved Payments" page, and cancel your
+scheduled payment.
+
+If you paid with Credit Card: Simply navigate to
+http://www.achaea.com/credits?page=cancel and enter your order number (from
+your payment receipt) and your email.
+
+Upon cancelling your membership, you will have a grace period of 30 days
+before the cumulative benefits of your membership expire.
+
+Further questions or problems
+-----------------------------
+[Type MORE if you wish to continue reading. (82% shown)]
+6032h, 4458m, 27625e, 20200w exdb-
+Shelbie says in an elegant voice, "Im having a bad day already."
+6032h, 4444m, 27625e, 20196w exdb-
+[File continued via MORE]
+Feel free to contact us at any time by emailing sales@achaea.com.
+
+
+Iron Elite and HELP SECONDS abuse
+---------------------------------
+Remember that we track characters if they are logged in at the same time from
+the same registration. So if you plan on switching all your friends to the same
+email addy, you will effectively be limiting them to never being able to play
+at the same time. Additionally, you will never be able to move them off the
+same registrations, which will give them the ability to change the registration
+info and effectively steal all your characters. Not to mention we will
+permanently block the accounts and characters of people found to be cheating.
+
+In short, do not try to abuse this, we will find out pretty quickly.
+
+6032h, 4473m, 27625e, 20196w exdb-
+(Mudlet Clan): Nila says, "Well obviously that isn't working?"
+6032h, 4473m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "How do you check that again?"
+6032h, 4459m, 27625e, 20196w exdb-
+(Mudlet Clan): Siduri says, "Yeah :(."
+6032h, 4443m, 27625e, 20196w exdb-
+(Mudlet Clan): Nila says, "What if you enable it manually?"
+6032h, 4440m, 27625e, 20200w exdb-
+Brivius takes a drink from a silver vial.
+6032h, 4440m, 27625e, 20200w exdb-
+PUBLIC NEWS #19438                                      (05/12/2014 at 02:19)  
+From   : Sunny Ashaela
+To     : Everyone
+Subject: Contest of literature
+-------------------------------------------------------------------------------
+EPIC LITERARY CONTEST
+-----------------------------------------------------------------
+Greetings to all and to all greetings. Ever stop and think what it would
+be like for others to read your stuff? Ever think that your design was
+top notch? What about thinking your funnier than the average Sapiant?
+Well why not put it to the test I say, and here is your chance. Now for
+a limited time we the Mojushai will compare your stuff against others.
+Wanna know the best part? Well if not I am going to tell you anyways.
+The best part is you have a chance to win CREDITS and it's free to
+enter!!!
+
+We the Mojushai, are holding a contest to gather literature for our
+Hold. To do this we have put together some catagories that you may
+submit to. Winner of each Category will recieve 10 credits each. The
+over all Winner will recieve 25 credits on top of the 10 they revieve
+for their first place catagory. Here is how it works. We will choose one
+2 winners from each catagory. First place gets 10 credits second place
+gets 5 credits. The first place winners from all catagories will then be
+pooled together and an overall winner with be chosen. Now on top of that
+everyone will have their work published in the Mojushai library. (To be
+determined if Cyrene also puts it in their library.
+
+------------------------------------------------------------------
+
+[Type MORE if you wish to continue reading. (63% shown)]
+6032h, 4440m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "Auction escrow build or something."
+6032h, 4440m, 27625e, 20200w exdb-
+PUBLIC NEWS #19439                                      (05/13/2014 at 00:44)  
+From   : Sunny Ashaela
+To     : Everyone
+Subject: Mojushai Contest corrections
+-------------------------------------------------------------------------------
+Greetings. It has come to my attention that I have to correct some of my Catagories.
+
+First I am looking for Two seperate Haiku's for one post.
+
+Any and all poetry is welcome.
+
+If you want to win your prize please limit all literature to two pages or less.
+
+Thank you and sorry for the inconvienence
+
+Sunny Ashaela
+
+Penned by my hand on the 7th of Lupar, in the year 654 AF.
+6032h, 4425m, 27625e, 20196w exdb-
+ANNOUNCE NEWS #4128                                     (05/09/2014 at 18:41)  
+From   : Tecton, the Terraformer
+To     : Everyone
+Subject: Marks and curing.
+-------------------------------------------------------------------------------
+Some more minor tweaks just loaded up:
+
+* Order members in the Ivory/Quisalis Mark are now highest priority for order writs.
+* The activity indicator of a Mark member is now based on activity, rather than dormancy.
+* The restriction on contracts between the same mark has been lifted.
+
+Additionally:
+
+* A slew of server-side curing updates for symptoms have been put in.
+* Changing elevation in a room will now strip shield, much like moving rooms.
+
+Penned by My hand on the 4th of Scarlatan, in the year 654 AF.
+6032h, 4473m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "Yep."
+6032h, 4473m, 27625e, 20200w exdb-
+Deglin carefully lowers the hood on a black hooded cloak.
+6032h, 4455m, 27625e, 20195w exdb-
+(Mudlet Clan): Dragonknight says, "Manually enable it and then do diag."
+6032h, 4455m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "You've almost passed me."
+6032h, 4441m, 27625e, 20196w exdb-
+Deglin puts a personal journal into a canvas backpack.
+6032h, 4473m, 27625e, 20200w exdb-
+(Mudlet Clan): Dragonknight says, "Should highlight the trigger."
+6032h, 4456m, 27625e, 20200w exdb-
+(Mudlet Clan): Siduri says, "Works."
+6032h, 4437m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "All of your artefacts give you the ability to have 13716 credits in escrow."
+6032h, 4437m, 27625e, 20200w exdb-
+(Mudlet Clan): Dragonknight says, "If it does. The problem is the other trigger."
+6032h, 4473m, 27625e, 20200w exdb-
+Brivius steps down off of an alabaster pegasus.
+6032h, 4454m, 27625e, 20200w exdb-
+An alabaster pegasus begins to follow Brivius obediently.
+6032h, 4454m, 27625e, 20200w exdb-
+Brivius easily vaults onto the back of an alabaster pegasus.
+6032h, 4454m, 27625e, 20200w exdb-
+POETRY NEWS #4686                                       (05/09/2014 at 15:14)  
+From   : Nixxe Ashaela, Scarlatti's Weaver of Imagination
+To     : Everyone
+Subject: 10 years gone
+-------------------------------------------------------------------------------
+Thyme, wine, olive oil, toasted bread, fancy leaves,
+carrot, parsley, pepper, salt, pumpkin seeds
+Time, a sweet syrup for stomach desire
+I won you with food
+Keep you with mood
+Between us a both, a mutual fire
+bouncing back proposals, nothing impedes
+we grow and cook as all is fermented and weaved
+
+Penned by my hand on the 1st of Scarlatan, in the year 654 AF.
+6032h, 4454m, 27625e, 20200w exdb-
+POETRY NEWS #4687                                       (05/11/2014 at 22:14)  
+From   : Knave Novice Arillis Azagnanna, Happy Hugger
+To     : Everyone
+Subject: Nomads of the Sands
+-------------------------------------------------------------------------------
+Nomads of the Sands
+----------------------
+
+How long is long when living in a world of Sand?
+Is it when you finished counting all of the grains in your hand?
+Or perhaps at the end of watching the sand dancing through the land?
+Does it even matter in a place where time is not in demand?
+
+Roaming past memories, forgotten dreams, wondering why...
+Do you find any answers in the desert's blazing sky
+where there is only the wind and silence to reply
+to the truths of the world you'd rather wish to deny?
+
+The blistering heat makes lives learn...
+Actions should not have a need for return.
+While loneliness may make the heart yearn,
+rekindle your lost fires, make them burn.
+
+Harsh is the land, filled with golden grains of Sand
+But no words are needed for sadness, loss or rant.
+No need for betrayal, lies or secret cant,
+only a heart pounding to truly understand
+
+the existence of simple truth, trust and loyalty;
+[Type MORE if you wish to continue reading. (86% shown)]
+6032h, 4440m, 27625e, 20196w exdb-
+TARGOSSAS NEWS #293                                     (05/08/2014 at 17:33)  
+From   : Davio Op'Shae, Guardian of the Blades
+To     : Everyone
+Subject: The filth in Mhaldor
+-------------------------------------------------------------------------------
+Targossas,
+
+In recent months the heretics of Mhaldor have been attempting to lash out and are moving in force. They are raising more shrines, they have destroyed rooms in overwhelming force and have shown their cowardice month in and month out. They go after easy targets, they make sure that they can win before engaging, and they run at the sight of any real fight. They will no longer be ignored.
+
+We have made shrines to the misguided Skylord all but irrelevant. As such, by the decree of the Bloodsworn our standing order, our focus - is switching back to Mhaldor, in full.
+
+No exceptions are being made in this. Not a single raid, engagement, or encounter is to take place outside of Mhaldor, Mhaldor isle, or in taking shrines to Sartan. Unless it is in defence of Their beacons, or Their City.
+
+Mhaldor will burn by the fire of Their Army, its walls will tremble beneath the might of Their forces. We will destroy rooms, remove shrines, and make them cower in the walls of their City. Not a single tank will go unused, every month we will burn room after room and kill them at every chance possible, no leniency will be given.
+
+In Their service,
+
+Judicator Davio Op'Shae, Guardian of the Blades
+
+Penned by my hand on the 4th of Miraman, in the year 654 AF.
+6032h, 4440m, 27625e, 20200w exdb-
+Deglin grows still and his lips begin to move silently.
+6032h, 4440m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "I'm an artie whore :(."
+6032h, 4440m, 27625e, 20200w exdb-
+Brivius says, "Fly with me."
+6032h, 4456m, 27625e, 20195w exdb-
+An alabaster pegasus flaps its wings a few times, lifting Brivius into the skies.
+6032h, 4456m, 27625e, 20200w exdb-
+Deglin is enveloped in translucent fire for a moment and is gone, his soul safe until he returns to Achaea.
+6032h, 4473m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "You are, yes."
+6032h, 4456m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4456m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4456m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4456m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4456m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4456m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4456m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "Embrace it."
+6032h, 4438m, 27625e, 20200w exdb-
+(Mudlet Clan): Dragonknight says, "If you want screen shot that one and we can look at it."
+6032h, 4454m, 27625e, 20200w exdb-
+TARGOSSAS NEWS #294                                     (05/10/2014 at 00:53)  
+From   : Predicant Carmell Bayt Al-Azhan, Caefir Priestess
+To     : Everyone
+Subject: Joining houses.
+-------------------------------------------------------------------------------
+Greetings,
+
+I need to remind all citizens that by decree of the Bloodsworn Gods all citizens of Targossas are to be members of a Targossian house.  All houses have opened up their membership process for you to join a house.  No one is exempt from this rule.  Everyone should be immediately looking to join either the Harbingers of Redemption, the Dawnblade or the Luminai.  If you are over the age of twenty-five contact one of the people in the house of your choice that is listed as able to induct.
+
+In Service,
+
+Carmell
+
+Penned by my hand on the 11th of Scarlatan, in the year 654 AF.
+6032h, 4438m, 27625e, 20200w exdb-
+Shelbie begins to flap her wings powerfully, and rises quickly up into the firmament.
+6032h, 4438m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "And upgrade my collar and sash for me."
+6032h, 4456m, 27625e, 20195w exdb-
+(Mudlet Clan): Elone says, "Should have done that right away. Or, should have told us that it has a dependency on another trigger entirely."
+6032h, 4437m, 27625e, 20195w exdb-
+(Argent Ward): Davio says, "Imagine both of us stormhammering!"
+6032h, 4437m, 27625e, 20200w exdb-
+TARGOSSAS NEWS #295                                     (05/10/2014 at 05:29)  
+From   : Halos Vorondil, Herald of Redemption
+To     : Everyone
+Subject: Applications for Chancellor
+-------------------------------------------------------------------------------
+
+Citizens,
+
+Daeir Wintermourne has worked assiduously and tirelessly since the very birth of Targossas, and has earned his rest. As he has requested leave from his position, I am calling for new applicants to the post of the Chancellery.
+
+The Chancellor handles the business of business in the Dawnspear. The security of the shops and the mercantile policies which govern them all fall beneath his oversight. They are the harridan of merchants, the sovereign of the shops, the catalyst of commerce. Additionally, the city-run shops must be stocked and attended to maintain them as healthy sources of revenue, and coin must be counted.
+
+The position is open to everyone in the Dawnspear, young or old. Experience is helpful, but only heart, organisation and diligence are required. Familiarity with shopkeeping (as well as a shopkeeper's license) is encouraged, but unrequired. If you wish to make an impact on the community which you live in, this may be the position for you.
+
+Anyone wishing to take a stab at it should write a letter to me, declaring their intent and any qualifications which they have. The application period will last six (6) months from the date of this post, after which time a decision will be made. Good luck.
+
+In Their service,
+
+Halos Vorondil
+Lumarch of the Conclave
+
+Penned by my hand on the 15th of Scarlatan, in the year 654 AF.
+6032h, 4455m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "You are not going magi."
+6032h, 4455m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "No, I know."
+6032h, 4435m, 27625e, 20200w exdb-
+You have no further news to read.
+6032h, 4435m, 27625e, 20200w exdb-
+(Argent Ward): Davio says, "I'm fking stuck monk forever."
+6032h, 4473m, 27625e, 20200w exdb-
+(Mudlet Clan): Nila says, "No need to be mean elone."
+6032h, 4459m, 27625e, 20196w exdb-
+(Argent Ward): Mithridates says, "Yep."
+6032h, 4459m, 27625e, 20200w exdb-
+(Mudlet Clan): Nila says, "People make mistakes."
+6032h, 4459m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "Kai monk 4 lyfe."
+6032h, 4440m, 27625e, 20195w exdb-
+This is an unknown option with the clan verb.
+6032h, 4457m, 27625e, 20196w exdb-
+(Mudlet Clan): Siduri says, "Nah, she's still right about it."
+6032h, 4457m, 27625e, 20200w exdb-
+(Argent Ward): You say, "Gayyyy."
+6032h, 4443m, 27625e, 20200w exdb-
+(Mudlet Clan): Elone says, "Am I being mean?"
+6032h, 4453m, 27625e, 20200w exdb-
+(Argent Ward): Achilles says, "Im stuck as Runie too."
+6032h, 4453m, 27625e, 20200w exdb-
+(Mudlet Clan): Siduri says, "Thoughjt I mentionned it, but maybe not."
+6032h, 4453m, 27625e, 20200w exdb-
+(Mudlet Clan): Elone says, "Can I put it in a plainer way than I already have?"
+6032h, 4421m, 27625e, 20200w exdb-
+(Argent Ward): Achilles says, "Id actually switch back to Paladin but then we'd lose prop beckon when Im around heh."
+6032h, 4457m, 27625e, 20196w exdb-
+(Mudlet Clan): Elone says, "If my input is not welcome, that's okay too."
+6032h, 4441m, 27625e, 20196w exdb-
+(Argent Ward): Mithridates says, "Nemutaur and Jinsun went somewhere."
+6032h, 4455m, 27625e, 20195w exdb-
+(Mudlet Clan): Choryn says, "Everybodies mean,,,."
+6032h, 4441m, 27625e, 20196w exdb-
+Nothing can be seen here by that name.
+6032h, 4473m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4459m, 27625e, 20196w exdb-
+Your pipe has gone cold and dark.
+6032h, 4459m, 27625e, 20196w exdb-
+Your pipe has gone cold and dark.
+6032h, 4459m, 27625e, 20196w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4459m, 27625e, 20196w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4459m, 27625e, 20196w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4459m, 27625e, 20196w exdb-
+(Mudlet Clan): Nila says, "Turning clan off."
+6032h, 4444m, 27625e, 20196w exdb-
+(Argent Ward): Achilles says, "Annwyn shrine just destroyed."
+6032h, 4444m, 27625e, 20196w exdb-
+(Mudlet Clan): Siduri says, "'http://i.imgur.com/U0kn3FB.png?1'"
+6032h, 4444m, 27625e, 20196w exdb-
+(Argent Ward): Achilles says, "So probably them."
+6032h, 4473m, 27625e, 20200w exdb-
+Poised at the very peak of the firmament, the fiery sun casts its radiant gaze across the land.
+6032h, 4453m, 27625e, 20194w exdb-
+(Argent Ward): Mithridates says, "Huh."
+6032h, 4453m, 27625e, 20194w exdb-
+(Argent Ward): Mithridates says, "What."
+6032h, 4453m, 27625e, 20194w exdb-
+(Argent Ward): Mithridates says, "I was in UW."
+6032h, 4437m, 27625e, 20195w exdb-
+(Mudlet Clan): Dragonknight says, ""Probably should have mentioned that" would have come across a bit nicer. But I don't see what you said as mean, just a bit snarky."
+6032h, 4437m, 27625e, 20195w exdb-
+(Argent Ward): Achilles says, "Lone rowan."
+6032h, 4455m, 27625e, 20195w exdb-
+(Argent Ward): Mithridates says, "Where are they?"
+6032h, 4455m, 27625e, 20195w exdb-
+(Argent Ward): Achilles says, "Annwyn."
+6032h, 4437m, 27625e, 20195w exdb-
+(Argent Ward): Mithridates says, "Going."
+6032h, 4459m, 27625e, 20196w exdb-
+(Argent Ward): Achilles says, "Shrine just got destroyed 3 min ago."
+6032h, 4459m, 27625e, 20196w exdb-
+(Mudlet Clan): Azuros says, "Snark? Sounds like Achaea."
+6032h, 4457m, 27625e, 20200w exdb-
+(Argent Ward): Mithridates says, "Nothtere."
+6032h, 4441m, 27625e, 20195w exdb-
+(Argent Ward): Mithridates says, "Man."
+6032h, 4423m, 27625e, 20195w exdb-
+(Mudlet Clan): Dragonknight says, "First off, you issue could be that your target string is in all lowercase."
+6032h, 4423m, 27625e, 20195w exdb-
+(Argent Ward): Mithridates says, "Can't type."
+6032h, 4473m, 27625e, 20200w exdb-
+(Mudlet Clan): Azuros says, "I've been killed by ten man-eating snarks."
+6032h, 4454m, 27625e, 20200w exdb-
+(Mudlet Clan): Dragonknight says, "And you should anchor the pattern."
+6032h, 4459m, 27625e, 20200w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 646.
+6032h, 4423m, 27625e, 20200w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6032h, 4423m, 27625e, 20200w exkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4423m, 27625e, 20200w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6032h, 4423m, 27625e, 20200w cxkdb-
+6032h, 4423m, 27625e, 20200w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6032h, 4423m, 27625e, 20200w cxkdb-
+You have recovered equilibrium.
+6032h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4473m, 27625e, 20200w cexkdb-

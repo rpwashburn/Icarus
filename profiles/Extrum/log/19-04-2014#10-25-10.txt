@@ -1,0 +1,1117 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           166 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           161 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> We're pleased to offer a new introductory package for all players, see
+   ANNOUNCE news #4102 for all of the details!
+-> Help us take the #1 spot - http://www.achaea.com/vote - every 12 hours.
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+6655h, 4755m, 15029e, 21685w exdb-
+6655h, 4755m, 15029e, 21685w exdb-
+You are blind and can see nothing but darkness.
+6655h, 4755m, 15029e, 21685w exdb-
+Message #1559       Sent by Achaea
+4/19/11:37 You are dismayed as your puppet of Atalkez returns to a near-shapeless mass.
+6655h, 4755m, 15029e, 21685w exdb-
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+6655h, 4755m, 15029e, 21685w exdb-
+There is currently a City credit sale in progress.
+6655h, 4755m, 15029e, 21685w exdb-
+There is no next message to read.
+6655h, 4755m, 15029e, 21685w exdb-
+There is no next message to read.
+6655h, 4755m, 15049e, 21685w exdb-
+There is no next message to read.
+6655h, 4755m, 15049e, 21685w exdb-
+There is no next message to read.
+6655h, 4755m, 15049e, 21685w exdb-
+You have no further news to read.
+6655h, 4755m, 15049e, 21685w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6655h, 4689m, 15049e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4689m, 15049e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4689m, 15049e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4689m, 15049e, 21685w exdb-
+You will now attempt to parry attacks to your left leg.
+6655h, 4689m, 15049e, 21685w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6655h, 4689m, 15049e, 21685w xdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here.
+You see a single exit leading down.
+6655h, 4784m, 15069e, 21685w xdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here.
+You see a single exit leading down.
+6655h, 4784m, 15069e, 21685w xdb-
+You have recovered equilibrium.
+6655h, 4784m, 15069e, 21685w exdb-
+You have begun to look for arrows to pluck from the air.
+6655h, 4784m, 15069e, 21685w edb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Dannyl Maynard                                                1  On  Dragon
+Apostle Daeir Wintermourne, Voice of the Fallen               2  On  Serpent
+Raikis, of Targossas                                          1  On  Blademaster
+Havyn Shu'in-Crescent, Augur of Light                         4  On  Magi
+Essandri, of Targossas                                        1  On  Runewarden
+Cambri                                                        1  On  Priest
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Predicant Kaiu Silvertongue-Obuun                             3  On  Druid
+Phantom Asp, Siduri Azagnanna                                 3  On  Serpent
+Compassionate Yuna Concordia                                  1  On  Dragon
+Gamden Obuun                                                  1  On  Blademaster
+Davio Op'Shae, Guardian of the Blades                         4  On  Dragon
+Galleryn                                                      1  On  Paladin
+Hanley D'Ischai                                               1  On  Serpent
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Soldier Seftin Azon                                           1  On  Runewarden
+Extrum Wintermourne                                           1  On  Jester
+6655h, 4770m, 15069e, 21681w edb-
+You have recovered balance on all limbs.
+6655h, 4770m, 15069e, 21681w exdb-
+Extrum, Skarlath, Benson, Gamden, Athil, Theldestron, Lisara, May, Yehonatan, Leoendithas, Bri, Tlilden, Isera, Sinnvia, Tesha, Hanley, Garin, Michielle, Yuna, Ranadon, Swarlus, Yverdaer, Aerran, Tsarani, Crixos, Senri, Araragi, Kena, Ilaida, Tarvius, Yae, Avagabriella, Vasriia, Larribau, Raikis, Hallis, Tarnath, Erudite, Lannah, Arcturus, Ashlog, Jiskjask, Satyana, Sanevito, Collorea, Merador, Ido, Shirszae, Shayco, Eiredhel, Jiano, Baliuk, Sylpheria, Teghaine, Orzaansyn, Aalya, Aquilora, Valgon, Boosteya, Briareus, Cooper, Vivirra, Skeave, Aze, Doveena, Cidusii, Marcen, Kaiu, Tenevriel, Callis, Neraya, Narxa, Galleryn, Eivan, Shara, Cambri, Geum, Sylarana, Twil, Roxara, Falthus, Tifreth, Heawon, Daslin, Diff, Jonesey, Essandri, Nesta.
+Plus another 34 whose presence you cannot fully sense.
+6655h, 4770m, 15069e, 21685w exdb-
+Collorea (female Siren).
+She is 18 years old, having been born on the 19th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 0% of your might.
+6655h, 4770m, 15069e, 21685w exdb-
+Aze (male Dwarf).
+He is 18 years old, having been born on the 12th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15069e, 21685w exdb-
+Skeave (male Satyr).
+He is 21 years old, having been born on the 18th of Miraman, 631 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Cub Aerran (male Tsol'aa).
+He is 18 years old, having been born on the 1st of Phaestian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Geum (female Atavian).
+She is 18 years old, having been born on the 11th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Eldritch Aspirant Swarlus (male Human).
+He is 18 years old, having been born on the 14th of Ero, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Tifreth (male Human).
+He is 18 years old, having been born on the 7th of Scarlatan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Malefic Kena (female Siren).
+She is 18 years old, having been born on the 12th of Scarlatan, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Deadeyes Jiano Darksoule (male Dwarf).
+His date of birth is hidden by the sand of Aeon.
+He is ranked 868th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 70% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'Live and die as an Apostate!'
+See HONOURS DEEDS JIANO to view his 1 special honours.
+6655h, 4770m, 15089e, 21685w exdb-
+Beloved Blade of Nature, Satyana Stormcrow (female Rajamala).
+Her date of birth is hidden by the sand of Aeon.
+She is ranked 179th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 115% of your might.
+She is a mentor and able to take on proteges.
+She has been divorced 2 times.
+She bears the arms: Sable, a cat's face Argent.
+See HONOURS DEEDS SATYANA to view her 7 special honours.
+6655h, 4770m, 15089e, 21685w exdb-
+Vivirra (female Human).
+She is 18 years old, having been born on the 21st of Phaestian, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Malefic Garin (male Mhun).
+He is 18 years old, having been born on the 24th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6655h, 4770m, 15089e, 21685w exdb-
+Galleryn arrives, following Havyn.
+Havyn arrives from the down.
+6655h, 4766m, 15149e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. Havyn Shu'in-Crescent, Augur of Light is here. Galleryn is here. He wields a pinewood vial in his right hand.
+You see a single exit leading down.
+6655h, 4784m, 15169e, 21685w exdb-
+Havyn raises her hand in greeting to you and says "Hi!"
+6655h, 4784m, 15169e, 21685w exdb-
+You say, "Heyvyn."
+6655h, 4768m, 15189e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. Havyn Shu'in-Crescent, Augur of Light is here. Galleryn is here. He wields a pinewood vial in his right hand.
+You see a single exit leading down.
+6655h, 4748m, 15209e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. Havyn Shu'in-Crescent, Augur of Light is here. Galleryn is here. He wields a pinewood vial in his right hand.
+You see a single exit leading down.
+6655h, 4768m, 15229e, 21681w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. Havyn Shu'in-Crescent, Augur of Light is here. Galleryn is here. He wields a pinewood vial in his right hand.
+You see a single exit leading down.
+6655h, 4751m, 15309e, 21685w exdb-
+Havyn says in a silvery voice, "Moment."
+6655h, 4765m, 15389e, 21685w exdb-
+Havyn's mouth turns up as her face breaks into a smile.
+6655h, 4765m, 15389e, 21685w exdb-
+Galleryn bows to Extrum.
+6655h, 4748m, 15389e, 21685w exdb-
+You incline your head politely.
+6655h, 4784m, 15429e, 21685w exdb-
+Galleryn (male Human).
+He is 18 years old, having been born on the 6th of Valnuary, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6655h, 4766m, 15449e, 21685w exdb-
+(Market): Benson says, "Buying just one Mayan Crown! Send me your tells!"
+6655h, 4784m, 15469e, 21685w exdb-
+Havyn says in a silvery voice, "Okay..."
+6655h, 4784m, 15529e, 21680w exdb-
+(Market): Jonesey says, "Selling 4/5 pack pieces. must buy all 4. 150 cr."
+6655h, 4784m, 15529e, 21680w exdb-
+Havyn says in a silvery voice, "Armour."
+6655h, 4784m, 15529e, 21685w exdb-
+Havyn ponders Galleryn with a contemplative expression.
+6655h, 4764m, 15549e, 21679w exdb-
+Havyn says in a silvery voice, "Paladin gets...wait, I know this."
+6655h, 4768m, 15589e, 21685w exdb-
+Havyn purses her lips, deep in thought.
+6655h, 4752m, 15609e, 21680w exdb-
+Havyn says in a silvery voice, "Fieldplate?"
+6655h, 4764m, 15649e, 21679w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4764m, 15649e, 21679w exdb-
+Your pipe has gone cold and dark.
+6655h, 4764m, 15649e, 21679w exdb-
+Your pipe has gone cold and dark.
+6655h, 4764m, 15649e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 15649e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 15649e, 21679w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4764m, 15649e, 21679w exdb-
+Galleryn grins.
+6655h, 4748m, 15669e, 21681w exdb-
+(Market): Amanu says, "Ad 434 for talisman pieces."
+6655h, 4733m, 15729e, 21680w exdb-
+Havyn says in a silvery voice, "Full plate ideally...but you can not forge."
+6655h, 4784m, 15729e, 21680w exdb-
+Galleryn says, "Indeed, we are trained in heavy armor."
+6655h, 4768m, 15769e, 21685w exdb-
+Havyn says in a silvery voice, "So full plate...well, you can carry it around and dance with it or something."
+6655h, 4753m, 15809e, 21685w exdb-
+You attempt to stifle your amusement but cannot help laughing aloud.
+6655h, 4754m, 15869e, 21681w exdb-
+Havyn says in a silvery voice, "Then let's see what is in the chest!"
+6655h, 4754m, 15869e, 21681w exdb-
+Havyn says in a silvery voice, "Which I have done."
+6655h, 4768m, 15889e, 21680w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. Galleryn is here. He wields a pinewood vial in his right hand. Havyn Shu'in-Crescent, Augur of Light is here.
+You see a single exit leading down.
+6655h, 4754m, 15909e, 21681w exdb-
+Havyn says to you in a silvery voice, "Do not judge."
+6655h, 4738m, 15929e, 21680w exdb-
+The corners of Havyn's mouth turn up as she grins mischievously.
+6655h, 4784m, 15929e, 21680w exdb-
+You say, "It's like watching a spaztic squirell try to find armour."
+6655h, 4750m, 16069e, 21680w exdb-
+Havyn opens a steel strongchest.
+The ornate bracket on the steel chest springs open as Havyn touches its lid.
+6655h, 4750m, 16089e, 21685w exdb-
+Havyn peers about herself unscrupulously.
+6655h, 4767m, 16109e, 21685w exdb-
+Havyn says in a silvery voice, "I am not spaztic."
+6655h, 4747m, 16129e, 21685w exdb-
+Havyn says in a silvery voice, "All the time."
+6655h, 4784m, 16149e, 21685w exdb-
+Galleryn says, "I am grateful for anything, Lady Havyn. Old leather armor is better than... well..."
+6655h, 4770m, 16149e, 21681w exdb-
+Havyn looks up into the air for divine inspiration.
+6655h, 4747m, 16229e, 21685w exdb-
+Havyn says in a silvery voice, "Oh come on."
+6655h, 4729m, 16229e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4784m, 16249e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 16249e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 16249e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 16249e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 16249e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 16249e, 21685w exdb-
+Havyn says in a silvery voice, "This is getting a bit silly."
+6655h, 4768m, 16269e, 21685w exdb-
+Havyn closes a steel strongchest.
+The sound of metal grating against metal fills the room as the steel chest magically locks itself.
+6655h, 4751m, 16269e, 21680w exdb-
+Havyn says in a silvery voice, "We will just go buy it."
+6655h, 4765m, 16369e, 21685w exdb-
+Havyn nods her head emphatically.
+6655h, 4749m, 16369e, 21680w exdb-
+Galleryn leaves, following Havyn.
+Havyn leaves to the down.
+6655h, 4749m, 16389e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4751m, 16849e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4751m, 16849e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4751m, 16849e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 16849e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 16849e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4751m, 16849e, 21685w exdb-
+(Market): Avagabriella says, "Seeking to buy a hellcat tail. if your."
+6655h, 4755m, 17109e, 21681w exdb-
+[OOC]: Help new adventurers find our realms by voting for us at TopMudSites! We only need 17 votes to move to rank 2! http://www.achaea.com/vote. Thanks!
+6655h, 4747m, 17409e, 21685w exdb-
+(Market): Avagabriella says, "Seeking to buy a hellcat tail. Send tells or a message."
+6655h, 4729m, 17409e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 17449e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 17449e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 17449e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 17449e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 17449e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 17449e, 21685w exdb-
+Thank you very much for voting! See HELP VOTING to read more about it and how it helps.
+6655h, 4752m, 17449e, 21681w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4784m, 18029e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 18029e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 18029e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 18029e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 18029e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 18029e, 21685w exdb-
+(Newbie): Aerran says, "Is 450 a good price for a steel shortsword?"
+6655h, 4751m, 18069e, 21685w exdb-
+(Newbie): Michielle says, "Usually you get what you pay for, and the stats will reflect the cost."
+6655h, 4766m, 18269e, 21685w exdb-
+(Newbie): Michielle says, "I like to check three seperate venders before buying most items."
+6655h, 4769m, 18509e, 21681w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4748m, 18629e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 18629e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 18629e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 18629e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 18629e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 18629e, 21680w exdb-
+(Market): Lannah says, "Buying crowns, send tells with prices."
+6655h, 4784m, 18709e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 19229e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 19229e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 19229e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 19229e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 19229e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 19229e, 21685w exdb-
+The earth trembles under foot as the Elder Dragon Davio enters from the down.
+6655h, 4734m, 19569e, 21680w exdb-
+Yehonatan arrives from the down.
+6655h, 4750m, 19609e, 21680w exdb-
+Yehonatan leaves to the down.
+6655h, 4750m, 19629e, 21680w exdb-
+Neonate Yehonatan Ironhoof (male Satyr).
+He is 127 years old, having been born on the 8th of Phaestian, 525 years after the fall of the Seleucarian Empire.
+He is ranked 1165th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 10% of your might.
+His motto: 'Honour. Chivalry. Duty. Lorecraft.'
+6655h, 4769m, 19809e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. The Silver Dragon Davio's imposing form looms.
+You see a single exit leading down.
+6655h, 4755m, 19809e, 21681w exdb-
+Extrum Wintermourne (male Dwarf Miner)
+You are level 99 (Greater Dragon) and 10.3% of the way to the next level.
+Health:       6655 / 6655     Mana:         4755 / 4784
+Endurance:   19829 /30595     Willpower:   21685 /21685
+Strength: 13  Dexterity: 12  Constitution: 19  Intelligence: 13
+6655h, 4755m, 19829e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4784m, 19829e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 19829e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4784m, 19829e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 19829e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 19829e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4784m, 19829e, 21685w exdb-
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.3%)  "Greater Dragon"                                       |
+| Age    : 115         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 262         Explorer Rank: 754     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6655/6655   Willpower: 21680/21685 Strength : 13 Intelligence: 13 |
+| Mana    : 4766/4784   Endurance: 19849/30595 Dexterity: 12 Constitution: 19 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 5       Room: 0.0      Unbound: 0         |
+|   Packs  : 62858         Bound  : 750     Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 487                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Fellowship of Dawn                   Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back *                                              |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6655h, 4766m, 19849e, 21680w exdb-
+Extrum, Kaiu, Daskrisk, Eiredhel, Natliya, May, Yverdaer, Yehonatan, Kyadea, Eain, Shara, Heawon, Briareus, Jacen, Cambri, Nesta, Ournelo, Tifreth, Sylarana, Tarnath, Tlilden, Senri, Isera, Jiano, Doveena, Bri, Aalya, Skarlath, Ravien, Annwyl, Colgano, Vasriia, Merador, Darktalon, Raikis, Nadria, Valgon, Tesha, Crixos, Teghaine, Daslin, Aquilora, Gamden, Hallis, Tyserous, Erudite, Tsarani, Jonesey, Collorea, Cooper, Aoghinius, Araragi, Arcturus, Neraya, Jiskjask, Larribau, Michielle, Xuaco, Ainun, Ido, Shirszae, Ashlog, Marcen, Tarvius, Aluciana, Deladan, Eivan, Essandri, Lannah, Skeave, Yae, Leoendithas, Benson, Vivirra, Gill, Cidusii, Aerran, Driden, Swarlus, Aze, Narxa, Garin, Tenevriel, Callis, Eores, Galleryn, Sylpheria, Theldestron, Lisara, Diff, Roxara.
+Plus another 34 whose presence you cannot fully sense.
+6655h, 4766m, 19849e, 21685w exdb-
+Tyserous (male Grook).
+He is 18 years old, having been born on the 10th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6655h, 4766m, 19849e, 21685w exdb-
+Blade Aspirant Daskrisk Sagtza, Sentry of Mhaldor (female Rajamala).
+She is 306 years old, having been born on the 3rd of Aeguary, 346 years after the fall of the Seleucarian Empire.
+She is ranked 1549th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 30% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Fast.'
+6655h, 4766m, 19849e, 21685w exdb-
+Grunt Eores, of Mhaldor (male Satyr).
+He is 18 years old, having been born on the 6th of Lupar, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6655h, 4766m, 19849e, 21685w exdb-
+Gill (male Human).
+He is 18 years old, having been born on the 24th of Phaestian, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6655h, 4749m, 19849e, 21680w exdb-
+Ournelo (male Tsol'aa).
+He is 18 years old, having been born on the 23rd of Lupar, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is considered to be approximately 0% of your might.
+6655h, 4749m, 19849e, 21680w exdb-
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are walking with the grace of the stars.
+You are blind.
+You are deaf.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You will attempt to parry attacks to your left leg.
+You are truefavoured by Aurora for over 17 Achaean days (which is about 17 hours).
+You are protected by 9 defences.
+6655h, 4749m, 19869e, 21685w xdb-
+You have recovered equilibrium.
+6655h, 4735m, 19869e, 21681w exdb-
+Your mind is whirling with thoughts - you cannot settle down to sleep.
+6655h, 4784m, 19889e, 21685w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. The Silver Dragon Davio's imposing form looms.
+You see a single exit leading down.
+6655h, 4764m, 19889e, 21679w exdb-
+You relax your mind and feel as if you could sleep.
+6655h, 4747m, 19929e, 21680w exdb-
+You close your eyes, curl up in a ball, and fall asleep.
+6655h, 4747m, 19929e, 21685w exdb-
+You are asleep and can do nothing. WAKE will attempt to wake you.
+6655h, 4784m, 21209e, 21685w exdb-
+You are asleep and can do nothing. WAKE will attempt to wake you.
+6655h, 4770m, 21329e, 21685w exdb-
+You roam through the labyrinthine halls of an ancient monastery, surrounded by the fleeting images of scholars young and old, past and the present, their history unfolded and all knowledge assembled.
+6655h, 4770m, 21889e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4752m, 22809e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 22809e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4752m, 22809e, 21685w exdb-
+(Newbie): Aze says, "What drink does Boga want?"
+6655h, 4748m, 23169e, 21685w exdb-
+(Newbie): Aze says, "I've bought her a couple and she never wants any of them."
+6655h, 4768m, 23629e, 21681w exdb-
+You quaff flagon after flagon of darkbrew, sending the room spinning at an endlessly increasing rate. Perhaps you should have stopped a few flagons ago, you wonder, after vomiting the contents of your final meal. Dizzily you fall to the ground, gasping for breath as all fades away.
+6655h, 4784m, 24209e, 21685w exdb-
+A parchment unrolls before you, and your fingers close upon a feathered quill. You begin to scribe a letter, but the ink fades as soon as the words are formed.
+6655h, 4769m, 25009e, 21681w exdb-
+You race down an endless corridor, the end more distant the faster you run.
+6655h, 4769m, 25129e, 21685w exdb-
+Giant claws sprout from your hands and you are overcome with the urge to dig. Relentlessly you tear at the earth, piling soil at your feet and creating an enormous hole. Suddenly your claws scrape against metal, and you unearth a treasure chest filled with gold.
+6655h, 4764m, 27429e, 21679w exdb-
+Rising up in a billowing cloud of red fog is a fearsome figure, his features obscured by a long robe. All that can be seen is a crimson gem gleaming brightly from within the shadowy folds of the robe, and a cruel chuckle rumbles all around as you tremble in fear.
+6655h, 4747m, 29869e, 21680w exdb-
+It is now the 25th of Phaestian, 652 years after the fall of the Seleucarian Empire.
+6655h, 4748m, 30595e, 21679w exdb-
+You open your eyes and stretch languidly, feeling deliciously well-rested.
+6655h, 4748m, 30595e, 21679w exdb-
+You stand up.
+6655h, 4751m, 30595e, 21680w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6655h, 4685m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4685m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4685m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4685m, 30595e, 21680w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. A miniature brazier of flawless crystal gleams steadily beneath a cloud of wood-scented smoke. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. There are 5 Brighthold watchmen here. Waddling nearby, a desert hedgehog snuffles eagerly at a scruffy girl's feet. A sigil in the shape of a small, rectangular monolith is on the ground. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A steel-plated chair is here. The Silver Dragon Davio's imposing form looms.
+You see a single exit leading down.
+6655h, 4766m, 30595e, 21681w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4749m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4749m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4749m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4749m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4749m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4749m, 30595e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4765m, 30595e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4750m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4750m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4750m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4750m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I AM DONE."
+6655h, 4753m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "God damn."
+6655h, 4753m, 30595e, 21680w exdb-
+Davio begins making an entry in a personal journal, disappearing from sight.
+6655h, 4768m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Havyn says, "Why are you using a Mhaldorian prefix?"
+6655h, 4768m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Oh my."
+6655h, 4746m, 30595e, 21679w exdb-
+Apostle Daeir Wintermourne, Voice of the Fallen (male Human).
+He is 82 years old, having been born on the 4th of Valnuary, 570 years after the fall of the Seleucarian Empire.
+He is ranked 477th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Sentry in Targossas.
+He is a Conscript in the army of Targossas.
+He is considered to be approximately 90% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Persevere.'
+He bears the arms: Argent, on a pall Sable, a crow displayed.
+See HONOURS DEEDS DAEIR to view his 3 special honours.
+6655h, 4784m, 30595e, 21680w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4748m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4748m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4748m, 30595e, 21680w exdb-
+Your current clan will now be the 'The Bathhouse Strikes Back' clan.
+6655h, 4748m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Done with what."
+6655h, 4748m, 30595e, 21685w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4784m, 30595e, 21685w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4768m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Marcen says, "How long does the censure/endorse time last."
+6655h, 4767m, 30595e, 21680w exdb-
+(Newbie): Bofeng says, "Hi, can you help explain this: "We're pleased to offer a new introductory package for all players, see ANNOUNCE news #4102 for all of the details!""
+6655h, 4765m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Daeir."
+6655h, 4752m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Endorsing/censuring ACC."
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "All fucking 395 of them."
+6655h, 4734m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Daeir."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "325*."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "What."
+6655h, 4766m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Quit being a scrub and write me something to parse them all out to html so I can read through ada's thing."
+6655h, 4765m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Plz."
+6655h, 4750m, 30595e, 21681w exdb-
+(Newbie): Eirona says, "You can READNEWS ANNOUNCE 4102 to find out about the introductory lesson packages."
+6655h, 4750m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4732m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4732m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4732m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4732m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4732m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4732m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "No f u."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Do it urself."
+6655h, 4764m, 30595e, 21685w exdb-
+(Newbie): Bofeng says, "Thanks."
+6655h, 4764m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "If u censured mine i'm beating u up."
+6655h, 4764m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I liked your illuminate one."
+6655h, 4750m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "I dont know how to type."
+6655h, 4733m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Yay for not fucking flagrantly copying blackwind/astralform."
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "I dont have hands."
+6655h, 4766m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Can't you just do classlead list censured to see if he did."
+6655h, 4766m, 30595e, 21685w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+6655h, 4769m, 30595e, 21685w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+6655h, 4752m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "No only mak/tecton can see censure etc, i think."
+6655h, 4752m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "Or gods obv."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Oh."
+6655h, 4765m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "So we don't grief eachother."
+6655h, 4765m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I endorsed a lot more than I censured I think."
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "Did you endorse my jester changes."
+6655h, 4784m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): Marcen says, "That's lame, I want to know if mine was censured/endorsed."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Jester not op enough."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Some of them."
+6655h, 4770m, 30595e, 21681w exdb-
+(Targossas): Mithridates says, "Hail."
+6655h, 4784m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "Good boy."
+6655h, 4764m, 30595e, 21685w exdb-
+(Fellowship of Dawn): Daeir says, "Hail? Where? shit, my car is in the driveway."
+6655h, 4770m, 30595e, 21681w exdb-
+(Targossas): Bofeng says, "Hello."
+6655h, 4750m, 30595e, 21679w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "So."
+6655h, 4784m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "Ive run into this situation where."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "People are now handing me back my timed bombs."
+6655h, 4768m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "What do."
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "That'll be fixed."
+6655h, 4750m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Dw."
+6655h, 4750m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "It's a dumb oversight."
+6655h, 4784m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "That that's allowed."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Oh what."
+6655h, 4748m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "Really?"
+6655h, 4748m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Yeah."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "No other ability works like that."
+6655h, 4756m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "How do you know."
+6655h, 4756m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "Hahahaha that's so funny rofl."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Because common sense."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "That wasn't a classlead or anything though was it."
+6655h, 4751m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Yes, it was."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Tesha says, "That's like some wil e coyote/roadrunner stuff."
+6655h, 4768m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Haha."
+6655h, 4753m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Lol what, they're fixing that?"
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Kaie classleaded it."
+6655h, 4755m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I endorsed it."
+6655h, 4784m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): You say, "Oh, interesting."
+6655h, 4784m, 30595e, 21685w exdb-
+That is not the numeric ID of a valid classlead report.
+6655h, 4765m, 30595e, 21685w exdb-
+ ID D Submitter       Ability         Problem        
+-------------------------------------------------------------------------------
+ 16 S Nemutaur        Bombs           At the moment there is no indication of
+ 43 S Jovolo          Hocuspocus      Hocuspocus is the only illusion ability
+137 S Aktillum        Giraffes        Balloon giraffes currently only come in
+146 S Kaie            Juggling        Jester is an expensive class to play in
+178 S Kaie            Slipperiness    Jester is one of the only classes, if no
+180 S Extrum          Mickey          Moss/Potash are consumed passively for t
+181 S Kaie            Bombs           The "give bomb to target" reflex is pret
+195 S Kaie            New             Given the fact that illusions are now ob
+198 S Aktillum        Damage kills    HocusPocus is a staple of Jester combat
+200 S Aktillum        Devil stacks    The effects of the Devil card wear off e
+202 S Aktillum        Death from abov Balloons are handy for escaping, but the
+220 S Jovolo          Juggling        Jesters suffer from a stop/start nature
+221 S Jovolo          Mickey          Mickey doesn't consume the herb that was
+-------------------------------------------------------------------------------
+6655h, 4747m, 30595e, 21685w exdb-
+Report #181
+-------------------------------------------------------------------------------
+Submitted by: Kaie           Status      : Submitted
+Skill       : Pranks         Ability     : Bombs
+-------------------------------------------------------------------------------
+Problem:
+The "give bomb to target" reflex is pretty ridiculous. It's a one of a kind issue where an opponent can turn your own attack on you with ease and capitalize on it. While opponents do need a chance to escape bombs, they don't need so many. There are currently 3 actions you can take to get rid of bombs.. 2 too many. You can put in a container, drop, or give it.
+-------------------------------------------------------------------------------
+Solution #1:
+Make it so timed bombs cannot be placed into any container or given back. Attempts to do so would be met with a message stating "You cannot give that away." Or "You cannot put a live explosive in that." Additionally you could create an artifact container built to withstand explosions.
+Solution #2:
+Make it so that only the Jester can give away timed bombs. Leaving the only options to put it in a container or drop it. Any attempt by an opponent to give it back would be met with a message stating he/she cannot give that away.
+Solution #3:
+Add a new skill that allows a Jester to rig his or her explosives with a trick detonator that trips when the bomb is handled to give away or put in a container. Dropping is still viable.
+-------------------------------------------------------------------------------
+
+6655h, 4770m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "I dont trust that anything kaie says will get implemented."
+6655h, 4770m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Dudes a tard."
+6655h, 4751m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, "I remember him suggesting juggling tarot cards at one point."
+6655h, 4737m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "If kaie, xith, or mako classlead anything, I just auto-facepalm."
+6655h, 4748m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "99/100 times."
+6655h, 4747m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Esp jester related."
+6655h, 4764m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Kaie's ones were okay, though."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "His slipperiness one was dumb, but the others were okay."
+6655h, 4748m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4745m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4745m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4745m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4745m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4745m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4745m, 30595e, 21685w exdb-
+Usage: CLASSLEAD LIST [<type>]
+       CLASSLEAD LIST <type> [start]
+       CLASSLEAD LIST <skill name> [start]
+       CLASSLEAD LIST <skill name> [type] [start]
+       CLASSLEAD LIST <player> [start]
+       CLASSLEAD LIST <player> [type] [start]
+       CLASSLEAD LIST CENSURED
+       CLASSLEAD LIST ENDORSED
+6655h, 4747m, 30595e, 21680w exdb-
+Report #195
+-------------------------------------------------------------------------------
+Submitted by: Kaie           Status      : Submitted
+Skill       : Pranks         Ability     : New
+-------------------------------------------------------------------------------
+Problem:
+Given the fact that illusions are now obsoleted, Jester needs to compensate for that. A large part of combat for it was using illusions to deceive the opponent into doing something like disrupting aeon curing by illusioning something like asthma or sleep. It was also useful to buy time by forcing the opponent to lose balance, defenses are upkept and managed by the curing, so speed might be an issue aswell. It's been kind of a "trick" class, even though I hate to call it that, but now with the impact this has, the trick part is gone. We might as well take something beneficial from this and cross over into a more solid affliction class.
+-------------------------------------------------------------------------------
+Solution #1:
+Create a new prop that can be wished for to deliver impatience.
+Solution #2:
+Remove the random factor from Itchpowder and replace it with a steady 2s tick that afflicts with Impatience.
+Solution #3:
+Give juggling a separate balance cost, similar to how dstab+illusion used to work. This would allow combat to proceed as it was without the need for an illusion to throw off aeon curing.
+-------------------------------------------------------------------------------
+
+6655h, 4732m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Tesha says, "Which ones of mine did u censure."
+6655h, 4784m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Bro wants impatience in pranks."
+6655h, 4769m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "From a prop."
+6655h, 4751m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Shiro says, "Do others see your comments when you censure/endorse?"
+6655h, 4764m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Shiro says, "I mean other players."
+6655h, 4784m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Acc does at the last stage of review I think."
+6655h, 4751m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Not sure."
+6655h, 4751m, 30595e, 21685w exdb-
+(Newbie): Gill says, "Do i just start randomly attacking kobolds even if they havent started fighting me?"
+6655h, 4784m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Can't remember."
+6655h, 4767m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Only way I can see impatience getting added to jester is making it proc from moon tarot."
+6655h, 4767m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Impatience on jester would be apeshit, i want it to happen."
+6655h, 4754m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Jester doesn't need a truelock."
+6655h, 4738m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Jester has enough ways to fuck people over without truelocking."
+6655h, 4784m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "I mean."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Shiro says, "Cause I can see my comments. I wanna know if others can."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Yeah."
+6655h, 4769m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Ill take it."
+6655h, 4769m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Dont get me wrong."
+6655h, 4766m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): Daeir says, "I'm hoping returning gets added to jester as well."
+6655h, 4747m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Truelock niggas like it aint no thang."
+6655h, 4727m, 30595e, 21679w exdb-
+(The Bathhouse Strikes Back): Daeir says, "So you can have 250 speed daggers and juggle throw for like 0.3s."
+6655h, 4766m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Daeir says, "Or 0.2s or whatever."
+6655h, 4784m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21685w exdb-
+Your pipe has gone cold and dark.
+6655h, 4766m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4766m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "I just want like."
+6655h, 4770m, 30595e, 21681w exdb-
+(The Bathhouse Strikes Back): You say, "Obv didn't classlead this."
+6655h, 4768m, 30595e, 21680w exdb-
+(The Bathhouse Strikes Back): You say, "But."
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): Marcen says, "Ugh, I wish they would have sold artie daggers, that thrown item bug would have been amazing on jesters."
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Needs to be an easier way to keep afflicting and re-apply aeon when you're locking them."
+6655h, 4766m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Thats when they always get out."
+6655h, 4746m, 30595e, 21685w exdb-
+(Newbie): Gill says, "Ok so i impatiently killed one, everythings fine, im fine."
+6655h, 4746m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Maybe just like."
+6655h, 4746m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Bump aeon duration time."
+6655h, 4753m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Or something."
+6655h, 4737m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Although I think my new bomb timer script will solve that."
+6655h, 4750m, 30595e, 21685w exdb-
+Your oaken pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+Your pipe has gone cold and dark.
+6655h, 4768m, 30595e, 21680w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6655h, 4768m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Just handoff quick conc bomb with a low timer."
+6655h, 4784m, 30595e, 21685w exdb-
+(The Bathhouse Strikes Back): You say, "Should fuck them up."
+6655h, 4749m, 30595e, 21681w exdb-

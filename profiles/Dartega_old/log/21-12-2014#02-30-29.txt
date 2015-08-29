@@ -1,0 +1,1067 @@
+Rapture Runtime Environment v2.3.6 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           151 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+5654h, 5580m, 24600e, 21960w  ex-----
+(Thralls): Cresil says, "Welcome, Thrall Thurya. Read HHELP WELCOME and follow the instructions within. Serve well or Perish."
+5654h, 5580m, 24600e, 21960w  ex-----
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+5654h, 5580m, 24600e, 21960w  ex-----
+----[ Mhaldor City announcement ]----
+
+Logosmas comes to Mhaldor in a series of events! MHALDOR NEWS #3221 has more details.
+
+-------------------------------------
+5654h, 5580m, 24600e, 21960w  ex-----
+It is deep night in Achaea, before midnight.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/12/21 08:30:42 GMT.
+See HELP GMT for an explanation of GMT.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "OMG MELODIE STOP ANSWERING QUESTIONS COME TO CLOUDS."
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "RP IS NOT AS IMPORTANT AS RPS."
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Melodie says, "Lol."
+5654h, 5580m, 24600e, 21960w  ex-----
+Alekxz, Amarillys, Gisahl, Perl, Vithincus, Bheiyru, Sable, Xax, Visnia, Yiwen, Lazareth, Melodie, Caron, Eivan, Gilthanis, Lauria, Shirszae, Tarvius, Sunny, Drave, Allene, Krahe, Aeceon, Shoshonna, Glorissa, Xith, Grondson, Anaria, Sarieno, Cresil, Karai, Romeo, Aaiden, Cree, Thurya, Lilian, Kiiri, Zandre, Aiseiri, Yurdan, Cyla, Yae, Zada, Ainly, Hhaos, Synbios, Alinixa, Rom, Reni, Zeddicus, Draakor, Seara, Beorji, Nadria, Darktalon, Sarathai, Gawi, Laera, Khairt, Kopeshku, Samanthya, Volteras, Athelas, Tariki, Eica, Ansikt, Zengo, Jinsun, Ramilies, Wynne, Daelok, Greys, Aodfionn, Dairune, Kei, Calaurn, Prysala, Talyndrae, Maccabeus, Amelythe, Redd, Krux, Aelyn.
+Plus another 30 whose presence you cannot fully sense.
+5654h, 5580m, 24600e, 21960w  ex-----
+Drave (male Tsol'aa).
+He is 246 years old, having been born on the 14th of Miraman, 426 years after the fall of the Seleucarian Empire.
+He is ranked 765th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 75% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Vibrant colors through violet iris.'
+He has taken the hand of Maven Deadlocke, Firedancer in marriage.
+He has been divorced 2 times.
+He bears the arms: Argent, a lotus Purpure and a serpent Sable.
+See HONOURS DEEDS DRAVE to view his 3 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Redd Xanatov-Thorngage (female Atavian).
+She is 21 years old, having been born on the 6th of Lupar, 650 years after the fall of the Seleucarian Empire.
+She is ranked 1174th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 20% of your might.
+She is a mentor and able to take on proteges.
+See HONOURS DEEDS REDD to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Cree Cholla'Yi - Le'Murzen (female Human).
+She is 432 years old, having been born on the 6th of Valnuary, 239 years after the fall of the Seleucarian Empire.
+She is ranked 963rd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 80% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Relics don't have to bother with mottos!!'
+She has taken the hand of Caleth Le'Murzen in marriage.
+See HONOURS DEEDS CREE to view her 2 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Xith I. Riddle, Merchant Coordinator (male Mhun).
+He is 138 years old, having been born on the 1st of Phaestian, 533 years after the fall of the Seleucarian Empire.
+He is ranked 394th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Patrician in Ashtan.
+He is a Recruit in the army of Ashtan.
+He is considered to be approximately 135% of your might.
+He is a mentor and able to take on proteges.
+See HONOURS DEEDS XITH to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Tariki, Ashtani Chaos Scholar (female Xoran).
+She is 19 years old, having been born on the 23rd of Sarapin, 653 years after the fall of the Seleucarian Empire.
+She is ranked 1530th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 5% of your might.
+Her motto: 'All paths lead back to the one path.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Aarashi Shamshir Synbios Hagane, Blade Singularity (male Mhun).
+His date of birth is hidden by the sand of Aeon.
+He is ranked 353rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 80% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Heroes are born in the crucible of conflict.'
+He bears the arms: Argent, on a pale cotised Gules, a sword paleways of the first.
+See HONOURS DEEDS SYNBIOS to view his 7 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Admiral Greys Vorondil, Rasul of the Lightbringer (male Elder Golden Dragon).
+He is 317 years old, having been born on the 12th of Valnuary, 354 years after the fall of the Seleucarian Empire.
+He is ranked 90th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Vigilant in Targossas.
+He is considered to be approximately 65% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'I simply am'
+He has taken the hand of Patternmaker, Dame Naomh Vorondil, Phaestean Crafter in marriage.
+He has been divorced 2 times.
+See HONOURS DEEDS GREYS to view his 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Aaiden (female Atavian).
+She is 24 years old, having been born on the 15th of Scarlatan, 647 years after the fall of the Seleucarian Empire.
+She is ranked 1086th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is a Trainee in the army of Cyrene.
+She is considered to be approximately 30% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'It is purpose that defines us, purpose that binds us.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Grondson Rousseau, Nature's Gatherer (male Elder Red Dragon).
+He is 76 years old, having been born on the 23rd of Valnuary, 595 years after the fall of the Seleucarian Empire.
+He is ranked 74th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Watcher in Eleusis.
+He is a Warden of the Ithmia in the army of Eleusis.
+He is considered to be approximately equal to your might.
+He is a mentor and able to take on proteges.
+His motto: 'In Maya's memory.'
+See HONOURS DEEDS GRONDSON to view his 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Void Carnifex Jinsun Ze'Dekiah, Twin-born Assassin (male Tsol'aa).
+He is 67 years old, having been born on the 24th of Miraman, 605 years after the fall of the Seleucarian Empire.
+He is ranked 79th in Achaea.
+He is the 11th ranked combatant with a rating of 245.
+He is an extremely credible character.
+He is rapidly approaching the ranks of the Infamous.
+He is a member of the Quisalis Mark.
+He is a Consul in Ashtan.
+He is a Vanguard in the army of Ashtan.
+He is considered to be approximately equal to your might.
+He is a mentor and able to take on proteges.
+His motto: 'So soothing, to mix a drink and sink into Oblivion.'
+He has been engaged to be married to Keeper of the Chao, Juniko Ashaela for 114 months.
+See HONOURS DEEDS JINSUN to view his 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Lady Jester Caron Tav'Elaon, The Less Magnificent Fierce (female Siren).
+She is 21 years old, having been born on the 25th of Sarapin, 651 years after the fall of the Seleucarian Empire.
+She is ranked 1703rd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 40% of your might.
+Her motto: 'Carpe Noctem!'
+See HONOURS DEEDS CARON to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Melodie Le'Murzen, Herald of the Insidium (female Human).
+She is 269 years old, having been born on the 24th of Ero, 402 years after the fall of the Seleucarian Empire.
+She is ranked 87th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Troni in Mhaldor.
+She is a Soldier of the Truths in the army of Mhaldor.
+She is considered to be approximately 125% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'To regret deeply is to live afresh.'
+She has been divorced 2 times.
+She bears the arms: Argent, a chevron wavy Sanguine between two edelweisses in chief Azure and a hippocampus hauriant in base.
+See HONOURS DEEDS MELODIE to view her 11 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Thrall Thurya (male Xoran).
+He is 18 years old, having been born on the 17th of Miraman, 654 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+He is a Thrall of Evil in the Dread Legates.
+5654h, 5580m, 24600e, 21960w  ex-----
+Fiery Enforcer Samanthya Xanatov, Heart of the Forest (female Silver Dragon).
+She is 257 years old, having been born on the 13th of Chronos, 414 years after the fall of the Seleucarian Empire.
+She is ranked 273rd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Ranger in Eleusis.
+She is a Scout in the army of Eleusis.
+She is considered to be approximately 110% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Heart of the Forest Blood of the Sea Voice of the Wind.'
+She has been divorced once.
+See HONOURS DEEDS SAMANTHYA to view her 5 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Anaria Rinji (female Siren).
+She is 25 years old, having been born on the 23rd of Daedalan, 647 years after the fall of the Seleucarian Empire.
+She is ranked 615th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 40% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'The quieter you become, the more you are able to hear.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Wolven Fury Kopeshku Winterhart, Oaken Hand (male Xoran).
+He is 23 years old, having been born on the 18th of Ero, 648 years after the fall of the Seleucarian Empire.
+He is ranked 756th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 30% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+Kohai Bheiyru Azon, Ashuran Raven (male Horkval).
+He is 317 years old, having been born on the 12th of Valnuary, 354 years after the fall of the Seleucarian Empire.
+He is ranked 516th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is an Equite in Ashtan.
+He is a Recruit in the army of Ashtan.
+He is considered to be approximately 40% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Invalesco Ad Infinitum.'
+See HONOURS DEEDS BHEIYRU to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Druid Athelas (male Human).
+He is 373 years old, having been born on the 24th of Scarlatan, 298 years after the fall of the Seleucarian Empire.
+He is ranked 439th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Lord Jester Sunny Ashaela (male Atavian).
+He is 68 years old, having been born on the 15th of Daedalan, 604 years after the fall of the Seleucarian Empire.
+He is ranked 1100th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 55% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Jonesey says, "Yea i cant hear shorts."'
+See HONOURS DEEDS SUNNY to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Master Sarieno Kindfire, Swordsman of the Crown (male Mhun).
+He is 273 years old, having been born on the 2nd of Miraman, 399 years after the fall of the Seleucarian Empire.
+He is ranked 801st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peer in Hashan.
+He is a Night Protector in the army of Hashan.
+He is a member of the ruling council of Hashan, with the title of Regent.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Aut viam inveniam aut faciam.'
+He has been divorced once.
+See HONOURS DEEDS SARIENO to view his 2 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Cresil Aristata, Scourge of the Legion (male Mhun).
+He is 36 years old, having been born on the 16th of Glacian, 635 years after the fall of the Seleucarian Empire.
+He is ranked 365th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a member of the Quisalis Mark.
+He is a Dynamis in Mhaldor.
+He is an Oppressor in the army of Mhaldor.
+He is considered to be approximately 105% of your might.
+He is a Fiend of the Inferno in the Dread Legates.
+He is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Clothier Laera Ashaela Zviera (female Rajamala).
+She is 33 years old, having been born on the 11th of Sarapin, 639 years after the fall of the Seleucarian Empire.
+She is ranked 1114th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 25% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Ho Ho Ho - It's a term of endearment.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Greenthorn Aeceon Corten, Sentinel Lion (male Human).
+He is 27 years old, having been born on the 14th of Ero, 644 years after the fall of the Seleucarian Empire.
+He is ranked 724th in Achaea.
+He is the 64th ranked combatant with a rating of 100.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 25% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'And if you lose yourself, I will find you.'
+He has been engaged to be married to Sylvan Ritualist Sherona Crescent for 23 months.
+See HONOURS DEEDS AECEON to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Druidess Yae Dawyn (female Atavian).
+She is 73 years old, having been born on the 6th of Lupar, 598 years after the fall of the Seleucarian Empire.
+She is ranked 68th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Watcher in Eleusis.
+She is a Warden of the Ithmia in the army of Eleusis.
+She is considered to be approximately 110% of your might.
+She is a mentor and able to take on proteges.
+See HONOURS DEEDS YAE to view her 12 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Warlock Nadria Darkmist, Aeternum Fides (female Siren).
+She is 335 years old, having been born on the 15th of Lupar, 336 years after the fall of the Seleucarian Empire.
+She is ranked 298th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is a Recruit in the army of Ashtan.
+She is considered to be approximately 55% of your might.
+She is a mentor and able to take on proteges.
+She has been divorced 4 times.
+See HONOURS DEEDS NADRIA to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Oathsworn Lazareth Celes'Ciel (male Atavian).
+He is 101 years old, having been born on the 18th of Lupar, 570 years after the fall of the Seleucarian Empire.
+He is ranked 1082nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 55% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'The fury of the spirits guides my wrath!'
+5654h, 5580m, 24600e, 21960w  ex-----
+Ainly Sar'vet, Apprentice of Manipulation (male Dwarf).
+He is 334 years old, having been born on the 20th of Daedalan, 338 years after the fall of the Seleucarian Empire.
+He is ranked 939th in Achaea.
+He is the 21st ranked combatant with a rating of 156.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Dynamis in Mhaldor.
+He is a Maggot in the army of Mhaldor.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'I came to bring the pain.'
+He has been divorced 3 times.
+5654h, 5580m, 24600e, 21960w  ex-----
+Amelythe Ze'Dekiah (female Tsol'aa).
+She is 24 years old, having been born on the 13th of Glacian, 647 years after the fall of the Seleucarian Empire.
+She is ranked 1177th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 20% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Your tears are all the pay I'll ever need.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Sage Mistress Karai D'Ischai-Moonwolf, Iron Maiden (female Tsol'aa).
+She is 204 years old, having been born on the 5th of Mayan, 467 years after the fall of the Seleucarian Empire.
+She is ranked 157th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Lady in Hashan.
+She is a Footman in the army of Hashan.
+She is considered to be approximately 85% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'I enjoy hitting the Infernal. He makes noise.'
+She has taken the hand of Grand Master Laergon in marriage.
+See HONOURS DEEDS KARAI to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Lauria (female Atavian).
+She is 31 years old, having been born on the 21st of Valnuary, 640 years after the fall of the Seleucarian Empire.
+She is ranked 645th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 50% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Hum a tune to pass the day, life is but a song to play.'
+See HONOURS DEEDS LAURIA to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Sentry Eica Imperio (male Rajamala).
+He is 21 years old, having been born on the 19th of Valnuary, 650 years after the fall of the Seleucarian Empire.
+He is ranked 1134th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 80% of your might.
+He is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Prysala Cholla'Yi-Dawyn (female Silver Dragon).
+She is 73 years old, having been born on the 8th of Chronos, 598 years after the fall of the Seleucarian Empire.
+She is ranked 43rd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peer in Cyrene.
+She is considered to be approximately 95% of your might.
+She is a mentor and able to take on proteges.
+She walks with Divine Grace.
+Her motto: 'Break the mold.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Steel Commander Zandre Azon-Moliuvia, Freedom's Kordath (male Rajamala).
+He is 113 years old, having been born on the 24th of Ero, 558 years after the fall of the Seleucarian Empire.
+He is ranked 534th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Consul in Ashtan.
+He is a Recruit in the army of Ashtan.
+He is considered to be approximately 55% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Legend-waitforit-ARI!'
+He has been divorced 2 times.
+See HONOURS DEEDS ZANDRE to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Observer Alekxz Ashaela (female Tsol'aa).
+She is 32 years old, having been born on the 25th of Scarlatan, 639 years after the fall of the Seleucarian Empire.
+She is ranked 890th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 15% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Just think of something clever. Then think of me.'
+See HONOURS DEEDS ALEKXZ to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Romeo, the Guide (male Human).
+He was born before time was counted.
+5654h, 5580m, 24600e, 21960w  ex-----
+Squire Dairune Xanatov (male Human).
+He is 375 years old, having been born on the 1st of Phaestian, 296 years after the fall of the Seleucarian Empire.
+He is ranked 754th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Duke in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 75% of your might.
+He is a mentor and able to take on proteges.
+He has been engaged to be married to Senator Nicca Alexandrian, the Cyrenian Bibliophile for 157 months.
+He has been divorced 5 times.
+He bears the arms: Per pale Azure and Vert, three panthers couchant dexter Argent and an oak tree sinister.
+See HONOURS DEEDS DAIRUNE to view his 3 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Shadow Matrix Cyla Nagaraja, Hayabusa (female Atavian).
+She is 51 years old, having been born on the 17th of Aeguary, 621 years after the fall of the Seleucarian Empire.
+She is ranked 834th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Centurion in Ashtan.
+She is a Mercenary in the army of Ashtan.
+She is considered to be approximately 65% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'No tears please, it's a waste of good suffering.'
+She has been engaged to be married to Cathy for 2 months.
+See HONOURS DEEDS CYLA to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Kohai Yiwen, Ashuran Initiate (male Dwarf).
+He is 367 years old, having been born on the 21st of Mayan, 304 years after the fall of the Seleucarian Empire.
+He is ranked 260th in Achaea.
+He is the 39th ranked combatant with a rating of 100.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is a Vanguard in the army of Ashtan.
+He is considered to be approximately 95% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Can't is the real 'c' word.'
+He has taken the hand of Pretty Pumpkin Quei Yeon-In, Itsy Bitsy Witch in marriage.
+See HONOURS DEEDS YIWEN to view his 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Viridi Gisahl (male Mhun).
+He is 18 years old, having been born on the 14th of Chronos, 653 years after the fall of the Seleucarian Empire.
+He is ranked 1648th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 5% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Melodie says, "It's not even RP questions, I have two novices talking to me OOC about things."
+5654h, 5580m, 24600e, 21960w  ex-----
+Sentinel Guardian Rom Corten (male Satyr).
+He is 112 years old, having been born on the 2nd of Daedalan, 560 years after the fall of the Seleucarian Empire.
+He is ranked 222nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a member of the Ivory Mark.
+He is a Warden in Eleusis.
+He is a Warden of the Ithmia in the army of Eleusis.
+He is considered to be approximately equal to your might.
+He is a mentor and able to take on proteges.
+His motto: 'Ready, able.'
+See HONOURS DEEDS ROM to view his 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Sentinel Raven Talyndrae, Oaken Hand (female Tsol'aa).
+She is 44 years old, having been born on the 23rd of Daedalan, 628 years after the fall of the Seleucarian Empire.
+She is ranked 453rd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 60% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'The forests are calling and I must go.'
+See HONOURS DEEDS TALYNDRAE to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Roundswoman Amarillys (female Siren).
+She is 31 years old, having been born on the 1st of Ero, 640 years after the fall of the Seleucarian Empire.
+She is ranked 1219th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peer in Cyrene.
+She is a Trainee in the army of Cyrene.
+She is considered to be approximately 30% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'I am a unique disaster.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Lady Aelyn Le'Yuet, Osprey of Destiny (female Red Dragon).
+She is 397 years old, having been born on the 2nd of Scarlatan, 275 years after the fall of the Seleucarian Empire.
+She is ranked 148th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 70% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Sharing IS caring!'
+She has been engaged to be married to Aohara Moonflair, Crazy Kitty for 2106 months.
+She has been divorced 2 times.
+See HONOURS DEEDS AELYN to view her 4 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Dread Legate Krux (male Human).
+He is 20 years old, having been born on the 12th of Sarapin, 652 years after the fall of the Seleucarian Empire.
+He is ranked 886th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is a Maggot in the army of Mhaldor.
+He is considered to be approximately 30% of your might.
+He is a Legate of the Truths in the Dread Legates.
+He is a mentor and able to take on proteges.
+His motto: 'I will strengthen myself with your life.'
+See HONOURS DEEDS KRUX to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Draakor (male Human).
+He is 18 years old, having been born on the 6th of Sarapin, 654 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 0% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+Volunteer Glorissa Beccadoter (female Atavian).
+She is 18 years old, having been born on the 8th of Daedalan, 654 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 10% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+Pathfinder Maccabeus (male Red Dragon).
+He is 184 years old, having been born on the 23rd of Miraman, 488 years after the fall of the Seleucarian Empire.
+He is ranked 192nd in Achaea.
+He is the 55th ranked combatant with a rating of 100.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 75% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'Tiger style ain't nuthin' to funk with!'
+See HONOURS DEEDS MACCABEUS to view his 5 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Khairt, Aelyn, Talyndrae, Maccabeus, Allene, Zengo, Vithincus, Redd, Alekxz, Ansikt, Aodfionn, Sunny, Daelok, Cresil, Gilthanis, Dairune, Ramilies, Sable, Lazareth, Laera, Krux, Bheiyru, Yiwen, Lauria, Drave, Aeceon, Kopeshku, Xith, Sarathai, Darktalon, Karai, Romeo, Aaiden, Zeddicus, Reni, Rom, Alinixa, Synbios, Hhaos, Ainly, Zada, Yae, Cyla, Yurdan, Aiseiri, Zandre, Kiiri, Lilian, Thurya, Draakor, Seara, Beorji, Nadria, Sarieno, Gawi, Glorissa, Shoshonna, Krahe, Tarvius, Eivan, Visnia, Amelythe, Greys, Volteras, Tariki, Anaria, Shirszae, Kei, Wynne, Cree, Caron, Grondson, Melodie, Amarillys, Jinsun, Samanthya, Xax, Eica, Perl, Calaurn, Prysala, Athelas, Gisahl.
+Plus another 30 whose presence you cannot fully sense.
+5654h, 5580m, 24600e, 21960w  ex-----
+Dread Emissary Calaurn, Thrall of Elazar (male Human).
+He is 156 years old, having been born on the 10th of Scarlatan, 515 years after the fall of the Seleucarian Empire.
+He is ranked 926th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Troni in Mhaldor.
+He is considered to be approximately 30% of your might.
+He is an Emissary of Faith in the Dread Legates.
+He is a mentor and able to take on proteges.
+His motto: 'Leave no one behind to mourn you.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Captain Xax Neige, Merchant of the Collective (male Horkval).
+He is 45 years old, having been born on the 8th of Scarlatan, 626 years after the fall of the Seleucarian Empire.
+He is ranked 1237th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 75% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'I regret nothing, ever.'
+He bears the arms: Argent, on a bend nebuly Sanguine, an anchor of the first.
+5654h, 5580m, 24600e, 21960w  ex-----
+Observer Ansikt (female Human).
+She is 19 years old, having been born on the 10th of Daedalan, 653 years after the fall of the Seleucarian Empire.
+She is ranked 1865th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 5% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+Merchantess Gawi Drake (female Rajamala).
+Her date of birth is hidden by the sand of Aeon.
+She is ranked 717th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 105% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Verrucht says, "I am Verruchtorious."'
+See HONOURS DEEDS GAWI to view her 6 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Farstrider, Ramilies Da'Navi (male Human).
+He is 75 years old, having been born on the 21st of Lupar, 596 years after the fall of the Seleucarian Empire.
+He is ranked 788th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peer in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 120% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Dulce et Decorum est Pro Arcane Kindred Mori.'
+See HONOURS DEEDS RAMILIES to view his 3 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Dread Emissary Calaurn, Thrall of Elazar (male Human).
+He is 156 years old, having been born on the 10th of Scarlatan, 515 years after the fall of the Seleucarian Empire.
+He is ranked 926th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Troni in Mhaldor.
+He is considered to be approximately 30% of your might.
+He is an Emissary of Faith in the Dread Legates.
+He is a mentor and able to take on proteges.
+His motto: 'Leave no one behind to mourn you.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Vithincus Shu'in-Crescent, Son of Targossas (male Human).
+He is 50 years old, having been born on the 24th of Miraman, 622 years after the fall of the Seleucarian Empire.
+He is ranked 326th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Devout in Targossas.
+He is a Conscript in the army of Targossas.
+He is considered to be approximately 90% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'A coward judges all he sees by what he is.'
+He has been engaged to be married to Trainee Daitya Aristata for 66 months.
+5654h, 5580m, 24600e, 21960w  ex-----
+Xuesheng Volteras al'Dejan-Darkmist (male Human).
+He is 52 years old, having been born on the 3rd of Aeguary, 620 years after the fall of the Seleucarian Empire.
+He is ranked 753rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 20% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'Revel in my battle fury!'
+5654h, 5580m, 24600e, 21960w  ex-----
+Visnia (female Siren).
+Her date of birth is hidden by the sand of Aeon.
+She is ranked 1771st in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peasant in Hashan.
+She is considered to be approximately 15% of your might.
+She is a mentor and able to take on proteges.
+She has been engaged to be married to Analeiss for 16 months.
+See HONOURS DEEDS VISNIA to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+High Artiste Perl de Feura, Weaver of Passion (female Atavian).
+She is 214 years old, having been born on the 12th of Scarlatan, 457 years after the fall of the Seleucarian Empire.
+She is ranked 875th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Marquise in Cyrene.
+She is considered to be approximately 105% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Phelia says in a kind voice, "Yeah, I am stupid."'
+She has been engaged to be married to Sir Agrias de Feura, The Charlatan for 269 months.
+She has been divorced 3 times.
+She bears the arms: Vert, a canton Argent, a quill sinister chief Or and a harp dexter base Or.
+See HONOURS DEEDS PERL to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Seeker Seara Vorondil (female Siren).
+She is 44 years old, having been born on the 1st of Mayan, 627 years after the fall of the Seleucarian Empire.
+She is ranked 860th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peer in Cyrene.
+She is considered to be approximately 70% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Fisherwoman at heart.'
+She has been divorced once.
+5654h, 5580m, 24600e, 21960w  ex-----
+Shirszae Nynniaw, Fallen Harbinger of Art (female Siren).
+She is 133 years old, having been born on the 17th of Scarlatan, 538 years after the fall of the Seleucarian Empire.
+She is ranked 270th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 75% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'My blood is still red but my heart has turned grey.'
+She has been divorced once.
+She bears the arms: Per bend sinister Ermines and Sable, on a bend sinister Argent, a moon decrescent Sanguine between a willow tree eradicated in base.
+5654h, 5580m, 24600e, 21960w  ex-----
+Enchantress Alinixa, Mistress of the Ourobori (female Siren).
+She is 59 years old, having been born on the 20th of Mayan, 612 years after the fall of the Seleucarian Empire.
+She is ranked 432nd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 80% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'I believe it because it is impossible.'
+She has been engaged to be married to Guardian Ryldagh Valeth, of the Golden Dawn for 301 months.
+See HONOURS DEEDS ALINIXA to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Spirit of the Duck, Darktalon Tiercel, Dreamer of the Flight (male Atavian).
+He is 480 years old, having been born on the 12th of Daedalan, 192 years after the fall of the Seleucarian Empire.
+He is ranked 671st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 110% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Lannah and Amaranda, got to love red heads!'
+He has taken the hand of Druidess Lannah Covraci-Tiercel in marriage.
+5654h, 5580m, 24600e, 21960w  ex-----
+Sarathai El'Rihwin, Aspirant of Galadriel (male Human).
+He is 293 years old, having been born on the 24th of Mayan, 378 years after the fall of the Seleucarian Empire.
+He is ranked 456th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 80% of your might.
+He is a mentor and able to take on proteges.
+See HONOURS DEEDS SARATHAI to view his 2 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Apostle Aodfionn Wintermourne, Deacon of Celestia (male Troll).
+His date of birth is hidden by the sand of Aeon.
+He is ranked 1125th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is the Deacon of Celestia.
+He is a Devout in Targossas.
+He is a Conscript in the army of Targossas.
+He is considered to be approximately 75% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'Victory on Sapience! Praise the Bloodsworn Divine!'
+He has been divorced once.
+5654h, 5580m, 24600e, 21960w  ex-----
+Marshal of Phaestus, Sir Beorji Alexandrian, Shieldwarden (male Dwarf).
+He is 165 years old, having been born on the 11th of Scarlatan, 506 years after the fall of the Seleucarian Empire.
+He is ranked 498th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Duke in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 110% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Never mistake a love of peace for apathy.'
+He has taken the hand of Chronicler Elaina Etienne-Alexandrian in marriage.
+He has been divorced once.
+He bears the arms: Sable, a flagon Or.
+See HONOURS DEEDS BEORJI to view his 5 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Lord Jester Zengo, the Ziggiest of Zaggers (male Satyr).
+He is 21 years old, having been born on the 16th of Scarlatan, 650 years after the fall of the Seleucarian Empire.
+He is ranked 1453rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 20% of your might.
+His motto: 'Battered and bruised, I am here to amuse!'
+5654h, 5580m, 24600e, 21960w  ex-----
+Reni (female Siren).
+She is 27 years old, having been born on the 25th of Aeguary, 645 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 0% of your might.
+5654h, 5580m, 24600e, 21960w  ex-----
+Disciple Yurdan Thorngage, Student of Respect (male Dwarf).
+He is 22 years old, having been born on the 13th of Glacian, 649 years after the fall of the Seleucarian Empire.
+He is ranked 525th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is a Footman in the army of Hashan.
+He is considered to be approximately 25% of your might.
+He is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Hashani Druggist Eivan, Chemist of the Crown (male Dwarf).
+He is 38 years old, having been born on the 7th of Mayan, 633 years after the fall of the Seleucarian Empire.
+He is ranked 791st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is a Footman in the army of Hashan.
+He is considered to be approximately 35% of your might.
+He is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Kei (female Human).
+She is 457 years old, having been born on the 20th of Valnuary, 214 years after the fall of the Seleucarian Empire.
+She is ranked 189th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 85% of your might.
+She is a mentor and able to take on proteges.
+She has taken the hand of Marina al'Dejan-Ashaela, Seeker of the Path in marriage.
+She bears the arms: Argent, on a bend Azure, a rapier of the first between two orchids Purpure.
+See HONOURS DEEDS KEI to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Lin'Quei Daelok Lucoster, Deviant Dagger (male Mhun).
+He is 324 years old, having been born on the 3rd of Aeguary, 348 years after the fall of the Seleucarian Empire.
+He is ranked 513th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Patrician in Ashtan.
+He is considered to be approximately 85% of your might.
+He is a mentor and able to take on proteges.
+He has been divorced once.
+See HONOURS DEEDS DAELOK to view his 5 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Squire of the Ithmia, Wynne Wolfstamme-Stormwind (female Mhun).
+She is 162 years old, having been born on the 23rd of Lupar, 509 years after the fall of the Seleucarian Empire.
+She is ranked 1246th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 15% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Remember what Bellor says, "I may be confustipated.'
+See HONOURS DEEDS WYNNE to view her 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Shoshonna Pyroboreus (female Xoran).
+She is 267 years old, having been born on the 23rd of Daedalan, 405 years after the fall of the Seleucarian Empire.
+She is ranked 602nd in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 75% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Nubbins says, "Make him sleep on the couch."'
+She has taken the hand of Aecius Pyroboreus, Seeker of the Temple in marriage.
+She has been divorced once.
+5654h, 5580m, 24600e, 21960w  ex-----
+Seeker Tarvius, Wielder of Lost Songs (male Human).
+He is 249 years old, having been born on the 9th of Phaestian, 422 years after the fall of the Seleucarian Empire.
+He is ranked 2nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Marquis in Cyrene.
+He is a Trainee in the army of Cyrene.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'To blithe.'
+He has been engaged to be married to Gemologist Aalya Cholla'Yi, Dragon Bardd's Muse for 335 months.
+See HONOURS DEEDS TARVIUS to view his 6 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Sir Hhaos Thorngage, Lotus Grand Master (male Satyr).
+His date of birth is hidden by the sand of Aeon.
+He is ranked 130th in Achaea.
+He is the 44th ranked combatant with a rating of 100.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peer in Hashan.
+He is a Shadow Warden in the army of Hashan.
+He is considered to be approximately 110% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Every city deserves a champion.'
+He has been engaged to be married to Luminary Savant, Lupe Diamante-Ni'Night for 18 months.
+See HONOURS DEEDS HHAOS to view his 10 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Countess Aiseiri Aristata, Vindicator of Faith (female Human).
+Her date of birth is hidden by the sand of Aeon.
+She is ranked 779th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Dynamis in Mhaldor.
+She is a Maggot in the army of Mhaldor.
+She is considered to be approximately 80% of your might.
+She is a mentor and able to take on proteges.
+Her warcry: 'Vi-mu shiv'su ruhal vi mak Rahaldu.'
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "Lol perfect. Show them how RPS works."
+5654h, 5580m, 24600e, 21960w  ex-----
+Lupiness Allene Ashaela, Discurean Voyager (female Atavian).
+She is 179 years old, having been born on the 12th of Ero, 492 years after the fall of the Seleucarian Empire.
+She is ranked 437th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Marquise in Cyrene.
+She is a Trainee in the army of Cyrene.
+She is considered to be approximately 115% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'My will makes up for my height.'
+She has been divorced 4 times.
+5654h, 5580m, 24600e, 21960w  ex-----
+Sable Ex'xis (male Human).
+He is 148 years old, having been born on the 22nd of Aeguary, 524 years after the fall of the Seleucarian Empire.
+He is ranked 334th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is a Recruit in the army of Ashtan.
+He is considered to be approximately 85% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'If you suddenly catch fire, it's because I said to.'
+He bears the arms: Per bend rayonny, Or and Sable, a philosopher's stone sinister chief Gules and an ouroboros dexter base of the first.
+See HONOURS DEEDS SABLE to view his 3 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Khairt (male Xoran).
+His date of birth is hidden by the sand of Aeon.
+He is ranked 212th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 130% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Always expect me, it will hurt less.'
+He has taken the hand of Beloved Kyrra Drac'Kal, the Storm Maiden in marriage.
+See HONOURS DEEDS KHAIRT to view his 6 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Kiiri (female Atavian).
+She is 33 years old, having been born on the 5th of Chronos, 638 years after the fall of the Seleucarian Empire.
+She is ranked 757th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 30% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Klaatu Barada Nikto CoughmumbleCough.'
+5654h, 5580m, 24600e, 21960w  ex-----
+Zada Marcella Neige (female Human).
+She is 56 years old, having been born on the 4th of Miraman, 616 years after the fall of the Seleucarian Empire.
+She is ranked 736th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 35% of your might.
+She is a mentor and able to take on proteges.
+5654h, 5580m, 24600e, 21960w  ex-----
+Krahe Hjarta-Da'Navi (female Atavian).
+She is 24 years old, having been born on the 15th of Scarlatan, 647 years after the fall of the Seleucarian Empire.
+She is ranked 1190th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is a Trainee in the army of Cyrene.
+She is considered to be approximately 35% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'Be the broken link in the chain of animosity.'
+She bears the arms: Per chevron Vert and Or, an owl displayed Argent and a blackjack contourny in base Azure.
+5654h, 5580m, 24600e, 21960w  ex-----
+Zeddicus (male Rajamala).
+He is 380 years old, having been born on the 14th of Ero, 291 years after the fall of the Seleucarian Empire.
+He is ranked 1144th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately equal to your might.
+He is a mentor and able to take on proteges.
+His motto: 'Nothing is ever easy.'
+See HONOURS DEEDS ZEDDICUS to view his 1 special honours.
+5654h, 5580m, 24600e, 21960w  ex-----
+Gilthanis, Novitiate Second (male Rajamala).
+He is 242 years old, having been born on the 20th of Valnuary, 429 years after the fall of the Seleucarian Empire.
+He is ranked 1871st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 15% of your might.
+His motto: 'I'll never trust squirrels again!'
+5654h, 5580m, 24600e, 21960w  ex-----
+Scarlattan Lilian Xanatov-Nomathi, Shield Curator (female Siren).
+She is 80 years old, having been born on the 7th of Valnuary, 591 years after the fall of the Seleucarian Empire.
+She is ranked 258th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Noble in Cyrene.
+She is a Vashnarian Defender in the army of Cyrene.
+She is considered to be approximately 75% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'While Creation is changing, Art is winning.'
+She bears the arms: Argent, a sword contourny in chief and a lily in base Carnation.
+5654h, 5580m, 24600e, 21960w  ex-----
+Prysala, Aelyn, Athelas, Wynne, Jinsun, Beorji, Dairune, Vithincus, Xax, Drave, Cresil, Amarillys, Bheiyru, Cree, Calaurn, Aodfionn, Daelok, Ansikt, Khairt, Allene, Volteras, Krahe, Gisahl, Zengo, Eica, Gawi, Grondson, Tariki, Laera, Krux, Visnia, Aeceon, Darktalon, Seara, Draakor, Thurya, Rom, Alinixa, Synbios, Hhaos, Ainly, Zada, Yae, Cyla, Yurdan, Aiseiri, Zandre, Kiiri, Reni, Zeddicus, Aaiden, Karai, Xith, Tarvius, Amelythe, Greys, Lazareth, Shirszae, Melodie, Kei, Glorissa, Sable, Samanthya, Nadria, Sunny, Lilian, Ramilies, Lauria, Caron, Sarieno, Maven, Yiwen, Sarathai, Alekxz, Talyndrae, Redd, Kopeshku, Shoshonna, Eivan, Gilthanis, Maccabeus, Perl, Anaria, Romeo.
+Plus another 30 whose presence you cannot fully sense.
+5654h, 5580m, 24600e, 21960w  ex-----
+Maven Deadlocke, Firedancer (female Siren).
+She is 38 years old, having been born on the 21st of Scarlatan, 633 years after the fall of the Seleucarian Empire.
+She is ranked 1677th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 5% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'I'm a liberated libertine. What's your excuse?'
+She has taken the hand of Drave in marriage.
+5654h, 5580m, 24600e, 21960w  ex-----
+Perl, Aelyn, Talyndrae, Prysala, Kopeshku, Daelok, Rom, Redd, Athelas, Jinsun, Beorji, Dairune, Xax, Alekxz, Bheiyru, Cree, Sarieno, Ansikt, Khairt, Allene, Volteras, Krahe, Gisahl, Zengo, Eica, Gawi, Grondson, Tariki, Laera, Krux, Visnia, Aeceon, Darktalon, Seara, Draakor, Thurya, Kiiri, Zandre, Aiseiri, Yurdan, Cyla, Yae, Zada, Ainly, Hhaos, Synbios, Alinixa, Reni, Zeddicus, Aaiden, Karai, Xith, Tarvius, Amelythe, Greys, Lazareth, Shirszae, Melodie, Kei, Glorissa, Sable, Samanthya, Nadria, Sunny, Lilian, Ramilies, Lauria, Maven, Yiwen, Amarillys, Drave, Shoshonna, Eivan, Gilthanis, Maccabeus, Anaria, Wynne, Sarathai, Vithincus, Caron, Aodfionn, Cresil, Romeo, Calaurn.
+Plus another 30 whose presence you cannot fully sense.
+5654h, 5580m, 24600e, 21960w  ex-----
+(The Midnight Crew): Yiwen says, "I'm sure they're very intrigued."
+5654h, 5580m, 24600e, 21960w  ex-----
+(Market): Daelok says, "Purchasing a toga, for a toga party. Probably 5 of them."
+5654h, 5580m, 24600e, 21960w  ex-----
+A massive gatehouse (indoors).
+There are 5 infernal wraiths here. There are 2 monolith sigils in 2 groups here. A runic totem is planted solidly in the ground. A stone gargoyle flies overhead on leathery, grey wings. Weaving in an infinity loop with wings beating soundlessly, a winged fire serpent eyes his surroundings with a menacing stare.
+You see a single exit leading west.
+5654h, 5580m, 24600e, 21960w  ex-----
+You cease wielding a Shield of Absorption in your left hand.
+5654h, 5580m, 24600e, 21960w  ex-----
+You begin to wield a Shield of Absorption in your left hand.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+You detect nothing here by that name.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+I do not recognise anything called that here.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+I do not recognise anything called that here.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+You cannot see that being here.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+Ahh, I am truly sorry, but I do not see anyone by that name here.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+I do not recognise anything called that here.
+5654h, 5580m, 24600e, 21960w  ex-----
+You aren't wielding that.
+5654h, 5580m, 24600e, 21960w  ex-----
+What do you wish to wield?
+5654h, 5580m, 24600e, 21960w  ex-----
+You detect nothing here by that name.
+5654h, 5580m, 24600e, 21960w  ex-----

@@ -1,0 +1,237 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           178 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+Your megalith tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+Your moss tattoo tingles slightly.
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. A mottled Mhojave Desert falcon glides effortlessly to and fro. A stone gargoyle flies overhead on leathery, grey wings. A mortal heart, still dripping blood is here.You see a single exit leading west.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:20.27--
+5714h, 5639m, 24875e, 22205w  ex----s20:11:20.54--
+It is the middle of the night in Achaea.
+The phase of the moon is that of the Waning Crescent.
+
+In your world, it is 2015/03/05 20:11:22 GMT.
+See HELP GMT for an explanation of GMT.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:22.43--
+There is no next message to read.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:22.74--
+-=[ Tired of bashing the Underworld alone? Vote for Achaea at TopMudSites and help bring in new players! http://www.achaea.com/vote - Thanks! ]=-
+5714h, 5639m, 24875e, 22205w  ex----s20:11:22.94--
+There is currently a City credit sale in progress.
+----[ Mhaldor City announcement ]----
+
+
+                          -- The Crucible of Slaves --
+Claw your way out from your shackles. Let your devotion be rewarded, and apathy be punished.
+                             READNEWS MHALDOR #3252
+
+-------------------------------------
+5714h, 5639m, 24875e, 22205w  ex----s20:11:23.18--
+You have no further news to read.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:24.07--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Multon                01        Off      On         No      Runewarden
+Mahesh                04         On      On         No      Monk
+Mycen                 10         On      On         No      Serpent
+Kamortri              04         On      On         No      Serpent
+Locki                 04         On      On         No      Apostate
+Elazar                15         On      On         No      Infernal
+Vum                   05         On      On         No      Dragon
+Dartega               03         On      On         No      Shaman
+5714h, 5639m, 24875e, 22205w  ex----s20:11:25.24--
+Duelist Kamortri (male Human).
+He is 19 years old, having been born on the 22nd of Phaestian, 658 years after the fall of the Seleucarian Empire.
+He is ranked 1172nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is a Maggot in the army of Mhaldor.
+He is considered to be approximately 30% of your might.
+He is a Duelist of the Seven in the Dread Legates.
+His motto: 'Laxity breeds weakness.'
+5714h, 5639m, 24875e, 22205w  ex----s20:11:25.44--
+Thrall Multon (male Human).
+He is 18 years old, having been born on the 9th of Aeguary, 660 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+He is a Thrall of Evil in the Dread Legates.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:25.74--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Melodie Le'Murzen, Vindicator of Faith                        2  On  Apostate
+Thrall Multon                                                 1  On  Runewarden
+Mahesh Dracrotalus, Duelist of the Seven                      2  On  Monk
+Devoto Laceus Danial                                          3  On  Blademaster
+Naga Mycen Dracrotalus, Crimson Arrow of Malevolence          6  On  Serpent
+Duelist Kamortri                                              1  On  Serpent
+Ainly Sar'vet, Herald of the Insidium                         3  On  Monk
+Devota Jaoura Gothfraidh, Inquirent Miscreant                 1  On  Sylvan
+Geras, Apprentice of Manipulation                             1  On  Runewarden
+Blade Prefect Netal Tiarell, Squire of Mhaldor                1  On  Runewarden
+Adjutant Elazar Lichlord, Dread Knight                        6  On  Infernal
+Vum Daesheryn, Dread Legate                                   4  On  Dragon
+Locki, Duelist of the Seven                                   2  On  Apostate
+Dread Emissary Dartega, Thrall of Xinna                       2  On  Shaman
+5714h, 5639m, 24875e, 22205w  ex----s20:11:28.37--
+Geras, Apprentice of Manipulation (male Xoran).
+He is 19 years old, having been born on the 11th of Aeguary, 659 years after the fall of the Seleucarian Empire.
+He is ranked 594th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is a Maggot in the army of Mhaldor.
+He is considered to be approximately 55% of your might.
+His motto: 'No one may hurt me without my permission.'
+5714h, 5639m, 24875e, 22205w  ex----s20:11:28.65--
+Devoto Laceus Danial (male Horkval).
+He is 285 years old, having been born on the 15th of Ero, 392 years after the fall of the Seleucarian Empire.
+He is ranked 642nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Dynamis in Mhaldor.
+He is considered to be approximately 50% of your might.
+He is a mentor and able to take on proteges.
+See HONOURS DEEDS LACEUS to view his 2 special honours.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:28.90--
+Blade Prefect Netal Tiarell, Squire of Mhaldor (female Mhun).
+She is 233 years old, having been born on the 14th of Valnuary, 444 years after the fall of the Seleucarian Empire.
+She is ranked 1090th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 50% of your might.
+See HONOURS DEEDS NETAL to view her 1 special honours.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:29.22--
+Devota Jaoura Gothfraidh, Inquirent Miscreant (female Atavian).
+She is 241 years old, having been born on the 8th of Mayan, 436 years after the fall of the Seleucarian Empire.
+She is ranked 1588th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Slave in Mhaldor.
+She is considered to be approximately 25% of your might.
+She is a mentor and able to take on proteges.
+Her motto: 'A new Sapience for all boys and girls.'
+See HONOURS DEEDS JAOURA to view her 1 special honours.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:29.45--
+Nothing can be seen here by that name.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:32.41--
+You have no further news to read.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:33.50--
+There is no next message to read.
+5714h, 5639m, 24875e, 22205w  ex----s20:11:34.34--
+(Market): Allene says, "Discount jewels at the Magic Serpent. It was getting heavy. On sale for the cost of repair. NE, N from Cyrene subs."
+5714h, 5639m, 24875e, 22205w  ex----s20:13:06.01--
+(The Midnight Crew): Melodie says, "Rango determined."
+5714h, 5639m, 24875e, 22205w  ex----s20:17:56.75--
+(Market): Iakimen says, "Seeking a platinum whistle bottom pipe."
+5714h, 5639m, 24875e, 22205w  ex----s20:18:46.53--
+(Market): Melodie says, "Only a few items left for sale! Ad 199."
+5714h, 5639m, 24875e, 22205w  ex----s20:19:30.85--
+(Mudlet Clan): Prythe says, "Are wings broken?"
+5714h, 5639m, 24875e, 22205w  ex----s20:20:20.00--
+Vadimuses arrives from the west.
+5714h, 5639m, 24875e, 22205w  ex----s20:20:38.72--
+(Mudlet Clan): Prythe says, "Never mind. Idiot."
+5714h, 5639m, 24875e, 22205w  ex----s20:20:54.00--
+(The Midnight Crew): Rangor says, "Getting him to 30% is kinda frustrating."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:17.36--
+(The Midnight Crew): Melodie says, "Dat exp loss."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:30.38--
+(The Midnight Crew): Rangor says, "Thought having achimrst rezz would help, but healed to 100% by the time I renounced grace."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:30.55--
+(The Midnight Crew): Rangor says, "What's xp loss?"
+5714h, 5639m, 24875e, 22205w  ex----s20:22:35.90--
+(The Midnight Crew): Melodie says, "Gross."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:35.90--
+(The Midnight Crew): Melodie says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:41.26--
+(The Midnight Crew): Jarrod says, "Honors rate of healing is huge if you're outside room."
+5714h, 5639m, 24875e, 22205w  ex----s20:22:59.86--
+(The Midnight Crew): Jarrod says, "Which is good."
+5714h, 5639m, 24875e, 22205w  ex----s20:23:03.44--
+(The Midnight Crew): Rangor says, "Yea."
+5714h, 5639m, 24875e, 22205w  ex----s20:23:10.21--
+(Thralls): Kamortri says, "Would anyone teach me some Weaponry, please?"
+5714h, 5639m, 24875e, 22205w  ex----s20:26:37.46--
+(Thralls): Roroan says, "Stygian."
+5714h, 5639m, 24875e, 22205w  ex----s20:26:46.73--
+(Market): Aelios says, "When facing an Evil threat, reach for Sacred Steel! Only in Targossas."
+5714h, 5639m, 24875e, 22205w  ex----s20:32:24.09--
+Shirszae Nynniaw, the Uneven-Tempered shouts, "Someone put that man in a padded cell."
+5714h, 5639m, 24875e, 22205w  ex----s20:34:04.08--
+The blazing tones of Merchant En-tree-preneur Amanu Nailo's voice scorches through the air, "I doubt it'll stop him."
+5714h, 5639m, 24875e, 22205w  ex----s20:34:21.92--
+The earth rumbles ominously as the voice of Artemis, Goddess of the Cataclysm, booms across the firmament, "Show Me you can do better."
+5714h, 5639m, 24875e, 22205w  ex----s20:34:47.07--
+Shirszae Nynniaw, the Uneven-Tempered shouts, "I am alive, so I am doing better."
+5714h, 5639m, 24875e, 22205w  ex----s20:35:15.06--
+The human Yudhishthira shouts, "Let us not belittle the man that wishes to rise above his mortal status and challenge greatness. One cannot bypass such a barrier without will, and he has shown much of it."
+5714h, 5639m, 24875e, 22205w  ex----s20:36:14.84--
+The body of Awakened Zulah, Apprentice of Manipulation appears in a flash and his soul descends to fill it, causing the previously expressionless face to fill with emotion.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:16.58--
+Zulah clenches his fists and grits his teeth.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:16.78--
+Zulah touches a cloak tattoo.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:16.81--
+Zulah rubs his hands together greedily.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:17.87--
+Zulah touches a mindseye tattoo.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:20.31--
+As Zulah narrows his eyes, they are brightened by a subtle glint.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:23.42--
+Zulah grasps the hilt of Unrelenting Kraken with a vengeful expression.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:32.49--
+Zulah enters the flowing Mir stance.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:34.81--
+(The Midnight Crew): Melodie says, "You got this, Rango."
+5714h, 5639m, 24875e, 22205w  ex----s20:36:36.48--
+(The Midnight Crew): Melodie says, "FOR ARTEMIS."
+5714h, 5639m, 24875e, 22205w  ex----s20:36:39.04--
+Zulah's eyes close briefly, reopening to reveal a bright and focused gaze.
+5714h, 5639m, 24875e, 22205w  ex----s20:36:39.72--
+(The Midnight Crew): Rangor says, "Lol."
+5714h, 5639m, 24875e, 22205w  ex----s20:36:44.50--
+(The Midnight Crew): Aegoth says, "What's going on?"
+5714h, 5639m, 24875e, 22205w  ex----s20:36:45.92--
+(The Midnight Crew): Rangor says, "I need to uninstall SVO and code my own curing system for it."
+5714h, 5639m, 24875e, 22205w  ex----s20:36:52.78--
+Zulah leaves to the west.
+5714h, 5639m, 24875e, 22205w  ex----s20:37:00.07--
+Eleusian Ranger Valaria, Head of Oaken Hand shouts, "So you are implying there is difference of the greater dragon whom is a mortal and the one who is not?"
+5714h, 5639m, 24875e, 22205w  ex----s20:37:20.55--
+(The Midnight Crew): Rangor says, "I think I need me some manual curing."
+5714h, 5639m, 24875e, 22205w  ex----s20:38:05.64--
+Vadimuses gets some gold sovereigns from a wyrmskin pack.
+5714h, 5639m, 24875e, 22205w  ex----s20:38:49.56--
+(Market): Vadimuses says, "Seeking a sentinel."
+5714h, 5639m, 24875e, 22205w  ex----s20:38:52.71--
+You will TIMEOUT in 1 minute unless you do something.
+5714h, 5639m, 24875e, 22205w  ex----s20:40:05.41--
+Guttural songs of unholy worship waft and wind throughout Mhaldor as the daemonic chorus rehearses in the cathedral.
+5714h, 5639m, 24875e, 22205w  ex----s20:40:15.37--

@@ -1,0 +1,879 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           198 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+*** You have new unread news ***
+The vitality of the black boar begins to flow through you.
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> Build your own artefact package @ Achaea.com and save up to 40%!
+-> Enjoy 15% (25% with Iron Elite) bonus on all credit purchases in June!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 5871m, 24060e, 22688w  exdb---s01:18:55.94--
+5786h, 5871m, 24060e, 22688w  exdb---s01:18:56.25--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 5871m, 24060e, 22695w  exdb---s01:18:56.31--
+You remove 1 quartz, bringing the total in the Rift to 111.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 5871m, 24060e, 22695w  xckdb---s01:18:56.33--
+You have recovered equilibrium.
+5786h, 5871m, 24060e, 22695w  exckdb---s01:18:57.20--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 5871m, 24060e, 22695w  xckdb---s01:18:57.25--
+You have recovered equilibrium.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:18:57.62--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:57.68--
+Message #1786       Sent by Achaea
+6/05/8:47 A living puppet of Xinna has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:57.73--
+You can purchase 10 available credits in a House credit sale.
+----[ Legates House announcement ]----
+****************************************************
+  DREAD CACHE is now carrying the winning designs
+    from the apparel contest!  Potash has been
+  restocked as well!  NW of the Market District.
+****************************************************
+--------------------------------------
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:57.82--
+-=[ Need more friends to raid with? Recruit some by voting at TopMudSites! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:58.02--
+Message #1787       Sent by Achaea
+6/05/8:47 A living puppet of Melodie has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:58.59--
+----[ Mhaldor City announcement ]----
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:58.82--
+Message #1788       Sent by Achaea
+6/06/21:37 A puppet roughly resembling Aelios has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:59.23--
+Message #1789       Sent by Achaea
+6/06/22:07 A puppet roughly resembling Gaibreal has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  xckdb---s01:18:59.87--
+You have recovered equilibrium.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:00.19--
+Message #1790       Sent by Achaea
+6/06/22:10 A puppet roughly resembling Kysha has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:00.35--
+Message #1791       Sent by Achaea
+6/06/22:28 A puppet roughly resembling Abadon has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:00.76--
+Message #1792       Sent by Achaea
+6/07/10:35 A puppet roughly resembling Hasar has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:01.09--
+Message #1793       Sent by Achaea
+6/07/10:35 A puppet roughly resembling Iskla has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:01.28--
+Message #1794       Sent by Achaea
+6/07/10:44 A puppet roughly resembling Garis has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:01.53--
+Message #1795       Sent by Achaea
+6/07/10:47 A puppet roughly resembling Rohai has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:01.64--
+Message #1796       Sent by Achaea
+6/08/5:14 You are no longer among the Infamous.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:01.84--
+Message #1797       Sent by Achaea
+6/08/11:44 A puppet roughly resembling Vithincus has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:02.06--
+It is early morning in Achaea.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/06/23 01:19:02 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:02.12--
+Message #1798       Sent by Achaea
+6/08/11:47 A puppet roughly resembling Lavakhi has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:02.71--
+Message #1799       Sent by Achaea
+6/09/0:09 A living puppet of Ysela has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:03.16--
+Message #1800       Sent by Achaea
+6/09/1:14 You are no longer known for acts of infamy.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:03.37--
+Message #1801       Sent by Achaea
+6/11/2:11 A puppet roughly resembling Austere has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:03.86--
+Message #1802       Sent by Achaea
+6/11/2:11 A puppet roughly resembling Tesha has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:04.26--
+Message #1803       Sent by Achaea
+6/12/3:01 A living puppet of Medi has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:04.78--
+Message #1804       Sent by Achaea
+6/12/3:19 A puppet roughly resembling Mizik has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:05.18--
+Message #1805       Sent by Achaea
+6/12/3:34 A puppet roughly resembling Invictus has decayed to dust in your absence.
+5786h, 5991m, 24060e, 22695w  exckdb---s01:19:07.38--
+Message #1806       Sent by Achaea
+6/14/4:59 A puppet roughly resembling Kard has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:08.44--
+Message #1807       Sent by Achaea
+6/17/8:09 A puppet roughly resembling Ethoas has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:08.93--
+Message #1808       Sent by Achaea
+6/17/8:36 A barbed, barbed flail has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:09.30--
+Message #1809       Sent by Achaea
+6/20/5:25 The Iron Membership has been activated for your account and you have been credited with 150 Membership Credits. You can use CREDITS MEMBERSHIP TRANSFER <amount> to transfer Membership Credits to your currently logged character.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:09.65--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:10.50--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:10.92--
++-Dread Duelist Dartega-------------------------------------------------------+
+| Level  : 91 (80.9%)  "5th Order of the Hyperphysical"                       |
+| Age    : 226         Birthdate: 12th Daedalan, 460AF    Class: Serpent      |
+| Gender : Male        Race     : Dwarf Crafter                  Full member  |
+|                                                                             |
+| XP Rank: 390         Explorer Rank: 684     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 5786/5786   Willpower: 22695/22695 Strength : 15 Intelligence: 15 |
+| Mana    : 6019/6019   Endurance: 24060/24060 Dexterity: 15 Constitution: 16 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Zambuk.                                                      |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 0       Room: 0        Unbound: 0         |
+|   Packs  : 1140616       Bound  : 226                    Bound  : 0         |
+|   Banks  : 0             Lessons: 281                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Mhaldor           : Rank 2 - Troni                                        |
+|   Soldier           : Yes                                                   |
+| House                                                                       |
+|   The Dread Legates                                                         |
+|   (Rank 4 - a Duelist of the Seven)                                         |
+| Clans                                                                       |
+|   The Umbra                            Colloquium Iniquus                   |
+|   Whiners Anonymous                    Ar'kena Keep                         |
+|   The Midnight Crew *                  The Rant Garden                      |
+|   League of Legends                    The Bathhouse Strikes Back           |
+|   Mudlet Clan                          The Interdimensional Rift            |
+|                                                                             |
+| Enemied to: Ashtan, Aurora, Blacklotus, Cij, Cyrene, Deucalion, Eleusis,    |
+|             Hashan, Heartwood, Merchants, Neraeos, Phaestus,                |
+|             Spiritwalkers, Targossas, The Forests, Twilight, and Vastar     |
++-----------------------------------------------------------------------------+
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:14.21--
+You do not have so many Membership Credits left.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:20.45--
+You have transferred 150 Membership Credit(s) to this character.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:23.08--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. There are 2 monolith sigils in 2 groups here. A stubborn mule wanders about here, nosing at the ground. A light horse lingers here, pawing at the ground. The soft hush of rolling tides surrounds a seafoam nytrow, enmity burning in his gleaming red eye.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:26.85--
+You have the following defences:
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+The vitality of the boar is energising you.
+Mentally bolstered by the power of the megalith.
+Your wounds are being staunched by the moss tattoo.
+You are feeling extremely energetic.
+You are surrounded by a cloak of protection.
+You are feeling quite selfish.
+Your senses are magically heightened.
+You will attempt to parry attacks to your head.
+You are protected by 11 defences.
+5786h, 6019m, 24060e, 22695w  xckdb---s01:19:27.53--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:27.91--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Mathonwy              05         On      On         No      Magi
+Saibel                06         On      On         No      Serpent
+Zarla                 06         On      On         No      Blademaster
+Xinna                 10         On      On         No      Bard
+Argathian             04         On      On         No      Runewarden
+Medi                  09         On      On         No      Apostate
+Nikun                 03         On      On         No      Blademaster
+Cesarina              04         On      On         No      Dragon
+Herose                15         On      On         No      Serpent
+Borivoj               05         On      On         No      Infernal
+Proficy               08         On      On         No      Alchemist
+Crixos                05         On      On         No      Dragon
+Vum                   07         On      On         No      Dragon
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:28.42--
+ANNOUNCE NEWS #4360                                     (06/06/2015 at 21:01)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Heraldry Additions
+-------------------------------------------------------------------------------
+Many new additions to the Heraldry system have just been loaded up! Here's a list of the shiny new items you can use:
+
+Tinctures
+---------
+Murrey (mulberry), cendree (grey), pean (black fur, gold dots)
+
+Charges
+-------
+acorn, alder tree, antelope, antlers, apple tree, baboon, bardiche, bastard sword, canary, carnation, chameleon, cherry tree, clover, club, coelacanth, conch shell, cow, crab, daffodil, daisy, dolphin, edelweiss, eight-pointed star, elk, flail, flamingo, four-pointed star, frog, fruit bowl, grapes, grapevine, halberd, heron, homunculus, honeysuckle blossom, hourglass, iguana, iris, jasmine blossom, javelin, leviathan, lobster, longsword, lyrebird, magnolia, mazaran, morning glory, morningstar, mushroom, oar, olive branch, olive tree, opossum, orchid, ox, palm tree, peacock, pear tree, peryton, pony, quiver, raccoon, rose, sandpiper, scythe, sea dragon, seagull, selily, septagram, seven-pointed star, shortsword, six-pointed star, skull, snow blossoms, squid, stork, tree stump, tulip, turtle, unending ribbon, and whale's tail.
+
+Penned by My hand on the 12th of Phaestian, in the year 685 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:29.75--
+ANNOUNCE NEWS #4361                                     (06/09/2015 at 17:18)  
+From   : Mortori
+To     : Everyone
+Subject: Battlerage Update
+-------------------------------------------------------------------------------
+Each class and dragon colour has received a new Battlerage ability that allows you to break a denizen's shield. This ability has a relatively low rage cost and no cooldown.
+
+The levels at which you earn new Battlerage abilities have been changed. They are now:
+
+ Level 6:  Low damage ability
+ Level 10: First affliction ability
+ Level 20: Shield breaker ability
+ Level 35: High damage ability
+ Level 50: Conditional damage ability
+ Level 65: Second affliction ability
+
+And a few bug fixes:
+
+ - You should no longer see messages about afflictions wearing off on denizens when the affliction has already been consumed by a battlerage attack.
+
+ - Amnesia should now be properly cleared off of a denizen when it dies.
+
+ - Battlerage Recovery should no longer increase infamy.
+
+ - Battlerage Incense and Torment should now require that your guardian angel be visible.
+
+ - Hopefully fixed a bug that would occasionally prevent you from gaining battlerage from an attack.
+
+ - Fixed a number of typos
+
+Penned by My hand on the 5th of Mayan, in the year 685 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:32.27--
+(Mudlet Clan): Ryldagh says, "I'd just reiterate through the table comparing each value against the lowest, which is tracked."
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:33.11--
+ANNOUNCE NEWS #4362                                     (06/09/2015 at 19:44)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: Outfits!
+-------------------------------------------------------------------------------
+We've just added Outfits to Achaea. HELP OUTFITS will tell you more, but the short version is that it's a way to group clothing and other wearables together and then wear or remove them in a group.
+
+Enjoy!
+
+Penned by My hand on the 8th of Mayan, in the year 685 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:35.99--
+ANNOUNCE NEWS #4363                                     (06/14/2015 at 21:35)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Artefact shopping cart - item upgrades
+-------------------------------------------------------------------------------
+We've just added a new feature to our current artefact cart promotion! You can now buy upgrade credit towards increasing the level of a multi-level artefact! These cart items are in 50cr lots, so if your intended artefact upgrade is 200cr, you'll need to buy 4 of them to completely cover the upgrade.
+
+These upgrade credits are applied automatically when using the ARTEFACT <item> UPGRADE command. It will use these before any regular bound credits (which will be used if the upgrade cost is higher than the amount of "upgrade credits" you have).
+
+** Note: These "upgrade credits" are only able to be used for artefact upgrades, and can not be converted into regular credits or lessons. They can not be transferred between players, nor can they be used to upgrade another player's artefacts.
+
+
+Penned by My hand on the 4th of Scarlatan, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:37.69--
+(Mudlet Clan): Ryldagh says, "Not very elegant."
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:47.60--
+(Mudlet Clan): Ryldagh says, "But works."
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:50.28--
+ANNOUNCE NEWS #4364                                     (06/17/2015 at 16:08)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: The Itinerant Bazaar returns once again!
+-------------------------------------------------------------------------------
+This weekend, the famous Itinerant Bazaar, selling goods unique and exotic, returns to Sapience! For those who haven't experienced it before, it is a set of interesting shops with limited inventory. When they're gone, they're gone!
+
+The Bazaar will be opening three separate times, and will be restocked in between, so if you can't make one time hopefully you'll be able to make one of the others.
+
+Times:
+Friday   : 4 pm Pacific / 11 pm GMT
+Saturday : 2 am Pacific / 9 am GMT
+Sunday   : 10 am Pacific / 5 pm GMT
+
+Penned by My hand on the 21st of Valnuary, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:50.41--
+ANNOUNCE NEWS #4365                                     (06/17/2015 at 17:59)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: IDEAs from the list
+-------------------------------------------------------------------------------
+We've just loaded up some new items from the IDEAs list! Here's all the details:
+
+* Battlerage will now fade 15 seconds after you regain balance from your attacks, up from 12.
+* Recklessness affliction (Battlerage) now lasts longer on denizens.
+* Shielded denizens will continue to take damage from damage-over-time (Battlerage) effects.
+* Adventurers are now given more prominent notification when they gain a new battlerage ability.
+* PROTEGES will now show you how long ago they were in the realms.
+* CONFIG SCORESHOW now allows "organization" alongside "organisation".
+* II ARTIFACT now works alongside II ARTEFACT.
+* WALK TO FISHERMAN will now default to the fisherman for the Achaean history quest.
+* ECHO has been added to the game, allowing you to have the game echo back a message of your choosing. This message can contain up to two newline characters (\n) to break this up.
+* ALLIES and ENEMIES are now preceded by an informational line.
+* ALIAS SHOW <alias> has been added, allowing easy lookup of a single alias.
+* BANISH (Kaido) equilibrium cost has been decreased.
+* SMASH MID (Weaponmastery) damage has been reduced.
+* DEDICATION (Weaponmastery) now has a cooldown between repeated use.
+* CURING defence upkeep is now more responsive.
+* Dozens of HELP files have been refreshed/updated/had more keywords added.
+* New furniture items are here! You can now purchase pews and mirrors. As an additional bonus, one can LOOK IN MIRROR to see their own reflection.
+
+Penned by My hand on the 23rd of Valnuary, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:19:52.16--
+(Colloquium Iniquus): Argathian says, "If anyone has feedback or questions about the lecture earlier, I would be happy to hear them."
+5786h, 6019m, 24060e, 22695w  exckdb---s01:20:09.29--
+ANNOUNCE NEWS #4366                                     (06/22/2015 at 17:42)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: HTML5 client mapper update
+-------------------------------------------------------------------------------
+We've just released a new minor version of the HTML5 client, bringing -much- faster map updates! This will mean that transitioning between different areas/maps will no longer cause any delays on slower computers! Be sure to refresh your client page to ensure you have the latest version.
+
+Penned by My hand on the 17th of Mayan, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:20:12.45--
+EVENTS NEWS #506                                        (06/12/2015 at 22:49)  
+From   : Anonymous
+To     : Everyone
+Subject: We Should Have Eloped
+-------------------------------------------------------------------------------
+ It began, as these things often do, with the quest for a perfect ring. Leaving his shop in the capable paws of his hound, Daveed left New Thera in search of a band worthy of his love. His quest was rewarded when he encountered Elstan Vorondil, a goldsmith of great talent who designed a ring that perfectly captured Daveed's beloved. Thanking him profusely for his aid and offering an invitation to the event in return, the shopkeeper returned home, content with his day's work.
+
+Some months after that, Nissa, the head Archivist of the Lucretian Athenaeum could be found on a shopping expedition of her own. She first travelled to Ashtan but found little help there as the citizens she encountered were almost wholly focused on battle. Growing frustrated, she ventured into the forest and the village of Eleusis. There she found willing help in the form of Shirszae Nynniaw, Grondson Rousseau, Raem Callahan, and Torrent Alighieri-Drac'kal. They guided the flustered archivist to the perfect outfit to wear on her wedding day and she made her way back home, packages in hand.
+
+Our couple's happy story almost came to an end when shouting was heard offering glimpses of an argument that threatened to ruin their love story. Adventurers quickly came to their aid, brokering a peace and then aiding them in the many tasks required to prepare for the happy event. Of great assistance to the lovebirds were Jinsun Ze'Dekiah, who provided various substances and words of wisdom to calm the nervous groom, and Emissary Indra who aided the bride in crafting the perfect vows. Not to be forgotten is the aid rendered by Lilio Candidior and Hexan d'Nox who tirelessly delivered the couple's invitations. Lilio's silver tongue proved especially useful in convincing recalcitrant guests. Anthony, a new resident who is opening a wedding boutique in New Thera, provided decorations and other festive accoutrements for the guests.
+
+In the end, the wedding was a rousing success and the happy couple has settled into a state of wedded bliss.
+
+               ~ ~ ~ ~ ~
+
+Summary: Daveed and Nissa of New Thera received help from many adventurers as they planned and executed their wedding and Anthony of the Serendipity Boutique took the opportunity to announce the opening of his shop in the village.
+
+
+Penned by My hand on the 7th of Aeguary, in the year 686 AF.
+
+5786h, 6019m, 24060e, 22695w  exckdb---s01:20:13.38--
+MHALDOR NEWS #3314                                      (06/10/2015 at 17:09)  
+From   : Atalkez Al'Jafri, Blade of Kashar
+To     : Everyone
+Subject: Dreams
+-------------------------------------------------------------------------------
+Mhaldor,
+
+I am not one for many words, nor do I post to the boards often. Unfortunately, I have no choice but to do so now.
+
+I must leave you Mhaldor, though this is no easy decision. For many years, I have worked tirelessly on my skills as a Blademaster. I have done my best to emulate Lucaine Pyramides and his ways to the best of my abilities. Sometimes I have fallen short, and sometimes I have conquered. Each misstep giving me the Strength to take the right one. Through Mhaldor, and His chosen, I felt that I was doing what was meant for me in this world. I have never questioned that, until now.
+
+These last few months, my rest has been plagued with a dream. Starting out in small glimpses, it has grown into a full memory of sorts. As time has gone on, more and more of the dream has become clearer in my mind. I see trees, death, ashes...but no faces no voices. By the third night, I could smell the blood on the ground, the reek of burnt flesh almost as if I was standing there myself.
+
+Each night it progressed in this manner, until it culminated into my most recent dream. As I sat in the glade of trees, writing some missive, I suddenly heard a rustle around me. Cursing at my falling so deeply into my writing, my senses return in a flash. My sword has gone. Quickly spinning around, I find that I am surrounded by many men. One standing in the center was a man I had recognized, though I did not know how. I still do not know how I recognized the man.
+
+He spoke to me, in a language that I did not understand, yet I heard every word as if my understanding of language had transcended all natural boundaries. He had come to kill me, and had taken my blade in my moment of weakness. As I watched him draw the blade, my blade, from it's scabbard; I could not help but feel that this night would not be like any other. He stabbed my blade deeply into a tree, continually taunting me as he did, knowing I could not attack him surrounded as he was. When he applied pressure to the blade, and the snap of the metal rung through the air, everything went black.
+
+I heard a voice, saying my name. "Atalkez", it said, "come to me." I could not see, nor feel yet I suddenly was face to face with a human I had never seen. Staring at me with his cold eyes, I felt the chill of the grave enter my bones. Every moment seeming like an eternity, I silently begged for him to speak, to break the silence. His face never moved, nor his mouth, yet his voice rung deep inside my head. "I have watched you, Atalkez. I have watched your rise as you have worked tirelessly to improve. However, you lie to yourself, Atalkez. You lie to the world."
+
+The voice faded once more, as I seemingly floated in the void, my consciousness racing as I wondered if this was a dream. It seemed so real, everything felt so vivid. The man begin to warp and change, his sun-tanned skin becoming blackened as if by flames. The voice, originally a soft timbre, now ragged and cracking. ?You must find yourself, Atalkez. The way of the Blade was not meant for this. Find purpose in your actions, more than slaughter. Find this purpose before you become like me, Atalkez. My love was too late, a river dried before it reached the lake. Will you be the same??
+
+As the voice faded from my mind, I found myself sitting in the Glade of Frozen Trees. I could not remember how I got there, nor how long I had been there. As I walked back to Mhaldor, my mind begin to put the pieces together. I know now, Lucaine Pyramides has challenged me. I accept his challenge, and must find this purpose he believes that I have. I will find this path, whatever it should take. I will not fail.
+
+Thank you Mhaldor, for the Strength to make this decision. Thank you for the Strength to move forward alone.
+
+I hope this path returns me to His service.
+
+In Strength,
+
+Atalkez Al'Jafri
+
+Penned by my hand on the 4th of Sarapin, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:20:14.48--
+MHALDOR NEWS #3315                                      (06/10/2015 at 20:54)  
+From   : Taraus Bravi'os
+To     : Everyone
+Subject: The Families of Mhaldor
+-------------------------------------------------------------------------------
+Brethren,
+
+The passing of Chronos 685 saw the Lichlord family hosting their annual event, a lovely dinner cruise upon the shores of the Baarian Bay. The next scheduled to host an affair will be the illustrious Dracrotalus family, in the autumn of 689.
+
+That will end the previous roster of major families, at which point I'll be introduce a new practice - to leave the calendar open afterwards for an open event. This will provide an opportunity for either a minor Mhaldorian family, or a burgeoning bloodline, to host an event of their own, to generate awareness of their name, and their maxims.
+
+Those wishing to take advantage of this opportunity have until Ero 690 to let me know of their desire to host such a fete, and an approximate scope of the size and nature of the affair. Should this prove to be a successful practice, then it will be formally added to the calendar of events, to be recognised at the end of every cycle. Bear in mind, this will only be sanctioned by the ministry if the family is, in fact, rooted and based in Mhaldor.
+
+After this, the rotation will begin once more, with activities hosted by the Nithilar dynasty.
+
+To correct an error printed previously, the correct order of circulation is:
+House Nithilar, House Aristata, House Lichlord, House Dracrotalus.
+
+
+I look forward to hearing from our established and esteemed families, and new generations, alike.
+
+X - T. Bravi'os
+Minister of Culture
+
+
+Penned by my hand on the 8th of Sarapin, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:20:15.62--
+Mathonwy arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:24.54--
+MHALDOR NEWS #3316                                      (06/15/2015 at 17:06)  
+From   : Herenicus Coldraven
+To     : Everyone
+Subject: Greatness and Favour: An Unhappy Union?
+-------------------------------------------------------------------------------
+Greatness is a choice.
+ 
+Axiomatic but too often ignored, without choice the Seven Truths of Evil would be unrecognizable: stars lost at high noon. Mhaldorian society celebrates greatness as representing the highest aspiration of mortalkind. In each other, we see not only our inborn capacity to choose - but our shared, yet fundamentally personal, struggle to choose rightly.
+ 
+Discerning right from wrong is a topic for another essay. What follows is a discussion on the relationship between greatness and favour. We address ourselves at the outset to that most visible expression of civic pride: the Mhaldorian cityfavour.
+ 
+The favours of Mhaldor, like the greatness for which they are given, are fruits of discipline and sacrifice, free to all whom would reach higher. Though varied as the scars what mark our backs, the favours of Mhaldor share one commonality: permanence at odds with everything we know to be true about the fluid nature of greatness. This discrepancy between static favour and fluid greatness carries serious implications. Chief among them are the consequences attaching to city rank, a static measure of aggregate favour.
+ 
+Rank equates to authority, conferring the privileges, responsibilities, and expectations that we associate with greatness. But as we have established, greatness lives and dies in right choosing and right action; it exists in the moment. If greatness past is an inaccurate predictor of greatness present, what is the proper role of city rank, if any, in a society based on truth and true measures? Greatness is fluid; should rank be more fluid, also?
+ 
+The daemons, as they say, are in the details.
+ 
+Decisions to willingly forego privileges, responsibilities, and expectations associated with rank meet with general confusion and disappointment. Once a capacity for greatness has been demonstrated, expectations are that it will continue to be exercised and expanded upon, indefinitely. But is this expectation justified by experience? To ask the question is to know the answer.
+ 
+By way of example, every society has witnessed careers that might best be described as meteoric; greatness that flares from existence after a single, incandescent season. Is it the defiance of namelessness that brings these celestial beings into orbit? How tragic then that anonymity can yield to fame but once.
+ 
+Others arguably find themselves victims of the Petra Principle, and only cease to be promoted once they can no longer perform effectively. Having risen beyond their scope of competence, these unhappy tenures rarely last (but too often do), ending in responsible resignation or a craven half-life tantamount to dormancy. This happenstance is too commonplace to shock us now, if it ever did. But is it fair to reserve our disappointment for them we promote in the first place?
+ 
+Perhaps the cleverest means of managing expectations is avoidance. Individuals practicing this strategy know who they are. By studiously avoiding favour (and responsibility and expectations), they live among us as Plebians in black clothes.
+ 
+To simply plateau is a lesser variant of the same conceit: a retirement from pain, then discipline, upon achieving some success in a single or related fields of endeavour. These individuals may feel that they have demonstrated greatness enough in arriving where they are. But is this the lesson to be gleaned from success?
+ 
+The foregoing demonstrates some of the problems inherent in linking the expectations of greatness with rank. But what can be done to bring expectations in line with reality? Mhaldorians of conscience, and I use that word with reluctance, have over the years devised means of reconciling this problem, some more radical than others. Let us close this discussion by introducing two solutions from opposite ends of the spectrum.
+ 
+The first and less controversial of these solutions amounts to an expansion of existing practice: voluntary demotion as self-sacrifice. Standardizing this practice could discourage such demotions from being perceived as an unseemly exercise in public self-flagellation. A more provocative solution might usher in the quinquennial demotion of all citizens, a current against which all must continue swimming.
+ 
+Many will remain unconvinced that our system of rank and privilege needs changing. It can be argued that fluidity necessarily undermines stability, the bedrock status quo. But please ask yourself, reader, what principle is being served by stability: tradition or comfort?
+
+Penned by my hand on the 24th of Scarlatan, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:29.33--
+MHALDOR NEWS #3317                                      (06/16/2015 at 21:50)  
+From   : Revelator Kitiara Lichlord
+To     : Everyone
+Subject: Library Project
+-------------------------------------------------------------------------------
+Hail Mhaldor,
+
+As I continue my efforts as your Librarian I noticed that our only books on Mhaldorian sermons and rituals are very outdated and so I call for a new project in which I am in need of 2-3 more volunteers.
+
+I need researchers to help me sift through the news posts and scattered notes to try and gather more recent sermons and rituals of our great city to make a second volume. With that said, if anyone has personal copies of anything over the last 200 years or so please let me know and if possible submit a copy to me so we may add it to this new volume.
+
+Thank you in advance and I look forward to hearing from those looking for volunteer work.
+
+
+
+In Service,
+
+Kitiara Lichlord
+
+
+Penned by my hand on the 2nd of Valnuary, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:32.82--
+THRALLS NEWS #8                                         (06/17/2015 at 05:40)  
+From   : Adjutant Elazar Lichlord, Dread Knight
+To     : Everyone
+Subject: Crusher Watchman's 'Shared Strength' ritual
+-------------------------------------------------------------------------------
+
+Much thanks to Lord Watchman and to Fiend Borivoj for scribing the ritual.
+
+---------------------------------------------------------------------------
+
+
+Watchman says in a smooth, rumbling voice, "Very well."
+ 
+Watchman says in a smooth, rumbling voice, "Legates."
+ 
+Watchman bends down and draws a chalk circle on the ground.
+ 
+Pausing a moment to survey his work, Watchman steps into a chalk circle, placing a silver libation
+bowl near the centre.
+ 
+Watchman says in a smooth, rumbling voice, "Gather around me, if you would.  On the outer edge."
+ 
+Herose moves to the outer edge of the circle.
+ 
+Watchman says firmly in a smooth, rumbling voice, "I must strongly urge you all - do not cross that
+line at any point until the ritual is complete."
+ 
+Borivoj steps to the very edge of the chalk circle.
+ 
+Nikun strides forward, standing on the edge of the circle.
+ 
+Elazar takes some salve from a vial and rubs it on his skin.
+ 
+Argathian steps to the edge of the circle.
+ 
+Xinna takes her place outside the chalk circle, alongside her fellow Legates.
+ 
+Watchman proceeds to mill between the assembled group, hands clasping to occasional shoulder and
+hip to orient and adjust as necessary; a deliberate gap is left in the circle as Watchman returns to his
+[Type MORE if you wish to continue reading. (11% shown)]
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:34.13--
+THRALLS NEWS #9                                         (06/17/2015 at 22:51)  
+From   : Subjugator Herose Lichlord, Shadow of Suffering
+To     : Everyone
+Subject: Essence and Shrines
+-------------------------------------------------------------------------------
+Legates,
+
+Turn your efforts towards expanding His influence and crushing the influence of others.
+
+As an incentive, beginning immediately and continuing for a period two (2) years until the serenade on Lupar 688 the Dread Legates will be granting rewards to those who prove most prolific in this endeavor.
+
+Every 130,000 essence offered to the Master will yield one (1) point.
+
+Providing all of the corpses necessary to raise and fully sanctify a shrine will yield three (3) points.  Inquire first with a Sartai to determine if there are shrines to be raised and there is a Sartai capable of raising it.  To be awarded points the Sartai who raised the shrine -must- either message me and indicate that you provided all the corpses or notate it on the logs. You are responsible to ensure that this is completed as no points will be awarded if there is no corresponding note or message from the
+Sartai.
+
+Providing all of the corpses necessary and utilizing them to destroy any heathen shrine will yield three (3) points.  Utilize CHELP ENEMYSHRINES to aide you in finding heathen shrines. If you find a shrine not noted in that scroll notify myself or one of the Council of Mhaldor.  As per the current standing orders do not defile shrines  of the Order of Phaestus.  You must have either a full Dread Legate or Dynamis message me or notate on the logs the:  area the shrine was located in, the Order of the shrine, and who,
+alone, provided the corpses to destroy the shrine.
+
+Five (5) credits will be provided for every 15 points for non-Dragons and 21 points for Dragons.
+
+In addition, the most prolific Legate will be awarded two (2) housefavours while the next most prolific will be awarded one (1) housefavour.
+
+All will kneel before the Master in time by choice ... or by force.
+
+In Service,
+
+Subjugator Herose Lichlord
+
+Penned by my hand on the 2nd of Lupar, in the year 686 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:35.36--
+THRALLS NEWS #10                                        (06/22/2015 at 07:34)  
+From   : Zarla Dracrotalus, Crusher of Wills
+To     : Everyone
+Subject: Public enslavement
+-------------------------------------------------------------------------------
+
+On 6th Mayan, 686, I publicly enslaved a young urchin boy from Ashtan. Two Ashtani were present along with some Mhaldorians. I post here, for possible interests of those were not awake at the time. This is the event taken from my memory.
+
+==========
+
+Inside the Mausoleum of Ekary Lucoster (indoors).
+The small iron port and the massive wooden door meant to seal the building off have
+been vandalised and hang from their hinges, locks broken. From the light pouring in
+through the open door, one can see a massive sarcophagus resting on an incline at the
+far end of the room. The lid of it is very thick glass with no apparent openings.
+Tool marks reveal unsuccessful attempts to open it. Under the glass rests the final
+remains of a decayed body, dressed in formal robes of the finest quality. In the
+skeleton's hand is gripped an ornate sword of translucent amber, with the holy symbol
+of Sartan engraved in the pommel. An epitaph on the wall reads: "Ekary Lucoster,
+called "the Sinistar" since childhood, lies here in his final resting place. His
+outstanding work forming the knightly brotherhood of the Infernals, his passion for
+his city, his family and Achaea, will always be remembered." Metal and stone icons of
+Sartan, Eris, Lupus, Aegis, and Twilight watch over the crypt from small alcoves in
+the walls. Intricate mosaics of coloured stone line the walls and floor, with scenes
+depicting epic battles and gods looking on in amusement from high places.  The Golden
+Dragon Aepas' imposing form looms. Melodie Ancyrion, Abaddon's Whisper is here. She
+wields a bronze shield inlaid with sea glass in her right hand. Lord Watchman
+Dracrotalus, Crusher is here. He wields a Shield of Absorption in his left hand and a
+vorpal sword in his right. With dignified poise, Karmic Scholar Reiloch loafs about.
+Dread Duelist Cesarina is here, shrouded. She wields Thoth's fang in her left hand
+and a lightweight buckler in her right. Dread Emissary Uzu, Thrall of Ruth is here.
+Taraus Bravi'os is here. Ainly Sar'vet, Magna Araneae is here. He wields a banded
+shield in his left hand. Staring into space, Flamebrand Recruit Ula is barely here.
+Her face is partially concealed beneath a raised hood. She wields an ornate fishing
+pole in both hands. Eminence Saeva Aristata, Lady Feral is here. She wields a
+blackened cavalry shield with ivory accents in her right hand.
+
+
+
+[Type MORE if you wish to continue reading. (26% shown)]
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:38.89--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:42.10--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. There are 2 monolith sigils in 2 groups here. A stubborn mule wanders about here, nosing at the ground. A light horse lingers here, pawing at the ground. The soft hush of rolling tides surrounds a seafoam nytrow, enmity burning in his gleaming red eye.  Fiend Mathonwy Corso, the Foolish is here. He wields an elemental staff in his left hand and a Shield of Absorption in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:44.07--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:46.58--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:47.18--
+Antidas is currently the Avenging Arrow Champion.
+Jhui is currently the Silent Executioner.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:48.20--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Nikun                 03         On      On         No      Blademaster
+Zarla                 06         On      On         No      Blademaster
+Argathian             04         On      On         No      Runewarden
+Borivoj               05         On      On         No      Infernal
+Saibel                06         On      On         No      Serpent
+Mathonwy              05         On      On         No      Magi
+Herose                15         On      On         No      Serpent
+Medi                  09         On      On         No      Apostate
+Xinna                 10         On      On         No      Bard
+Cesarina              04         On      On         No      Dragon
+Vum                   07         On      On         No      Dragon
+Proficy               08         On      On         No      Alchemist
+Crixos                05         On      On         No      Dragon
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:49.08--
+Dread Duelist Dartega (male Dwarf Crafter)
+You are level 91 (5th Order of the Hyperphysical) and 80.9% of the way to the next level.
+Health:       5786 / 5786     Mana:         6019 / 6019
+Endurance:   24060 /24060     Willpower:   22695 /22695
+Strength: 15  Dexterity: 15  Constitution: 16  Intelligence: 15
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:50.18--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Emissary Nikun, Thrall of Kisharo                             1  On  Blademaster
+Zarla Dracrotalus, Crusher of Wills                           2  On  Blademaster
+Argathian, Duelist of the Seven                               1  On  Runewarden
+Carbine Sar'vet, Initiate of the West                         3  On  Bard
+Borivoj, Fiend of the Inferno                                 1  On  Infernal
+Saibel Aristata, Crusher of Wills                             4  On  Serpent
+Eminence Taraza Aristata                                      6  On  Blademaster
+Fiend Mathonwy Corso, the Foolish                             3  On  Magi
+Subjugator Herose Lichlord, Shadow of Suffering               6  On  Serpent
+Neva, Apprentice of Manipulation                              1  On  Infernal
+Curator Carmain Nithilar, Factotum                            2  On  Apostate
+Ainly Sar'vet, Magna Araneae                                  4  On  Jester
+Tyrannus Xinna, Dread Legate                                  6  On  Bard
+Purifier Kitiara Lichlord                                     3  On  Serpent
+Dread Duelist Cesarina                                        2  On  Dragon
+Legate Medi                                                   3  On  Apostate
+Scourge Proficy, the Merciful                                 6  On  Alchemist
+Squire Vum Daesheryn, Dread Legate                            4  On  Dragon
+Tasuu Nithilar, Initiate of the West                          3  On  Runewarden
+Minister Crixos Nithilar                                      5  On  Dragon
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s01:21:51.51--
+You dip your fingers into the cool water of the bowl, willing it to reveal the location of Xinna.
+An image of Mhaldor appears reflected within the bowl, shifting with the rippling water to display Common room.
+5786h, 5986m, 24060e, 22675w  xckdb---s01:22:00.87--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. There are 2 monolith sigils in 2 groups here. A stubborn mule wanders about here, nosing at the ground. A light horse lingers here, pawing at the ground. The soft hush of rolling tides surrounds a seafoam nytrow, enmity burning in his gleaming red eye.  Fiend Mathonwy Corso, the Foolish is here. He wields an elemental staff in his left hand and a Shield of Absorption in his right.
+You see a single exit leading west.
+5786h, 5986m, 24060e, 22693w  xckdb---s01:22:02.15--
+You have recovered equilibrium.
+5786h, 5986m, 24060e, 22693w  exckdb---s01:22:02.79--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:06.16--
+You slip away to the west and successfully evade your pursuers.
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. Bloated with blood and flesh, a frenzied bloodworm sets its beady eyes on you. Muscles rippling beneath his grey coat, a noble destrier stands tall here, mane draped over his long neck.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:06.19--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:07.61--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:07.61--
+You have recovered balance on all limbs.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:07.92--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:08.34--
+You slip away to the west and successfully evade your pursuers.
+A guardhouse (indoors).
+Eyes flickering briefly from out of a bone hilt, this daegger appears to be alive and hovers close to its master's side. A runic totem is planted solidly in the ground. There are 5 infernal wraiths here. There are 2 large domesticated ants here. Wings flaring, a pegasus tosses his regal head impatiently. A flame-charred chariot pulled by demonic goats stands here.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand. Ainly Sar'vet, Magna Araneae is riding on a charred chariot. He wields a nearly perfect puppet of Carbine in his right hand.
+You see a single exit leading east.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:08.35--
+A guardhouse (indoors).
+Eyes flickering briefly from out of a bone hilt, this daegger appears to be alive and hovers close to its master's side. A runic totem is planted solidly in the ground. There are 5 infernal wraiths here. There are 2 large domesticated ants here. Wings flaring, a pegasus tosses his regal head impatiently. A flame-charred chariot pulled by demonic goats stands here.  Carbine Sar'vet, Initiate of the West is here. He wields a bard's mandolin in his left hand. Ainly Sar'vet, Magna Araneae is riding on a charred chariot. He wields a nearly perfect puppet of Carbine in his right hand.
+You see a single exit leading east.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:09.41--
+You have recovered balance on all limbs.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:10.02--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:10.09--
+You slip away to the east and successfully evade your pursuers.
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. Bloated with blood and flesh, a frenzied bloodworm sets its beady eyes on you. Muscles rippling beneath his grey coat, a noble destrier stands tall here, mane draped over his long neck.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:10.10--
+You have recovered balance on all limbs.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:11.84--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:12.05--
+You slip away to the up and successfully evade your pursuers.
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." An obsidian eye sigil is here. A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A sigil in the shape of a small, rectangular monolith is on the ground. An heraldic pennon flies here, bearing the House arms of the Dread Legates. An heraldic pennon flies here, bearing the House arms of the Insidium. An heraldic pennon flies here, bearing the arms of Maldaathi. An heraldic pennon flies here, bearing the arms of Naga. An heraldic pennon flies here, bearing the arms of Ebonfist. An heraldic pennon flies here, bearing the arms of Congregation. An heraldic pennon flies here, bearing the city arms of Mhaldor. An heraldic pennon flies here, bearing the Divine Order arms of Sartan. A Baalzadeen demon towers over you, filling you with dread. A midnight blue draught horse stands patiently awaiting direction. Playfully scampering about is a sleek black otter.
+You see exits leading up and down.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:12.06--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:12.96--
+You must regain balance first.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:12.96--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.18--
+You must regain balance first.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.18--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.34--
+You must regain balance first.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.34--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.57--
+You must regain balance first.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.57--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.74--
+You must regain balance first.
+5786h, 6019m, 24060e, 22695w  eckdb---s01:22:13.74--
+You have recovered balance on all limbs.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:13.86--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:13.92--
+You slip away to the up and successfully evade your pursuers.
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. An obsidian eye sigil is here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A crystalline golem stands here. A sigil in the shape of a small, rectangular monolith is on the ground. A gilded pike with the decapitated head of Dannyl has been erected here. Cracked rock surrounds a sulphurous fissure recently rent in the stony earth. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A pike with the decapitated head of Argathian has been erected. An elegant bloodstone bench is here. A black bone chest is here. The Silver Dragon Cesarina's imposing form looms. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:13.93--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.12--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.16--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.45--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.45--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.66--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.66--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.85--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:14.85--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.02--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.02--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.20--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.20--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.36--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.36--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.54--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s01:22:15.54--
+You have recovered balance on all limbs.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:15.66--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  exckdb---s01:22:15.73--
+You slip away to the east and successfully evade your pursuers.
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 5 infernal wraiths here. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 2 blood steeds here. A stone gargoyle flies overhead on leathery, grey wings.   You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:15.73--
+Your queues are already empty.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:15.91--
+You must regain balance first.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:15.91--
+Your queues are already empty.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:16.05--
+You must regain balance first.
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:16.05--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 5 infernal wraiths here. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 2 blood steeds here. A stone gargoyle flies overhead on leathery, grey wings.  You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24040e, 22695w  eckdb---s01:22:16.48--
+You have recovered balance on all limbs.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:17.46--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Argathian             04         On      On         No      Runewarden
+Mathonwy              05         On      On         No      Magi
+Cesarina              04         On      On         No      Dragon
+Medi                  09         On      On         No      Apostate
+Borivoj               05         On      On         No      Infernal
+Herose                15         On      On         No      Serpent
+Saibel                06         On      On         No      Serpent
+Zarla                 06         On      On         No      Blademaster
+Proficy               08         On      On         No      Alchemist
+Nikun                 03         On      On         No      Blademaster
+Xinna                 10         On      On         No      Bard
+Vum                   07         On      On         No      Dragon
+Crixos                05         On      On         No      Dragon
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:17.93--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:18.46--
+Quit trying to confuse me.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:19.39--
+Antidas is currently the Avenging Arrow Champion.
+Jhui is currently the Silent Executioner.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:20.74--
+Ahh, I am truly sorry, but I do not see anyone by that name here.
+5786h, 6019m, 24060e, 22695w  exckdb---s01:22:24.67--
+You dip your fingers into the cool water of the bowl, willing it to reveal the location of Antidas.
+An image of the Eastern Reaches appears reflected within the bowl, shifting with the rippling water to display On the northern banks of the Silverveil.
+5786h, 5986m, 24060e, 22675w  xckdb---s01:22:26.06--
+You have recovered equilibrium.
+5786h, 5986m, 24060e, 22675w  exckdb---s01:22:27.88--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 5 infernal wraiths here. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 2 blood steeds here. A stone gargoyle flies overhead on leathery, grey wings.  You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:30.41--
+Your queues are already empty.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:31.28--
+You can't evade in that direction.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:31.28--
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:32.63--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:32.67--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You inhale deeply and begin holding your breath.
+Wildcard out of range in command '%3'.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:32.72--
+A feeling of generosity spreads throughout you.
+You cease holding your breath and exhale loudly.
+5786h, 5986m, 24060e, 22695w  xckdb---s01:22:32.81--
+You have recovered equilibrium.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:33.19--
+You inhale deeply and begin holding your breath.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:33.24--
+You may apply another salve or balm to yourself.
+5786h, 5986m, 24060e, 22695w  exckdb---s01:22:33.72--

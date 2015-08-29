@@ -1,0 +1,244 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           165 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-24-28-82-231.austin.res.rr.com.
+
+A death adder coils up your leg.
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new unread news ***
+The vitality of the black boar begins to flow through you.
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+5786h, 5844m, 24060e, 22695w  exdb---s06:50:18.73--
+5786h, 5844m, 24060e, 22695w  exdb---s06:50:18.97--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 5844m, 24060e, 22695w  exdb---s06:50:19.02--
+You remove 1 quartz, bringing the total in the Rift to 98.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:19.03--
+You have recovered equilibrium.
+5786h, 5844m, 24060e, 22695w  exckdb---s06:50:19.88--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:20.01--
+There is no next message to read.
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:20.06--
+You have recovered equilibrium.
+5786h, 5844m, 24060e, 22695w  exckdb---s06:50:20.43--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:20.51--
+MHALDOR NEWS #3336                                      (08/25/2015 at 17:40)  
+From   : Executioner Cresil Aristata
+To     : The City of Mhaldor
+Subject: A Script of Reflection
+-------------------------------------------------------------------------------
+Greetings Mhaldor.
+
+I have come to put quill to parchment to inform you all that as of this day, a manuscript of preserved skin has been placed at 'A pair of confessionals'.
+
+This manuscript is designed to record the weaknesses and strengths of your citymates. Understand that in doing so, you are expected to remain professional whether you are scribing an opinionated weakness  for an ally, or reading what your peers may think of your own weaknesses. Entries may be anonymous or signed.
+
+When adding an entry, be sure to follow the standardized format already provided. If the individual you wish to enlighten with your encouragement for purging their weakness is not on the list, simply add them to the first page, a Table of Contents of sorts, and then refer to that page in the manuscript to record your experiences.
+
+Once again, this manuscript is designed for reflection upon ones self. This is not a writing post for your ill-tempered anger towards a colleague due to anonymity. Leave helpful words of encouragement that your target may grow in Strength and Suffering by your words, and purge said weakness from their form be it phsyical, mental or spiritual. Should you have any questions, please bring them to my attention.
+
+Grow in Strength and Suffering, Mhaldor. Your peers are always judging you, as is the Master. Learn what they truly think of your weakness, and grow.
+
+                               In Suffering
+
+    .o oOOOOOOOo                                            OOOo
+    Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
+    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
+    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
+    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
+    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
+    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
+   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
+  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
+ OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
+ "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
+    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
+    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .
+    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
+                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
+                      `$"  `OOOO' `O"Y ' `OOOO'  o             .
+    .                  .     OP"          : o     .
+
+                              Cresil Aristata
+
+[Type MORE if you wish to continue reading. (98% shown)]
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:21.09--
+-=[ Help us grow by voting for us at TopMudSites! http://www.achaea.com/vote ]=-
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:21.28--
+----[ Mhaldor City announcement ]----
+The Culture Ministry will soon be hosting the Unsundered Strength tournament! Sign-up now with a partner from the opposite House. The competition begins Sarapin 692. Mhaldor news #3333 for more information.
+-------------------------------------
+5786h, 5844m, 24060e, 22695w  xckdb---s06:50:21.64--
+You have recovered equilibrium.
+5786h, 5844m, 24060e, 22695w  exckdb---s06:50:23.16--
+The sun sits at its apex. It is exactly noon.
+The phase of the moon is that of the Waning Gibbous.
+
+In your world, it is 2015/08/26 06:50:23 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 5844m, 24060e, 22695w  exckdb---s06:50:23.80--
+MHALDOR NEWS #3337                                      (08/26/2015 at 00:43)  
+From   : Tyrannus Xinna Dracrotalus, Dread Legate
+To     : Everyone
+Subject: Weakness
+-------------------------------------------------------------------------------
+Hail Mhaldor,
+
+While it is always appropriate to examine one's weaknesses, and those of others around yourself, there are proper channels for this and there are improper ones. If you have thoughts regarding new practices for Mhaldor to begin, it is best to inform your superiors of these ideas before going off on your own.
+
+We will not have a manuscript described by the previous news post, as there is little purpose in it other than inflating one's own ego and attempting to subtly demean the reputations of colleagues. It has thus been removed and shall not be replaced.
+
+In the future, consult the Council first.
+
+In His service,
+
+Xinna Dracrotalus
+Tyrannus
+Dread Legate
+
+Penned by my hand on the 5th of Daedalan, in the year 692 AF.
+5786h, 5964m, 24060e, 22695w  exckdb---s06:50:27.37--
+Vivessa lowers her head respectfully before you.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:50:36.93--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:50:44.18--
+A massive gatehouse (indoors).
+A runic totem is planted solidly in the ground. There are 4 monolith sigils in 4 groups here. There are 3 infernal wraiths here. Observing from high above the ground is a reticulated giraffe. A crystalline golem stands here.  Mathonwy I'llur, Vindicator of Faith is here. He wields an elemental staff in his left hand and a Shield of Absorption in his right.
+You see a single exit leading west.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:50:45.46--
+Your current clan will now be the 'Mudlet Clan' clan.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:50:50.65--
+The following members of the clan of Mudlet Clan are in the realms:
+Naverre
+Manic Chef Galos Hjarta-Da'Navi (off channel)
+Doomsayer Morro Viatrix (off channel)
+Entaro I'llur, Dread Legate
+Bluef Shayan'Kor, the Somnolent Wytch (off channel)
+Prysala Cholla'Yi-Dawyn, Merchant Entrepreneur
+Sorcha Tiarell
+Sentry Isaiah Dawyn
+Arcturus
+Senatobrarian Nicca Alexandrian, Discurean Gemkeeper
+Tearstorm Le'Yuet
+Engineer Pharaus Kanku'Dai
+Forestwalker Calira (off channel)
+Builder of the Pyre, Nymarie Nyxillum
+Aoghinius Jinx, the Abyssal Master (off channel)
+Sage Mistress Karai D'Ischai-Moonwolf, Iron Maiden
+Platinum Merchantess Seara Vorondil-Shu'in-Crescent
+Beloved Yerf Longshanks, the Rowan Sage
+Volge
+Quen, of Cyrene
+Ithmian Page, Tendril Cyro Callahan, of the Silver Oak
+Annwyl Aeglienne, Chiaroscuro Painter (off channel)
+Page Aziik Imperio-Vallah, Shieldwarden
+Merchantess Gawi Drake, Scribblin Scribe (off channel)
+Gamden Obuun
+Mr. Raem Callahan, Capricious Princess
+Krymenian Founder Ginovianna Nyxillum
+Iron Soul Dortheron Covraci, The Last Renshi
+Veiled Apprentice Valkyn Greywind (off channel)
+Atalkez
+5786h, 6019m, 24060e, 22695w  exckdb---s06:50:51.42--
+Interesting...
+5786h, 6019m, 24060e, 22695w  exckdb---s06:51:18.73--
+(Mudlet Clan): You say, "Is there any how to's out there on running mudlet from source."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:51:23.81--
+(Mudlet Clan): Volge says, "I don't think you can because c is a compiled language but I'm not realy sure if mudlet was written in c."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:54:25.62--
+(Mudlet Clan): You say, "?"
+5786h, 6019m, 24060e, 22695w  exckdb---s06:54:48.34--
+(Mudlet Clan): You say, "Source code is available on github, I've done it before I just cant remember how."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:55:06.47--
+(The Midnight Crew): You say, "Something to do with qt and shit."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:55:14.51--
+(Mudlet Clan): Wyd says, "Have all the dependancy libaries installed?"
+5786h, 6019m, 24060e, 22695w  exckdb---s06:55:22.04--
+(Mudlet Clan): You say, "Trying to get it running in a docker container haha."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:55:47.17--
+(The Midnight Crew): You say, "So, fresh install of ubuntu."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:02.23--
+(The Midnight Crew): You say, "Miss."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:04.13--
+(Mudlet Clan): You say, "So, fresh install of ubuntu."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:09.98--
+(Market): Gawi says, "Minerals, Inks, Enchantments, Crystals and Unique Wares, Merchant Emporium of Cyrene Ad 465!"
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:19.71--
+Black scales shimmer around Medi as he enters from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:50.88--
+Medi departs to the west, the air sizzling around him.
+5786h, 6019m, 24060e, 22695w  exckdb---s06:56:52.29--
+(Mudlet Clan): You say, "Apt-add-repository ppa:mudlet-makers/ppa && apt-get update && apt-get install mudlet doesnt seem to work."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:57:08.05--
+(Mudlet Clan): You say, "Getting 404s."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:57:11.14--
+(Mudlet Clan): You say, "So trying to compile it from the git pull now, can't find how though."
+5786h, 6019m, 24060e, 22695w  exckdb---s06:58:24.17--
+(Mudlet Clan): Wyd says, "Read through http://wiki.mudlet.org/w/Compiling_Mudlet?"
+5786h, 6019m, 24060e, 22695w  exckdb---s06:59:00.41--
+(Mudlet Clan): You say, "Yeah, dont seem to have that qmake command."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:19.13--
+(Mudlet Clan): You say, "Ill keep digging."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:22.08--
+(Mudlet Clan): Wyd says, "Have the QT libaries installed?"
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:29.87--
+(The Midnight Crew): You say, "Most likely no."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:39.52--
+(The Midnight Crew): You say, "What are they."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:41.59--
+(Mudlet Clan): Wyd says, "Could manually get the libaries from https://github.com/Mudlet/Mudlet/blob/development/CI/travis.linux.install.sh."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:47.87--
+(Mudlet Clan): Wyd says, "Rather than running the install script, if thats not working."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:00:55.59--
+(The Midnight Crew): You say, "Ohh."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:13.76--
+(The Midnight Crew): You say, "Gotcha, ok."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:35.91--
+(The Midnight Crew): You say, "Thanks."
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:38.07--
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:46.42--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:46.44--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You inhale deeply and begin holding your breath.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:46.48--
+A feeling of generosity spreads throughout you.
+You cease holding your breath and exhale loudly.
+5786h, 6019m, 24060e, 22695w  xckdb---s07:01:46.57--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:46.81--
+You inhale deeply and begin holding your breath.
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:46.94--
+You may apply another salve to yourself.
+5786h, 6019m, 24060e, 22695w  exckdb---s07:01:47.34--

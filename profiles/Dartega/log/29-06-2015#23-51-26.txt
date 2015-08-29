@@ -1,0 +1,506 @@
+Rapture Runtime Environment v2.3.7 -- (c) 2014 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           180 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? Password correct. Welcome to Achaea.
+Your last login was from domain: 207.71.19.142.
+
+A death adder coils up your leg.
+You have received 5 lessons thanks to your Iron Membership.
+*** You have new messages ***
+*** You have new unread news ***
+The vitality of the black boar begins to flow through you.
+You feel your mind enhanced by the megalith tattoo.
+Your moss tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> Build your own artefact package @ Achaea.com and save up to 40%!
+-> Enjoy 15% (25% with Iron Elite) bonus on all credit purchases in June!
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+5786h, 6019m, 24060e, 22695w  exdb---s04:51:32.54--
+5786h, 6019m, 24060e, 22695w  exdb---s04:51:32.77--
+Alias "9multicmd" will now execute: "%1/%2/%3/%4/%5/%6/%7/%8/%9"
+5786h, 6019m, 24060e, 22695w  exdb---s04:51:32.85--
+You remove 1 quartz, bringing the total in the Rift to 110.
+You eat a quartz grain.
+An instant feeling of excitement and edginess overcomes you.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+Wildcard out of range in command '%4'.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:32.87--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:33.57--
+You will now attempt to parry attacks to your head.
+You rub your hands together greedily.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:33.63--
+Message #1810       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:33.72--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:33.97--
+Touching the mindseye tattoo, your senses are suddenly heightened.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:34.04--
+----[ Legates House announcement ]----
+The essence and shrine incentive program is currently active until Lupar 688.
+Read THRALLS 9 for more information.
+--------------------------------------
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:34.43--
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:34.72--
+Message #1811       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:35.03--
+----[ Mhaldor City announcement ]----
+Good luck to those participating in the Warriors of Baelgrim combat tournament!
+
+"The body may be made stronger through combat."
+
+The Mhaldorian calendar has been released! (PROJECT 448)
+Cultural Ministry openings: Haruspex editor and Theatre staff.
+-------------------------------------
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:35.46--
+Message #1812       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:35.56--
+Message #1813       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:35.77--
+Message #1814       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:35.95--
+Message #1815       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:36.12--
+Message #1816       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:51:36.32--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:36.44--
+Message #1817       Sent by Achaea
+6/27/18:53 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:36.48--
+Message #1818       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:36.78--
+Message #1819       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:36.94--
+Message #1820       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:37.11--
+Message #1821       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:37.32--
+The shadows have lengthened. It is late afternoon in Achaea.
+The phase of the moon is that of the Waning Crescent.
+
+In your world, it is 2015/06/30 04:51:37 GMT.
+See HELP GMT for an explanation of GMT.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:37.63--
+Message #1822       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:38.02--
+Message #1823       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:38.49--
+Message #1824       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:38.88--
+Message #1825       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.06--
+Message #1826       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.25--
+Message #1827       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.42--
+Message #1828       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.60--
+Message #1829       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.77--
+Message #1830       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:39.94--
+Message #1831       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.09--
+Message #1832       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.35--
+Message #1833       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.47--
+Message #1834       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.55--
+Message #1835       Sent by Achaea
+6/27/18:56 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.70--
+Message #1836       Sent by Achaea
+6/28/7:47 A small loaf of waybread has decayed to dust inside of horn#186945 .
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:40.88--
+Message #1837       Sent by Achaea
+6/28/19:47 A throwing axe has decayed to dust in your absence.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:41.04--
+Message #1838       Sent by Achaea
+6/29/8:27 A small loaf of waybread has decayed to dust inside of horn#186945 .
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:41.51--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:41.72--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:41.90--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:42.27--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:44.39--
+There is no next message to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:44.58--
+ANNOUNCE NEWS #4367                                     (06/24/2015 at 20:35)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: A new day for the HTML5 client
+-------------------------------------------------------------------------------
+With the release of the latest version of the HTML5 client, we felt that things were looking really great except for one small thing... the name! HTML5 isn't something that inspires people, so moving forward, the client will be known as Nexus!
+
+"But what about the old java client that was called Nexus?" I hear you ask. Well, we've officially marked that as end-of-life. It will no longer be updated or supported moving forward (in fact, it no longer works with the most recent Java version). You can still access it at http://www.achaea.com/game/oldnexus for now, should you need to.
+
+Nexus' new URL is http://nexus.achaea.com! No need to rush out and change your bookmarks, client.achaea.com and play.achaea.com will continue to work now and in the future!
+
+
+Penned by My hand on the 18th of Daedalan, in the year 687 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:45.41--
+ANNOUNCE NEWS #4368                                     (06/26/2015 at 00:07)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Bugfixes and combat tweaks
+-------------------------------------------------------------------------------
+We've fixed another big batch of bugs and made some minor combat tweaks over the past couple of days. Here's a list of the visible changes:
+
+* MANGLE (Vodun/Puppetry) now does a reduced amount of limb damage.
+* FOCUS (2H Weaponmastery) balance costs have been scaled down to synergise better with warhammers.
+* Tekura stances can no longer be freely switched following a JPK combo.
+* ERECT SHRINE is no longer forceable.
+* DEFILE/SANCTIFYing shrines can no longer be done while graced.
+* HELP is no longer able to be caught by the stupidity affliction.
+* DEDICATION (SnS Weaponmastery) now falls off more quickly.
+* Stun affliction is now correctly cleared on death.
+* PICKPOCKET (Subterfuge) will now correctly fail if the thief falls asleep.
+* FLING (Tarot) will now correctly split grouped cards in all situations.
+* OUTDECK (Tarot) now requires a tarot deck.
+* HONOURS will no longer take equilibrium when attempting to honours invalid characters.
+* JUMP emote no longer requires balance.
+* WEAR/REMOVE'ing an outfit will now be more informative if it fails for any reason.
+* ENGRAVE (Jewellery) will now work on resetting/artefact versions of items that can normally be engraved.
+* AMNESIA (Telepathy) is now correctly masked from server-side curing and GMCP afflictions.
+* Aeon is correctly recognised by server-side curing when you receive the "move sluggishly.." message.
+* Immunity elixir is now removed from the curing queue when it fails.
+* Stationery kits will no longer eat a portion of the gold put in them.
+* FEAR (Battlerage affliction) will now correctly cause denizens to run around in fear.
+* Learning lessons near transcendent in tradeskills should no longer shop short.
+* New article notifications will no longer show for newsignored sections.
+* Forging descriptors can now be mastered when you're at 99% of the way to mastery.
+
+Penned by My hand on the 21st of Aeguary, in the year 687 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:51:47.38--
+ANNOUNCE NEWS #4369                                     (06/30/2015 at 03:17)  
+From   : Tecton the Terraformer
+To     : Everyone
+Subject: Artefact cart and credit bonus ending soon
+-------------------------------------------------------------------------------
+Just a quick note to remind you that the artefact cart sale will be finishing at the upcoming Serenade. You have just under 21 hours from the time of this post to get up to 40% off the cost of your artefacts and upgrades, as well as the 15%/25% (w/ Iron Elite) credit bonus on all credit purchases, so get in quick!
+
+Penned by My hand on the 20th of Valnuary, in the year 687 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:18.80--
+MHALDOR NEWS #3318                                      (06/26/2015 at 04:13)  
+From   : Taraus Bravi'os
+To     : Everyone
+Subject: Climbing the Spire: The Warriors of Baelgrim
+-------------------------------------------------------------------------------
+
+
+Climbing the Spire: The Warriors of Baelgrim
+
+
+Unsheathe your swords: the time has come again to test your mettle and might against your fellow warriors! Cast your name to fight in a best-of-three, double elimination combat tournament to discover who amongst you shall be the Champion of Baelgrim! Entries are currently being accepted for placement in the first round, which will commence once a suitable number of warriors have come forth.
+
+Once all opponents have been designated, the tournament will begin! Opponents have three months from the start of the round to fight their battles, and inform me of the results - the winner shall be the victor of two of three fights, and shall continue to fight within the Fortress of Baelgrim, and his opponent shall be shunted to the Red Square bracket. Defeat within the Red Square, and be eliminated from the tournament entirely.
+
+The battles will continue until all but one has been eliminated, and one victor reigns supreme over his fellow combatants - The Champion of Baelgrim! Upon triumph, this top warrior will be afforded a prize of fifty credits, as well as receiving the recognition from superiors in the form of a cityfavour, and the coveted right to bear the title 'The Champion of Baelgrim'. The runner-up will receive twenty-five credits, and a cityfavour.
+
+Fight, and fight well, Mhaldor!
+
+X - T. Bravi'os
+Minister of Culture
+
+
+Full rules and more information can be found in PROJECT 247.
+
+
+
+
+
+
+
+
+
+
+
+Penned by my hand on the 25th of Aeguary, in the year 687 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:21.89--
+MHALDOR NEWS #3319                                      (06/29/2015 at 01:25)  
+From   : Taraus Bravi'os
+To     : Everyone
+Subject: Climbing the Spire - the tournament begins!
+-------------------------------------------------------------------------------
+The first matchups to determine the Champion of Baelgrim have been drawn, and the tournament shall now commence! Opponents will have three months from the posting of this to fight their duels (until Phaestian 687), and notify me of the victor (best two-of-three will determine the winner). Project 247 contains a full breakdown of the matches, as well as the rules set forth.
+
+Good luck, warriors, and may His Strength guide your blades.
+
+X - T. Bravi'os
+
+And those of you with a keen interest in the outcome may turn your attention to Book 15.
+
+First Round Matchups of the Warriors of Baelgrim:
+
+[] Carmain vs. Herose
+[] Medi vs. Crixos
+[] Kisharo vs. Carbine
+[] Chiam vs. Hasar
+[] Xinna vs. Elazar
+[] Jarrod vs. Xer
+[] Ainly vs. Blaster
+[] Argathian vs. Proficy
+
+Penned by my hand on the 19th of Ero, in the year 687 AF.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:24.79--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:27.23--
+You have no further news to read.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:27.91--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 5 infernal wraiths here. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand. You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:29.47--
+Raising your hand in greeting, you say "Hi!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:33.61--
+You have the following defences:
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+The vitality of the boar is energising you.
+Mentally bolstered by the power of the megalith.
+Your wounds are being staunched by the moss tattoo.
+You are feeling extremely energetic.
+You are surrounded by a cloak of protection.
+You are feeling quite selfish.
+Your senses are magically heightened.
+You will attempt to parry attacks to your head.
+You are protected by 11 defences.
+5786h, 6019m, 24060e, 22695w  xckdb---s04:52:34.91--
+(Market): Proficy says, "Looking to buy as many blue scale as you have to sell!"
+5786h, 6019m, 24060e, 22695w  xckdb---s04:52:35.03--
+You have recovered equilibrium.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:35.20--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 5 infernal wraiths here. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand. You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:38.77--
+totem88621          a runic totem
+ant139353           a large domesticated ant
+fern196924          a silky white fern
+sigil244944         a monolith sigil
+sigil408420         a monolith sigil
+sigil421751         an eye sigil
+sigil376816         a monolith sigil
+wraith256520        an infernal wraith
+wraith349901        an infernal wraith
+wraith438045        an infernal wraith
+steed357260         a blood steed
+wraith208117        an infernal wraith
+wraith253500        an infernal wraith
+Number of objects: 13
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:40.03--
+You see the following people here:
+Xinna, Dartega
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:40.03--
+Lichlord Mercantile (indoors).
+A runic totem is planted solidly in the ground. Picking nervously at its riding saddle, a large ant stands here quietly. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. There are 3 monolith sigils in 3 groups here. An obsidian eye sigil is here. There are 5 infernal wraiths here. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  Tyrannus Xinna, Dread Legate is here. Her features are obscured by a mask. She wields a Shield of Absorption in her right hand. You see a sign indicating there are WARES for sale here.
+You see exits leading west (open door) and down (closed door).
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:41.35--
+Member              Rank      HTell  HNTell  Probation      Class
+------              ----      -----  ------  ---------      -----
+Medi                  09         On      On         No      Apostate
+Xinna                 10         On      On         No      Bard
+Watchman              07         On      On         No      Runewarden
+Malicus               01        Off      On         No      Serpent
+Crixos                05         On      On         No      Dragon
+Jarrod                08         On      On         No      Serpent
+Rehnai                01        Off      On         No      Infernal
+Proficy               08         On      On         No      Alchemist
+Dartega               04         On      On         No      Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:42.93--
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Maiyarieke, Initiate of the West                              1  On  Serpent
+Legate Medi                                                   3  On  Apostate
+Tyrannus Xinna, Dread Legate                                  6  On  Bard
+Eminence Saeva Aristata, Lady Feral                           6  On  Magi
+Lord Watchman Dracrotalus                                     6  On  Runewarden
+Melodie Ancyrion, Abaddon's Whisper                           3  On  Apostate
+Jarrod Lucoster                                               3  On  Serpent
+Thrall Rehnai                                                 1  On  Infernal
+Thrall Malicus                                                1  On  Serpent
+Archailist, Insidium Disciple                                 1  On  Jester
+Scourge Proficy, the Merciful                                 6  On  Alchemist
+Minister Crixos Nithilar                                      5  On  Dragon
+Ainly Sar'vet, Magna Araneae                                  4  On  Jester
+Dread Duelist Dartega                                         2  On  Serpent
+5786h, 6019m, 24060e, 22695w  exckdb---s04:52:45.36--
+(Market): Seragorn says, "Selling satchel, bucket, hennin, vase, scabbard, disc and pet rock from the recent bazaar."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:53:30.48--
+A large domesticated ant twitches an antenna.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:54:01.46--
+(Market): Silas says, "Orbs, baubles and all manner of enchantments at Targossian Trinkets, southwest of the Silverveil Promenade on Veil's End."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:55:38.57--
+Xinna twitches an antenna at the domesticated ant.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:55:39.00--
+Watchman, riding a blood steed, arrives from the west.
+A razor-beaked falcon wings into the room with an angry cry.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:56:12.63--
+Xinna chitters at a large domesticated ant, rapidly vibrating the bristles of her segmented legs across her thorax.
+A large domesticated ant fastens its beady eyes on Xinna.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:56:19.75--
+Watchman coughs softly.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:56:30.50--
+Watchman, riding a blood steed, leaves to the west.
+A razor-beaked falcon flaps its powerful wings and departs.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:56:32.35--
+Jarrod arrives from the west.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:03.05--
+Watchman, riding a blood steed, arrives from the west.
+A razor-beaked falcon wings into the room with an angry cry.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:04.30--
+Watchman sucks thoughtfully on his teeth.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:21.57--
+Watchman, riding a blood steed, leaves to the west.
+A razor-beaked falcon flaps its powerful wings and departs.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:23.52--
+With a hiss, Xinna raises up to her full height, unfolding her armour-clad forearms and casting her cold, alien stare upon a large domesticated ant.
+A large domesticated ant fastens its beady eyes on Xinna.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:36.87--
+(Market): Liliana says, "Cyrenian Sundries! Bulk Sigils: Eyes, Orbs, Fists, Flames, Keys, Monos, and NOW Stars! NE, W from the Cyrene Subs!"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:46.63--
+Jarrod raises an eyebrow questioningly.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:47.32--
+Watchman, riding a blood steed, arrives from the west.
+A razor-beaked falcon wings into the room with an angry cry.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:57:59.67--
+Tyrannus Xinna, Dread Legate frowns and says to Jarrod in Mhaldorian, "He is staring at me."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:58:33.49--
+Watchman raises an eyebrow questioningly.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:58:39.54--
+With a wistful look on his face, Watchman touches a paper cone filled with flower petals.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:58:50.99--
+Jarrod says in a smooth, low voice, "What do those gestures mean to other insects?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:58:52.32--
+Watchman says in an indomitable, patrician voice, "Mating signals, I would expect."
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:04.05--
+Jarrod says in a smooth, low voice, "Are you perhaps conveying a message unintentionally?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:05.77--
+Tyrannus Xinna, Dread Legate asks in Mhaldorian, "Other insects?"
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:07.62--
+Jarrod pokes at a large domesticated ant urgently.
+A large domesticated ant twitches its antennae and backs away from Jarrod.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:10.21--
+You slip away to the west and successfully evade your pursuers.
+Stygian Crossroads.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Live without the constraints of Virtue and nothing will be denied you." A runic totem is planted solidly in the ground. A small mhun miner has been nailed upon a ridged, blood stained cross and left to perish. The cadaverous figure here atop the Idol of Corruption seethes with hatred. A large school of piranha swims here inside a deep, murky pool. A sewer grate looms darkly beneath your feet. There are 4 knights of the Maldaathi here. An obsidian eye sigil is here. The leather-bound Apocrypha lies closed upon an obsidian pedestal. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A look of disgust plastered across his face, Mhaldorus intently surveys his surroundings. A crystalline golem stands here. A sigil in the shape of a small, rectangular monolith is on the ground. There are 2 suicide mice here. A flame-charred chariot pulled by demonic goats stands here. A stone gargoyle flies overhead on leathery, grey wings. Curving her neck coquettishly, a dappled Dardanic filly nibbles at her shoulder. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Proficy. Brimming with energy, a sooty Dardanic colt waits impatiently nearby. A silvery Dardanic mare stands here with a graceful presence. Regal and commanding, a Dardanic stallion watches over his surroundings. An elegant bloodstone bench is here. A black bone chest is here. Scourge Proficy, the Merciful is riding on a stone gargoyle. His features are obscured by a mask. He wields a blackened cavalry shield with ivory accents in his left hand. You may ENTER SUBDIVISION from here.
+You see exits leading northeast, east (open door), west (open door), northwest, up, and down.
+5786h, 6019m, 24050e, 22695w  eckdb---s04:59:13.39--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  eckdb---s04:59:14.92--
+You must regain balance first.
+5786h, 6019m, 24050e, 22695w  eckdb---s04:59:14.93--
+You have recovered balance on all limbs.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:15.13--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:15.52--
+Mhaldor Road.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Through Evil shall we conquer." An obsidian eye sigil is here. A runic totem is planted solidly in the ground. There are 3 Naga assassins here. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A sigil in the shape of a small, rectangular monolith is on the ground. An heraldic pennon flies here, bearing the House arms of the Dread Legates. An heraldic pennon flies here, bearing the House arms of the Insidium. An heraldic pennon flies here, bearing the arms of Maldaathi. An heraldic pennon flies here, bearing the arms of Naga. An heraldic pennon flies here, bearing the arms of Ebonfist. An heraldic pennon flies here, bearing the arms of Congregation. An heraldic pennon flies here, bearing the city arms of Mhaldor. An heraldic pennon flies here, bearing the Divine Order arms of Sartan. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance. A jet-black falcon glides just above, looking for prey.  Commandant Chiam Nithilar is here, sleeping soundly.
+You see exits leading up and down.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:15.54--
+Your queues are already empty.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:16.46--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A gilded pike with the decapitated heads of Lotar, Argathian, Atalkez, Jhui, Dalran, Seragorn, Jarrod, and Ethoas has been erected here. A daemonic ice wyvern is here, her bloodshot eyes flitting disturbingly around.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24056e, 22695w  exckdb---s04:59:16.50--
+Your queues are already empty.
+5786h, 6019m, 24056e, 22695w  exckdb---s04:59:17.19--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. There are 2 monolith sigils in 2 groups here. Snorting softly, a dappled grey destrier lingers in regal repose. A stubborn mule wanders about here, nosing at the ground. A small nugget of gold lies abandoned upon the ground. A diminutive bar of silver rests upon the ground. A luminous yellow dusting of crushed sulphur covers the ground here. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  Legate Medi is riding on a blood steed. He wields a soulspear in his left hand and a Shield of Absorption in his right.
+You see a single exit leading west.
+5786h, 6019m, 24054e, 22695w  exckdb---s04:59:17.20--
+Your queues are already empty.
+5786h, 6019m, 24054e, 22695w  exckdb---s04:59:18.18--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A gilded pike with the decapitated heads of Lotar, Argathian, Atalkez, Jhui, Dalran, Seragorn, Jarrod, and Ethoas has been erected here. A daemonic ice wyvern is here, her bloodshot eyes flitting disturbingly around.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24052e, 22695w  exckdb---s04:59:18.20--
+Your queues are already empty.
+5786h, 6019m, 24052e, 22695w  exckdb---s04:59:18.45--
+A guardhouse (indoors).
+A rune resembling a horse has been sketched into the ground here. Eyes flickering briefly from out of a bone hilt, this daegger appears to be alive and hovers close to its master's side. A runic totem is planted solidly in the ground. There are 5 infernal wraiths here. There are 2 large domesticated ants here. Regal and commanding, a Dardanic stallion watches over his surroundings. A midnight blue draught horse stands patiently awaiting direction. Like a mountain against the wind, a storm bull is standing here, motionless. Muscles ripple beneath the shining coat of a black destrier.
+You see a single exit leading east.
+5786h, 6019m, 24050e, 22695w  exckdb---s04:59:18.46--
+Your queues are already empty.
+5786h, 6019m, 24050e, 22695w  exckdb---s04:59:19.01--
+The gates of Mhaldor.
+A noxious, red-hued fog overwhelms the area with a thick, palpable vapour. Some graffiti has been scrawled here. It reads, "Know ye that there is no truth greater than Evil." There are 5 knights of the Maldaathi here. A runic totem is planted solidly in the ground. An enormous slab of volcanic obsidian towers over this area, the regulations of Mhaldor etched upon its face. An occupied iron gibbet, suspended from a wooden gallows, creaks ominously in the breeze. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. An enormous slab of volcanic obsidian towers over this area, the laws of Mhaldor etched upon its face. A sigil in the shape of a small, rectangular monolith is on the ground. The broken fragments of a basalt altar litter the ground around the massive form of a bloodsteel stalagmite. A gilded pike with the decapitated heads of Lotar, Argathian, Atalkez, Jhui, Dalran, Seragorn, Jarrod, and Ethoas has been erected here. A daemonic ice wyvern is here, her bloodshot eyes flitting disturbingly around.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading east, south, west, and up.
+5786h, 6019m, 24048e, 22695w  exckdb---s04:59:19.02--
+Your queues are already empty.
+5786h, 6019m, 24060e, 22695w  exckdb---s04:59:19.29--
+A massive gatehouse (indoors).
+There are 3 infernal wraiths here. A runic totem is planted solidly in the ground. There are 2 monolith sigils in 2 groups here. Snorting softly, a dappled grey destrier lingers in regal repose. A stubborn mule wanders about here, nosing at the ground. A small nugget of gold lies abandoned upon the ground. A diminutive bar of silver rests upon the ground. A luminous yellow dusting of crushed sulphur covers the ground here. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  Legate Medi is riding on a blood steed. He wields a soulspear in his left hand and a Shield of Absorption in his right.
+You see a single exit leading west.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:19.31--
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:20.38--
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:20.39--
+You take out some salve and quickly rub it on your body.
+Your body grows extremely dense and heavy as the mass salve infuses your skin.
+You inhale deeply and begin holding your breath.
+Wildcard out of range in command '%3'.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:20.40--
+A feeling of generosity spreads throughout you.
+You cease holding your breath and exhale loudly.
+5786h, 6019m, 24058e, 22695w  xckdb---s04:59:20.53--
+You have recovered equilibrium.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:20.93--
+You inhale deeply and begin holding your breath.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:20.99--
+You may apply another salve or balm to yourself.
+5786h, 6019m, 24058e, 22695w  exckdb---s04:59:21.39--

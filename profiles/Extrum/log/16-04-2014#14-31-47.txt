@@ -1,0 +1,177 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           186 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+Your boar tattoo tingles slightly.
+*------------------( Announcements from the Administration )------------------*
+-> We're pleased to offer a new introductory package for all players, see
+   ANNOUNCE news #4102 for all of the details!
+-> Help us take the #1 spot - http://www.achaea.com/vote - every 12 hours.
+*-----------------------------------------------------------------------------*
+ (Type ADMINMESSAGE to view this again at any time.)
+
+You are blind and can see nothing but darkness.
+6032h, 4426m, 27625e, 20195w exdb-
+6032h, 4426m, 27625e, 20195w exdb-
+(Newbie): Stuneree says, "I'll ask the citizens of Cyrene then, thank you."
+6032h, 4426m, 27625e, 20195w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6032h, 4360m, 27625e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4360m, 27625e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4360m, 27625e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4360m, 27625e, 20195w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6032h, 4360m, 27625e, 20195w xdb-
+Message #1537       Sent by Achaea
+4/16/8:06 A bloodstained zombie kitten, your loyal companion, has been slain by Sir Morthif Aristata, Knight of the Watch.
+6032h, 4360m, 27625e, 20195w xdb-
+It's mid-morning in Achaea.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/04/16 19:31:55 GMT.
+See HELP GMT for an explanation of GMT.
+6032h, 4360m, 27625e, 20195w xdb-
+There is no next message to read.
+6032h, 4360m, 27625e, 20200w xdb-
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+6032h, 4360m, 27625e, 20200w xdb-
+You have recovered equilibrium.
+6032h, 4360m, 27625e, 20200w exdb-
+You will now attempt to parry attacks to your right leg.
+6032h, 4360m, 27625e, 20200w exdb-
+You have begun to look for arrows to pluck from the air.
+6032h, 4360m, 27625e, 20200w edb-
+There is currently a City credit sale in progress.
+6032h, 4360m, 27625e, 20200w edb-
+There is no next message to read.
+6032h, 4344m, 27625e, 20196w edb-
+You have recovered balance on all limbs.
+6032h, 4344m, 27625e, 20196w exdb-
+ANNOUNCE NEWS #4109                                     (04/16/2014 at 07:14)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: viewing purchasable moods
+-------------------------------------------------------------------------------
+Any mood that's either public or for sale will now be able to be viewed with MOOD <mood name> SHOW.
+
+So, if you're at the Shop of Wonders and aren't sure what a mood looks like, this will sort you out.
+
+Penned by My hand on the 18th of Ero, in the year 652 AF.
+6032h, 4344m, 27625e, 20196w exdb-
+(Newbie): Juliet says, "Otherwise, I would just say explore and be sure to PROBE before you attack, so you can avoid unfortunte situations."
+6032h, 4419m, 27625e, 20196w exdb-
+TARGOSSAS NEWS #280                                     (04/16/2014 at 18:39)  
+From   : Zuko Shu'in-Crescent, Monk of the Watch
+To     : Everyone
+Subject: Sartan Shrine Contest
+-------------------------------------------------------------------------------
+Salutations Dawnspear,
+
+Since the beginning of this Sartan shrine defiling contest, we have seen the dusted remains of nearly fifty Sartan shrines. This is a tremendous accomplishment, and the hard work of all those who have participated to make this happen has not gone unnoticed. Unfortunately, Mhaldor has been very diligent in their retaliations, and often when they do those who defiled are not willing to stick around to defend. This leaves a considerable weight on the shoulders of others to defend Their shrines, when those who actually defiled are nowhere to be found.
+
+Though this is not true for all those who defiled, it is common enough that the shrine contest will be drawing to a close early at the end of this year, 652 after the fall of the Seleucarian Empire. If you defile without sticking around to aid in the defense that often follows, you will soon find yourself disqualified from the contest.
+
+In service to the Bloodsworn and Their city,
+Zuko Shu'in-Crescent, Monk of the Watch
+
+Penned by my hand on the 4th of Valnuary, in the year 652 AF.
+6032h, 4419m, 27625e, 20200w exdb-
+You have no further news to read.
+6032h, 4473m, 27625e, 20195w exdb-
+You have no further news to read.
+6032h, 4473m, 27625e, 20200w exdb-
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. A rugged war goat stands here, gnawing on the leather bit of its reins. A shimmering orb lies here, illuminating the surrounding area with a slight glow. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Antlers of jet black crown the head of a proud ivory peryton. An ash-grey jaguar pauses here, golden eyes alight. A stone gargoyle flies overhead on leathery, grey wings. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6032h, 4473m, 27625e, 20200w exdb-
+totem62234          a runic totem
+bow-maiden227456    a Riverwall bow-maiden
+mule264056          a stubborn mule
+swordsman367967     a Blackstone swordsman
+mistweaver454152    a Naxian mistweaver
+brawler454404       a Duskmere brawler
+defender455218      a Shornwall defender
+goat480651          a rugged war goat
+orb200616           a shimmering orb
+rhinoceros334845    an armoured rhinoceros
+peryton244733       an ivory peryton
+tanji77356          Tanji, an ash-grey jaguar
+gargoyle177760      a stone gargoyle
+steed108185         a blood steed
+Number of objects: 14
+6032h, 4458m, 27625e, 20196w exdb-
+You see the following people here:
+Extrum
+6032h, 4458m, 27625e, 20196w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Lachlan Del-Amroth, Aarashi Rasul                             3  On  Sentinel
+Wisdomseeker Shibumi, The White Sun                           1  On  Monk
+Zuko Shu'in-Crescent, Monk of the Watch                       1  On  Monk
+Admiral Will Nahundi, Caefir Proselyte                        1  On  Bard
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Predicant Carmell Bayt Al-Azhan, Caefir Priestess             4  On  Priest
+Deacon of Celestia Bahtell Muk'tar, Aarashi Rasul             2  On  Priest
+Davio Op'Shae, Guardian of the Blades                         4  On  Dragon
+Caefir Proselyte, Kellonius Setanus-Weltsdown                 2  On  Priest
+Soldier Seftin Azon                                           1  On  Runewarden
+Cambri                                                        1  On  Priest
+Ernam, gate guard                                             1  On  Monk
+Sir Antonius Agarwaen, Inquisitor of Heretics                 3  On  Paladin
+Predicant Araeus Yuridja-Keyte                                1  On  Priest
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Micaelis Bayt Al-Azhan, Sefyric Prince                        2  On  Dragon
+Extrum Wintermourne                                           1  On  Jester
+6032h, 4458m, 27625e, 20200w exdb-
+You detect nothing here by that name.
+6032h, 4440m, 27625e, 20195w exdb-
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. A rugged war goat stands here, gnawing on the leather bit of its reins. A shimmering orb lies here, illuminating the surrounding area with a slight glow. Stomping the ground occasionally, a huge armoured rhinoceros stands here. Antlers of jet black crown the head of a proud ivory peryton. An ash-grey jaguar pauses here, golden eyes alight. A stone gargoyle flies overhead on leathery, grey wings. Standing still as a statue, a blood steed has fixed its fiery red eyes on some movement in the distance.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6032h, 4440m, 27625e, 20195w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 709.
+6032h, 4473m, 27625e, 20200w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6032h, 4473m, 27625e, 20200w exkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4473m, 27625e, 20200w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6032h, 4473m, 27625e, 20200w cxkdb-
+6032h, 4473m, 27625e, 20200w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6032h, 4473m, 27625e, 20200w cxkdb-
+You have recovered equilibrium.
+6032h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4473m, 27625e, 20200w cexkdb-

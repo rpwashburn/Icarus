@@ -1,0 +1,3022 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           123 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+6344h, 4455m, 24452e, 20195w exdb-
+6344h, 4455m, 24452e, 20195w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6344h, 4389m, 24452e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4389m, 24452e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4389m, 24452e, 20195w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4389m, 24452e, 20195w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6344h, 4389m, 24452e, 20195w xdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6344h, 4389m, 24452e, 20195w xdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6344h, 4389m, 24452e, 20195w xdb-
+You have recovered equilibrium.
+6344h, 4389m, 24472e, 20195w exdb-
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+6344h, 4389m, 24472e, 20195w exdb-
+You will now attempt to parry attacks to your left arm.
+6344h, 4389m, 24472e, 20195w exdb-
+You have begun to look for arrows to pluck from the air.
+6344h, 4389m, 24472e, 20195w edb-
+There is currently a City credit sale in progress.
+----[ Targossas City announcement ]----
+The focus for the time-being is solely on eradicating all traces of the visible influence of the Skylord. All attention should be given over to defiling His shrines. Time wasted on defiling shrines to Sartan, Ourania, Babel and Twilight only gives Vastar's Order the opportunity to rebuild. We shall continue our work in stamping out what feeble efforts the rest of our enemies put forth when we are finished with Vastar.
+---------------------------------------
+6344h, 4389m, 24472e, 20195w edb-
+Silvarien raises his hand in greeting and says "Hi!"
+6344h, 4389m, 24472e, 20200w edb-
+You have recovered balance on all limbs.
+6344h, 4371m, 24472e, 20195w exdb-
+It is the middle of the night in Achaea.
+The phase of the moon is that of the Waning Crescent.
+
+In your world, it is 2014/05/07 16:42:21 GMT.
+See HELP GMT for an explanation of GMT.
+6344h, 4371m, 24472e, 20195w exdb-
+Raising your hand in greeting, you say "Hi!"
+6344h, 4371m, 24472e, 20195w exdb-
+Silvarien calls upon the elements Water, Earth, and Fire and bestows the Endurance blessing upon you.
+6344h, 4460m, 24492e, 20195w exdb-
+(The Dawnguard): Goggo says, "Dunn phased again."
+6344h, 4440m, 24492e, 20194w exdb-
+Silvarien calls upon the elements Air, Water, and Fire and bestows the Willpower blessing upon you.
+6344h, 4440m, 24492e, 20194w exdb-
+Silvarien takes a drink from an obfuscated crystal vial.
+6344h, 4440m, 24492e, 20194w exdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6344h, 4425m, 24512e, 20196w exdb-
+(The Dawnguard): Goggo says, "Ashtan."
+6344h, 4425m, 24512e, 20196w exdb-
+Silvarien calls upon the elements Earth and Spirit and bestows the Earth Spiritshield blessing upon you.
+6344h, 4425m, 24512e, 20196w exdb-
+(Newbie): Mokau says, "Alakem, are there any quests with multiple branching outcomes based on decisions or success/failure at convincing mobs or performing tasks etc?"
+6344h, 4425m, 24532e, 20200w exdb-
+I don't see the container here from which you wish to apply some fluid.
+6344h, 4425m, 24532e, 20200w exdb-
+What is it that you wish to drink?
+6344h, 4425m, 24532e, 20200w exdb-
+You take a long drag off your pipe.
+6344h, 4425m, 24532e, 20200w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 654.
+6344h, 4425m, 24532e, 20200w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6344h, 4425m, 24532e, 20200w exkdb-
+You remove 1 sileris, bringing the total in the Rift to 235.
+6344h, 4425m, 24532e, 20200w exkdb-
+You apply a sileris berry to yourself.
+6344h, 4425m, 24532e, 20200w exkdb-
+You now possess the gift of the third eye.
+6344h, 4405m, 24532e, 20200w exkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4405m, 24532e, 20200w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6344h, 4405m, 24532e, 20200w cxkdb-
+I don't see the container here from which you wish to apply some fluid.
+6344h, 4388m, 24532e, 20195w cxkdb-
+You have recovered equilibrium.
+6344h, 4388m, 24532e, 20195w cexkdb-
+What is it that you wish to drink?
+6344h, 4473m, 24532e, 20195w cexkdb-
+Your lungs have not yet recovered enough to allow you to smoke.
+6344h, 4473m, 24532e, 20195w cexkdb-
+You remove 1 kola nut, bringing the total in the Rift to 653.
+6344h, 4473m, 24532e, 20195w cexkdb-
+You eat a kola nut.
+6344h, 4473m, 24532e, 20195w cexkdb-
+You remove 1 sileris, bringing the total in the Rift to 234.
+6344h, 4473m, 24532e, 20195w cexkdb-
+You apply a sileris berry to yourself.
+6344h, 4473m, 24532e, 20195w cexkdb-
+You already possess the gift of the third eye.
+6344h, 4453m, 24532e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4453m, 24532e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You remove 1 myrrh gum, bringing the total in the Rift to 285.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You eat a ball of myrrh gum.
+As you swallow the myrrh, you feel your mind begin to race. New avenues of mental exploration open up to you and you can feel your mind processing information as never before.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You must regain equilibrium first.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You must regain equilibrium first.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You take a drink from an oaken vial.
+A chill runs over your icy skin.
+6344h, 4453m, 24532e, 20195w cxkdb-
+Silvarien calls upon the elements Air and Water and bestows the Frost Spiritshield blessing upon you.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You take a drink from a glazed runic vial.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You take a drink from a birchwood vial.
+You feel a momentary dizziness as your resistance to damage by poison increases.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You take a drink from an oaken vial.
+Your body begins to feel lighter and you feel that you are floating slightly.
+6344h, 4453m, 24532e, 20195w cxkdb-
+Your lungs have recovered enough to smoke another mineral or plant.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You remove 1 bloodroot leaf, bringing the total in the Rift to 837.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You remove 1 irid moss, bringing the total in the Rift to 1380.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You remove 1 kelp, bringing the total in the Rift to 373.
+6344h, 4453m, 24532e, 20195w cxkdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4453m, 24532e, 20195w cxkdb-
+You have recovered equilibrium.
+6344h, 4453m, 24532e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4453m, 24532e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You shut your eyes and concentrate on Thoth, the God of Death. A moment later, you feel inextricably linked with Death itself.
+6344h, 4420m, 24532e, 20185w cxkdb-
+You may apply another salve or balm to yourself.
+6344h, 4420m, 24532e, 20185w cxkdb-
+I don't see the container here from which you wish to apply some fluid.
+6344h, 4420m, 24532e, 20185w cxkdb-
+I don't see the container here from which you wish to apply some fluid.
+6344h, 4420m, 24552e, 20185w cxkdb-
+You take out some balm and quickly rub it on your body.
+A feeling of comfortable warmth spreads over you.
+6344h, 4420m, 24552e, 20185w cxkdb-
+You have recovered equilibrium.
+6344h, 4420m, 24552e, 20197w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4420m, 24552e, 20197w cexkdb-
+You cease holding your breath and exhale loudly.
+You prick up your ears.
+6344h, 4420m, 24552e, 20147w cxkdb-
+You may apply another salve or balm to yourself.
+6344h, 4420m, 24552e, 20147w cxkdb-
+Silvarien calls upon the elements Fire and Spirit and bestows the Thermal Spiritshield blessing upon you.
+6344h, 4404m, 24552e, 20142w cxkdb-
+Silvarien takes a drink from an obfuscated crystal vial.
+6344h, 4404m, 24552e, 20142w cxkdb-
+You have recovered equilibrium.
+6344h, 4404m, 24552e, 20142w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4404m, 24552e, 20142w cexkdb-
+You cease holding your breath and exhale loudly.
+You begin erecting a curseward.
+6344h, 4238m, 24552e, 20092w cxkdb-
+What is it that you wish to drink?
+6344h, 4238m, 24552e, 20092w cxkdb-
+Tiny tremours spread through your body as the world seems to slow down.
+6344h, 4238m, 24552e, 20092w cxkdb-
+What is it that you wish to drink?
+6344h, 4238m, 24552e, 20092w cxkdb-
+You take a drink from an oaken vial.
+Your mind feels stronger and more alert.
+6344h, 4473m, 24572e, 20092w cxkdb-
+Silvarien says in a rumbling, gravelly voice, "Need any tattoos?"
+6344h, 4463m, 24572e, 20104w cxkdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4463m, 24572e, 20104w cxkdb-
+You feel an aura of rebounding surround you.
+6344h, 4463m, 24572e, 20104w cxkdb-
+Your curseward is complete.
+6344h, 4445m, 24572e, 20099w cxkdb-
+The sileris berry juice hardens into a supple purple shell.
+You have recovered equilibrium.
+6344h, 4445m, 24572e, 20099w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4445m, 24572e, 20099w cexkdb-
+You cease holding your breath and exhale loudly.
+You're quite the slippery little fellow aren't you?
+6344h, 4445m, 24572e, 20099w cekdb-
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4445m, 24572e, 20099w cekdb-
+You may drink another health or mana elixir or tonic.
+6344h, 4473m, 24592e, 20099w cekdb-
+You have recovered balance on all limbs.
+6344h, 4473m, 24592e, 20111w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4473m, 24592e, 20111w cexkdb-
+Silvarien pours blessings over you, and divine choirs begin to sing joyously at the edge of your hearing.
+6344h, 4473m, 24592e, 20111w cexkdb-
+You cease holding your breath and exhale loudly.
+You say, "No, thank you though."
+6344h, 4449m, 24592e, 20107w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24592e, 20107w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4449m, 24592e, 20107w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24592e, 20107w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4449m, 24612e, 20119w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24612e, 20119w cexkdb-
+Silvarien says in a rumbling, gravelly voice, "Okie dokie."
+6344h, 4430m, 24612e, 20114w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+Your mind is blessed with clarity.
+6344h, 4473m, 24612e, 20114w cexkdb-
+You cease holding your breath and exhale loudly.
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You are regenerating endurance at an increased rate.
+You are regenerating willpower at an increased rate.
+You are protected by the power of an Earth Spiritshield.
+You are feeling extremely energetic.
+You possess the sight of the third eye.
+You are surrounded by a cloak of protection.
+Your mind is racing with enhanced speed.
+You are extremely heavy and difficult to move.
+You are tempered against fire damage.
+You are protected by the power of a Frost Spiritshield.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+Your mind has been touched by Thoth, the Deathgod.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+You are protected by the power of a Thermal Spiritshield.
+Your sense of time is heightened, and your reactions are speeded.
+You are protected from hand-held weapons with an aura of rebounding.
+A curseward has been established about your person.
+You are protected from the fangs of serpents.
+You are looking a little shady today.
+You will attempt to parry attacks to your left arm.
+You are protected by 29 defences.
+6344h, 4463m, 24612e, 20114w cxkdb-
+You have recovered equilibrium.
+6344h, 4463m, 24612e, 20114w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4463m, 24612e, 20114w cexkdb-
+You cease holding your breath and exhale loudly.
+
+ANNOUNCE NEWS #4126                                     (05/07/2014 at 16:20)  
+From   : Sarapis, the Logos
+To     : Everyone
+Subject: Changes to WALK TO/Landmarks
+-------------------------------------------------------------------------------
+Some changes today to make using Landmarks/WALK TO more useful.
+
+1. Got rid of the Traveler Trait and the In Service Trait. If you had them, you'll be able to choose another now.
+
+2. Got rid of the Magnetic Needle SoW item. If you had it, you should have 2 extra crowns now (what they cost).
+
+3. Greatly increased WALK TO speed.
+
+4. Everyone can now, by default, walk to where a living citymate or housemate is standing. Just WALK TO <person>.
+
+5. The limit on custom landmarks has been upped. It used to be only 5 before you had to pay 100 lessons per additional mark. It's now 15.
+
+Enjoy!
+
+Penned by My hand on the 4th of Aeguary, in the year 654 AF.
+6344h, 4463m, 24632e, 20126w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4445m, 24632e, 20121w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+Your body grows stronger as the blessings dissolve around you.
+6344h, 4445m, 24652e, 20128w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+6344h, 4473m, 24692e, 20147w cexkdb-
+You cease holding your breath and exhale loudly.
+You have no further news to read.
+6344h, 4449m, 24692e, 20143w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24712e, 20143w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4449m, 24712e, 20155w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24712e, 20155w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4449m, 24712e, 20155w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 24712e, 20155w cexkdb-
+Colgano dies, features contorted from the poison delivered by Mizik Corten, Herald of Ruin.
+6344h, 4449m, 24712e, 20155w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4433m, 24712e, 20150w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4433m, 24712e, 20150w cexkdb-
+(Newbie): Alakem says, "Sorry I havent gotten that far yet, I'll give you a heads up if I find one though."
+6344h, 4433m, 24712e, 20150w cexkdb-
+You cease holding your breath and exhale loudly.
+Ahh, I am truly sorry, but I do not see anyone by that name here.
+6344h, 4423m, 24732e, 20162w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4423m, 24732e, 20162w cexkdb-
+You cease holding your breath and exhale loudly.
+Nothing can be seen here by that name.
+6344h, 4409m, 24732e, 20158w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+Your spirit is strengthened against spiteful magics.
+6344h, 4409m, 24732e, 20158w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4409m, 24732e, 20158w cexkdb-
+You cease holding your breath and exhale loudly.
+Pathfinder Colgano LastGoodbye-Vorondil (male Dwarf).
+He is 205 years old, having been born on the 4th of Miraman, 448 years after the fall of the Seleucarian Empire.
+He is ranked 307th in Achaea.
+He is the 20th ranked combatant with a rating of 150.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Ranger in Eleusis.
+He is a Scout in the army of Eleusis.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His warcry: 'Poltarion: "Did you just drop Crythril on my head?"'
+He has taken the hand of Dr. Poltarion Xanatov-Amidamaru, the Phaestean Fox in marriage.
+He has been divorced 2 times.
+He bears the arms: Argent, on a bend sinister cotised Azure, an angel volant Or between a mace in base Gules.
+See HONOURS DEEDS COLGANO to view his 3 special honours.
+6344h, 4447m, 24752e, 20165w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4447m, 24752e, 20165w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4437m, 24772e, 20177w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4437m, 24772e, 20177w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4420m, 24792e, 20172w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+Your fatigue lifts as your weary limbs are rallied.
+6344h, 4420m, 24975e, 20172w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4420m, 24975e, 20184w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4463m, 24975e, 20184w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4463m, 24975e, 20184w cexkdb-
+You cease holding your breath and exhale loudly.
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You are regenerating endurance at an increased rate.
+You are regenerating willpower at an increased rate.
+You are protected by the power of an Earth Spiritshield.
+You are feeling extremely energetic.
+You possess the sight of the third eye.
+You are surrounded by a cloak of protection.
+Your mind is racing with enhanced speed.
+You are extremely heavy and difficult to move.
+You are tempered against fire damage.
+You are protected by the power of a Frost Spiritshield.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+Your mind has been touched by Thoth, the Deathgod.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+You are protected by the power of a Thermal Spiritshield.
+Your sense of time is heightened, and your reactions are speeded.
+You are protected from hand-held weapons with an aura of rebounding.
+A curseward has been established about your person.
+You are protected from the fangs of serpents.
+You are looking a little shady today.
+Your skin is toughened.
+You are resisting magical damage.
+You will attempt to parry attacks to your left arm.
+You are protected by 31 defences.
+6344h, 4445m, 24995e, 20179w cxkdb-
+You have recovered equilibrium.
+6344h, 4445m, 24995e, 20179w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4445m, 24995e, 20179w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4445m, 24995e, 20191w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4445m, 24995e, 20191w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+You feel healthy and cleansed.
+6344h, 4419m, 24995e, 20187w cexkdb-
+The divine choir lingers on in your mind, and your spirit soars.
+Your fatigue lifts as your weary limbs are rallied.
+6344h, 4435m, 25560e, 20200w cexkdb-
+The heavenly visions fade as the bliss leaves you.
+6344h, 4415m, 25580e, 20194w cexkdb-
+Your pipe has gone cold and dark.
+6344h, 4394m, 25720e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6344h, 4394m, 25720e, 20195w cexkdb-
+Your oaken pipe has gone cold and dark.
+6344h, 4428m, 25800e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4428m, 25800e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4428m, 25800e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6344h, 4428m, 25800e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4428m, 25800e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4453m, 25840e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4453m, 25840e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Predicant Dakotah Obuun                                       1  On  Priest
+Predicant Kaiu Silvertongue Obuun                             3  On  Druid
+Hanley D'Ischai                                               1  On  Serpent
+Davio Op'Shae, Guardian of the Blades                         4  On  Monk
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Murian, of Targossas                                          1  On  Blademaster
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Gamden Obuun                                                  1  On  Blademaster
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Extrum Wintermourne                                           1  On  Jester
+6344h, 4443m, 25860e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4443m, 25860e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Murian, of Targossas (female Human).
+She is 18 years old, having been born on the 2nd of Aeguary, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 0% of your might.
+6344h, 4443m, 25860e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4427m, 25860e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6344h, 4427m, 25860e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6344h, 4427m, 25860e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6344h, 4427m, 25880e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6344h, 4427m, 25880e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You are regenerating endurance at an increased rate.
+You are regenerating willpower at an increased rate.
+You are protected by the power of an Earth Spiritshield.
+You are feeling extremely energetic.
+You possess the sight of the third eye.
+You are surrounded by a cloak of protection.
+Your mind is racing with enhanced speed.
+You are extremely heavy and difficult to move.
+You are tempered against fire damage.
+You are protected by the power of a Frost Spiritshield.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+Your mind has been touched by Thoth, the Deathgod.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+You are protected by the power of a Thermal Spiritshield.
+Your sense of time is heightened, and your reactions are speeded.
+You are protected from hand-held weapons with an aura of rebounding.
+A curseward has been established about your person.
+You are protected from the fangs of serpents.
+You are looking a little shady today.
+Your skin is toughened.
+You are resisting magical damage.
+You will attempt to parry attacks to your left arm.
+You are protected by 31 defences.
+6344h, 4417m, 25880e, 20200w cxkdb-
+You have recovered equilibrium.
+6344h, 4417m, 25880e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4417m, 25880e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You have no further news to read.
+6344h, 4455m, 25880e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4455m, 25880e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4455m, 25900e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4455m, 25900e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 116         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 256         Explorer Rank: 749     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6344/6032   Willpower: 20200/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4447/4473   Endurance: 25960/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 65      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 750     Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 557                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward *                        Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back                                                |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6344h, 4447m, 25960e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4447m, 25960e, 20200w cexkdb-
+You feel your density return to normal.
+6344h, 4419m, 25980e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6344h, 4419m, 25980e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4419m, 25980e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6344h, 4457m, 25980e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You are attempting to BIND 50 Credits to yourself. Credits that you bind to yourself can only ever be used for this character and can never be transferred or sold to any other character. If you are sure you would like to do this, type in AGREE.
+6344h, 4429m, 26020e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4429m, 26020e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You nod your head in agreement.
+6344h, 4473m, 26040e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4473m, 26040e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6344h, 4473m, 26040e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4473m, 26040e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You peer about yourself unscrupulously.
+6344h, 4459m, 26040e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4459m, 26040e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You are attempting to BIND 50 Credits to yourself. Credits that you bind to yourself can only ever be used for this character and can never be transferred or sold to any other character. If you are sure you would like to do this, type in AGREE.
+6344h, 4449m, 26060e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 26060e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You nod your head in agreement.
+6344h, 4449m, 26060e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4449m, 26060e, 20200w cexkdb-
+Your enhanced senses inform you that Goggo has entered Blackstone military quarter nearby.
+6344h, 4420m, 26060e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You are attempting to BIND 50 Credits to yourself. Credits that you bind to yourself can only ever be used for this character and can never be transferred or sold to any other character. If you are sure you would like to do this, type in AGREE.
+6344h, 4457m, 26080e, 20195w cexkdb-
+You bind 50 Credits to yourself.
+You now have 800 Bound Credits.
+6344h, 4457m, 26080e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4457m, 26100e, 20200w cexkdb-
+Your enhanced senses inform you that Goggo has entered Blackstone military quarter nearby.
+6344h, 4447m, 26100e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Blackstone parade ground.
+The stars twinkle in the clear night sky. There are 2 Riverwall bow-maidens here. An obsidian eye sigil is here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.  A large barracks is here providing the city's forces with rest and refuge. Soldier Qara Del-Amroth Rian is here.
+You see exits leading north, east, southeast, and south.
+6344h, 4430m, 26098e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4430m, 26098e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Blackstone military quarter.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, northeast, east, south, west, and northwest.
+6344h, 4430m, 26096e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4430m, 26096e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You say, "Duanathar."
+You quickly utter "Duanathar" and your wings flare with power before swiftly carrying you up to on the clouds.
+On the clouds (indoors).
+A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. Lurking around, Snow, an albino dire wolf watches silently. A pike with the decapitated head of Ernam has been erected. A sigil in the shape of a small, rectangular monolith is on the ground. Flapping its massive wings, a dire bat flies overhead.
+You see exits leading north, northeast, east, southeast, south, southwest, west, northwest, up, down, and in.
+6344h, 4430m, 26116e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4430m, 26116e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Before the bridge to Delos (road).
+The stars twinkle in the clear night sky. An ornately carved wooden sign is posted here. A galaxy of silver stars is displayed here on a length of ebon ribbon. Sethrin, the ore merchant, waits here impatiently.
+You see exits leading east, south, and west.
+6344h, 4430m, 26114e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4430m, 26114e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+There is no exit in that direction.
+6344h, 4430m, 26114e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4430m, 26114e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+On the Delosian bridge.
+The stars twinkle in the clear night sky. Some graffiti has been scrawled here. It reads, "I make good on my promises." Dressed in a smart uniform of maroon and silver, a young boy stands at the ready. A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. A galaxy of silver stars is displayed here on a length of ebon ribbon.  You may ENTER the WILDERNESS map from here.
+You see exits leading northeast, southeast, west, and down.
+6344h, 4420m, 26112e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4420m, 26112e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Epitus Avenue nearing the bridge.
+The stars twinkle in the clear night sky. A galaxy of silver stars is displayed here on a length of ebon ribbon.
+You see exits leading northeast, east, southwest, and northwest (open door).
+6344h, 4420m, 26110e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4420m, 26110e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Western Epitus Avenue.
+The stars twinkle in the clear night sky. A galaxy of silver stars is displayed here on a length of ebon ribbon.
+You see exits leading north, east, south (open door), southwest, and west (open door).
+6344h, 4403m, 26108e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4403m, 26108e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+A small square.
+The stars twinkle in the clear night sky.
+You see exits leading north, east (open door), south, and northwest.
+6344h, 4403m, 26106e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4403m, 26106e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+The Artefact Weapons Shop (indoors).
+  You see a sign indicating there are WARES for sale here.
+You see exits leading north, south, west, and northwest.
+6344h, 4403m, 26104e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4403m, 26104e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Proprietor: Merentesh.
+--------(Item)------(Description)------------------------------(Stock)--(Price)
+6344h, 4447m, 26144e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4447m, 26144e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+The Defensive Artefact Shop (indoors).
+Overflowing with blood and other trophies of the dead, a sacrificial altar to the Lord of Warfare has been erected nearby.   You see a sign indicating there are WARES for sale here.
+You see exits leading north, south, southwest, west, and northwest.
+6344h, 4447m, 26142e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4447m, 26142e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Proprietor: Merentesh.
+--------(Item)------(Description)------------------------------(Stock)--(Price)
+       amulet112449 a buckawn's amulet                             10     800cr
+       amulet170786 an Amulet of the Will                           5     300cr
+6344h, 4447m, 26142e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4447m, 26142e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+A soft leather pack doesn't have a lid or top of any sort to be opened.
+6344h, 4473m, 26182e, 20200w cexkdb-
+You get 304022 gold sovereigns from a soft leather pack.
+6344h, 4473m, 26182e, 20200w cexkdb-
+You pay 800 credits and receive a buckawn's amulet.
+6344h, 4473m, 26182e, 20200w cexkdb-
+You put 304022 gold sovereigns in a soft leather pack.
+6344h, 4473m, 26182e, 20200w cexkdb-
+A soft leather pack doesn't have a lid or top of any sort to be closed.
+6344h, 4473m, 26182e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4463m, 26182e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+The Artefact Weapons Shop (indoors).
+  You see a sign indicating there are WARES for sale here.
+You see exits leading north, south, west, and northwest.
+6344h, 4444m, 26180e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4444m, 26180e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+A small square.
+The stars twinkle in the clear night sky.
+You see exits leading north, east (open door), south, and northwest.
+6344h, 4444m, 26178e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4444m, 26178e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You are now wearing a buckawn's amulet.
+6344h, 4434m, 26198e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4434m, 26198e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You say, "Duanathar."
+You quickly utter "Duanathar" and your wings flare with power before swiftly carrying you up to on the clouds.
+On the clouds (indoors).
+A ladder of long, soft leaves comprises a wispy Weaver's Fern along the ground. Lurking around, Snow, an albino dire wolf watches silently. A pike with the decapitated head of Ernam has been erected. A sigil in the shape of a small, rectangular monolith is on the ground. Flapping its massive wings, a dire bat flies overhead.
+You see exits leading north, northeast, east, southeast, south, southwest, west, northwest, up, down, and in.
+6344h, 4416m, 26198e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4416m, 26198e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Crossroads near Targossas (road).
+The stars twinkle in the clear night sky. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading north, east, south, and west.
+6344h, 4416m, 26216e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6344h, 4416m, 26216e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Near Targossas on the banks of the Silverveil (road).
+The stars twinkle in the clear night sky. An obsidian eye sigil is here.
+You see exits leading southeast, south, and west.
+You are breathing lightly.
+6319h, 4416m, 26214e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6319h, 4416m, 26214e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Approaching Targossas (road).
+The stars twinkle in the clear night sky. An obsidian eye sigil is here. A sigil in the shape of a small, rectangular monolith is on the ground. A common red admiral butterfly flits about over your head. A white pearl butterfly beats its delicate wings nearby.
+You see exits leading east, west, and northwest.
+You are breathing lightly.
+6294h, 4473m, 26212e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6294h, 4473m, 26212e, 20200w cexkdb-
+You have recovered your wind and are breathing normally once again.
+6294h, 4473m, 26212e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Approaching the Champions' Bridge (road).
+The stars twinkle in the clear night sky. A rune shaped like a butterfly has been sketched into the ground here. A rune like an open eye has been sketched into the ground here. An obsidian eye sigil is here. A runic totem is planted solidly in the ground.
+You see exits leading north and west.
+6294h, 4473m, 26210e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6294h, 4473m, 26210e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+The Champions' Bridge.
+The stars twinkle in the clear night sky. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. There are 2 Blackstone swordsmen here. There are 2 Riverwall bow-maidens here. A noble snow-white falcon glides to and fro here. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground. Hung from the western column of the arch that forms the city gates, a gilt-edged indigo scroll proudly displays the Bloodsworn decree on innocence.  A huge statue of the Scimitar of Yen-Sorte stands here, thrusting skywards.
+You see exits leading north and south.
+6294h, 4463m, 26208e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6294h, 4445m, 26208e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Gateway to Targossas.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. There are 2 Blackstone swordsmen here. There are 2 Riverwall bow-maidens here. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. Resplendent rays of white and gold suffuse the smooth contours of a slender glass pillar, a fervent symbol of Light's resolve.
+You see exits leading north and south.
+6294h, 4445m, 26206e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6294h, 4445m, 26206e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Blackstone military quarter.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, northeast, east, south, west, and northwest.
+You are breathing lightly.
+6269h, 4445m, 26204e, 20195w cexkdb-
+You have recovered your wind and are breathing normally once again.
+6269h, 4445m, 26204e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26204e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+A bustling farrier's yard.
+The stars twinkle in the clear night sky. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. There are 2 ebony pegasi here. Wings flaring, a pegasus tosses his regal head impatiently. Antlers of jet black crown the head of a proud ivory peryton. Resting here with a haughty expression is a golden gryphon. A giant tortoise sits here like a rock. A many-headed hydra towers over the area, his carmine scales glimmering like gems. Spreading its majestic golden wings, a giant eagle searches the ground with piercing eyes. A caparisoned charger stands nearby. A winged beast lurks in the shadows, its crimson eyes glowing brightly. Looking ready for anything, a hulking war elephant stands here.
+You see exits leading north, west, and northwest.
+6269h, 4445m, 26222e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26222e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6269h, 4445m, 26220e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26220e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+totem62234          a runic totem
+bow-maiden227456    a Riverwall bow-maiden
+mule264056          a stubborn mule
+swordsman367967     a Blackstone swordsman
+mistweaver454152    a Naxian mistweaver
+brawler454404       a Duskmere brawler
+defender455218      a Shornwall defender
+goat480651          a rugged war goat
+goat57962           a rugged war goat
+horse76813          a heavy horse
+gargoyle177760      a stone gargoyle
+destrier372036      a powerful black destrier
+Number of objects: 12
+6269h, 4445m, 26220e, 20200w cexkdb-
+You see the following people here:
+Silvarien, Extrum
+6269h, 4445m, 26220e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26220e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Predicant Dakotah Obuun                                       1  On  Priest
+Davio Op'Shae, Guardian of the Blades                         4  On  Monk
+Predicant Kaiu Silvertongue Obuun                             3  On  Druid
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Hanley D'Ischai                                               1  On  Serpent
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Gamden Obuun                                                  1  On  Blademaster
+Murian, of Targossas                                          1  On  Blademaster
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Extrum Wintermourne                                           1  On  Jester
+6269h, 4416m, 26240e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4416m, 26240e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Your current clan will now be the 'Argent Ward' clan.
+6269h, 4463m, 26260e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 26260e, 20200w cexkdb-
+Your enhanced senses inform you that Hanley has entered Blackstone military quarter nearby.
+6269h, 4463m, 26260e, 20200w cexkdb-
+Your enhanced senses inform you that Hanley has entered A bustling farrier's yard nearby.
+6269h, 4463m, 26260e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Predicant Dakotah Obuun                                       1  On  Priest
+Davio Op'Shae, Guardian of the Blades                         4  On  Monk
+Predicant Kaiu Silvertongue Obuun                             3  On  Druid
+Gamden Obuun                                                  1  On  Blademaster
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Murian, of Targossas                                          1  On  Blademaster
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Hanley D'Ischai                                               1  On  Serpent
+Extrum Wintermourne                                           1  On  Jester
+6269h, 4463m, 26260e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 26260e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+The following members of the clan of Argent Ward are in the realms:
+Hanley D'Ischai
+Extrum Wintermourne
+6269h, 4449m, 26280e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 26280e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Ok, buckawns bought."
+6269h, 4423m, 26300e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 26300e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Fuck web."
+6269h, 4445m, 26320e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26320e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6269h, 4421m, 26320e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 26340e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Haha, nice."
+6269h, 4421m, 26340e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4463m, 26360e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 26360e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 26360e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 26360e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 26360e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 26360e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 26360e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Not sure what I should trade in my fang for."
+6269h, 4419m, 26400e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4419m, 26400e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6269h, 4449m, 26420e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 26420e, 20200w cexkdb-
+Your enhanced senses inform you that Goggo has entered Blackstone military quarter nearby.
+6269h, 4422m, 26440e, 20200w cexkdb-
+Your enhanced senses inform you that Goggo has entered A bustling farrier's yard nearby.
+6269h, 4444m, 26480e, 20195w cexkdb-
+Goggo enters from the south.
+Your enhanced senses inform you that Goggo has entered Rally point nearby.
+6269h, 4434m, 26480e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+A bustling farrier's yard.
+The stars twinkle in the clear night sky. Humming under his breath, Mahmoud toils over his tools. A sleek pony grazes nearby. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. There are 2 ebony pegasi here. Wings flaring, a pegasus tosses his regal head impatiently. Antlers of jet black crown the head of a proud ivory peryton. Resting here with a haughty expression is a golden gryphon. A giant tortoise sits here like a rock. A many-headed hydra towers over the area, his carmine scales glimmering like gems. Spreading its majestic golden wings, a giant eagle searches the ground with piercing eyes. A caparisoned charger stands nearby. A winged beast lurks in the shadows, its crimson eyes glowing brightly. Looking ready for anything, a hulking war elephant stands here.
+You see exits leading north, west, and northwest.
+6269h, 4434m, 26478e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4434m, 26478e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+Gunholf's ears perk to your arrival as he acknowledges you with deep amber eyes.
+6269h, 4434m, 26476e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4434m, 26476e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+6269h, 4434m, 26476e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4434m, 26496e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+6269h, 4473m, 26496e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 26496e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+6269h, 4457m, 26516e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 26516e, 20200w cexkdb-
+(Argent Ward): Hanley says, "You want to give it to me."
+6269h, 4473m, 26556e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+6269h, 4457m, 26576e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 26576e, 20195w cexkdb-
+(Argent Ward): Hanley says, "Oh wait..."
+6269h, 4447m, 26576e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Davio Op'Shae, Guardian of the Blades                         4  On  Monk
+Predicant Kaiu Silvertongue Obuun                             3  On  Druid
+Predicant Dakotah Obuun                                       1  On  Priest
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Hanley D'Ischai                                               1  On  Serpent
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Gamden Obuun                                                  1  On  Blademaster
+Murian, of Targossas                                          1  On  Blademaster
+Extrum Wintermourne                                           1  On  Jester
+6269h, 4423m, 26596e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 26596e, 20196w cexkdb-
+(Argent Ward): Hanley says, "Hypnosis doesn't work that way does it?"
+6269h, 4459m, 26616e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Upgrade girdle?"
+6269h, 4449m, 26676e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Huh?"
+6269h, 4449m, 26676e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 26676e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. There are 2 guardian angels here. The sound of a low growl draws attention to Gunholf, a winged wolf.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded. Oathsworn Goggo al'Shikra is riding on a winged wolf. He wields an Auroran Mace in his left hand and a Shield of Absorption in his right.
+You see exits leading south, southwest, and west.
+6269h, 4435m, 26696e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4435m, 26696e, 20196w cexkdb-
+(Argent Ward): Hanley says, "Nevermind."
+6269h, 4458m, 26716e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Logosian is a sip ring right?"
+6269h, 4434m, 26736e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Girdle is lvl3."
+6269h, 4434m, 26736e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4434m, 26736e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "All my defensive arties are lvl3."
+6269h, 4473m, 26776e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 26776e, 20200w cexkdb-
+(The Dawnguard): Goggo says, "Titans is lvl2."
+6269h, 4473m, 26776e, 20200w cexkdb-
+(The Dawnguard): Goggo says, "Mis."
+6269h, 4445m, 26776e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Oh."
+6269h, 4418m, 26796e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4418m, 26796e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Titans is lvl2."
+6269h, 4459m, 26816e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Do I have titans."
+6269h, 4459m, 26816e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4459m, 26816e, 20196w cexkdb-
+You feel your density return to normal.
+6269h, 4449m, 26836e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4449m, 26836e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 26836e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4449m, 26836e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Hmm."
+6269h, 4431m, 26836e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4431m, 26836e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Swore I had lvl3."
+6269h, 4473m, 26876e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 26876e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Haha."
+6269h, 4445m, 26876e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 26876e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Actually.. you have lvl1 bracelet."
+6269h, 4429m, 26896e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Maybe that one first."
+6269h, 4457m, 26916e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Yeah."
+6269h, 4457m, 26916e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 26916e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Meh."
+6269h, 4447m, 26936e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 26936e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4407m, 26956e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4407m, 26956e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4407m, 26956e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4407m, 26956e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4407m, 26956e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4407m, 26956e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4407m, 26956e, 20196w cexkdb-
+(Argent Ward): Goggo says, "As jester you want to be as tanky as possible heh."
+6269h, 4473m, 26976e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Im already at 6200 health."
+6269h, 4454m, 27016e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4454m, 27016e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "And I can switch over to another +1 con in traits."
+6269h, 4449m, 27096e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27096e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You are regenerating endurance at an increased rate.
+You are regenerating willpower at an increased rate.
+You are protected by the power of an Earth Spiritshield.
+You are feeling extremely energetic.
+You possess the sight of the third eye.
+You are surrounded by a cloak of protection.
+Your mind is racing with enhanced speed.
+You are tempered against fire damage.
+You are protected by the power of a Frost Spiritshield.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+Your mind has been touched by Thoth, the Deathgod.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+You are protected by the power of a Thermal Spiritshield.
+Your sense of time is heightened, and your reactions are speeded.
+You are protected from hand-held weapons with an aura of rebounding.
+A curseward has been established about your person.
+You are protected from the fangs of serpents.
+You are looking a little shady today.
+Your skin is toughened.
+You are resisting magical damage.
+You are extremely heavy and difficult to move.
+You will attempt to parry attacks to your left arm.
+You are protected by 31 defences.
+6269h, 4473m, 27116e, 20200w cxkdb-
+You have recovered equilibrium.
+6269h, 4459m, 27116e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4459m, 27116e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+Extrum Wintermourne (male Dwarf Miner)
+You are level 99 (Greater Dragon) and 10.5% of the way to the next level.
+Health:       6269 / 6032     Mana:         4449 / 4473
+Endurance:   27116 /27625     Willpower:   20196 /20200
+Strength: 12  Dexterity: 11  Constitution: 17  Intelligence: 12
+6269h, 4449m, 27116e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27116e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Oh, nvm, at 6k."
+6269h, 4401m, 27156e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4401m, 27156e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Forgot about favor."
+6269h, 4463m, 27176e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27176e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Ring of flying then? or maybe amnesia pet heh."
+6269h, 4463m, 27176e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I have pet, amnesia is worthless."
+6269h, 4456m, 27216e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4446m, 27216e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Thinking shackle."
+6269h, 4446m, 27236e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4446m, 27236e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Isn't it good for aeon?"
+6269h, 4420m, 27296e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Inflate balloon + remove shackle does the same as RoF + I can do it prone."
+6269h, 4449m, 27336e, 20200w cexkdb-
+(Argent Ward): Goggo says, "I remember osek using two on retardation heh."
+6269h, 4449m, 27336e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27336e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "People cure amnesia in aeon fine now."
+6269h, 4473m, 27376e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27376e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Ah."
+6269h, 4449m, 27396e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 116         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 256         Explorer Rank: 749     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6269/6032   Willpower: 20200/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4405/4473   Endurance: 27476/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 0       Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 557                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward *                        Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back                                                |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6269h, 4405m, 27476e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4405m, 27476e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4443m, 27556e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4443m, 27556e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4443m, 27556e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4443m, 27576e, 20200w cexkdb-
+You feel your density return to normal.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4445m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4445m, 27625e, 20200w cexkdb-
+The guardian angel seems to shine with fresh power.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 116         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 256         Explorer Rank: 749     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6269/6032   Willpower: 20196/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4449/4473   Endurance: 27625/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 0       Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 557                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward *                        Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back                                                |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6269h, 4449m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+
+You are wielding:
+      shield113501: a Shield of Absorption in your left hand.
+      puppet28730: a puppet of Daeir in your right hand.
+
+You are holding:
+
+
+You are wearing:
+No items were shown.
+6269h, 4419m, 27625e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4419m, 27625e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+
+You are wielding:
+      shield113501: a Shield of Absorption in your left hand.
+      puppet28730: a puppet of Daeir in your right hand.
+
+You are holding:
+      pipe160827          an ornately carved ivory pipe
+      pipe383683          an ornately carved ivory pipe
+      bow459421           a ranger's bow
+      dirk460045          Thoth's fang
+      serpent501917       an icy, winged serpent
+      cat198904           a bloodstained zombie kitten
+
+
+You are wearing:
+      bracelets33491      a pair of Mayan Bracelets
+      ring143245          a Logosian ring
+      belt145986          a Belt of the Titans
+      wings279074         a pair of eagle's wings
+      diadem284298        an Aldar Diadem
+      ring307568          a silver ring of meditation
+      robes307577         Robes of the Magi
+      band328359          a golden band of Draconic vigour
+      ring330966          a ring of the Magus
+      amulet288860        a buckawn's amulet
+A total of 16 items were shown.
+6269h, 4473m, 27625e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20194w cexkdb-
+Goggo sighs and slumps slightly.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I could do shackle + bracelet upgrade."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Hmm."
+6269h, 4463m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Sinking gracefully within the sky, the silvery moon concedes to the approaching dawn and a brush of aurulent light spreads over the land.
+6269h, 4420m, 27625e, 20195w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20195w cexkdb-
+Goggo removes a shackle of Garash.
+6269h, 4444m, 27625e, 20200w cexkdb-
+Goggo leaves to the west.
+Your enhanced senses inform you that Goggo has entered Blackstone parade ground nearby.
+6269h, 4444m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone military quarter nearby.
+6269h, 4455m, 27625e, 20195w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone parade ground nearby.
+6269h, 4455m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4431m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4431m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4431m, 27625e, 20196w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4431m, 27625e, 20196w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone parade ground nearby.
+6269h, 4473m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone military quarter nearby.
+6269h, 4457m, 27625e, 20195w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone military quarter nearby.
+6269h, 4445m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Davio has entered A bustling farrier's yard nearby.
+6269h, 4429m, 27625e, 20195w cexkdb-
+The sounds of booted feet marching in unison fill the air, and fade away.
+6269h, 4454m, 27625e, 20195w cexkdb-
+Emryss has bled to death.
+6269h, 4433m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4409m, 27625e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4409m, 27625e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4409m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4409m, 27625e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4409m, 27625e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4409m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4409m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 116         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 256         Explorer Rank: 749     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6269/6032   Willpower: 20200/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4463/4473   Endurance: 27625/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 0       Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 557                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward *                        Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back                                                |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6269h, 4463m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You are walking with the grace of the stars.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You are regenerating endurance at an increased rate.
+You are regenerating willpower at an increased rate.
+You are protected by the power of an Earth Spiritshield.
+You are feeling extremely energetic.
+You possess the sight of the third eye.
+You are surrounded by a cloak of protection.
+Your mind is racing with enhanced speed.
+You are tempered against fire damage.
+You are protected by the power of a Frost Spiritshield.
+Your resistance to damage by poison has been increased.
+You are walking on a small cushion of air.
+Your mind has been touched by Thoth, the Deathgod.
+You are coated in an insulating unguent.
+Your senses are attuned to nearby movement.
+You are protected by the power of a Thermal Spiritshield.
+Your sense of time is heightened, and your reactions are speeded.
+You are protected from hand-held weapons with an aura of rebounding.
+A curseward has been established about your person.
+You are protected from the fangs of serpents.
+You are looking a little shady today.
+Your skin is toughened.
+You are resisting magical damage.
+You are extremely heavy and difficult to move.
+You will attempt to parry attacks to your left arm.
+You are protected by 31 defences.
+6269h, 4444m, 27625e, 20200w cxkdb-
+You have recovered equilibrium.
+6269h, 4444m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4444m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+----------------------------------------------------------------------
+Racial:   Earthborn
+Level 20: Nimble                   
+Level 30: Barter                   
+Level 40: Marksman                 
+Level 50: Agile                    
+Level 60: Wild walker              
+Level 70: Blissful ignorance       
+Level 80: Light stepper            
+Level 90: Master Milker            
+----------------------------------------------------------------------
+Key: Major Trait  Minor Trait
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+(Market): Sobriquet says, "Buying Blue Scale and Gold Tooth pieces using shiny shiny credits."
+6269h, 4473m, 27625e, 20196w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4445m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4445m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I dont know why."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "But i fucking hate nidalee and lee sin players."
+6269h, 4431m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4431m, 27625e, 20196w cexkdb-
+You feel your density return to normal.
+6269h, 4447m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4447m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4447m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Hanley has entered Blackstone parade ground nearby.
+6269h, 4396m, 27625e, 20195w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Hanley has entered Blackstone parade ground nearby.
+6269h, 4447m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Hanley has entered A bustling farrier's yard nearby.
+6269h, 4430m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Haha."
+6269h, 4430m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Add me."
+6269h, 4457m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Bjmol."
+6269h, 4457m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Bjmolf*."
+6269h, 4428m, 27625e, 20200w cexkdb-
+(Argent Ward): Hanley says, "I stopped playing LoL =/."
+6269h, 4458m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Yeah I played for the first time in a while last night."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4448m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4448m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Stupidest games ever."
+6269h, 4429m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4419m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4419m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Fucking jungle vel with no smite."
+6269h, 4449m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "On my team."
+6269h, 4424m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4424m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4416m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4416m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4473m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4473m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Let me finish this dungeon in ffxiv and lets play one."
+6269h, 4473m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20196w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Waiting until my new comp comes in before I play a lot."
+6269h, 4417m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4417m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Im not lvl 30 btw."
+6269h, 4463m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Drefan has been slain by the might of an elite mhun keeper.
+6269h, 4447m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Dont care heh."
+6269h, 4420m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "I'm level 30 >_>."
+6269h, 4473m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Linux doesn't allow you to open the store."
+6269h, 4446m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "So I have like 3000 to spend and can't by runes."
+6269h, 4445m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "That blows."
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Yeah, I have to find a friend with windows and lol installed to do it."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Haha."
+6269h, 4454m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4454m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Weird."
+6269h, 4454m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Its just because having to run it through wine."
+6269h, 4428m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4428m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Can't wait for the new support to come out."
+6269h, 4453m, 27625e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Is shitty."
+6269h, 4453m, 27625e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4453m, 27625e, 20194w cexkdb-
+The blazing light of the sun passes briefly behind the triune rings of Achaea, speckling the sky first in obsidian, then silver, then pearly white.
+6269h, 4429m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Looks amazing."
+6269h, 4401m, 27625e, 20195w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Haven't seen anything on it yet."
+6269h, 4457m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Is like a huge viking with a big shield heh."
+6269h, 4445m, 27625e, 20200w cexkdb-
+You feel your density return to normal.
+6269h, 4457m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4457m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Oh, yeah, I saw the video."
+6269h, 4457m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4457m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4457m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Thats all."
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Me too hehe."
+6269h, 4444m, 27625e, 20195w cexkdb-
+Your enhanced senses inform you that Davio has entered Blackstone military quarter nearby.
+6269h, 4444m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "I don't like to spoil the surprise of the relase."
+6269h, 4449m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier. The shining figure of a guardian angel floats in the air here.  A large barracks is here providing the city's forces with rest and refuge. Phaestean Wordsmith, Silvarien Da'Navi is here, shrouded.
+You see exits leading south, southwest, and west.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+A heavy horse paws the ground.
+6269h, 4439m, 27625e, 20196w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20196w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4449m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20196w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4449m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4449m, 27625e, 20196w cexkdb-
+The radiant sun shines all about you.
+6269h, 4445m, 27625e, 20195w cexkdb-
+(Market): Exos says, "Seeking 80cr at 6000g per. Tells please."
+6269h, 4456m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "Listening to you two talk about League makes me want to play a bit... then I remember the assholes who called me bad after I stopped playing the first time for a year."
+6269h, 4473m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4449m, 27625e, 20200w cexkdb-
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4431m, 27625e, 20195w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4421m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4421m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4421m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You inhale deeply and begin holding your breath.
+6269h, 4421m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Dude."
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "That comunity is as bad as achaean one heh."
+6269h, 4445m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Just ignore them."
+6269h, 4445m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Is like full of jinsuns."
+6269h, 4459m, 27625e, 20196w cexkdb-
+(Argent Ward): Hanley says, "I did. Until my own friends who played started to say the same shit, so I finally just said fuck it and removed it from my computer."
+6269h, 4422m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "And play with friends, that fixes most of it."
+6269h, 4444m, 27625e, 20200w cexkdb-
+The body of Forerunner Rayle Adienn appears in a flash and his soul descends to fill it, causing the previously expressionless face to fill with emotion.
+6269h, 4443m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Yeah, I'm starting to hate solo."
+6269h, 4445m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20195w cexkdb-
+Silvarien calls upon the elements Water, Earth, and Fire and bestows the Endurance blessing upon Rayle.
+6269h, 4398m, 27625e, 20195w cexkdb-
+Rayle takes some salve from a vial and rubs it on his skin.
+6269h, 4398m, 27625e, 20195w cexkdb-
+Silvarien calls upon the elements Air, Water, and Fire and bestows the Willpower blessing upon Rayle.
+6269h, 4455m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Mainly just because I keep getting put on really shitty teams."
+6269h, 4455m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexkdb-
+Silvarien calls upon the elements Earth and Spirit and bestows the Earth Spiritshield blessing upon Rayle.
+6269h, 4425m, 27625e, 20194w cexkdb-
+Silvarien takes a drink from an obfuscated crystal vial.
+6269h, 4425m, 27625e, 20194w cexkdb-
+Rayle takes some salve from a vial and rubs it on his skin.
+6269h, 4425m, 27625e, 20194w cexkdb-
+(Argent Ward): Hanley says, "I'm probably going to wait for a while before I play again, for starters I need a new computer, this one over heats when I play."
+6269h, 4425m, 27625e, 20194w cexkdb-
+Silvarien calls upon the elements Air and Water and bestows the Frost Spiritshield blessing upon Rayle.
+6269h, 4473m, 27625e, 20200w cexkdb-
+Silvarien calls upon the elements Fire and Spirit and bestows the Thermal Spiritshield blessing upon Rayle.
+6269h, 4455m, 27625e, 20195w cexkdb-
+Silvarien takes a drink from an obfuscated crystal vial.
+6269h, 4455m, 27625e, 20195w cexkdb-
+Silvarien pours blessings over Rayle, whose face lights up in joy.
+6269h, 4431m, 27625e, 20196w cexkdb-
+Rayle says in a deep, resonant voice, "Thank you."
+6269h, 4431m, 27625e, 20200w cexkdb-
+(Argent Ward): Hanley says, "Goggo, what did you play mainly?"
+6269h, 4417m, 27625e, 20196w cexkdb-
+Rayle leaves to the west.
+Your enhanced senses inform you that Rayle has entered Blackstone parade ground nearby.
+6269h, 4407m, 27625e, 20196w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4443m, 27625e, 20194w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4443m, 27625e, 20194w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4443m, 27625e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4443m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4443m, 27625e, 20200w cexkdb-
+(Argent Ward): Hanley says, "Role wise that is."
+6269h, 4427m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Support and jungle."
+6269h, 4427m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "Ah, I was ADC and solo top."
+6269h, 4432m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Fun."
+6269h, 4425m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I rock the syndra mid."
+6269h, 4473m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Suck it."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Got the new skin?"
+6269h, 4424m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Is amazing."
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Hanley says, "Varus, Ashe, and Ezreal bot, Teemo top."
+6269h, 4435m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Nah, I can't buy anything!"
+6269h, 4425m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4425m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Oh god."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "A teemo player."
+6269h, 4448m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4448m, 27625e, 20196w cexkdb-
+(Argent Ward): Hanley says, "Yes."
+6269h, 4430m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Get out."
+6269h, 4420m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Damn.. i just got it and i have no clue how to play syndra haha."
+6269h, 4455m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "Nope."
+6269h, 4455m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "I did support yesterday as syndra haha."
+6269h, 4419m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I've been playing syndra since day one."
+6269h, 4416m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4416m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Of starting to play that is."
+6269h, 4427m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4427m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4473m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4473m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20196w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Newbie): Clauthier says, "Someone left behind a letter full of gold in the pygmy chieftain's hut."
+6269h, 4463m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "In mid i play veigar, swain lux mostly."
+6269h, 4445m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Rayle has entered Blackstone parade ground nearby.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Rayle has entered A bustling farrier's yard nearby.
+6269h, 4463m, 27625e, 20200w cexkdb-
+Poised at the very peak of the firmament, the fiery sun casts its radiant gaze across the land.
+6269h, 4448m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Tbf, I only play like 3 champs."
+6269h, 4448m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4448m, 27625e, 20196w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Syndra, blitz, shaco."
+6269h, 4418m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4418m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4446m, 27625e, 20200w cexkdb-
+(Newbie): Alakem says, "You know what they say, finders keppers and all that."
+6269h, 4447m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Want to pick up some of the better junglers."
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Khaz."
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4447m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Try tanky ones to start."
+6269h, 4421m, 27625e, 20200w cexkdb-
+Silvarien slowly fades into view, returning to the realm of perception.
+6269h, 4455m, 27625e, 20195w cexkdb-
+Silvarien draws a Shadowcloak about him and blends into his surroundings.
+6269h, 4455m, 27625e, 20195w cexkdb-
+(Newbie): Clauthier says, "No, I prefer earning it myself... a shame, though."
+6269h, 4455m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Like udyr, warwick etc."
+6269h, 4459m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Helps you get jungliong better."
+6269h, 4433m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "I watch twitch like 24/7 on nightblu3."
+6269h, 4444m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4444m, 27625e, 20200w cexkdb-
+(Newbie): Alakem says, "If they dropped it then they are almost surrely out of realm, with no chance to recover it."
+6269h, 4420m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "What does he plays?"
+6269h, 4447m, 27625e, 20196w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4419m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4419m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4419m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4419m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4419m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4419m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4419m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "He's TSM's backup jungler."
+6269h, 4455m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20195w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4445m, 27625e, 20200w cexkdb-
+(Argent Ward): Davio says, "I was watching him earlier."
+6269h, 4403m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "He's hands down the best streamer."
+6269h, 4434m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4434m, 27625e, 20196w cexkdb-
+(Newbie): Aubrey says, "This one does not think there is a way to know who it might belong to."
+6269h, 4424m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "You still play Davio?"
+6269h, 4424m, 27625e, 20196w cexkdb-
+(Argent Ward): Davio says, "I have played a bit but not too much, I really haven't adjusted to the changes, havent played top since the bush change, even heh."
+6269h, 4443m, 27625e, 20194w cexkdb-
+(Newbie): Alakem says, "You could try reading the letter if you wanted."
+6269h, 4418m, 27625e, 20196w cexkdb-
+(Argent Ward): Davio says, "I mostly aram to blow off steam and come back to this."
+6269h, 4425m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Hahaha."
+6269h, 4447m, 27625e, 20196w cexkdb-
+(Newbie): Aubrey says, "It is the letter one receives from a conscientious traveller."
+6269h, 4445m, 27625e, 20200w cexkdb-
+(Argent Ward): Davio says, "There are all those new items and stuff, no idea what's going on."
+6269h, 4416m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Okay finished my dng, want to play extrum?"
+6269h, 4449m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Meh just play and you will get used to them."
+6269h, 4420m, 27625e, 20195w cexkdb-
+(Newbie): Alakem says, "Hahaha, so they dropped it then dropped the letter it was returned in."
+6269h, 4473m, 27625e, 20195w cexkdb-
+Sylarana has been slain by the might of a hobgoblin warrior.
+6269h, 4433m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4447m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4447m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4447m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4432m, 27625e, 20196w cexkdb-
+(Argent Ward): Davio says, "Instead I wasted 200cr to go str monk an hour before they made axk not scale off str, yay life choices."
+6269h, 4429m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Yeah, let me move rooms."
+6269h, 4473m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Wifi is too bad in ehre."
+6269h, 4459m, 27625e, 20196w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4459m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "Kk."
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Ouch.."
+6269h, 4457m, 27625e, 20200w cexkdb-
+(Market): Kherranos says, "Buying gold tooth and blue scale dragon talisman pieces. Let me know what it would take to make you part with them!"
+6269h, 4447m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Man.. just save for gem and grimoire."
+6269h, 4446m, 27625e, 20200w cexkdb-
+You feel your density return to normal.
+6269h, 4418m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4418m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4418m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4418m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Then switch like crazy between int spec and str spec."
+6269h, 4456m, 27625e, 20200w cexkdb-
+(Argent Ward): Davio says, "I wish I could, that's so much though."
+6269h, 4403m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "I would totally do that if i ever go monk."
+6269h, 4473m, 27625e, 20200w cexkdb-
+(Argent Ward): Davio says, "I don't get to hunt as much anymore."
+6269h, 4449m, 27625e, 20200w cexkdb-
+(Argent Ward): Davio says, "You could live through me and give me the cr if you want."
+6269h, 4446m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "Hahaha."
+6269h, 4422m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Vrook has entered Blackstone military quarter nearby.
+6269h, 4427m, 27625e, 20195w cexkdb-
+Your enhanced senses inform you that Vrook has entered Blackstone military quarter nearby.
+6269h, 4418m, 27625e, 20195w cexkdb-
+(Argent Ward): Hanley says, "Can give me credits too!"
+6269h, 4473m, 27625e, 20200w cexkdb-
+Your enhanced senses inform you that Vrook has entered Blackstone military quarter nearby.
+6269h, 4456m, 27625e, 20195w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4446m, 27625e, 20195w cexkdb-
+The radiant sun shines all about you.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4446m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4446m, 27625e, 20195w cexkdb-
+Your enhanced senses inform you that Vrook has entered Blackstone military quarter nearby.
+6269h, 4431m, 27625e, 20196w cexkdb-
+Your enhanced senses inform you that Vrook has entered A bustling farrier's yard nearby.
+6269h, 4431m, 27625e, 20196w cexkdb-
+Your enhanced senses inform you that Vrook has entered Rally point nearby.
+6269h, 4421m, 27625e, 20196w cexkdb-
+Your enhanced senses inform you that Vrook has entered Blackstone parade ground nearby.
+6269h, 4421m, 27625e, 20196w cexkdb-
+(Argent Ward): Goggo says, "I need to make Kard return here someday, but hell I don't even see him in final fantasy lately =(."
+6269h, 4463m, 27625e, 20200w cexkdb-
+(Argent Ward): Goggo says, "He has a weird schedule and is around way earlier than me now."
+6269h, 4417m, 27625e, 20200w cexkdb-
+You feel your density return to normal.
+6269h, 4431m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4431m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4431m, 27625e, 20195w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4431m, 27625e, 20195w cexkdb-
+Silver sparks dance across the heavens as the dazzling orb of the sun rushes past Achaea's three rings, the second brilliantly coruscating at its passing.
+6269h, 4415m, 27625e, 20194w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4429m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4429m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4429m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4429m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4429m, 27625e, 20200w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4429m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4429m, 27625e, 20200w cexkdb-
+(The Bathhouse Strikes Back): Marcen says, "Lol."
+6269h, 4448m, 27625e, 20200w cexkdb-
+(The Bathhouse Strikes Back): Marcen says, "Giggling so hard."
+6269h, 4457m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4445m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4445m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4445m, 27625e, 20200w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4445m, 27625e, 20200w cexkdb-
+(The Bathhouse Strikes Back): Marcen says, "Ignore paralysis a second for science."
+6269h, 4420m, 27625e, 20196w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4455m, 27625e, 20200w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4435m, 27625e, 20194w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4435m, 27625e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4435m, 27625e, 20194w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4435m, 27625e, 20194w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4435m, 27625e, 20194w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4425m, 27625e, 20194w cexkdb-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "What was your name goggo."
+6269h, 4473m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20195w cexkdb-
+(Argent Ward): Goggo says, "Bjmolf."
+6269h, 4419m, 27625e, 20195w cexkdb-
+Mako has been slain by the might of a steel-encased Death Knight.
+6269h, 4416m, 27625e, 20200w cexkdb-
+Your oaken pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20195w cexkdb-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You begin to write in a personal journal.
+ -*-  Composer  -*-                  (*help for help, *exit to exit)
+-=-=- L5 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- APPENDING -=-=-=
+1  >
+2  >
+3  > Aeguary 5th, 654 AF:
+4  >
+5  > 
+Do you want to save? <yes/no/cancel>
+> 
+You do not make any changes.
+6269h, 4444m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4444m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Snorting excitedly, a heavy horse stands here. A stone gargoyle flies overhead on leathery, grey wings. Muscles ripple beneath the shining coat of a black destrier.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6269h, 4455m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexkdb-
+You feel your density return to normal.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You cease holding your breath and exhale loudly.
+You take out some balm and quickly rub it on your body.
+Your body grows extremely dense and heavy as the density balm infuses your skin.
+6269h, 4463m, 27625e, 20200w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4443m, 27625e, 20194w cexkdb-
+You may apply another salve or balm to yourself.
+6269h, 4443m, 27625e, 20194w cexkdb-
+6269h, 4473m, 27625e, 20195w cexkdb-
+You cease holding your breath and exhale loudly.
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You store 1 bloodroot leaf, bringing the total in the rift to 838.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You store 1 irid moss, bringing the total in the rift to 1381.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You store 1 kelp, bringing the total in the rift to 374.
+6269h, 4473m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20195w cexkdb-
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           158 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+6269h, 4455m, 27625e, 20195w exdb-
+6269h, 4455m, 27625e, 20195w exdb-
+You take out some salve and quickly rub it on your head.
+You are no longer blind.
+6269h, 4455m, 27625e, 20195w exd-
+You remove 1 kola nut, bringing the total in the Rift to 652.
+6269h, 4455m, 27625e, 20195w exd-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6269h, 4455m, 27625e, 20195w exkd-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4455m, 27625e, 20195w exkd-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4455m, 27625e, 20195w exkd-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4455m, 27625e, 20195w exkd-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w exkd-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6269h, 4455m, 27625e, 20195w cxkd-
+You have recovered equilibrium.
+6269h, 4455m, 27625e, 20195w cexkd-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexkd-
+You may apply another salve or balm to yourself.
+6269h, 4455m, 27625e, 20195w cexkd-
+You cease holding your breath and exhale loudly.
+There is no next message to read.
+6269h, 4455m, 27625e, 20195w cexkd-
+You take out some salve and quickly rub it on your head.
+You are no longer deaf.
+6269h, 4455m, 27625e, 20195w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexk-
+(Argent Ward): Anedhel says, "I wouldn't worry about it."
+6269h, 4455m, 27625e, 20195w cexk-
+You cease holding your breath and exhale loudly.
+There is no next message to read.
+6269h, 4455m, 27625e, 20195w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20195w cexk-
+You may apply another salve or balm to yourself.
+6269h, 4455m, 27625e, 20195w cexk-
+-=[ Proud to be an Achaean? Put us at the top of the TopMudSites list! http://www.achaea.com/vote - Thanks! ]=-
+6269h, 4455m, 27625e, 20195w cexk-
+You cease holding your breath and exhale loudly.
+You have no further news to read.
+6269h, 4455m, 27625e, 20200w cexk-
+There is currently a City credit sale in progress.
+----[ Targossas City announcement ]----
+The focus for the time-being is solely on eradicating all traces of the visible influence of the Skylord. All attention should be given over to defiling His shrines. Time wasted on defiling shrines to Sartan, Ourania, Babel and Twilight only gives Vastar's Order the opportunity to rebuild. We shall continue our work in stamping out what feeble efforts the rest of our enemies put forth when we are finished with Vastar.
+---------------------------------------
+6269h, 4455m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You have no further news to read.
+6269h, 4455m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20200w cexk-
+(Argent Ward): Will says, "8k health...wtf."
+6269h, 4455m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+It is deep night in Achaea, before midnight.
+The phase of the moon is that of the Waxing Crescent.
+
+In your world, it is 2014/05/07 20:39:38 GMT.
+See HELP GMT for an explanation of GMT.
+6269h, 4455m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4455m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Your current clan will now be the 'Argent Ward' clan.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Will says, "That's like dragon health."
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Oathsworn Dalien                                              1  On  Priest
+Anedhel Azon, the Argent Hand                                 3  On  Runewarden
+Reonna                                                        2  On  Blademaster
+Predicant Carmell Bayt Al-Azhan, Caefir Priestess             4  On  Dragon
+Admiral Will Nahundi, Caefir Proselyte                        2  On  Bard
+Hanley D'Ischai                                               1  On  Serpent
+Predicant Dakotah Obuun                                       1  On  Priest
+Tiala                                                         1  On  Priest
+Oathsworn Arkhuro                                             1  On  Alchemist
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Extrum Wintermourne                                           1  On  Jester
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Tiala (female Siren).
+She is 18 years old, having been born on the 7th of Aeguary, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Will says, "I guess he's hitting 10k in dragon then, heh."
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "Prolly."
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "He has +2 con from the TF and the favourshield."
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "Else I'd actually fight him."
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "15% damage reduction's so hardcore though."
+6269h, 4473m, 27625e, 20200w cexk-
+Deepest Stygian night steals over the land as the symbolic hourglass empties and turns, ready to begin a new day.
+It is now the 9th of Aeguary, 654 years after the fall of the Seleucarian Empire.
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Cugrierflaod says, "Romeo can I examine enemys health as Rajamala blademaster? I have only level 5."
+6269h, 4473m, 27625e, 20200w cexk-
+Your oaken pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Romeo says, "Are you speaking of a denizen enemy or an adventurer enemy?"
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Cugrierflaod says, "Denzien."
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+(Argent Ward): You say, "Who."
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "Halo."
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Zarathustran Halo Kio'Gema, the Ancient Covenant (male Human).
+He is 453 years old, having been born on the 13th of Chronos, 200 years after the fall of the Seleucarian Empire.
+He is ranked 144th in Achaea.
+He is an extremely credible character.
+He is one of the Infamous.
+He is a Patrician in Ashtan.
+He is considered to be approximately 115% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'The End.'
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "Will's like."
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You can see naught but darkness.
+6269h, 4460m, 27625e, 20196w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4460m, 27625e, 20196w cexk-
+(Argent Ward): Anedhel says, "He hurts."
+6269h, 4460m, 27625e, 20196w cexk-
+(Newbie): Romeo says, "CONSIDER <denizen> will show you the power level which is similar, however to see an actual health level there was once an item in the shop of wonders that performed this."
+6269h, 4473m, 27625e, 20200w cexk-
+(Argent Ward): Anedhel says, "So I showed him the artie list :D."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Mokau says, "Heh, do "consider me"."
+6269h, 4473m, 27625e, 20200w cexk-
+Your oaken pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Romeo says, "That is your own power level, Mokau, not a denizen's."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Mokau says, "I know, its just cute that it is supported."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Cugrierflaod says, "Ah, thank you :) i play such text rpg for the first time and it is the only thing i am really missing :)."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Ixix says, "Hello."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Romeo says, "You're welcome, Cugrierflaod."
+6269h, 4473m, 27625e, 20200w cexk-
+Your oaken pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+Your pipe has gone cold and dark.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Ati says, "I think I'm starting to get into this."
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Romeo says, "Glad to hear it, Ati!"
+6269h, 4473m, 27625e, 20200w cexk-
+(Newbie): Flashw says, "Hi guys by the way my 2nd day on glad your enjoying this too :)."
+6269h, 4473m, 27625e, 20200w cexk-
+In the crystal-clear night sky, the stars twinkle and glow brightly.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. A stone gargoyle flies overhead on leathery, grey wings.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You have no further news to read.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+There is no next message to read.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Reonna                                                        2  On  Blademaster
+Anedhel Azon, the Argent Hand                                 3  On  Runewarden
+Oathsworn Goggo al'Shikra                                     1  On  Priest
+Admiral Will Nahundi, Caefir Proselyte                        2  On  Bard
+Hanley D'Ischai                                               1  On  Serpent
+Oathsworn Dalien                                              1  On  Priest
+Sir Morthif Aristata, Knight of the Watch                     2  On  Dragon
+Marcen Shu'in-Crescent, the Argent Provisioner                2  On  Alchemist
+Oathsworn Arkhuro                                             1  On  Alchemist
+Predicant Carmell Bayt Al-Azhan, Caefir Priestess             4  On  Dragon
+Predicant Dakotah Obuun                                       1  On  Priest
+Extrum Wintermourne                                           1  On  Jester
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Grimmvard, Kyi, Mourdred, Flashw, Oimactta, Nalitia, Aeryana, Kazasu, Jinsun, Zukriattis, Rotose, Will, Dakotah, Ixix, Shara, Ati, Tygrin, Araldor, Myrmeos, Anisa, Saliven, Kakarot, Audiel, Szeth, Aoghinius, Gaia, Dawson, Dalien, Karai, Hexan, Jatal, Ayleth, Jadys, May, Taraus, Mokau, Anedhel, Azaxel, Rip, Oren, Moonfox, Camillia, Lacertix, Jacen, Zii, Araragi, Rom, Elesmera, Kalisa, Chiam, Kyadea, Cahin, Sillias, Eloru, Eisa, Kerria, Orzaansyn, Tsarani, Erudite, Worlo, Romeo, Aisling, Alrena, Exelethril, Athelas, Deladan, Erwyn, Datrius, Hanley, Kherranos, Hassan, Mazel, Lorenia, Gildengrey, Zaskir, Alea, Rynas, Lyrikai, Okk, Arkhuro, Asudan, Drakmora, Fendrel, Wei, Caoimhaen, Kaiden, Marcen, Merador, Daslin, Isobella, Marv, Khaibit, Perl, Teghaine, Eshimba, Cugrierflaod, Extrum.
+Plus another 36 whose presence you cannot fully sense.
+6269h, 4473m, 27625e, 20200w cexk-
+Ati (male Troll).
+He is 19 years old, having been born on the 1st of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Isobella (female Siren).
+She is 37 years old, having been born on the 11th of Valnuary, 616 years after the fall of the Seleucarian Empire.
+She is ranked 2185th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Drakmora, Novitiate Third (male Rajamala).
+He is 18 years old, having been born on the 10th of Daedalan, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Deshi Myrmeos (male Grook).
+He is 19 years old, having been born on the 23rd of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Saliven (male Xoran).
+He is 18 years old, having been born on the 2nd of Daedalan, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Minion Szeth, Disciple of Orzaansyn (male Horkval).
+He is 19 years old, having been born on the 21st of Mayan, 634 years after the fall of the Seleucarian Empire.
+He is ranked 1673rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 10% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Dilettante Mazel, Madelyne's Aspiring Lorewarden (male Mhun).
+He is 18 years old, having been born on the 17th of Chronos, 635 years after the fall of the Seleucarian Empire.
+He is ranked 2310th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 15% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Flamebrand Recruit Jadys (female Human).
+She is 19 years old, having been born on the 3rd of Valnuary, 634 years after the fall of the Seleucarian Empire.
+She is ranked 1401st in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Plebeian in Ashtan.
+She is considered to be approximately 10% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Flashw (male Rajamala).
+He is 18 years old, having been born on the 11th of Daedalan, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Uaithne Audiel (male Human).
+He is 18 years old, having been born on the 8th of Chronos, 635 years after the fall of the Seleucarian Empire.
+He is ranked 2210th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Tyro Grimmvard (male Rajamala).
+He is 18 years old, having been born on the 12th of Valnuary, 635 years after the fall of the Seleucarian Empire.
+He is ranked 2061st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is considered to be approximately 5% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Knave Novice Kazasu (male Tsol'aa).
+He is 119 years old, having been born on the 18th of Phaestian, 534 years after the fall of the Seleucarian Empire.
+He is ranked 2286th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 10% of your might.
+His motto: 'Best not Jester a Jester for the Jester Jesters you.'
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Tyro Ixix (female Human).
+She is 18 years old, having been born on the 20th of Daedalan, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peasant in Hashan.
+She is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Cugrierflaod (male Rajamala).
+He is 18 years old, having been born on the 5th of Aeguary, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Eldritch Aspirant Kyi (male Mhun).
+He is 18 years old, having been born on the 16th of Miraman, 635 years after the fall of the Seleucarian Empire.
+He is ranked 2273rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 5% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Uaithne Lyrikai (female Tsol'aa).
+She is 18 years old, having been born on the 6th of Daedalan, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Lorenia (female Mhun).
+She is 20 years old, having been born on the 7th of Daedalan, 634 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+Nothing can be seen here by that name.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Tormented Asudan (male Human).
+He is 18 years old, having been born on the 21st of Daedalan, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Slave in Mhaldor.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Zukriattis (male Atavian).
+He is 18 years old, having been born on the 21st of Daedalan, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 0% of your might.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Gaia, the Wildwood Queen (female Immortal).
+She was born before time was counted.
+6269h, 4473m, 27625e, 20200w cexk-
+Hassan 'Someone' Campbell (male Human).
+He is 110 years old, having been born on the 1st of Aeguary, 544 years after the fall of the Seleucarian Empire.
+He is ranked 942nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Noble in Cyrene.
+He is considered to be approximately 35% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'Someone may have illusioned that.'
+He has taken the hand of Arcane Mixologist, Thundarsa Campbell in marriage.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You detect nothing here by that name.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Ahh, I am truly sorry, but I do not see anyone by that name here.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You cannot see that being here.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Nothing can be seen here by that name.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You detect nothing here by that name.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+Rally point.
+The stars twinkle in the clear night sky. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A stubborn mule wanders about here, nosing at the ground. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. A stone gargoyle flies overhead on leathery, grey wings.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading south, southwest, and west.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-
+6269h, 4473m, 27625e, 20200w cexk-
+You cease holding your breath and exhale loudly.
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6269h, 4473m, 27625e, 20200w cexk-
+You inhale deeply and begin holding your breath.
+6269h, 4473m, 27625e, 20200w cexk-

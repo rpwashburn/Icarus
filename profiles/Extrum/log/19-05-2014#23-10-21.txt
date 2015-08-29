@@ -1,0 +1,1499 @@
+Rapture Runtime Environment v2.2.0 -- (c) 2012 -- Iron Realms Entertainment
+Multi-User License: 100-0000-000
+
+           ******************************************
+
+                 Achaea, Dreams of Divine Lands
+
+                 "Your fate and fame shall be
+               an echo and a light unto eternity."
+
+           ******************************************
+
+           Achaea's IP address is 69.65.42.198
+           For general questions e-mail support@achaea.com.
+           200 adventurers are currently in the realms.
+
+           1. Enter the game.
+           2. Create a new character.
+           3. Quit.
+
+Enter an option or enter your character's name. 
+What is your password? 
+Password correct. Welcome to Achaea.
+Your last login was from domain: cpe-68-201-85-23.stx.res.rr.com.
+
+*** You have new messages ***
+Your moss tattoo tingles slightly.
+You are blind and can see nothing but darkness.
+6032h, 4455m, 27625e, 20200w exdb-
+6032h, 4455m, 27625e, 20200w exdb-
+You clench your fists, grit your teeth, and banish all possibility of sleep.
+6032h, 4389m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4389m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4389m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4389m, 27625e, 20200w exdb-
+Touching the mindseye tattoo, your senses are suddenly heightened.
+6032h, 4389m, 27625e, 20200w xdb-
+(Argent Ward): Antidas says, "Haha."
+6032h, 4389m, 27625e, 20200w xdb-
+-=[ Don't play Achaea all by yourself! Vote for us at TopMudSites and help new players find us! http://www.achaea.com/vote - Thanks! ]=-
+6032h, 4389m, 27625e, 20200w xdb-
+Message #1669       Sent by Achaea
+5/13/18:00 A bloodstained zombie kitten, your loyal companion, has been slain by Soldier Ada Young.
+6032h, 4473m, 27625e, 20200w xdb-
+You have recovered equilibrium.
+6032h, 4473m, 27625e, 20200w exdb-
+You will now attempt to parry attacks to your left arm.
+6032h, 4473m, 27625e, 20200w exdb-
+You have begun to look for arrows to pluck from the air.
+6032h, 4473m, 27625e, 20200w edb-
+There is currently a City credit sale in progress.
+----[ Targossas City announcement ]----
+By the decree of the Bloodsworn Gods to Whom we are sworn, and until further notice, all martial attention of the city of Targossas is to be focused on the city of Mhaldor. No shrine to Sartan shall be left standing, no citizen of Mhaldor left free to walk the lands. This is Their will, and we will all follow it.
+---------------------------------------
+6032h, 4473m, 27625e, 20200w edb-
+Message #1670       Sent by Achaea
+5/14/7:31 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w edb-
+It is late night, approaching dawn.
+The phase of the moon is that of the Waxing Gibbous.
+
+In your world, it is 2014/05/20 04:10:32 GMT.
+See HELP GMT for an explanation of GMT.
+6032h, 4473m, 27625e, 20200w edb-
+You have recovered balance on all limbs.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1671       Sent by Achaea
+5/14/7:34 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1672       Sent by Achaea
+5/14/7:34 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1673       Sent by Achaea
+5/14/7:34 An arrow has decayed to dust in your absence.
+6032h, 4473m, 27625e, 20200w exdb-
+Message #1674       Sent by Achaea
+5/14/20:35 A dust bomb has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1675       Sent by Achaea
+5/14/20:35 A dust bomb has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1676       Sent by Achaea
+5/14/20:35 A dust bomb has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1677       Sent by Achaea
+5/14/20:35 A dust bomb has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1678       Sent by Achaea
+5/15/8:03 A fist-shaped sigil has decayed to dust inside of fang#460045 .
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1679       Sent by Achaea
+5/15/21:06 An arrow has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1680       Sent by Achaea
+5/15/21:12 An arrow has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1681       Sent by Achaea
+5/15/21:15 An arrow has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1682       Sent by Achaea
+5/15/21:36 A fist-shaped sigil has decayed to dust inside of shield#113501 .
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1683       Sent by Achaea
+5/15/21:40 An arrow has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1684       Sent by Achaea
+5/15/21:57 A fist-shaped sigil has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1685       Sent by Achaea
+5/15/22:00 A fist-shaped sigil has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1686       Sent by Achaea
+5/16/23:14 A fist-shaped sigil has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1687       Sent by Achaea
+5/17/10:05 A plain silver ring has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1688       Sent by Achaea
+5/17/10:26 A puppet roughly resembling Nimala has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1689       Sent by Achaea
+5/17/23:41 An arrow has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20200w exdb-
+(Argent Ward): Tesha says, "Can you quote someday i'll make a man out of you."
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1690       Sent by Achaea
+5/18/0:08 Aelios is the new Head of Argent Ward.
+6032h, 4457m, 27625e, 20200w exdb-
+Message #1691       Sent by Achaea
+5/19/0:21 An elixir of speed went to waste when a glazed runic vial turned to dust in your hands. .
+6032h, 4473m, 27625e, 20195w exdb-
+In the crystal-clear night sky, the stars twinkle and glow brightly.
+6032h, 4473m, 27625e, 20195w exdb-
+Message #1692       Sent by Achaea
+5/19/12:09 A living puppet of Achilles has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20195w exdb-
+Message #1693       Sent by Achaea
+5/19/12:12 A puppet roughly resembling Mizik has decayed to dust in your absence.
+6032h, 4457m, 27625e, 20195w exdb-
+There is no next message to read.
+6032h, 4457m, 27625e, 20195w exdb-
+There is no next message to read.
+6032h, 4457m, 27625e, 20195w exdb-
+(Argent Ward): Tesha says, "Will you ignore me if I hypno you to."
+6032h, 4457m, 27625e, 20195w exdb-
+PUBLIC NEWS #19440                                      (05/14/2014 at 21:40)  
+From   : Xinna
+To     : Everyone
+Subject: My Allegiance
+-------------------------------------------------------------------------------
+Greetings Sapience,
+
+I write to renounce all ties to Eleusis and every other organization that does not serve the Malevolent One. My loyalty is to Him and Him alone. Through Evil, this world shall thrive and all that hinders it shall be cast aside.
+
+Praises unto the Lord of Evil.
+
+In service,
+
+Xinna
+
+Penned by my hand on the 2nd of Chronos, in the year 654 AF.
+6032h, 4442m, 27625e, 20196w exdb-
+PUBLIC NEWS #19441                                      (05/15/2014 at 17:01)  
+From   : Blackthorn General Rangor Corten, Guardian of Nature
+To     : Xinna
+Subject: Dearest Xinna
+-------------------------------------------------------------------------------
+Dear Xinna,
+
+We are sorry to see you go, but realize that there was little more we could do for you.
+
+Your weaknesses are clear as the day. Your lack of ambition, you have no interest in the world around you, you strive towards one goal but are incapable of stepping any further. The future is a fog to you.
+
+You were lost amongst us, lost in the midst of Nature's glory. Changing from one class and lifestyle to another, no purpose and no goal in mind. There was little more we could do for you as one of us, we realize this.
+
+Enslavement to Mhaldor will suit you well. We wish you an enjoyable lifetime in suffering, and expect to contribute to your learning.
+
+
+
+	In service,
+		Rangor
+
+Penned by my hand on the 22nd of Chronos, in the year 654 AF.
+6032h, 4442m, 27625e, 20196w exdb-
+(Argent Ward): Antidas says, "Yes."
+6032h, 4438m, 27625e, 20196w exdb-
+(Argent Ward): Antidas says, "Whatever it is, yes."
+6032h, 4473m, 27625e, 20196w exdb-
+(Argent Ward): Tesha says, "How have you never watched mulan."
+6032h, 4437m, 27625e, 20195w exdb-
+(Argent Ward): Tesha says, "What is wrong with you."
+6032h, 4473m, 27625e, 20195w exdb-
+(Argent Ward): Tesha says, "Are you mithridates' brother or something."
+6032h, 4454m, 27625e, 20195w exdb-
+PUBLIC NEWS #19442                                      (05/16/2014 at 16:54)  
+From   : Sir Laren Ryndel, Lupine Hunter
+To     : Everyone
+Subject: Kongol Drak
+-------------------------------------------------------------------------------
+Greetings Dwarves of Sapience,
+  
+The Kongol Drak is the modern version of the Dwarven nation created by the Soulforger Lord Phaestus in ancient times. It comprises of the 12 Dwarven Clans. It strives to promote unity among the Dwarves of the land. No matter, ones political ties, religious ties, or how far apart we are, we are still one people.
+  
+The Kongol Drak is a racial high clan and the requirements for joining and retaining membership is to be a dwarf and to be at least the age of 25. If you are a Dwarf and wish join the nation of your people, read the scroll HELP KONGOLDRAK and contact anyone able to induct you listed there. The Warchief and any of the Chieftains of the Clans are able to do so.
+  
+Farewell Kin,
+Sir Laren Ryndel, Lupine Hunter
+Dwarven Chieftain of the Fian'ia
+
+Penned by my hand on the 20th of Glacian, in the year 654 AF.
+6032h, 4440m, 27625e, 20196w exdb-
+PUBLIC NEWS #19443                                      (05/19/2014 at 00:44)  
+From   : Scarlattan Lilian Xanatov-Nomathi
+To     : Everyone
+Subject: Art Exhibition
+-------------------------------------------------------------------------------
+Greetings everyone, right now in the Scarlattan Theatre in Delos, Lord Scarlatti's commune is holding an art exhibition. Members have made some wonderful paintings on the subject, "Lost cause".
+
+You can find the exhibit in the Atrium wing, just follow the blue flags. There is no price of admission, and make sure to take a Pamphlet from the sign to read about the artists who submitted these wonderful works of art! It will be going on for the couple of years so feel free to stop by and look!
+
+In song,
+Scarlattan Lilian Xanatov
+
+Penned by my hand on the 1st of Daedalan, in the year 655 AF.
+6032h, 4440m, 27625e, 20196w exdb-
+A great weight seems to have been lifted from Morthif.
+6032h, 4440m, 27625e, 20196w exdb-
+Morthif takes some balm from a vial and rubs it on his body.
+6032h, 4440m, 27625e, 20196w exdb-
+ANNOUNCE NEWS #4129                                     (05/14/2014 at 19:55)  
+From   : Tecton, the Terraformer
+To     : Everyone
+Subject: Curing system updates
+-------------------------------------------------------------------------------
+A new day brings further improvements to our server-side curing system! The details are as follows:
+
+* CURING INSOMNIA <ON|OFF> will toggle the use of the INSOMNIA ability, rather than using Cohosh/Gypsum.
+* CURING CLOTAT <amount> will configure at what level of bleeding you wish to start CLOTing wounds.
+* CURING PREDICT will allow you to predict you have an affliction and have the system attempt to cure it.
+* CURING STATUS has been updated to reflect more of the configurable settings.
+
+Penned by My hand on the 1st of Chronos, in the year 654 AF.
+6032h, 4473m, 27625e, 20200w exdb-
+Stretching in a fiery arc that embraces the world, the triune rings of Achaea blaze in response to the first kiss of dawn.
+6032h, 4458m, 27625e, 20196w exdb-
+(Argent Ward): Tesha says, "Canadians are so strange."
+6032h, 4458m, 27625e, 20196w exdb-
+(Market): Bronislav says, "The Magic Serpent! Rare, delicious, and otherwise exotic foods suddenly in stock! Eat them up! NE, N from Cyrene's Subs!"
+6032h, 4458m, 27625e, 20196w exdb-
+ANNOUNCE NEWS #4130                                     (05/19/2014 at 22:34)  
+From   : Tecton, the Terraformer
+To     : Everyone
+Subject: Call for coders
+-------------------------------------------------------------------------------
+We are opening a call for those interested in becoming volunteer coders
+to assist with maintaining and expanding the features of our game. Due
+to the complex nature of our codebase, we require applicants with strong
+programming experience in low/high-level languages. Creativity is also
+highly sought-after, with the ability to think outside the box when
+developing new systems and processes.
+
+Volunteer coders will be promoted to a Celani role, and will receive all
+of the same basic training as other Celani with the option to eventually
+take on an IC God role. Due to the sensitive and potentially
+advantageous knowledge that comes with this position, we require all
+coders to give up their mortal characters.
+
+How to apply
+------------
+1- Read HELP CELANI and HELP PROMOTIONS in full. These are things that
+   you will need to know before you apply.
+
+2- Due to the legal obligations of this position, we require all
+   applicants to be 18 years of age or older. We prefer experienced
+   and mature candidates with at least 500 hours of playtime under
+   their belt.
+
+3- Send a plain-text email to tecton@achaea.com with the following
+[Type MORE if you wish to continue reading. (68% shown)]
+6032h, 4444m, 27625e, 20196w exdb-
+(Argent Ward): Antidas says, "Ofc I've watched it."
+6032h, 4444m, 27625e, 20196w exdb-
+POETRY NEWS #4688                                       (05/15/2014 at 18:41)  
+From   : Oathsworn Arukhel
+To     : Everyone
+Subject: Everlasting Oath
+-------------------------------------------------------------------------------
+I stand ready and vigilant, here to do what's right
+When called upon, I will be ready for the fight
+My citymates may rely on me, I will not let them down
+We will wipe out the scourge, and in victory, walk back to town
+
+I am ready to act for the good and righteous, doing for others as I see the need
+I am young but I am learning, Filling my mind and pulling out the weeds
+My knowledge will grow as I continue to train
+I will fight with sword, fist and brain
+
+I will help those who come after me
+Doing what I can to prepare them for their adventure, their story
+I will be there if anyone should call
+To help them along the way, to demystify it all
+
+So those who need me, younglings or old, fear not, I will be there to help the cause
+Whatever it is, I am ready to take it on
+When I grow old and gray, I will tell those younglings who I am
+Arukhel of Targossas, I'm just doing what I can
+
+Penned by my hand on the 23rd of Chronos, in the year 654 AF.
+6032h, 4444m, 27625e, 20196w exdb-
+POETRY NEWS #4689                                       (05/15/2014 at 22:37)  
+From   : Camillia Ashaela
+To     : Everyone
+Subject: At Peace With Myself
+-------------------------------------------------------------------------------
+At Peace With Myself
+At first unsettled,
+like a restless child,
+my soul rests in peace.
+For now I am content
+and my troubles cease.
+Though it cost me more
+than I was willing to pay,
+I let go of past attachments
+to have peace of mind today.
+Though I regret how things turned out,
+now I can say without a doubt,
+like a book resting on a shelf,
+I am at peace with myself.
+
+Penned by my hand on the 2nd of Glacian, in the year 654 AF.
+6032h, 4430m, 27625e, 20196w exdb-
+POETRY NEWS #4690                                       (05/16/2014 at 20:02)  
+From   : Sunny Ashaela
+To     : Everyone
+Subject: A cute poem
+-------------------------------------------------------------------------------
+Waiting on a  Divine.
+
+Hear I sit on this bench of blueist marble
+Listening to the rest of Cyrene's noises turn to garble
+Waiting here with not much to do
+For there is nothing greater than waiting for any of You.
+
+Over my shoulder I look at Blu
+An amazing sight to see this dragon true
+Nothing compares to the sight I await to see
+Nothing in Sapiance compares to any of Thee
+
+Pandora with Her cupcakes and easy laughs
+Phaestus with His hammer and heat blast
+Scarlatti with His smile and musical sway
+These are some of the Divine I await today
+
+Other Divine I await to come through here
+Ourania with Her beautiful lunar stare
+Lord Sartan although it would scare me to death
+Though I would visit Lord Thoth in my much needed rest
+
+Many Divine I have yet to meet
+To see them all at Cyrene's crossing would be a feat
+[Type MORE if you wish to continue reading. (88% shown)]
+6032h, 4430m, 27625e, 20196w exdb-
+POETRY NEWS #4691                                       (05/18/2014 at 21:35)  
+From   : Caoimhaen
+To     : Everyone
+Subject: The City of Hopelessness
+-------------------------------------------------------------------------------
+-City of Hopelessness-
+
+Flames will burn you to the ground,
+the forest will take you and make you bound.
+
+We will fight one another furiously,
+Civil war and hatred,
+
+Change does not exist,
+mad passions out of control,
+sleepy apathy making all null.
+
+Split you in two, three, four,
+joys within you will be no more.
+
+Death to you while your Gods are self serving,
+I watch you as you are slowly tortured from inside,
+I ask,
+Why?
+Why?
+Why am I here?
+Why in Sapience do I hold you so dear?
+
+Your death was mourned long ago,
+[Type MORE if you wish to continue reading. (89% shown)]
+6032h, 4473m, 27625e, 20196w exdb-
+POETRY NEWS #4692                                       (05/18/2014 at 22:56)  
+From   : Ayleth Danial
+To     : Caoimhaen
+Subject: Traitor's Folly
+-------------------------------------------------------------------------------
+
+Enjoy your Fire and your Light,
+For remember, my dear, your eternal plight.
+For what you abandon in your doubt,
+You seem to know nothing about.
+
+I may not have many qualms with you,
+But only in the lies you spew.
+Change is eminent, don't you see?
+No, you're blinded by your own stupidity.
+
+As the cloak of Night falls across the land,
+The Triad of old shall forever stand.
+For the Moon shines down in Her fluid grace,
+Silver beams of light eternally in place.
+
+When the final candle blows out, in the gloom,
+Will you find your Dreams to be your tomb.
+As your fears and lies will be revealed,
+Remember it is your fate that you have sealed.
+
+For with every light, there are Shadows too,
+Where Darkness lurks through and through.
+Watch yourself for the Triad stands tall,
+[Type MORE if you wish to continue reading. (92% shown)]
+6032h, 4473m, 27625e, 20196w exdb-
+POETRY NEWS #4693                                       (05/19/2014 at 17:21)  
+From   : Knave Novice Arillis Azagnanna, Happy Hugger
+To     : Everyone
+Subject: Forlorn
+-------------------------------------------------------------------------------
+If I'd send an envelope with nothing in it,
+not a single word to be read,
+not a picture to be seen,
+would you understand what I mean?
+
+Penned by my hand on the 18th of Daedalan, in the year 655 AF.
+6032h, 4453m, 27625e, 20194w exdb-
+ARG NEWS #2                                             (05/19/2014 at 06:33)  
+From   : Soldier Ernam
+To     : Everyone
+Subject: Oops.
+-------------------------------------------------------------------------------
+
+I've defiled/sanctified the wrong shrine for the last time!
+
+Hopefully this helps prevent this in the future for myself and others.
+
+http://pastebin.com/sQZkV7SK
+
+Penned by my hand on the 7th of Daedalan, in the year 655 AF.
+6032h, 4453m, 27625e, 20194w exdb-
+TARGOSSAS NEWS #296                                     (05/14/2014 at 15:01)  
+From   : Davio Op'Shae, Guardian of the Blades
+To     : Everyone
+Subject: The mistake of Arcadia
+-------------------------------------------------------------------------------
+Targossas,
+
+It is unfortunate - but not unexpected - that Arcadia has met our attempts at communication with silence. With their silence they have damned themselves and with their continued support of the misguided Skylord they will no longer be afforded any protection by the forces of Good.
+
+In supporting the Skylord fully they are also deemed enemies of Creation - in the same vein that those who are in His Order are. Let this be a reminder that supporting and sitting by in direct aid of an enemy of Creation cannot be ignored.
+
+We fight for much more than our own pride, our own desires to be great. We must do what we must because everything is at stake. We do not have the freedom to ignore, to not act, to sit by idly. We strive to be great for Creation, for the betterment of the whole. Remember this as you strike down our enemies, remember this as you take each step, bathed in the power of ever burning Righteous Fire and illuminated by the ever-present blessing of Light.
+
+In Their Service,
+
+Judicator Davio Op'Shae, Guardian of the Blades
+
+Penned by my hand on the 21st of Phaestian, in the year 654 AF.
+6032h, 4435m, 27625e, 20195w exdb-
+TARGOSSAS NEWS #297                                     (05/18/2014 at 08:52)  
+From   : Predicant Carmell Bayt Al-Azhan, Caefir Priestess
+To     : Everyone
+Subject: A sermon on conversion
+-------------------------------------------------------------------------------
+As I sat down to write this sermon I had a lot of time to think about what being a Harbinger meant to me.    Upon joining Targossas we swear oaths to defend Creation at all costs and to serve in any way we are able.
+
+There are many types of service that a person can give to defend creation and serve Good.    You can be someone who combats Evil, Darkness and Chaos with your weapons.
+
+You could be one of those people that combats it through your words. You could also be the person that gathers the information that is used by other?s to combat Evil, Darkness and Chaos.
+
+Those using their words to teach of Truth, Light, Righteousness and Good help to bring more into the fold of Targossas and the defense of Creation.
+
+The more our words are heard--and the more people that have a chance to hear them--the more hearts we will reach. Each person that we convince to turn away from harming Creation is one more step to our ultimate goal of paradise being manifest.
+
+Through Clemency, Succour and Deliverance, the Harbingers of Redemption have been given the task of getting the message out to those that do not know the truth of Good.
+
+We have multiple ways of doing this.  One is with discussions and sermons.  We teach what Good is.  We show them why what they are doing to creation is wrong.
+We give sermons to allow them to hear our words and hopefully open up their hearts to hear more.  Teaching them the truth of Good will open their hearts to learning more about Good, Light and Righteousness.
+
+We do not stop there.  Our mission does not end when we convert them.
+
+ We must then teach them well as help them to heal from what they have done to their lives.  We must also help them to begin looking for redemption for their actions.  This means giving them meaningful talks as well as allowing them to see us in our natural ways.
+
+The behavior of a person can say much more than just what our mouths are uttering.   If we preach redemption but then we don?t give people a chance to be redeemed then we are working against the very thing that we say we are working towards.
+
+Every person has the capacity for redemption, if they but ask for it. We also offer it when we are out in the world around other people.  You should not just be a combatant to your enemies but you should offer them the chance at redemption.
+ 
+If you see someone doing something that is harming Creation you speak with them.  You explain to them why what they are doing is harming creation.  You give them a chance to atone for their actions before you look towards the next step.
+[Type MORE if you wish to continue reading. (61% shown)]
+6032h, 4456m, 27625e, 20195w exdb-
+TARGOSSAS NEWS #298                                     (05/18/2014 at 16:11)  
+From   : Political Administrator Chanakya
+To     : Citizens of Targossas
+Subject: Appointed Lumarch
+-------------------------------------------------------------------------------
+Havyn Shu'in-Crescent, Augur of Light has been appointed to the position of Lumarch of Targossas on this day.
+
+Published by my decree on the 18th of Sarapin, in the year 655 AF.
+6032h, 4456m, 27625e, 20195w exdb-
+TARGOSSAS NEWS #299                                     (05/19/2014 at 07:30)  
+From   : Lord Draekar Rian, Eminent Master
+To     : The City of Targossas
+Subject: Houses and You, a deadline
+-------------------------------------------------------------------------------
+Greetings Targossas,
+
+On the 16th day of Mayan, 649 AF the Great Houses of Targossas opened their doors. This was a joyous occasion for us all, especially those who had been so eagerly waiting since the fall of the Jewel. Along with this opening the Bloodsworn Divine also gave a decree that joining one of these Houses was expected for all active citizens of Targossas.
+
+As we head towards the fifth anniversary of these Houses the city council has discussed the matter of this decree and our need to begin the process of enforcing it.
+
+It is such that from the 1st of Sarapin, 656 AF all active citizens must be either a member of one of the three Houses of Targossas or at the very least in the application process.
+
+There will be some grace for those who are new to the city, or freshly returned from dormancy but this will be closely monitored.
+
+So if you have not done so already please do look into the three Houses we have. The Dawnblade, The Harbingers, and The Luminai and make your choice as soon as possible.
+
+Those who do not comply with this decree of our Divine will find themselves looking for a new Home, which is not something we wish to see.
+
+If you have any questions at all please do seek out any of our Lumarchs or Ministers to ask and please those of you who are yet to choose do so before Sarapin, 656 AF.
+
+Humbly, in service
+Lord Draekar Rian
+Eminent Master of the Luminai
+
+Penned by my hand on the 8th of Daedalan, in the year 655 AF.
+6032h, 4456m, 27625e, 20200w exdb-
+The following members of the clan of Argent Ward are in the realms:
+Argent Artificer Tesha al Ashtad, Golden Justice
+Extrum Wintermourne
+6032h, 4439m, 27625e, 20195w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Oathsworn Xellan                                              1  On  Bard
+Zuko Shu'in-Crescent, Monk of the Watch                       1  On  Monk
+Devout Kyttin Bayt Al-Azhan                                   1  On  Serpent
+Devout Kiryn                                                  1  On  Blademaster
+Vovi                                                          1  On  Paladin
+Oathsworn Heawon Rousseau                                     1  On  Blademaster
+Sir Morthif Aristata, Knight of the Watch                     2  On  Dragon
+Domanic                                                       1  On  Alchemist
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Devout Maive                                                  1  On  Monk
+Soldier Iskla Rian                                            1  On  Blademaster
+Purest Heart Dhaia Bayt al-Azhan                              2  On  Priest
+Predicant Garis 'The Jinx' Obuun                              2  On  Monk
+Predicant Kaiu Silvertongue Obuun                             3  Off Druid
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Uly                                                           1  On  Priest
+Antidas Wintermourne, Luminous Shade                          3  On  Serpent
+Devout Abruni                                                 1  On  Alchemist
+Oathsworn Cen                                                 1  On  Jester
+Predicant Lyndee Faelithar                                    2  On  Magi
+Soldier Shiro                                                 1  On  Runewarden
+Extrum Wintermourne                                           1  On  Jester
+6032h, 4421m, 27625e, 20195w exdb-
+Devout Maive (female Atavian).
+She is 18 years old, having been born on the 10th of Scarlatan, 636 years after the fall of the Seleucarian Empire.
+She is ranked 1464th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 20% of your might.
+6032h, 4421m, 27625e, 20195w exdb-
+Oathsworn Xellan (male Horkval).
+He is 292 years old, having been born on the 13th of Lupar, 362 years after the fall of the Seleucarian Empire.
+He is ranked 379th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is a Conscript in the army of Targossas.
+He is considered to be approximately 85% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'To believe you can is everything.'
+He has been divorced once.
+See HONOURS DEEDS XELLAN to view his 3 special honours.
+6032h, 4421m, 27625e, 20195w exdb-
+Devout Kyttin Bayt Al-Azhan (female Atavian).
+She is 21 years old, having been born on the 20th of Phaestian, 633 years after the fall of the Seleucarian Empire.
+She is ranked 1685th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 15% of your might.
+6032h, 4421m, 27625e, 20195w exdb-
+Uly (male Tsol'aa).
+He is 18 years old, having been born on the 3rd of Aeguary, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6032h, 4421m, 27625e, 20195w exdb-
+Oathsworn Cen (male Human).
+He is 18 years old, having been born on the 18th of Phaestian, 636 years after the fall of the Seleucarian Empire.
+He is ranked 1784th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 0% of your might.
+6032h, 4421m, 27625e, 20195w exdb-
+Devout Abruni (female Grook).
+She is 18 years old, having been born on the 22nd of Mayan, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Settler in Targossas.
+She is considered to be approximately 0% of your might.
+6032h, 4421m, 27625e, 20195w exdb-
+Domanic (male Dwarf).
+He is 112 years old, having been born on the 9th of Scarlatan, 542 years after the fall of the Seleucarian Empire.
+He is ranked 1146th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Settler in Targossas.
+He is considered to be approximately 50% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'When one ceases to seek knowledge ignorance is found.'
+6032h, 4421m, 27625e, 20195w exdb-
+(Argent Ward): You say, "In china they do it for chili."
+6032h, 4439m, 27625e, 20200w exdb-
+You have no further news to read.
+6032h, 4473m, 27625e, 20200w exdb-
+You have no further news to read.
+6032h, 4459m, 27625e, 20200w exdb-
+There is no next message to read.
+6032h, 4443m, 27625e, 20195w exdb-
+Your current clan will now be the 'The Bathhouse Strikes Back' clan.
+6032h, 4423m, 27625e, 20194w exdb-
+The following members of the clan of The Bathhouse Strikes Back are in the realms:
+Argent Artificer Tesha al Ashtad, Golden Justice
+Extrum Wintermourne
+6032h, 4473m, 27625e, 20194w exdb-
+Lothiac declares that the game of rampage shall commence immediately! May the most skilled win!
+6032h, 4459m, 27625e, 20196w exdb-
+You cannot see that being here.
+6032h, 4445m, 27625e, 20200w exdb-
+Zenofox, May, Kenia, Zyana, Torrent, Abruni, Aelyn, Inoa, Esmer, Oriias, Kaie, Cen, Uly, Seara, Jacen, Ellowyne, Sylarana, Voc, Naz, Raynor, Skanio, Okk, Oleyn, Caoimhaen, Dhaia, Quei, Feykro, Juniko, Melodie, Heawon, Xuaco, Neru, Sunny, Kazuya, Kaiu, Kyttin, Tesha, Lazareth, Kakarot, Verily, Garis, Kiella, Zada, Bronislav, Drefan, Lannah, Domanic, Terrana, Tarvius, Drafox, Faustine, Choryn, Twil, Piper, Garadross, Kazasu, Lis, Amaranda, Armillary, Rom, Romeo, Taraus, Jinsun, Azera, Aktillum, Axi, Aubrey, Beliar, Darktalon, Dusken, Falthus, Cerasus, Hellen, Crixos, Vovi, Maive, Allene, Caeriele, Saibel, Rotose, Alea, Iskla, Lavergnius, Talaan, Kotaru, Ailziara, Ladrun, Asoe, Qara, Nemch, Corain, Saeva, Talfinel, Morganbarl, Sillias, Tohran, Gizmic, Kiryn, Phirisis, Callis, Trustenso, Rohn, Talya, Aoghinius, Faur, Nicholai, Owi, Raelyn, Auji, Extrum.
+Plus another 49 whose presence you cannot fully sense.
+6032h, 4473m, 27625e, 20200w exdb-
+Dusken, of Cyrene (male Dwarf).
+He is 18 years old, having been born on the 11th of Mayan, 636 years after the fall of the Seleucarian Empire.
+He is ranked 2239th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Uaithne Esmer (male Tsol'aa).
+He is 18 years old, having been born on the 24th of Daedalan, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Morganbarl, Initiate of Air (male Human).
+He is 19 years old, having been born on the 1st of Scarlatan, 635 years after the fall of the Seleucarian Empire.
+He is ranked 2161st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 5% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Talaan (male Human).
+He is 18 years old, having been born on the 21st of Daedalan, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Naz, Zaikousei of the Hold (male Rajamala).
+He is 63 years old, having been born on the 22nd of Valnuary, 591 years after the fall of the Seleucarian Empire.
+He is ranked 1783rd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 35% of your might.
+His motto: 'Choose your poisons well.'
+6032h, 4457m, 27625e, 20195w exdb-
+Trustenso, of Ashtan (male Rajamala).
+He is 18 years old, having been born on the 16th of Sarapin, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Talfinel, of Ashtan (male Human).
+He is 18 years old, having been born on the 10th of Daedalan, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Zyana (female Human).
+She is 18 years old, having been born on the 7th of Mayan, 636 years after the fall of the Seleucarian Empire.
+She is ranked 1820th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Feykro, Aspirant of Galadriel (male Tsol'aa).
+He is 18 years old, having been born on the 1st of Lupar, 636 years after the fall of the Seleucarian Empire.
+He is ranked 1324th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Freeman in Eleusis.
+He is considered to be approximately 15% of your might.
+6032h, 4457m, 27625e, 20195w exdb-
+Asoe D'Ischai, Shadowrunner (male Xoran).
+He is 125 years old, having been born on the 9th of Glacian, 529 years after the fall of the Seleucarian Empire.
+He is ranked 1482nd in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Commoner in Hashan.
+He is considered to be approximately 40% of your might.
+His motto: 'Many a thief be a better man than many a clergyman.'
+6032h, 4457m, 27625e, 20195w exdb-
+Corain (male Human).
+He is 59 years old, having been born on the 11th of Phaestian, 595 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Cub Raelyn (female Xoran).
+She is 18 years old, having been born on the 11th of Mayan, 636 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Owi (male Satyr).
+He is 18 years old, having been born on the 3rd of Aeguary, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Peasant in Hashan.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Ailziara (female Mhun).
+She is 61 years old, having been born on the 20th of Phaestian, 593 years after the fall of the Seleucarian Empire.
+She is ranked 2388th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Peasant in Hashan.
+She is considered to be approximately 0% of your might.
+Her motto: 'For the Honor and Glory of Hashan.'
+6032h, 4457m, 27625e, 20200w exdb-
+Deshi Skanio (male Human).
+He is 18 years old, having been born on the 22nd of Mayan, 636 years after the fall of the Seleucarian Empire.
+He is ranked 2326th in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Plebeian in Ashtan.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Inceptor Gizmic, Student of the Arcane (male Horkval).
+He is 18 years old, having been born on the 5th of Sarapin, 637 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+His warcry: 'Whee.'
+6032h, 4457m, 27625e, 20200w exdb-
+Tohran Windsong, Ita'tone of Artemis (male Rajamala).
+He is 286 years old, having been born on the 12th of Chronos, 368 years after the fall of the Seleucarian Empire.
+He is ranked 841st in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Tender in Eleusis.
+He is considered to be approximately 105% of your might.
+He is a mentor and able to take on proteges.
+His motto: 'I lived in the time of the Weaver.'
+He has been divorced 2 times.
+He bears the arms: Vert, a raven volant in bend Argent and a moon crescent in chief Argent.
+See HONOURS DEEDS TOHRAN to view his 3 special honours.
+6032h, 4457m, 27625e, 20200w exdb-
+Auji, Tiger of the Black Forest (female Grook).
+She is 18 years old, having been born on the 5th of Lupar, 636 years after the fall of the Seleucarian Empire.
+She is ranked 2099th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 20% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Sentinel Cub Kenia (female Dwarf).
+She is 18 years old, having been born on the 7th of Chronos, 636 years after the fall of the Seleucarian Empire.
+She is ranked 1398th in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Freewoman in Eleusis.
+She is considered to be approximately 15% of your might.
+Her warcry: 'El pollito pio!'
+6032h, 4457m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4457m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4457m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4457m, 27625e, 20200w exdb-
+Dilettante Caeriele, Lilian's Bardlet (female Atavian).
+She is 18 years old, having been born on the 7th of Daedalan, 637 years after the fall of the Seleucarian Empire.
+She is unranked in Achaea.
+She is an extremely credible character.
+She is not known for acts of infamy.
+She is a Citizen in Cyrene.
+She is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4457m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4457m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4457m, 27625e, 20200w exdb-
+Garadross, Novitiate Third (male Xoran).
+He is 18 years old, having been born on the 10th of Chronos, 636 years after the fall of the Seleucarian Empire.
+He is unranked in Achaea.
+He is an extremely credible character.
+He is not known for acts of infamy.
+He is a Citizen in Cyrene.
+He is considered to be approximately 0% of your might.
+6032h, 4457m, 27625e, 20200w exdb-
+Zenofox, Zyana, Raelyn, Owi, Talya, Faur, Kenia, Naz, Morganbarl, Kaie, Terrana, Callis, Alea, Trustenso, Corain, Falthus, Seara, Sylarana, Tarvius, Skanio, Dhaia, Aoghinius, Bronislav, Ailziara, Asoe, Cerasus, Lavergnius, Cen, Raynor, Okk, Kotaru, Talaan, Juniko, Melodie, Rotose, Saibel, Allene, Maive, Vovi, Crixos, Hellen, Kakarot, Garis, Beliar, Aubrey, Drefan, Lannah, Domanic, Taraus, Drafox, Faustine, Choryn, Twil, Piper, Garadross, Kazasu, Lis, Amaranda, Armillary, Rom, Romeo, Jinsun, Azera, Aktillum, Axi, Zada, Darktalon, Verily, Lazareth, Tesha, Kyttin, Kaiu, Kazuya, Neru, Xuaco, Heawon, Iskla, Feykro, Quei, Caoimhaen, Qara, Saeva, Nicholai, Caeriele, Kiella, Talfinel, Dusken, Sunny, Ladrun, Auji, Inoa, Voc, Phirisis, Uly, Gizmic, Ellowyne, Oriias, Sillias, Kiryn, Esmer, Oleyn, Aelyn, Abruni, Jacen, Torrent, Tohran, Rohn, Nemch, May, Extrum.
+Plus another 49 whose presence you cannot fully sense.
+6032h, 4441m, 27625e, 20195w exdb-
+The following members of the clan of The Bathhouse Strikes Back are in the realms:
+Argent Artificer Tesha al Ashtad, Golden Justice
+Extrum Wintermourne
+6032h, 4423m, 27625e, 20195w exdb-
+You detect nothing here by that name.
+6032h, 4441m, 27625e, 20196w exdb-
+The radiant sun shines all about you.
+6032h, 4459m, 27625e, 20200w exdb-
+A great weight seems to have been lifted from Morthif.
+6032h, 4459m, 27625e, 20200w exdb-
+Morthif takes some balm from a vial and rubs it on his body.
+6032h, 4459m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20200w exdb-
+(Argent Ward): Tesha says, "HE'S TRYING SO HADR TO IMPRESS YOU."
+6032h, 4457m, 27625e, 20200w exdb-
+(Argent Ward): Tesha says, "THIS IS LIKE BAMBI."
+6032h, 4457m, 27625e, 20200w exdb-
+Credit Report
+-------------------------------------------------------------------
+You have 0 Credits reserved for sale.
+You have 15 Credit(s) left.
+You have 0 Bound Credit(s) left.
+You have converted 0 Bound Credits to lessons today.
+You have 562 Lessons left.
+You have 150 Membership Credit(s) left.
+Your Iron Membership grants you a 10% bonus on credit purchases, 150 Membership Credits per month, and a 25% experience bonus.
+The membership was last renewed on May 20, 2014.
+This character is permanent and cannot be deleted.
+6032h, 4440m, 27625e, 20195w exdb-
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 117         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 262         Explorer Rank: 757     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6032/6032   Willpower: 20196/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4439/4473   Endurance: 27625/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 0       Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 562                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward                          Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back *                                              |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6032h, 4439m, 27625e, 20196w exdb-
+Brilliant! Dumb it down for me?
+6032h, 4438m, 27625e, 20195w exdb-
+You have transferred 150 Membership Credit(s) to this character.
+6032h, 4473m, 27625e, 20195w exdb-
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Small gouts of fire blossom from the nostrils of this small humgii, as he snorts in abject disgruntlement. Stretching its wings in an impressive display is an ebony pegasus, its dark coat absorbing the surrounding light. Scampering in circles, a squirrel monkey is here. Wings flaring, a pegasus tosses his regal head impatiently. An ash-grey jaguar pauses here, golden eyes alight. The statuesque form of a white marble gargoyle looms here. A noble hippogriff flaps its wings in agitation here. A winged beast lurks in the shadows, its crimson eyes glowing brightly. Looking ready for anything, a hulking war elephant stands here.  A large barracks is here providing the city's forces with rest and refuge. The Silver Dragon Morthif's imposing form looms.
+You see exits leading south, southwest, and west.
+6032h, 4457m, 27625e, 20195w exdb-
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 117         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 262         Explorer Rank: 757     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6032/6032   Willpower: 20195/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4457/4473   Endurance: 27625/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 150     Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 562                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward                          Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back *                                              |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6032h, 4457m, 27625e, 20195w exdb-
+There is no exit in that direction.
+6032h, 4457m, 27625e, 20200w exdb-
+There is no exit in that direction.
+6032h, 4439m, 27625e, 20195w exdb-
+A bustling farrier's yard.
+The bright sun shines down, blanketing you with its life-giving warmth. Humming under his breath, Mahmoud toils over his tools. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. A runic totem is planted solidly in the ground. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. A stubborn mule wanders about here, nosing at the ground. A brilliant yellow lily lies here on the ground.
+You see exits leading north, west, and northwest.
+6032h, 4439m, 27623e, 20195w exdb-
+Blackstone military quarter.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, northeast, east, south, west, and northwest.
+6032h, 4439m, 27621e, 20195w exdb-
+At the base of the Targossian barracks (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. An obsidian eye sigil is here. Lying flat on the ground is a key-shaped sigil. There are 5 Brighthold watchmen here. A handful of ripe fruits sit here. A sigil in the shape of a small, rectangular monolith is on the ground. An oak chest is here. An oak rocker with a covering of light violet satin is here. An oak bench with a covering of light violet satin is here.
+You see exits leading southeast, up, and down (closed door).
+6032h, 4439m, 27623e, 20195w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. There are 5 Brighthold watchmen here. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. A waddling desert hedgehog snuffles nearby. A sigil in the shape of a small, rectangular monolith is on the ground. A steel-plated chair is here.
+You see a single exit leading down.
+6032h, 4439m, 27621e, 20195w exdb-
+shelf111569         an indigo-stained shelf
+totem172766         a runic totem
+boy332039           a one-handed atavian boy
+watchman350198      a Brighthold watchman
+watchman350286      a Brighthold watchman
+canvas385645        a gilt-framed portrait of Draekar
+strongchest434635   a steel strongchest
+watchman170565      a Brighthold watchman
+watchman349958      a Brighthold watchman
+watchman201278      a Brighthold watchman
+Talarna126467       Lady Talarna
+hedgehog237843      a desert hedgehog
+sigil501233         a monolith sigil
+chair591            a steel-plated chair
+Number of objects: 14
+6032h, 4473m, 27621e, 20195w exdb-
+You see the following people here:
+Extrum
+6032h, 4473m, 27621e, 20195w exdb-
+At the base of the Targossian barracks (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. An obsidian eye sigil is here. Lying flat on the ground is a key-shaped sigil. There are 5 Brighthold watchmen here. A handful of ripe fruits sit here. A sigil in the shape of a small, rectangular monolith is on the ground. An oak chest is here. An oak rocker with a covering of light violet satin is here. An oak bench with a covering of light violet satin is here.
+You see exits leading southeast, up, and down (closed door).
+6032h, 4473m, 27619e, 20200w exdb-
+There is a door in the way, to the down.
+6032h, 4473m, 27619e, 20200w exdb-
+You open the door to the down.
+6032h, 4457m, 27617e, 20196w exdb-
+A frozen chamber beneath the barracks (indoors).
+Enran tends to his duties with studied concentration. There are 2 Shornwall defenders here. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. A runic totem is planted solidly in the ground. There are 2 key-shaped sigils in 2 groups here. An obsidian eye sigil is here. There are 5 metal tanks radiating waves of heat here.
+You see a single exit leading up (open door).
+The door to the up slams shut.
+6032h, 4457m, 27615e, 20196w exdb-
+There is a door in the way, to the up.
+6032h, 4457m, 27615e, 20196w exdb-
+You open the door to the up.
+6032h, 4457m, 27613e, 20196w exdb-
+There is no exit in that direction.
+6032h, 4457m, 27625e, 20196w exdb-
+At the base of the Targossian barracks (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. An obsidian eye sigil is here. Lying flat on the ground is a key-shaped sigil. There are 5 Brighthold watchmen here. A handful of ripe fruits sit here. A sigil in the shape of a small, rectangular monolith is on the ground. An oak chest is here. An oak rocker with a covering of light violet satin is here. An oak bench with a covering of light violet satin is here.
+You see exits leading southeast, up, and down (open door).
+The door to the down slams shut.
+6032h, 4457m, 27623e, 20196w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. There are 5 Brighthold watchmen here. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. A waddling desert hedgehog snuffles nearby. A sigil in the shape of a small, rectangular monolith is on the ground. A steel-plated chair is here.
+You see a single exit leading down.
+6032h, 4457m, 27621e, 20196w exdb-
+There is no exit in that direction.
+6032h, 4457m, 27621e, 20196w exdb-
+At the base of the Targossian barracks (indoors).
+A rune resembling a horse has been sketched into the ground here. A runic totem is planted solidly in the ground. An obsidian eye sigil is here. Lying flat on the ground is a key-shaped sigil. There are 5 Brighthold watchmen here. A handful of ripe fruits sit here. A sigil in the shape of a small, rectangular monolith is on the ground. An oak chest is here. An oak rocker with a covering of light violet satin is here. An oak bench with a covering of light violet satin is here.
+You see exits leading southeast, up, and down (closed door).
+6032h, 4457m, 27619e, 20196w exdb-
+Blackstone military quarter.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. There are 2 Riverwall bow-maidens here. A dense mist of silver ripples in the air around the immense form of Ilona'neron, the Colossus. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, northeast, east, south, west, and northwest.
+6032h, 4457m, 27617e, 20200w exdb-
+Now now, don't be so hasty!
+6032h, 4442m, 27615e, 20196w exdb-
+Blackstone parade ground.
+The bright sun shines down, blanketing you with its life-giving warmth. There are 2 Riverwall bow-maidens here. An obsidian eye sigil is here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, east, southeast, and south.
+6032h, 4442m, 27613e, 20196w exdb-
+Rally point.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. There are 2 rugged war goats here. Small gouts of fire blossom from the nostrils of this small humgii, as he snorts in abject disgruntlement. Stretching its wings in an impressive display is an ebony pegasus, its dark coat absorbing the surrounding light. Scampering in circles, a squirrel monkey is here. Wings flaring, a pegasus tosses his regal head impatiently. An ash-grey jaguar pauses here, golden eyes alight. The statuesque form of a white marble gargoyle looms here. A noble hippogriff flaps its wings in agitation here. A winged beast lurks in the shadows, its crimson eyes glowing brightly. Looking ready for anything, a hulking war elephant stands here.  A large barracks is here providing the city's forces with rest and refuge. The Silver Dragon Morthif's imposing form looms.
+You see exits leading south, southwest, and west.
+6032h, 4442m, 27611e, 20196w exdb-
+Blackstone parade ground.
+The bright sun shines down, blanketing you with its life-giving warmth. There are 2 Riverwall bow-maidens here. An obsidian eye sigil is here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.  A large barracks is here providing the city's forces with rest and refuge.
+You see exits leading north, east, southeast, and south.
+6032h, 4442m, 27623e, 20196w exdb-
+Scenic pathway before a stone bridge.
+The bright sun shines down, blanketing you with its life-giving warmth. A sigil in the shape of a small, rectangular monolith is on the ground. There are 2 Riverwall bow-maidens here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation.
+You see exits leading northeast and south.
+6032h, 4442m, 27621e, 20196w exdb-
+Now now, don't be so hasty!
+6032h, 4442m, 27619e, 20196w exdb-
+Now now, don't be so hasty!
+6032h, 4442m, 27617e, 20196w exdb-
+Arched stone bridge crossing the Silverveil.
+The bright sun shines down, blanketing you with its life-giving warmth. A rune resembling a horse has been sketched into the ground here. There are 2 Riverwall bow-maidens here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Muscles ripple beneath the shining coat of a black destrier.
+You see exits leading northeast and southwest.
+6032h, 4442m, 27615e, 20200w exdb-
+An open construction site.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground.
+You see exits leading east, southwest, and northwest.
+6032h, 4442m, 27613e, 20200w exdb-
+There is no exit in that direction.
+6032h, 4428m, 27613e, 20196w exdb-
+An open construction site.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. A sigil in the shape of a small, rectangular monolith is on the ground.
+You see exits leading east, southeast, and west.
+6032h, 4428m, 27611e, 20196w exdb-
+Passing through the Riverwall (indoors).
+A runic totem is planted solidly in the ground. Resting on the ground is a cube-shaped silver sigil. A common red admiral butterfly flits about over your head.
+You see exits leading northeast and west.
+6032h, 4428m, 27609e, 20196w exdb-
+Silverbright Road south of a square.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground.
+You see exits leading north, east, and southwest.
+6032h, 4473m, 27607e, 20196w exdb-
+Southwest Silverbright Square.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground.
+You see exits leading north, east, and south.
+6032h, 4473m, 27605e, 20196w exdb-
+Silverbright Square before the Avenue of the Angels.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. The Merchants' Directory of Targossas is displayed on a matching sandstone pedestal. Mounted on a pedestal of sandstone and ivory, the Merchants' Code of Targossas is displayed for all to see. Flipping through a set of rough sketches, a Jaruvian contractor stands here.  Soldier Iskla Rian is here. Soldier Qara Del-Amroth Rian is here.
+You see exits leading north, east, south, and west.
+6032h, 4473m, 27623e, 20196w exdb-
+Centre of Silverbright Square.
+The bright sun shines down, blanketing you with its life-giving warmth. Graceful arcs of water stream from an immense fountain, in the centre of which is poised an alabaster angel. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Billowing motes of gold and ivory flare about the form of Lumine, humgii of Light.
+You see exits leading north, east, south, and west.
+6032h, 4473m, 27621e, 20196w exdb-
+Silverbright Square before the Avenue of the Angels.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground. The Merchants' Directory of Targossas is displayed on a matching sandstone pedestal. Mounted on a pedestal of sandstone and ivory, the Merchants' Code of Targossas is displayed for all to see. Flipping through a set of rough sketches, a Jaruvian contractor stands here.  Soldier Iskla Rian is here. Soldier Qara Del-Amroth Rian is here.
+You see exits leading north, east, south, and west.
+6032h, 4473m, 27619e, 20200w exdb-
+totem302008         a runic totem
+manuscript312452    The Merchants' Directory of Targossas
+manuscript332521    The Merchants' Code of Targossas
+contractor95586     a Jaruvian contractor
+Number of objects: 4
+6032h, 4473m, 27619e, 20200w exdb-
+You see the following people here:
+Iskla, Qara, Extrum
+6032h, 4473m, 27619e, 20200w exdb-
+Centre of Silverbright Square.
+The bright sun shines down, blanketing you with its life-giving warmth. Graceful arcs of water stream from an immense fountain, in the centre of which is poised an alabaster angel. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Billowing motes of gold and ivory flare about the form of Lumine, humgii of Light.
+You see exits leading north, east, south, and west.
+6032h, 4453m, 27617e, 20194w exdb-
+Before the Heart of Dawn.
+The bright sun shines down, blanketing you with its life-giving warmth. Burning ferociously, a roaring campfire emits a continuous surge of blistering heat. A runic totem is planted solidly in the ground.
+You see exits leading north, south, west, and up.
+6032h, 4453m, 27615e, 20194w exdb-
+campfire152047      a roaring campfire
+totem293683         a runic totem
+Number of objects: 2
+6032h, 4453m, 27615e, 20194w exdb-
+You see the following people here:
+Extrum
+6032h, 4453m, 27615e, 20194w exdb-
+Centre of Silverbright Square.
+The bright sun shines down, blanketing you with its life-giving warmth. Graceful arcs of water stream from an immense fountain, in the centre of which is poised an alabaster angel. A runic totem is planted solidly in the ground. Eyes keenly raised to the skies, a cowled bow-maiden plucks idly at her bowstring. Poised for action, a Blackstone swordsman observes the surrounds. Gripping a broadsword, a Shornwall defender crouches slightly in anticipation. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Billowing motes of gold and ivory flare about the form of Lumine, humgii of Light.
+You see exits leading north, east, south, and west.
+6032h, 4453m, 27613e, 20194w exdb-
+Before the Temple of the Lightbringer.
+The bright sun shines down, blanketing you with its life-giving warmth. A runic totem is planted solidly in the ground.
+You see exits leading north, east, south, and west.
+6032h, 4453m, 27623e, 20194w exdb-
+The Temple of Light (indoors).
+A simple altar of white marble stands at the centre of this chamber. There are 2 Shornwall defenders here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds.
+You see exits leading north, east, south, and west.
+6032h, 4453m, 27621e, 20194w exdb-
+Sanctuary of the Lightbringer (indoors).
+Zalas stands here, his head slightly cocked as he considers his surroundings. Shimmering light lingers around the basin of a small glass font. Resplendent rays of white and gold suffuse the smooth contours of a slender glass pillar, a fervent symbol of Light's resolve. A runic totem is planted solidly in the ground. There are 5 Brighthold watchmen here.
+You see a single exit leading south.
+6032h, 4453m, 27619e, 20194w exdb-
+(Argent Ward): Antidas says, "Lmao."
+6032h, 4453m, 27619e, 20194w exdb-
+There is no exit in that direction.
+6032h, 4453m, 27619e, 20200w exdb-
+(Argent Ward): Antidas says, "Hahahaha."
+6032h, 4437m, 27619e, 20196w exdb-
+You close your eyes momentarily and extend the range of your vision, seeking out the presence of Antidas.
+You see that Antidas is at The chamber of Growth.
+6032h, 4424m, 27625e, 20192w xdb-
+You have recovered equilibrium.
+6032h, 4424m, 27625e, 20192w exdb-
+(Argent Ward): Antidas says, "Fucking cen."
+6032h, 4424m, 27625e, 20200w exdb-
+The Temple of Light (indoors).
+A simple altar of white marble stands at the centre of this chamber. There are 2 Shornwall defenders here. A runic totem is planted solidly in the ground. Lambent energy pulses around the skeletal frame of a Naxian mistweaver. An attentive Duskmere brawler stands ready with his halberd, his keen eyes missing nothing. Poised for action, a Blackstone swordsman observes the surrounds.
+You see exits leading north, east, south, and west.
+6032h, 4458m, 27623e, 20196w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Floating in the air is a fiery portal.  The Golden Dragon Tesha's imposing form looms.
+You see a single exit leading east.
+6032h, 4458m, 27621e, 20196w exdb-
+Antidas draws a circle in the air with his wand, and a fiery outline appears.
+6032h, 4458m, 27621e, 20196w exdb-
+You begin to follow Antidas.
+6032h, 4441m, 27625e, 20195w edb-
+You have recovered balance on all limbs.
+6032h, 4441m, 27625e, 20195w exdb-
+A fiery portal opens in the air before you.
+6032h, 4441m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Floating in the air is a fiery portal.  The Golden Dragon Tesha's imposing form looms.
+You see a single exit leading east.
+6032h, 4473m, 27625e, 20196w exdb-
+Domanic arrives from the ether.
+Moving awkwardly, as though manipulated by invisible strings, a diminutive homunculus resembling Domanic scuttles in from the ether.
+6032h, 4473m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Domanic.  The Golden Dragon Tesha's imposing form looms. Domanic is here. His face is partially concealed beneath a raised hood. He wields a cavalry shield in his right hand.
+You see a single exit leading east.
+6032h, 4453m, 27625e, 20194w exdb-
+Antidas draws a circle in the air with his wand, and a fiery outline appears.
+6032h, 4453m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Domanic.  The Golden Dragon Tesha's imposing form looms. Domanic is here. His face is partially concealed beneath a raised hood. He wields a cavalry shield in his right hand.
+You see a single exit leading east.
+6032h, 4437m, 27625e, 20196w exdb-
+You have the following defences:
+You have accepted a blessing for aid in times of need.
+You are blind.
+You are deaf.
+You have insomnia, and cannot easily go to sleep.
+Your senses are magically heightened.
+You are attempting to pluck arrows from the air.
+You will attempt to parry attacks to your left arm.
+You are protected by 7 defences.
+6032h, 4457m, 27625e, 20196w xdb-
+Antidas raises an eyebrow at you.
+6032h, 4457m, 27625e, 20196w xdb-
+You have recovered equilibrium.
+6032h, 4457m, 27625e, 20196w exdb-
+A fiery portal opens in the air before you.
+6032h, 4457m, 27625e, 20196w exdb-
+Raising your hand in greeting, you say "Hi!"
+6032h, 4457m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Domanic. Floating in the air is a fiery portal.  The Golden Dragon Tesha's imposing form looms. Domanic is here. His face is partially concealed beneath a raised hood. He wields a cavalry shield in his right hand.
+You see a single exit leading east.
+6032h, 4441m, 27625e, 20196w exdb-
+Tesha exhales loudly.
+"Be right back!" Tesha cries.
+6032h, 4441m, 27625e, 20200w exdb-
+Tesha inhales and begins holding her breath.
+6032h, 4441m, 27625e, 20200w exdb-
+Antidas tells you, "What are we doing."
+6032h, 4441m, 27625e, 20200w exdb-
+Tesha exhales loudly.
+The great form of Tesha grows still and her eyes glaze over as the world blurs and then sharpens.
+Tesha's defensive barriers disappear.
+6032h, 4441m, 27625e, 20200w exdb-
+Tesha takes a long drag off her pipe.
+6032h, 4424m, 27625e, 20195w exdb-
+With a flap of her majestic golden wings, Tesha enters a tear in the fabric of reality, and is gone.
+6032h, 4473m, 27625e, 20195w exdb-
+Domanic raises his hand in greeting and says "Hello!"
+6032h, 4473m, 27625e, 20200w exdb-
+You tell Antidas Wintermourne, Luminous Shade, "I dunno, thought you were portalling somewhere fun."
+6032h, 4445m, 27625e, 20200w exdb-
+Antidas nods his head at Domanic.
+6032h, 4473m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Domanic.  Domanic is here. His face is partially concealed beneath a raised hood. He wields a cavalry shield in his right hand.
+You see a single exit leading east.
+6032h, 4440m, 27625e, 20195w exdb-
+Antidas tells you, "Not especially."
+6032h, 4440m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4440m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4440m, 27625e, 20200w exdb-
+Your pipe has gone cold and dark.
+6032h, 4440m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4440m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4440m, 27625e, 20200w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4440m, 27625e, 20200w exdb-
+Domanic inclines his head politely at Antidas.
+6032h, 4440m, 27625e, 20200w exdb-
+Antidas says to Domanic in a soft voice, "Hold that thought."
+6032h, 4424m, 27625e, 20196w exdb-
+Antidas draws a circle in the air with his wand, and a fiery outline appears.
+6032h, 4473m, 27625e, 20200w exdb-
+Domanic says with a Dwarven accent, "Thank you."
+6032h, 4473m, 27625e, 20200w exdb-
+The chamber of Growth (indoors).
+There are 5 Brighthold watchmen here. A runic totem is planted solidly in the ground. Miniature hands clasped patiently, a diminutive homunculus stands here, its features bearing an uncanny resemblance to Domanic.  Domanic is here. His face is partially concealed beneath a raised hood. He wields a cavalry shield in his right hand.
+You see a single exit leading east.
+6032h, 4454m, 27625e, 20195w exdb-
+A fiery portal opens in the air before you.
+6032h, 4438m, 27625e, 20195w exdb-
+Antidas steps through a fiery portal and is gone.
+You follow Antidas Wintermourne, Luminous Shade outside to A question of paths.
+6032h, 4438m, 27623e, 20195w exdb-
+Antidas peers at Cen unscrupulously.
+6032h, 4438m, 27623e, 20200w exdb-
+You give a horrified gasp.
+6032h, 4457m, 27625e, 20196w exdb-
+Oathsworn Cen says, "It won't let me."
+6032h, 4457m, 27625e, 20196w exdb-
+A question of paths.
+A smattering of clouds fills the sky, lacing it with spiderwebs of grey. A brittle-looking grey shard surrounded with a pulsing purple glow lies here.  Oathsworn Cen is here. He wields a small blackjack in his left hand.
+You see exits leading northeast, southwest, and northwest.
+6032h, 4457m, 27625e, 20196w exdb-
+A question of paths.
+A smattering of clouds fills the sky, lacing it with spiderwebs of grey. A brittle-looking grey shard surrounded with a pulsing purple glow lies here.  Oathsworn Cen is here. He wields a small blackjack in his left hand.
+You see exits leading northeast, southwest, and northwest.
+6032h, 4457m, 27625e, 20200w exdb-
+Antidas takes a drink from a purple heartwood vial.
+6032h, 4457m, 27625e, 20200w exdb-
+Antidas draws a circle in the air with his wand, and a fiery outline appears.
+6032h, 4428m, 27625e, 20196w exdb-
+Antidas snaps his fingers.
+6032h, 4473m, 27625e, 20196w exdb-
+Antidas peers about himself unscrupulously.
+6032h, 4473m, 27625e, 20200w exdb-
+Antidas snaps his fingers in front of Cen.
+6032h, 4459m, 27625e, 20196w exdb-
+A fiery portal opens in the air before you.
+6032h, 4459m, 27625e, 20200w exdb-
+Antidas steps through a fiery portal and is gone.
+You follow Antidas Wintermourne, Luminous Shade outside to Upon the Isle of Ram.
+6032h, 4459m, 27623e, 20200w exdb-
+"Heh heh heh," Domanic chuckles.
+6032h, 4441m, 27625e, 20200w exdb-
+The radiant sun shines all about you.
+6032h, 4444m, 27625e, 20200w exdb-
+Antidas says in a soft voice, "There."
+6032h, 4444m, 27625e, 20200w exdb-
+Antidas says in a soft voice, "I believe you two were going to play a game of chess, or something."
+6032h, 4422m, 27625e, 20196w exdb-
+Cen bows respectfully to Antidas.
+6032h, 4422m, 27625e, 20200w exdb-
+Antidas smirks.
+6032h, 4473m, 27625e, 20200w exdb-
+Oathsworn Cen says, "A pleasure as always."
+6032h, 4455m, 27625e, 20200w exdb-
+Oathsworn Cen says, "One day."
+6032h, 4436m, 27625e, 20200w exdb-
+Antidas says to Cen in a soft voice, "We shall see, Oathsworn."
+6032h, 4455m, 27625e, 20200w exdb-
+Antidas nods his head at Cen.
+6032h, 4458m, 27625e, 20196w exdb-
+You follow Antidas Wintermourne, Luminous Shade east to Avenue of the Angels before the Isle of Ram.
+6032h, 4458m, 27623e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade east to Avenue of the Angels.
+6032h, 4458m, 27621e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade east to Avenue of the Angels before an arch.
+6032h, 4458m, 27619e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade east to Silverbright Square before the Avenue of the Angels.
+6032h, 4458m, 27617e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade south to Southwest Silverbright Square.
+6032h, 4458m, 27615e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade south to Silverbright Road south of a square.
+6032h, 4458m, 27623e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade southwest to Passing through the Riverwall.
+6032h, 4440m, 27621e, 20195w exdb-
+You follow Antidas Wintermourne, Luminous Shade west to An open construction site.
+6032h, 4440m, 27619e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade west to An open construction site.
+6032h, 4440m, 27617e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade southwest to Arched stone bridge crossing the Silverveil.
+6032h, 4440m, 27615e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade southwest to Scenic pathway before a stone bridge.
+6032h, 4440m, 27613e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade south to Blackstone parade ground.
+6032h, 4440m, 27611e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade south to Blackstone military quarter.
+6032h, 4440m, 27609e, 20200w exdb-
+You follow Antidas Wintermourne, Luminous Shade northwest to At the base of the Targossian barracks.
+6032h, 4440m, 27623e, 20200w exdb-
+You cough softly.
+6032h, 4473m, 27623e, 20195w exdb-
+You follow Antidas Wintermourne, Luminous Shade up to The Targossian barracks.
+6032h, 4473m, 27621e, 20195w exdb-
+Antidas ponders the situation.
+6032h, 4454m, 27625e, 20200w exdb-
+Your oaken pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20194w exdb-
+Your pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20194w exdb-
+Your pipe has gone cold and dark.
+6032h, 4473m, 27625e, 20194w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. There are 5 Brighthold watchmen here. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. A waddling desert hedgehog snuffles nearby. A sigil in the shape of a small, rectangular monolith is on the ground. A steel-plated chair is here.
+You see a single exit leading down.
+6032h, 4473m, 27625e, 20194w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20194w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20194w exdb-
+You use a soot-blackened tinderbox to make fire.
+You carefully light your treasured pipe until it is smoking nicely.
+6032h, 4473m, 27625e, 20194w exdb-
+shelf111569         an indigo-stained shelf
+totem172766         a runic totem
+boy332039           a one-handed atavian boy
+watchman350198      a Brighthold watchman
+watchman350286      a Brighthold watchman
+canvas385645        a gilt-framed portrait of Draekar
+strongchest434635   a steel strongchest
+watchman170565      a Brighthold watchman
+watchman349958      a Brighthold watchman
+watchman201278      a Brighthold watchman
+Talarna126467       Lady Talarna
+hedgehog237843      a desert hedgehog
+sigil501233         a monolith sigil
+chair591            a steel-plated chair
+Number of objects: 14
+6032h, 4456m, 27625e, 20195w exdb-
+You see the following people here:
+Extrum
+6032h, 4456m, 27625e, 20195w exdb-
+You have no further news to read.
+6032h, 4456m, 27625e, 20195w exdb-
+There is no next message to read.
+6032h, 4456m, 27625e, 20195w exdb-
+Brilliant! Dumb it down for me?
+6032h, 4441m, 27625e, 20196w exdb-
+Extrum Wintermourne (male Dwarf Miner)
+You are level 99 (Greater Dragon) and 10.5% of the way to the next level.
+Health:       6032 / 6032     Mana:         4473 / 4473
+Endurance:   27625 /27625     Willpower:   20196 /20200
+Strength: 12  Dexterity: 11  Constitution: 17  Intelligence: 12
+6032h, 4473m, 27625e, 20196w exdb-
++-Extrum Wintermourne---------------------------------------------------------+
+| Level  : 99 (10.5%)  "Greater Dragon"                                       |
+| Age    : 117         Birthdate: 6th Phaestian, 537AF    Class: Jester       |
+| Gender : Male        Race     : Dwarf Miner                    Full member  |
+|                                                                             |
+| XP Rank: 262         Explorer Rank: 757     Combat Rank: 0                  |
++-Vitals----------------------------------------------------------------------+
+| Health  : 6032/6032   Willpower: 20196/20200 Strength : 12 Intelligence: 12 |
+| Mana    : 4459/4473   Endurance: 27625/27625 Dexterity: 11 Constitution: 17 |
+|                                                                             |
+| Rest    : fully rested                       Bleeding : 0                   |
+| Hunger  : utterly satiated                   Sobriety : completely sober    |
+| New Msgs: 0                                  Timeout  : 10 minutes          |
+|                                                                             |
+| Your mentor is Kitarel.                                                     |
++-Resources-------------------------------------------------------------------+
+| You have an active Iron Elite Membership subscription.                      |
+| Gold                   Credits           House Credits  Mayan Crowns        |
+|   Holding: 0             Unbound: 15      Room: 0.0      Unbound: 0         |
+|   Packs  : 304022        Bound  : 150     Door: 0.0      Bound  : 1         |
+|   Banks  : 200           Lessons: 562                                       |
++-Organisations---------------------------------------------------------------+
+| City                                                                        |
+|   Targossas         : Rank 1 - Settler                                      |
+|   Aideships         : the Minister of War                                   |
+|   Soldier           : Yes                                                   |
+| Clans                                                                       |
+|   The Dawnguard                        The Parthren Gare                    |
+|   Ar'kena Keep                         House Wintermourne                   |
+|   Argent Ward                          Cosa Nostra                          |
+|   The Midnight Crew                    Mudlet Clan                          |
+|   The Bathhouse Strikes Back *                                              |
+|                                                                             |
+| Enemied to: Artemis, Ashtan, Babel, Blacklotus, Congregation, Hashan,       |
+|             Mhaldor, Ourania, Sartan, and Serpentlords                      |
++-----------------------------------------------------------------------------+
+6032h, 4459m, 27625e, 20196w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. There are 5 Brighthold watchmen here. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. A waddling desert hedgehog snuffles nearby. A sigil in the shape of a small, rectangular monolith is on the ground. A steel-plated chair is here.
+You see a single exit leading down.
+6032h, 4459m, 27625e, 20196w exdb-
+Ahh, I am truly sorry, but I do not see anyone by that name here.
+6032h, 4459m, 27625e, 20200w exdb-
+The Targossian barracks (indoors).
+A wooden shelf, stained a deep, indigo hue, hangs upon the wall. A runic totem is planted solidly in the ground. Covered in grime, a one-handed atavian boy playfully chases his friend around the barracks. There are 5 Brighthold watchmen here. A gilt-framed portrait of Draekar hangs upon a wall. Carefully buffed to a pristine shine, a steel strongchest rests upon the ground. Shining in silver armour, Lady Talarna, Paladin of Learning, stands here deep in thought. A waddling desert hedgehog snuffles nearby. A sigil in the shape of a small, rectangular monolith is on the ground. A steel-plated chair is here.
+You see a single exit leading down.
+6032h, 4445m, 27625e, 20196w exdb-
+Citizen                                                     Rank CT  Class
+-------                                                     ---- --  -----
+Predicant Lyndee Faelithar                                    2  On  Magi
+Oathsworn Cen                                                 1  On  Jester
+Zuko Shu'in-Crescent, Monk of the Watch                       1  On  Monk
+Devout Kyttin Bayt Al-Azhan                                   1  On  Serpent
+Antidas Wintermourne, Luminous Shade                          3  On  Serpent
+Oathsworn Heawon Rousseau                                     1  On  Blademaster
+Soldier Qara Del-Amroth Rian                                  2  On  Blademaster
+Predicant Kaiu Silvertongue Obuun                             3  Off Druid
+Purest Heart Dhaia Bayt al-Azhan                              2  On  Priest
+Devout Maive                                                  1  On  Monk
+Devout Abruni                                                 1  On  Alchemist
+Uly                                                           1  On  Priest
+Vovi                                                          1  On  Paladin
+Predicant Garis 'The Jinx' Obuun                              2  On  Monk
+Soldier Shiro                                                 1  On  Runewarden
+Argent Artificer Tesha al Ashtad, Golden Justice              4  On  Dragon
+Domanic                                                       1  On  Alchemist
+Devout Kiryn                                                  1  On  Blademaster
+Oathsworn Xellan                                              1  On  Bard
+Soldier Iskla Rian                                            1  On  Blademaster
+Extrum Wintermourne                                           1  On  Jester
+6032h, 4445m, 27625e, 20196w exdb-
+You remove 1 kola nut, bringing the total in the Rift to 645.
+6032h, 4473m, 27625e, 20200w exdb-
+You eat a kola nut.
+An instant feeling of excitement and edginess overcomes you.
+6032h, 4473m, 27625e, 20200w exkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4473m, 27625e, 20200w exkdb-
+You cease holding your breath and exhale loudly.
+You caress the tattoo and immediately you feel a cloak of protection surround you.
+6032h, 4473m, 27625e, 20200w cxkdb-
+6032h, 4473m, 27625e, 20200w cxkdb-
+You grow still and begin to silently pray for preservation of your soul while you are out of the land.
+6032h, 4473m, 27625e, 20200w cxkdb-
+You have recovered equilibrium.
+6032h, 4456m, 27625e, 20195w cexkdb-
+You inhale deeply and begin holding your breath.
+6032h, 4456m, 27625e, 20195w cexkdb-
