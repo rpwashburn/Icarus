@@ -1,8 +1,0 @@
-return {{[ [[elm]] ] = {2},[ [[empties]] ] = {3},[ [[skullcap]] ] = {4},[ [[pnames]] ] = {5},[ [[expectations]] ] = {6},[ [[valerian]] ] = {7},},
-{[ [[id]] ] = 512260,[ [[puffs2]] ] = 0,[ [[id2]] ] = 0,[ [[maxpuffs]] ] = 10,[ [[arty2]] ] = false,[ [[filledwith2]] ] = [[elm]],[ [[filledwith]] ] = [[cinnabar]],[ [[puffs]] ] = 7,[ [[lit2]] ] = false,[ [[arty]] ] = true,[ [[maxpuffs2]] ] = 10,[ [[lit]] ] = false,},
-{},
-{[ [[id]] ] = 512008,[ [[puffs2]] ] = 0,[ [[id2]] ] = 0,[ [[maxpuffs]] ] = 10,[ [[arty2]] ] = false,[ [[filledwith2]] ] = [[skullcap]],[ [[filledwith]] ] = [[malachite]],[ [[puffs]] ] = 2,[ [[lit2]] ] = false,[ [[arty]] ] = true,[ [[maxpuffs2]] ] = 10,[ [[lit]] ] = false,},
-{[1] = [[valerian]],[2] = [[skullcap]],[3] = [[elm]],},
-{[1] = [[skullcap]],[2] = [[elm]],[3] = [[valerian]],},
-{[ [[id]] ] = 124801,[ [[puffs2]] ] = 0,[ [[id2]] ] = 0,[ [[maxpuffs]] ] = 10,[ [[arty2]] ] = false,[ [[filledwith2]] ] = [[valerian]],[ [[filledwith]] ] = [[valerian]],[ [[puffs]] ] = 10,[ [[lit2]] ] = false,[ [[arty]] ] = true,[ [[maxpuffs2]] ] = 10,[ [[lit]] ] = false,},
-}

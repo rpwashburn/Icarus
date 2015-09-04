@@ -1,8 +1,0 @@
-return {{[ [[elm]] ] = {2},[ [[empties]] ] = {3},[ [[skullcap]] ] = {4},[ [[pnames]] ] = {5},[ [[expectations]] ] = {6},[ [[valerian]] ] = {7},},
-{[ [[maxpuffs]] ] = 10,[ [[puffs]] ] = 8,[ [[id]] ] = 160827,[ [[filledwith]] ] = [[elm]],[ [[arty]] ] = true,[ [[lit]] ] = false,},
-{},
-{[ [[maxpuffs]] ] = 10,[ [[puffs]] ] = 6,[ [[id]] ] = 318066,[ [[filledwith]] ] = [[skullcap]],[ [[arty]] ] = false,[ [[lit]] ] = false,},
-{[1] = [[valerian]],[2] = [[skullcap]],[3] = [[elm]],},
-{[1] = [[valerian]],[2] = [[skullcap]],[3] = [[elm]],},
-{[ [[maxpuffs]] ] = 10,[ [[puffs]] ] = 5,[ [[id]] ] = 383683,[ [[filledwith]] ] = [[valerian]],[ [[arty]] ] = true,[ [[lit]] ] = false,},
-}
