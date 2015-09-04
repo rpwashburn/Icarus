@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.0">
+    <HostPackage>
+        <Host autoClearCommandLineAfterSend="no" disableAutoCompletion="no" printCommand="no" USE_IRE_DRIVER_BUGFIX="yes" mUSE_FORCE_LF_AFTER_PROMPT="no" mUSE_UNIX_EOL="no" mNoAntiAlias="no" mRawStreamDump="no" mAlertOnNewData="yes" mFORCE_NO_COMPRESSION="no" mFORCE_GA_OFF="no" mFORCE_SAVE_ON_EXIT="no" mEnableGMCP="yes" mMapStrongHighlight="no" mLogStatus="no" mEnableSpellCheck="yes" mShowInfo="yes" mAcceptServerGUI="yes" mMapperUseAntiAlias="no" mFORCE_MXP_NEGOTIATION_OFF="no" mRoomSize="0.5" mLineSize="5" mBubbleMode="yes" mShowRoomIDs="yes" mShowPanel="yes" mHaveMapperScript="no">
+            <name>Icarus</name>
+            <mInstalledPackages>
+                <string>mudlet-mapper</string>
+                <string>deleteOldProfiles</string>
+            </mInstalledPackages>
+            <url>achaea.com</url>
+            <serverPackageName>nothing</serverPackageName>
+            <serverPackageVersion>-1</serverPackageVersion>
+            <port>23</port>
+            <borderTopHeight>0</borderTopHeight>
+            <borderBottomHeight>0</borderBottomHeight>
+            <borderLeftWidth>200</borderLeftWidth>
+            <borderRightWidth>300</borderRightWidth>
+            <wrapAt>100</wrapAt>
+            <wrapIndentCount>0</wrapIndentCount>
+            <commandSeperator>;</commandSeperator>
+            <mFgColor>#c0c0c0</mFgColor>
+            <mBgColor>#000000</mBgColor>
+            <mCommandFgColor>#717100</mCommandFgColor>
+            <mCommandBgColor>#000000</mCommandBgColor>
+            <mCommandLineFgColor>#808080</mCommandLineFgColor>
+            <mCommandLineBgColor>#000000</mCommandLineBgColor>
+            <mBlack>#000000</mBlack>
+            <mLightBlack>#808080</mLightBlack>
+            <mRed>#800000</mRed>
+            <mLightRed>#ff0000</mLightRed>
+            <mBlue>#000080</mBlue>
+            <mLightBlue>#0000ff</mLightBlue>
+            <mGreen>#00b300</mGreen>
+            <mLightGreen>#00ff00</mLightGreen>
+            <mYellow>#808000</mYellow>
+            <mLightYellow>#ffff00</mLightYellow>
+            <mCyan>#008080</mCyan>
+            <mLightCyan>#00ffff</mLightCyan>
+            <mMagenta>#800080</mMagenta>
+            <mLightMagenta>#ff00ff</mLightMagenta>
+            <mWhite>#c0c0c0</mWhite>
+            <mLightWhite>#ffffff</mLightWhite>
+            <mDisplayFont>Bitstream Vera Sans Mono,10,-1,5,2,0,0,0,1,0</mDisplayFont>
+            <mCommandLineFont>Bitstream Vera Sans Mono,10,-1,5,2,0,0,0,0,0</mCommandLineFont>
+            <mCommandSeparator>;</mCommandSeparator>
+            <commandLineMinimumHeight>30</commandLineMinimumHeight>
+            <mFgColor2>#c0c0c0</mFgColor2>
+            <mBgColor2>#000000</mBgColor2>
+            <mBlack2>#242424</mBlack2>
+            <mLightBlack2>#808080</mLightBlack2>
+            <mRed2>#800000</mRed2>
+            <mLightRed2>#ff0000</mLightRed2>
+            <mBlue2>#000080</mBlue2>
+            <mLightBlue2>#0000ff</mLightBlue2>
+            <mGreen2>#00b300</mGreen2>
+            <mLightGreen2>#00ff00</mLightGreen2>
+            <mYellow2>#808000</mYellow2>
+            <mLightYellow2>#ffff00</mLightYellow2>
+            <mCyan2>#008080</mCyan2>
+            <mLightCyan2>#00ffff</mLightCyan2>
+            <mMagenta2>#800080</mMagenta2>
+            <mLightMagenta2>#ff00ff</mLightMagenta2>
+            <mWhite2>#c0c0c0</mWhite2>
+            <mLightWhite2>#ffffff</mLightWhite2>
+            <mSpellDic>en_US</mSpellDic>
+            <mLineSize>5</mLineSize>
+            <mRoomSize>0.5</mRoomSize>
+        </Host>
+    </HostPackage>
+    <TriggerPackage/>
+    <TimerPackage>
+        <TimerGroup isActive="yes" isFolder="yes" isTempTimer="no" isOffsetTimer="no">
+            <name>mudlet-mapper</name>
+            <script></script>
+            <command></command>
+            <packageName>mudlet-mapper</packageName>
+            <time></time>
+            <TimerGroup isActive="yes" isFolder="yes" isTempTimer="no" isOffsetTimer="no">
+                <name>Mudlet Mapper</name>
+                <script></script>
+                <command></command>
+                <packageName></packageName>
+                <time>00:00:00.000</time>
+                <Timer isActive="yes" isFolder="no" isTempTimer="no" isOffsetTimer="no">
+                    <name>Check for updates periodically</name>
+                    <script>mmp.checkforupdate()</script>
+                    <command></command>
+                    <packageName></packageName>
+                    <time>01:00:00.000</time>
+                </Timer>
+            </TimerGroup>
+        </TimerGroup>
+    </TimerPackage>
+    <AliasPackage/>
+    <ActionPackage/>
+    <ScriptPackage/>
+    <KeyPackage/>
+</MudletPackage>
