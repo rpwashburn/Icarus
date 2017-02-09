@@ -6,7 +6,17 @@ LISTEN_PORT = 8900
 SERVER_PORT = 23
 SERVER_ADDR = "www.achaea.com"
 
+
 from twisted.internet import protocol, reactor
+import icarus_globals
+
+
+def print_outputs(title, data):
+    use_prints = True
+    if use_prints:
+        print("-----------" + title + "---------------------")
+        print(data)
+        print("---------------------------------------------")
 
 
 class ServerProtocol(protocol.Protocol):
@@ -37,17 +47,15 @@ class ServerProtocol(protocol.Protocol):
 
     def dataReceived(self, data):
         if self.client:
-            print("------------MUDLET TO PROXY----------------")
-            print(data)
-            print("-------------------------------------------")
+            print_outputs("Mudlet to Proxy", data)
+            # Mudlet to Proxy
             self.client.write(data)
         else:
             self.buffer = data
 
     def write(self, data):
-        print("------------PROXY to MUDLET----------------")
-        print(data)
-        print("-------------------------------------------")
+        print_outputs("Proxy to Mudlet", data)
+        # proxy to mudlet
         self.transport.write(data)
 
 
@@ -58,20 +66,24 @@ class ClientProtocol(protocol.Protocol):
         self.factory.server.buffer = ''
 
     def dataReceived(self, data):
-        print("------------ACHAEA TO PROXY----------------")
-        print(data)
-        print("--------------------------------------------")
+        print_outputs("Achaea to Proxy", data)
+        # Achaea to Proxy
         self.factory.server.write(data)
 
         if self.factory.server.icarus_client:
+            print_outputs("Proxy to Server", data)
+            # Proxy to Server
             self.factory.server.icarus_client.write(data)
 
     def write(self, data):
-        if data:
-            print("------------PROXY TO ACHAEA----------------")
-            print(data)
-            print("--------------------------------------------")
+        if icarus_globals.icarus_command_key not in data:
+            print_outputs("Proxy to Achaea", data)
+            # Proxy to Achaea
             self.transport.write(data)
+        elif self.factory.server.icarus_client:
+            print_outputs("Mudlet to Icarus", data)
+            # Mudlet to Icarus
+            self.factory.server.icarus_client.write(data)
 
     def connectionLost(self, reason):
         print("Connection to Achaea Lost")
@@ -94,19 +106,18 @@ class IcarusClientProtocol(protocol.Protocol):
         self.factory.server.icarus_client = self
 
     def dataReceived(self, data):
-        print("------------Icarus to Proxy----------------")
-        print(data)
-        print("--------------------------------------------")
+        # Icarus to Proxy
         try:
-            self.factory.server.client.write(data)
+            if icarus_globals.icarus_mudlet_key in data:
+                self.factory.server.write(data)
+            else:
+                self.factory.server.client.write(data)
         except Exception as e:
             print e
 
     def write(self, data):
         if data:
-            print("------------Achaea to Icarus----------------")
-            print(data)
-            print("--------------------------------------------")
+            # Achaea to Icarus
             self.transport.write(data)
 
     def connectionLost(self, reason):

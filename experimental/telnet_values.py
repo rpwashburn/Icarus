@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-import binascii
-import zlib
-import chardet
-import re
-
-LISTEN_PORT = 8902
-# SERVER_PORT = 8901
-# SERVER_ADDR = "localhost"
-
-from twisted.internet import protocol, reactor
-
 """ TELNET VALUES """
 NULL = chr(0)       # NULL
 ECHO = chr(1)       # Telnet Echo
@@ -49,67 +37,32 @@ DONT = chr(254)     # Indicates the demand that the other party stop performing,
 IAC = chr(255)      # Interpret as a command
 
 
-# Adapted from http://stackoverflow.com/a/15645169/221061
-class ServerProtocol(protocol.Protocol):
-    def __init__(self):
-        self.buffer = None
-        self.client = None
-        self.file = open("output.txt", "w")
-        self.file.truncate()
-        self.file.close()
-        self.color_newline = re.compile('^' + ESC + '\[[0-9;]*[m]' + NL)
-
-    # Client => Proxy
-    def dataReceived(self, data):
-        self.file = open("output.txt", "a")
-        output = []
-        print("----------Processing Data From Achaea----------------")
-        if data[0] == NL:
-            data = data[1:]
-
-        # Fix color-only leading line
-        color_newline = self.color_newline.match(data)
-        if color_newline:
-            color = data[0:color_newline.end() - 1]
-            data = color + data[color_newline.end():]
-
-        for b in data:
-            if b == IAC:
-                print('escaped')
-            elif b == '\r':
-                print('newline')
-            elif b == SB:
-                print('subnegotiation')
-            elif b in (GA, EORD, NOP, DM, BRK, IP, AO, AYT, EC, EL):
-                print("idk yet")
-            elif b in (WILL, WONT, DO, DONT):
-                print("Not Sure")
-            elif b == '\0':
-                print("\0 ???")
-            elif b == SE:
-                print("SE")
-            else:
-                output.append(b)
-
-        print("".join(output))
-        self.file.write(data)
-        print("--------------------------------------------------------")
-        if re.search('(\w+) sit yourself down\.', data):
-            print("Got it")
-            self.transport.write("stand\n")
-        self.file.close()
-
-
-
-def main():
-    print("Starting Icarus Regex Server on port " + str(LISTEN_PORT) + "...")
-    factory = protocol.ServerFactory()
-    factory.protocol = ServerProtocol
-
-    # Starting Server for twisted-proxy to connect to
-    reactor.listenTCP(LISTEN_PORT, factory)
-    reactor.run()
-
-
-if __name__ == '__main__':
-    main()
+def sub_telnet_codes(data):
+    output = []
+    for b in data:
+        if b == IAC:
+            output.append('[IAC]')
+        elif b == '\r':
+            output.append('[NEWLINE]')
+        elif b == SB:
+            output.append('[SUBNEGOTIATION]')
+        elif b == GMCP:
+            output.append('[GMCP]')
+        elif b in (NOP, DM, BRK, IP, AO,
+                   AYT, EC, EL):
+            output.append('[UNKNOWN]')
+        elif b == GA:
+            output.append("[GA]")
+        elif b == EORD:
+            output.append("[EORD]")
+        elif b == NOP:
+            output.append("[NOP]")
+        elif b in (WILL, WONT, DO, DONT):
+            output.append('[UNKNOWN2]')
+        elif b == '\0':
+            output.append('[\0]')
+        elif b == SE:
+            output.append('[SE]')
+        else:
+            output.append(b)
+    return "".join(output)
