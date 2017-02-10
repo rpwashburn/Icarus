@@ -1,18 +1,16 @@
 #!/usr/bin/env python
-import binascii
-import zlib
-import chardet
-import re
+
+from twisted.internet import protocol, reactor
+import gmcp
+import telnet_values
+import icarus_globals
+import icarus_triggers
+import icarus_aliases
+import time
 
 LISTEN_PORT = 8902
 # SERVER_PORT = 8901
 # SERVER_ADDR = "localhost"
-
-from twisted.internet import protocol, reactor
-import gmcp
-import json
-import telnet_values
-import icarus_globals
 
 
 # Adapted from http://stackoverflow.com/a/15645169/221061
@@ -21,8 +19,17 @@ class IcarusProtocol(protocol.Protocol):
         self.full_data = ""
         self.gmcp = gmcp.get_initial_gmcp()
         self.afflictions = {}
+        self.Login = True
+
+    def send_gmcp(self, data):
+        icarus_gmcp = data.strip("\r\n").split(": ")[1]
+        self.transport.write(telnet_values.IAC + telnet_values.SB + telnet_values.GMCP + icarus_gmcp +
+                             telnet_values.IAC + telnet_values.SE)
 
     def send_command(self, command):
+        self.transport.write(command + "\n")
+
+    def send_user_command(self, command):
         self.transport.write(command + "\n")
 
     def send_to_mudlet(self, data):
@@ -31,79 +38,51 @@ class IcarusProtocol(protocol.Protocol):
     def process_command(self, icarus_data):
         print("-----PROCESSING COMMAND------")
         icarus_command = icarus_data.strip("\r\n").split(": ")[1]
+        icarus_command = icarus_aliases.process_aliases(self, icarus_command)
         print(icarus_command)
-        self.send_command(icarus_command)
+        self.send_user_command(icarus_command)
         print("-----------------------------")
 
-    def process_gmcp(self, gmcp_lines):
+    def process_function(self, icarus_data):
+        print("-----PROCESSING FUNCTION------")
+        icarus_function = icarus_data.strip("\r\n").split(": ")[1]
+        function = 'self.' + icarus_function + '()'
+        eval(function)
+        print("-----------------------------")
 
-        for gmcp_line in gmcp_lines:
-            # print("---processing: ")
-            # print gmcp_line
-            # print("\n\n\n\n")
-            if 'Char.Afflictions.Add' in gmcp_line:
-                self.gmcp = gmcp.char_afflictions_add(self.gmcp, gmcp_line)
-            elif 'Char.Afflictions.Remove' in gmcp_line:
-                self.gmcp = gmcp.char_afflictions_remove(self.gmcp, gmcp_line)
-            elif 'Char.Afflictions.List' in gmcp_line:
-                self.gmcp = gmcp.char_afflictions_list(self.gmcp, gmcp_line)
-            elif 'Char.Defences.Add' in gmcp_line:
-                self.gmcp = gmcp.char_defences_add(self.gmcp, gmcp_line)
-            elif 'Char.Defences.Remove' in gmcp_line:
-                self.gmcp = gmcp.char_defences_remove(self.gmcp, gmcp_line)
-            elif 'Char.Defences.List' in gmcp_line:
-                self.gmcp = gmcp.char_defences_list(self.gmcp, gmcp_line)
-            elif 'Char.Items.List' in gmcp_line:
-                self.gmcp = gmcp.char_items_list(self.gmcp, gmcp_line)
-            elif 'Char.Items.Add' in gmcp_line:
-                self.gmcp = gmcp.char_items_add(self.gmcp, gmcp_line)
-            elif 'Char.Items.Remove' in gmcp_line:
-                self.gmcp = gmcp.char_items_remove(self.gmcp, gmcp_line)
-            elif 'Char.Name' in gmcp_line:
-                self.gmcp = gmcp.char_name(self.gmcp, gmcp_line)
-            elif 'Char.Skills.Groups' in gmcp_line:
-                self.gmcp = gmcp.char_skills_groups(self.gmcp, gmcp_line)
-            elif 'Char.StatusVars' in gmcp_line:
-                self.gmcp = gmcp.char_status_vars(self.gmcp, gmcp_line)
-            elif 'Char.Status' in gmcp_line:
-                self.gmcp = gmcp.char_status(self.gmcp, gmcp_line)
-            elif 'Char.Vitals' in gmcp_line:
-                self.gmcp = gmcp.char_vitals(self.gmcp, gmcp_line)
-            elif 'Room.Info' in gmcp_line:
-                self.gmcp = gmcp.room_info(self.gmcp, gmcp_line)
-            elif 'Room.Players' in gmcp_line:
-                self.gmcp = gmcp.room_players(self.gmcp, gmcp_line)
-            elif 'Room.AddPlayer' in gmcp_line:
-                self.gmcp = gmcp.room_add_player(self.gmcp, gmcp_line)
-            elif 'Room.RemovePlayer' in gmcp_line:
-                self.gmcp = gmcp.room_remove_player(self.gmcp, gmcp_line)
-            else:
-                print("Unknown GMCP:")
-                print telnet_values.sub_telnet_codes(gmcp_line)
-                print("\n\n\n\n")
-
-    def process_regex(self, regex_lines):
-        if re.search('(\w+) sit yourself down\.', regex_lines):
-            self.send_command("stand")
-
+    def display_gmcp(self):
+        print(self.gmcp)
 
     # Client => Proxy
     def dataReceived(self, data):
 
         print("----------Processing Data From Achaea----------------")
+        print("---------------SUBBED DATA------------")
+        subbed_data = telnet_values.sub_telnet_codes(data)
+        print(subbed_data)
+        print("--------------------------------------")
+
+        if self.Login:
+            self.send_gmcp(icarus_globals.icarus_gmcp_key + ': Char.Items.Inv ""')
+            self.Login = False
+
+        if icarus_globals.icarus_gmcp_key in data:
+            self.send_gmcp(data)
+            return
+
         if icarus_globals.icarus_command_key in data:
             self.process_command(data)
+            self.full_data += data
+            return
+
+        if icarus_globals.icarus_function_key in data:
+            self.process_function(data)
             return
 
         if not data.endswith(telnet_values.GA):
             self.full_data += data
             return
         self.full_data += data
-
-        # print("---------------SUBBED DATA------------")
-        # subbed_data = telnet_values.sub_telnet_codes(self.full_data)
-        # print(subbed_data)
-        # print("--------------------------------------")
 
         game_lines = []
         gmcp_lines = []
@@ -120,14 +99,13 @@ class IcarusProtocol(protocol.Protocol):
         regex_lines = "".join(game_lines)
         # print("---------------------GMCP DATA---------------------------")
         # print("\n\n\n".join(gmcp_lines))
-        # print("--------------------------------------------------------")
-        self.process_gmcp(gmcp_lines)
-        self.process_regex(regex_lines)
-        print("----------------CURRENT GMCP--------------------")
-        print self.gmcp
+        # print("---------------------------------------------------------")
+        gmcp.process_gmcp(self, gmcp_lines)
+        icarus_triggers.process_triggers(self, regex_lines)
+        # print("----------------CURRENT GMCP--------------------")
+        # print self.gmcp
         print("-----------------------------------------------------------------------------------------------------")
         self.full_data = ""
-
 
 
 def main():

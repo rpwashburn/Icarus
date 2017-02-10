@@ -9,13 +9,14 @@ SERVER_ADDR = "www.achaea.com"
 
 from twisted.internet import protocol, reactor
 import icarus_globals
+import telnet_values
 
 
 def print_outputs(title, data):
     use_prints = True
     if use_prints:
         print("-----------" + title + "---------------------")
-        print(data)
+        print(telnet_values.sub_telnet_codes(data))
         print("---------------------------------------------")
 
 
@@ -76,7 +77,8 @@ class ClientProtocol(protocol.Protocol):
             self.factory.server.icarus_client.write(data)
 
     def write(self, data):
-        if icarus_globals.icarus_command_key not in data:
+        if icarus_globals.icarus_command_key not in data \
+                and icarus_globals.icarus_gmcp_key not in data and icarus_globals.icarus_function_key not in data:
             print_outputs("Proxy to Achaea", data)
             # Proxy to Achaea
             self.transport.write(data)

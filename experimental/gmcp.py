@@ -38,6 +38,51 @@ def get_initial_gmcp():
     return gmcp
 
 
+def process_gmcp(icarus, gmcp_lines):
+
+    for gmcp_line in gmcp_lines:
+        if 'Char.Afflictions.Add' in gmcp_line:
+            icarus.gmcp = char_afflictions_add(icarus.gmcp, gmcp_line)
+        elif 'Char.Afflictions.Remove' in gmcp_line:
+            icarus.gmcp = char_afflictions_remove(icarus.gmcp, gmcp_line)
+        elif 'Char.Afflictions.List' in gmcp_line:
+            icarus.gmcp = char_afflictions_list(icarus.gmcp, gmcp_line)
+        elif 'Char.Defences.Add' in gmcp_line:
+            icarus.gmcp = char_defences_add(icarus.gmcp, gmcp_line)
+        elif 'Char.Defences.Remove' in gmcp_line:
+            icarus.gmcp = char_defences_remove(icarus.gmcp, gmcp_line)
+        elif 'Char.Defences.List' in gmcp_line:
+            icarus.gmcp = char_defences_list(icarus.gmcp, gmcp_line)
+        elif 'Char.Items.List' in gmcp_line:
+            icarus.gmcp = char_items_list(icarus.gmcp, gmcp_line)
+        elif 'Char.Items.Add' in gmcp_line:
+            icarus.gmcp = char_items_add(icarus.gmcp, gmcp_line)
+        elif 'Char.Items.Remove' in gmcp_line:
+            icarus.gmcp = char_items_remove(icarus.gmcp, gmcp_line)
+        elif 'Char.Name' in gmcp_line:
+            icarus.gmcp = char_name(icarus.gmcp, gmcp_line)
+        elif 'Char.Skills.Groups' in gmcp_line:
+            icarus.gmcp = char_skills_groups(icarus.gmcp, gmcp_line)
+        elif 'Char.StatusVars' in gmcp_line:
+            icarus.gmcp = char_status_vars(icarus.gmcp, gmcp_line)
+        elif 'Char.Status' in gmcp_line:
+            icarus.gmcp = char_status(icarus.gmcp, gmcp_line)
+        elif 'Char.Vitals' in gmcp_line:
+            icarus.gmcp = char_vitals(icarus.gmcp, gmcp_line)
+        elif 'Room.Info' in gmcp_line:
+            icarus.gmcp = room_info(icarus.gmcp, gmcp_line)
+        elif 'Room.Players' in gmcp_line:
+            icarus.gmcp = room_players(icarus.gmcp, gmcp_line)
+        elif 'Room.AddPlayer' in gmcp_line:
+            icarus.gmcp = room_add_player(icarus.gmcp, gmcp_line)
+        elif 'Room.RemovePlayer' in gmcp_line:
+            icarus.gmcp = room_remove_player(icarus.gmcp, gmcp_line)
+        else:
+            print("Unknown GMCP:")
+            print telnet_values.sub_telnet_codes(gmcp_line)
+            print("\n\n\n\n")
+
+
 def char_afflictions_add(gmcp, gmcp_line):
     gmcp_split_lines = gmcp_line.split('Char.Afflictions.Add ')
     gmcp['Char']['Afflictions']['Add'] = json.loads(gmcp_split_lines[1].split(telnet_values.IAC)[0])
