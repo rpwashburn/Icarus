@@ -77,8 +77,10 @@ class ClientProtocol(protocol.Protocol):
             self.factory.server.icarus_client.write(data)
 
     def write(self, data):
-        if icarus_globals.icarus_command_key not in data \
-                and icarus_globals.icarus_gmcp_key not in data and icarus_globals.icarus_function_key not in data:
+        if data and icarus_globals.icarus_command_key not in data \
+                and icarus_globals.icarus_gmcp_key not in data \
+                and icarus_globals.icarus_function_key not in data \
+                and icarus_globals.icarus_event_key not in data:
             print_outputs("Proxy to Achaea", data)
             # Proxy to Achaea
             self.transport.write(data)
