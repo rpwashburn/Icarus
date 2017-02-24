@@ -7,7 +7,7 @@ class AfflictionManager(object):
         self.affliction_list = self.get_afflictions()
         print("Affliction Manager Initialized")
 
-    def reset_afflictions(self):
+    def reset_affliction_priorities(self):
         for key, affliction in self.affliction_list.items():
             self.icarus.send_command("CURING PRIORITY " + affliction.name + " " + str(affliction.priority))
             print(key + " " + affliction.name)
@@ -31,3 +31,7 @@ class AfflictionManager(object):
             self.icarus.send_command("CURING PRIORITY " + affliction + " " + str(new_priority))
         else:
             print("UNKNOWN AFFLICTION PRIORITY: " + affliction)
+
+    def reset_afflictions(self):
+        for defence in self.icarus.gmcp['Char']['Afflictions']['List']:
+            self.icarus.afflictions[defence['name']] = True

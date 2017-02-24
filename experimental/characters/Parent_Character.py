@@ -33,7 +33,7 @@ class Character:
         self.icarus.send_command("CURING FOCUS FIRST")
         self.icarus.send_command("CURING TREE OFF")
         self.icarus.send_command("CURING CLOTAT 25")
-        self.icarus.affliction_manager.reset_afflictions()
+        self.icarus.affliction_manager.reset_affliction_priorities()
 
 
 

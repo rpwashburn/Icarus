@@ -85,6 +85,9 @@ class IcarusProtocol(protocol.Protocol):
     def display_gmcp(self):
         print(self.gmcp)
 
+    def display_defences(self):
+        print(self.defences)
+
     def set_target(self, target):
         print("Setting target to: " + target)
         self.target = target
@@ -149,6 +152,10 @@ class IcarusProtocol(protocol.Protocol):
         # print("---------------------------------------------------------")
         # print("----------------CURRENT GMCP--------------------")
         # print self.gmcp
+        print("----------------CURRENT DEFENCES--------------------")
+        print self.defences
+        print("----------------CURRENT Afflictions--------------------")
+        print self.afflictions
         print("-----------------------------------------------------------------------------------------------------")
 
 

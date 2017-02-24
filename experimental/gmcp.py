@@ -40,6 +40,9 @@ def get_initial_gmcp():
 
 
 def process_gmcp(icarus, gmcp_lines):
+    print("------------PROCESSING GMCP---------------")
+    print("\n".join(gmcp_lines))
+    print("------------------------------------------")
 
     for gmcp_line in gmcp_lines:
         try:
@@ -109,6 +112,7 @@ def char_afflictions_remove(icarus, gmcp_line):
 def char_afflictions_list(icarus, gmcp_line):
     gmcp_split_lines = gmcp_line.split('Char.Afflictions.List ')
     icarus.gmcp['Char']['Afflictions']['List'] = json.loads(gmcp_split_lines[1].split(telnet_values.IAC)[0])
+    icarus.affliction_manager.reset_afflictions()
     return icarus.gmcp
 
 
@@ -127,6 +131,7 @@ def char_defences_remove(icarus, gmcp_line):
 def char_defences_list(icarus, gmcp_line):
     gmcp_split_lines = gmcp_line.split('Char.Defences.List ')
     icarus.gmcp['Char']['Defences']['List'] = json.loads(gmcp_split_lines[1].split(telnet_values.IAC)[0])
+    icarus.defence_manager.reset_defences()
     return icarus.gmcp
 
 
